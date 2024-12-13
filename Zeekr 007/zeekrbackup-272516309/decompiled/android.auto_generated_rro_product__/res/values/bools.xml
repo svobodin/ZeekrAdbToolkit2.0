@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_autoResetAirplaneMode">true</bool>
+    <bool name="config_automotiveHideNavBarForKeyboard">false</bool>
+    <bool name="config_buttonTextAllCaps">false</bool>
+    <bool name="config_customUserSwitchUi">true</bool>
+    <bool name="config_dozeAfterScreenOff">true</bool>
+    <bool name="config_dynamic_bind_ims">true</bool>
+    <bool name="config_enableCarDockHomeLaunch">false</bool>
+    <bool name="config_enableFusedLocationOverlay">true</bool>
+    <bool name="config_enableGeocoderOverlay">true</bool>
+    <bool name="config_enableGeofenceOverlay">true</bool>
+    <bool name="config_enableGnssTimeUpdateService">true</bool>
+    <bool name="config_enableMultiUserUI">true</bool>
+    <bool name="config_enableNetworkLocationOverlay">false</bool>
+    <bool name="config_enableNightMode">true</bool>
+    <bool name="config_enableWallpaperService">false</bool>
+    <bool name="config_guestUserEphemeral">true</bool>
+    <bool name="config_lockDayNightMode">true</bool>
+    <bool name="config_lockUiMode">true</bool>
+    <bool name="config_multiuserDelayUserDataLocking">true</bool>
+    <bool name="config_notificationHeaderClickableForExpand">true</bool>
+    <bool name="config_perDisplayFocusEnabled">true</bool>
+    <bool name="config_powerDecoupleInteractiveModeFromDisplay">false</bool>
+    <bool name="config_quickSettingsSupported">false</bool>
+    <bool name="config_setColorTransformAccelerated">true</bool>
+    <bool name="config_showNavigationBar">true</bool>
+    <bool name="config_showUserSwitcherByDefault">true</bool>
+    <bool name="config_strongAuthRequiredOnBoot">false</bool>
+    <bool name="config_supportsMicToggle">true</bool>
+    <bool name="config_supportsSplitScreenMultiWindow">false</bool>
+    <bool name="config_supportsSystemDecorsOnSecondaryDisplays">false</bool>
+    <bool name="config_tintNotificationActionButtons">false</bool>
+    <bool name="enable_pbap_pce_profile">true</bool>
+</resources>

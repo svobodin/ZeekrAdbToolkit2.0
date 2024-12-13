@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="colorSeekBarTrackBackground" format="color" />
+    <attr name="colorSeekBarTrackProgress" format="color" />
+    <attr name="colorSeekBarTrackProgressSecondary" format="color" />
+    <attr name="colorSeekbarThumb" format="color" />
+    <attr name="colorSwitchThumbDisabled" format="color" />
+    <attr name="colorSwitchThumbNormal" format="color" />
+    <attr name="colorSwitchTrack" format="color" />
+</resources>

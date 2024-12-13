@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="config_autoTimeSourcesPriority">
+        <item>telephony</item>
+        <item>network</item>
+        <item>gnss</item>
+    </string-array>
+    <string-array name="config_defaultFirstUserRestrictions">
+        <item>no_modify_accounts</item>
+    </string-array>
+    <string-array name="config_locationExtraPackageNames">
+        <item>com.google.android.gms.location.history</item>
+    </string-array>
+    <string-array name="config_locationProviderPackageNames">
+        <item>com.google.android.gms</item>
+        <item>com.android.location.fused</item>
+    </string-array>
+    <string-array name="policy_exempt_apps">
+        <item>com.android.car.cluster.home</item>
+        <item>com.android.car.hvac</item>
+        <item>com.android.car.media</item>
+        <item>com.android.car.radio</item>
+    </string-array>
+    <string-array name="required_apps_managed_user">
+        <item>com.android.car.settings</item>
+        <item>com.android.systemui</item>
+        <item>com.android.car.dialer</item>
+        <item>com.android.contacts</item>
+        <item>com.android.stk</item>
+        <item>com.android.providers.downloads</item>
+        <item>com.android.providers.downloads.ui</item>
+        <item>com.android.documentsui</item>
+        <item>com.android.car.bugreport</item>
+        <item>com.android.car.acast.source</item>
+        <item>com.android.car.calendar</item>
+        <item>com.android.car.dialer</item>
+        <item>com.android.car.messenger</item>
+        <item>com.android.car.radio</item>
+        <item>com.android.car.speedbump</item>
+        <item>com.android.car.themeplayground</item>
+        <item>com.android.car.voicecontrol</item>
+    </string-array>
+</resources>
