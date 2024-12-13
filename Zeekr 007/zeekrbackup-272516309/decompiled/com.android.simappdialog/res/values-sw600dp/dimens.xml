@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="suw_decor_padding_top">256.0dip</dimen>
+    <dimen name="suw_glif_button_margin_end">36.0dip</dimen>
+    <dimen name="suw_glif_button_margin_start">24.0dip</dimen>
+    <dimen name="suw_glif_margin_sides">40.0dip</dimen>
+    <dimen name="suw_header_title_size">34.0sp</dimen>
+    <item type="dimen" name="suw_illustration_aspect_ratio">0.0</item>
+    <dimen name="suw_items_glif_icon_divider_inset">88.0dip</dimen>
+    <dimen name="suw_items_glif_text_divider_inset">40.0dip</dimen>
+</resources>

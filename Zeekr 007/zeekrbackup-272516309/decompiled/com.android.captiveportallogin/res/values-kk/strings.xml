@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Желіге кіру</string>
+    <string name="action_bar_title">%1$s жүйесіне кіру</string>
+    <string name="action_do_not_use_network">Осы желіні пайдаланбау</string>
+    <string name="action_use_network">Осы желіні бар күйінде пайдалану</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">Ағымдағы файлдарды жүктеп алу барысын көрсететін хабарландырулар</string>
+    <string name="channel_description_downloads">Аяқталған не бас тартылған жүктеп алу процестерін көрсететін хабарландырулар</string>
+    <string name="channel_name_download_progress">Жүктеп алу барысы</string>
+    <string name="channel_name_downloads">Жүктеп алу хабарландырулары</string>
+    <string name="custom_scheme_example">Мысалы, жүйеге кіру беті аутентификация үшін арнайы қолданбаны қажет етуі мүмкін.</string>
+    <string name="custom_scheme_warning">Сіз қосылғыңыз келетін желі басқа қолданбаны ашуды сұрайды.</string>
+    <string name="download_completed">Жүктеп алынды.</string>
+    <string name="downloading_paramfile">%1$s жүктеп алынып жатыр.</string>
+    <string name="error_continue_via_browser">Бәрібір браузер арқылы жалғастыру</string>
+    <string name="error_downloading_paramfile">%1$s жүктеп алынбады.</string>
+    <string name="no_bypass_error_vpnwarning">Сонымен қатар құрылғыда қазір VPN қосулы болғандықтан, бұл қатені елемей өту мүмкін емес.</string>
+    <string name="ok">Жарайды</string>
+    <string name="page_info">Бет туралы ақпарат</string>
+    <string name="page_info_address">Мекенжай:</string>
+    <string name="ssl_error_date_invalid">Сертификат күні жарамсыз.</string>
+    <string name="ssl_error_example">Мысалы, кіру беті көрсетілген ұйымға тиесілі болмауы мүмкін.</string>
+    <string name="ssl_error_expired">Сертификаттың жарамдылық мерзімі аяқталған.</string>
+    <string name="ssl_error_invalid">Сертификат жарамсыз.</string>
+    <string name="ssl_error_mismatch">Сайттың атауы мен сертификатта көрсетілген атау сәйкес келмейді.</string>
+    <string name="ssl_error_not_yet_valid">Сертификат әлі жарамсыз.</string>
+    <string name="ssl_error_unknown">Сертификатқа қатысты белгісіз қате.</string>
+    <string name="ssl_error_untrusted">Сертификатты сенімді орган бермеген.</string>
+    <string name="ssl_error_view_certificate">Сертификатты көру</string>
+    <string name="ssl_error_warning">Қосылайын деп жатқан желіңіз қауіпсіз болуы мүмкін.</string>
+    <string name="ssl_security_warning_title">Қауіпсіздік туралы ескерту</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

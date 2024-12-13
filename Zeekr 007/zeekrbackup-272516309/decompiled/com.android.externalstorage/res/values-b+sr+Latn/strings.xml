@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Spoljna memorija</string>
+    <string name="root_documents">Dokumenti</string>
+    <string name="root_internal_storage">Interna memorija</string>
+    <string name="storage_description">Lokalni memorijski prostor</string>
+</resources>

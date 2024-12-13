@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Διαχείριση συνοδευτικής εφαρμογής</string>
+    <string name="chooser_title">Επιλέξτε ένα προφίλ %1$s για διαχείριση από την εφαρμογή &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Επιτρέψτε στην εφαρμογή &lt;strong>%1$s&lt;/strong> να διαχειρίζεται τη συσκευή &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_no">Να μην επιτρέπεται</string>
+    <string name="consent_yes">Να επιτρέπεται</string>
+    <string name="profile_name_generic">συσκευή</string>
+    <string name="profile_name_watch">ρολόι</string>
+    <string name="profile_summary">Αυτή η εφαρμογή είναι απαραίτητη για τη διαχείριση του προφίλ σας %1$s. %2$s</string>
+</resources>

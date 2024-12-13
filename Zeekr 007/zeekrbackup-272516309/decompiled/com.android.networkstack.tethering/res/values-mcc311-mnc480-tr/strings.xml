@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">"Tethering'i kapat"</string>
+    <string name="no_upstream_notification_message">Cihazlar bağlanamıyor</string>
+    <string name="no_upstream_notification_title">"Tethering'in internet bağlantısı yok"</string>
+    <string name="upstream_roaming_notification_message">Dolaşım sırasında ek ücretler uygulanabilir</string>
+    <string name="upstream_roaming_notification_title">Hotspot veya tethering açık</string>
+</resources>

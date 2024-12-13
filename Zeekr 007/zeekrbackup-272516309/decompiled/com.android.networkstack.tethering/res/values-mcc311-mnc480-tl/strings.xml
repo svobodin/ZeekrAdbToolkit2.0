@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">I-off ang pag-tether</string>
+    <string name="no_upstream_notification_message">Hindi makakonekta ang mga device</string>
+    <string name="no_upstream_notification_title">Walang internet ang pag-tether</string>
+    <string name="upstream_roaming_notification_message">Posibleng magkaroon ng mga karagdagang singil habang nagro-roam</string>
+    <string name="upstream_roaming_notification_title">Naka-on ang Hotspot o pag-tether</string>
+</resources>

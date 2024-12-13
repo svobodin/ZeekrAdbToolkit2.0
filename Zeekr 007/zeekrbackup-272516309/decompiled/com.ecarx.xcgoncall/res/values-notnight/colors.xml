@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dialing_text_color">#ff383a3d</color>
+    <color name="handup_answer_text_color">#99383a3d</color>
+    <color name="hint_sub_text_color">#ff424242</color>
+    <color name="hint_text_color">#ff000000</color>
+    <color name="sos_call_center_subtitle_color">#99383a3d</color>
+    <color name="sos_call_center_title_color">#ff383a3d</color>
+    <color name="sos_fail_text_color">#66383a3d</color>
+    <color name="sos_text_color_bg">#ffe34e4f</color>
+    <color name="tips_text_color">#ff383a3d</color>
+    <color name="toast_bg">#ffffffff</color>
+</resources>

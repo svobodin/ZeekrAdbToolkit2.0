@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">网络管理器</string>
+    <string name="connected">已连接</string>
+    <string name="notification_channel_description_connected">当设备成功通过强制门户网络的身份验证时显示的通知</string>
+    <string name="notification_channel_description_network_venue_info">为说明网络包含场地信息页面而显示的通知</string>
+    <string name="notification_channel_name_connected">强制门户身份验证</string>
+    <string name="notification_channel_name_network_venue_info">网络包含场地信息页面</string>
+    <string name="tap_for_info">已连接/点按即可查看网站</string>
+</resources>

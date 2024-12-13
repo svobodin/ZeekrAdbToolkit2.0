@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Kaasseadme haldur</string>
+    <string name="chooser_title">Valige seade %1$s, mida haldab rakendus &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Lubage rakendusel &lt;strong>%1$s&lt;/strong> hallata teie seadet &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_no">Ära luba</string>
+    <string name="consent_yes">Luba</string>
+    <string name="profile_name_generic">seade</string>
+    <string name="profile_name_watch">käekell</string>
+    <string name="profile_summary">Seda rakendust on vaja teie profiili %1$s haldamiseks. %2$s</string>
+</resources>

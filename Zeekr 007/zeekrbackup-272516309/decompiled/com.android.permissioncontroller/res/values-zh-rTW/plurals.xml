@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">還有 %1$d 項</item>
+        <item quantity="one">還有 %1$d 項</item>
+    </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">%1$d 個應用程式已有數個月未使用。輕觸即可查看</item>
+        <item quantity="one">%1$d 個應用程式已有數個月未使用。輕觸即可查看</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">%1$d 個應用程式已有數個月未使用</item>
+        <item quantity="one">%1$d 個應用程式已有數個月未使用</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s 天</item>
+        <item quantity="one">1 天</item>
+    </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">%s 天</item>
+        <item quantity="one">1 天</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">%s 小時</item>
+        <item quantity="one">1 小時</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">%s 分鐘</item>
+        <item quantity="one">1 分鐘</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">%s 秒</item>
+        <item quantity="one">1 秒</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s 小時</item>
+        <item quantity="one">1 小時</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s 分鐘</item>
+        <item quantity="one">1 分鐘</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d 則新通知</item>
+        <item quantity="one">%d 則新通知</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s 個應用程式</item>
+        <item quantity="one">1 個應用程式</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s 個應用程式</item>
+        <item quantity="one">1 個應用程式</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">有 %1$d 個應用程式使用</item>
+        <item quantity="one">有 1 個應用程式使用</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"上次存取時間：%1$s
+存取次數：%2$s 次"</item>
+        <item quantity="one">"上次存取時間：%1$s
+存取次數：%2$s 次"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"上次存取時間：%1$s
+存取次數：%2$s 次 (有 %3$s 次在背景存取)"</item>
+        <item quantity="one">"上次存取時間：%1$s
+存取次數：%2$s 次 (有 %3$s 次在背景存取)"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"上次存取時間：%1$s
+存取次數：%2$s 次 (有 %3$s 次在背景存取)
+持續時間：%3$s"</item>
+        <item quantity="one">"上次存取時間：%1$s
+存取次數：%2$s 次 (有 %3$s 次在背景存取)
+持續時間：%3$s"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"上次存取時間：%1$s
+存取次數：%2$s 次
+持續時間：%3$s"</item>
+        <item quantity="one">"上次存取時間：%1$s
+存取次數：%2$s 次
+持續時間：%3$s"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s 秒</item>
+        <item quantity="one">1 秒</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">%1$d 個未使用的應用程式</item>
+        <item quantity="one">%1$d 個未使用的應用程式</item>
+    </plurals>
+</resources>

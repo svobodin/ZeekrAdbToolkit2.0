@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_line">#3385898c</color>
+    <color name="expand_btn">#6685898c</color>
+    <color name="nzp_card_bg">#ff1d1f24</color>
+    <color name="scenario_engine_card_txt">#9985898c</color>
+    <color name="scenario_engine_card_txt_60">#9985898c</color>
+    <color name="scenario_engine_menu_press">#ff3b3e44</color>
+    <color name="scenario_engine_menu_unpress">#cc282a2f</color>
+    <color name="scenario_engine_menu_view_txt">#ff85898c</color>
+    <color name="scenario_engine_notify_view_btn_txt">#ff85898c</color>
+    <color name="scenario_engine_notify_view_title_txt">#ff85898c</color>
+    <color name="weather_card_bg">#ff1d1f24</color>
+    <color name="weather_refresh_bg">#cc282a2f</color>
+    <color name="weather_txt_dark">#ff85898c</color>
+    <color name="weather_txt_light">#9985898c</color>
+    <color name="weather_unit">#9985898c</color>
+</resources>

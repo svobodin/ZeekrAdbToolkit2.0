@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Kirjaudu verkkoon</string>
+    <string name="action_bar_title">Kirjaudu sisään kohteeseen %1$s</string>
+    <string name="action_do_not_use_network">Älä käytä tätä verkkoa</string>
+    <string name="action_use_network">Käytä tätä verkkoa sellaisenaan</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">Ilmoitukset tiedostolatausten edistymisestä</string>
+    <string name="channel_description_downloads">Ilmoitukset valmiista ja peruutetuista latauksista</string>
+    <string name="channel_name_download_progress">Latauksen eteneminen</string>
+    <string name="channel_name_downloads">Lataukset</string>
+    <string name="custom_scheme_example">Esimerkiksi kirjautumissivu voi edellyttää tiettyä sovellusta todennusta varten</string>
+    <string name="custom_scheme_warning">Verkko, johon yrität liittyä, pyytää lupaa avata toinen sovellus.</string>
+    <string name="download_completed">Lataus valmis</string>
+    <string name="downloading_paramfile">Ladataan: %1$s</string>
+    <string name="error_continue_via_browser">Jatka selaimen kautta</string>
+    <string name="error_downloading_paramfile">Lataus ei onnistunut: %1$s</string>
+    <string name="no_bypass_error_vpnwarning">Tätä virhettä ei myöskään voi ohittaa, koska laite käyttää tällä hetkellä VPN:ää.</string>
+    <string name="ok">OK</string>
+    <string name="page_info">Sivun tiedot</string>
+    <string name="page_info_address">Osoite:</string>
+    <string name="ssl_error_date_invalid">Varmenteen päiväys ei kelpaa.</string>
+    <string name="ssl_error_example">Kirjautumissivu ei välttämättä kuulu näytetylle organisaatiolle.</string>
+    <string name="ssl_error_expired">Varmenne ei ole enää voimassa.</string>
+    <string name="ssl_error_invalid">Varmenne on virheellinen.</string>
+    <string name="ssl_error_mismatch">Sivuston nimi ei vastaa varmenteessa olevaa nimeä.</string>
+    <string name="ssl_error_not_yet_valid">Varmenne ei ole vielä voimassa.</string>
+    <string name="ssl_error_unknown">Tuntematon varmennevirhe.</string>
+    <string name="ssl_error_untrusted">Varmenteen myöntäjä ei ole luotettava taho.</string>
+    <string name="ssl_error_view_certificate">Näytä varmenne</string>
+    <string name="ssl_error_warning">Verkossa, johon yrität muodostaa yhteyttä, on turvallisuusongelmia.</string>
+    <string name="ssl_security_warning_title">Suojausvaroitus</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

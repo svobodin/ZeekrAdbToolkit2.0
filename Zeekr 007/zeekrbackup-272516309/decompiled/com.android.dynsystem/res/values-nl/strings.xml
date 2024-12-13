@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">"Geef je wachtwoord op en ga door naar 'Dynamische systeemupdates'"</string>
+    <string name="notification_action_cancel">Annuleren</string>
+    <string name="notification_action_discard">Niet opslaan</string>
+    <string name="notification_action_reboot_to_dynsystem">Herstarten</string>
+    <string name="notification_action_reboot_to_origin">Herstarten</string>
+    <string name="notification_dynsystem_in_use">Er is momenteel een dynamisch systeem actief. Start je apparaat opnieuw op om de oorspronkelijke Android-versie te gebruiken.</string>
+    <string name="notification_image_validation_failed">Valideren van image mislukt. Installatie afbreken.</string>
+    <string name="notification_install_completed">Dynamisch systeem is klaar. Start je apparaat opnieuw op om het te gebruiken.</string>
+    <string name="notification_install_failed">Installatie mislukt</string>
+    <string name="notification_install_inprogress">Installatie wordt uitgevoerd</string>
+    <string name="toast_dynsystem_discarded">Dynamisch systeem niet opgeslagen</string>
+    <string name="toast_failed_to_disable_dynsystem">Kan dynamisch systeem niet uitzetten</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Kan dynamisch systeem niet opnieuw opstarten of laden</string>
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="eui_tip_dialog_msg_max_lines">10</integer>
+</resources>

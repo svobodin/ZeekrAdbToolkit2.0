@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">[Ðýñåḿîç Šýšţéḿ Ûþðåţéš one two three]</string>
+    <string name="keyguard_description">[Þļéåšé éñţéŕ ýöûŕ þåššŵöŕð åñð çöñţîñûé ţö Ðýñåḿîç Šýšţéḿ Ûþðåţéš one two three four five six seven]</string>
+    <string name="keyguard_title">[Ðýñåḿîç Šýšţéḿ Ûþðåţéš one two three]</string>
+    <string name="notification_action_cancel">[Çåñçéļ one two]</string>
+    <string name="notification_action_discard">[Ðîšçåŕð one two]</string>
+    <string name="notification_action_reboot_to_dynsystem">[Ŕéšţåŕţ one two]</string>
+    <string name="notification_action_reboot_to_origin">[Ŕéšţåŕţ one two]</string>
+    <string name="notification_channel_name">[Ðýñåḿîç Šýšţéḿ Ûþðåţéš one two three]</string>
+    <string name="notification_dynsystem_in_use">[Çûŕŕéñţļý ŕûññîñĝ å ðýñåḿîç šýšţéḿ. Ŕéšţåŕţ ţö ûšé ţĥé öŕîĝîñåļ Åñðŕöîð Véŕšîöñ. one two three four five six seven eight nine]</string>
+    <string name="notification_image_validation_failed">[Îḿåĝé Våļîðåţîöñ ƒåîļéð. Åɓöŕţ îñšţåļļåţîöñ. one two three four five]</string>
+    <string name="notification_install_completed">[Ðýñåḿîç šýšţéḿ îš ŕéåðý. Ţö šţåŕţ ûšîñĝ îţ, ŕéšţåŕţ ýöûŕ ðéVîçé. one two three four five six seven]</string>
+    <string name="notification_install_failed">[Îñšţåļļ ƒåîļéð one two three]</string>
+    <string name="notification_install_inprogress">[Îñšţåļļ îñ þŕöĝŕéšš one two three]</string>
+    <string name="toast_dynsystem_discarded">[Ðîšçåŕðéð ðýñåḿîç šýšţéḿ one two three]</string>
+    <string name="toast_failed_to_disable_dynsystem">[Fåîļéð ţö ðîšåɓļé ðýñåḿîç šýšţéḿ one two three four]</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">[Çåñ’ţ ŕéšţåŕţ öŕ ļöåð ðýñåḿîç šýšţéḿ one two three four five]</string>
+</resources>

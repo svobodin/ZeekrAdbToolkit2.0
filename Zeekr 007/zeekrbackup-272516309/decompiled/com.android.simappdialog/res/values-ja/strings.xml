@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SIM アプリのダイアログ</string>
+    <string name="install_carrier_app_defer_action">後で</string>
+    <string name="install_carrier_app_description">新しい SIM を正常に機能させるには、%1$s アプリをインストールする必要があります</string>
+    <string name="install_carrier_app_description_default">新しい SIM を正常に機能させるには、携帯通信会社のアプリをインストールする必要があります</string>
+    <string name="install_carrier_app_download_action">アプリをダウンロード</string>
+    <string name="install_carrier_app_title">モバイル サービスを有効にする</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">戻る</string>
+    <string name="suw_more_button_label">もっと見る</string>
+    <string name="suw_next_button_label">次へ</string>
+</resources>

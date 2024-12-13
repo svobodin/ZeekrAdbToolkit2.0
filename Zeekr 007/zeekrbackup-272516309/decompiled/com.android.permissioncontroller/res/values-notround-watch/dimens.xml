@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="diag_button_padding_bottom">8.0dip</dimen>
+    <dimen name="diag_button_padding_horizontal">16.0dip</dimen>
+    <dimen name="diag_button_size">44.0dip</dimen>
+    <dimen name="diag_icon_margin_top">8.0dip</dimen>
+    <dimen name="diag_preferred_padding">8.0dip</dimen>
+</resources>

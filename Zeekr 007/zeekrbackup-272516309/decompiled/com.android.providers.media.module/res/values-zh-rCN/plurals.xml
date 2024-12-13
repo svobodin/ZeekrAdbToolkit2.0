@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">要允许^1删除这 ^2 个音频文件吗？</item>
+        <item quantity="one">要允许^1删除这个音频文件吗？</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">要允许^1删除这 ^2 项内容吗？</item>
+        <item quantity="one">要允许^1删除这项内容吗？</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">要允许^1删除这 ^2 张照片吗？</item>
+        <item quantity="one">要允许^1删除这张照片吗？</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">要允许^1删除这 ^2 个视频吗？</item>
+        <item quantity="one">要允许^1删除这个视频吗？</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">还有 ^1 项</item>
+        <item quantity="one">还有 ^1 项</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">另外 ^1 项</item>
+        <item quantity="one">另外 ^1 项</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">正在删除 ^1 个音频文件…</item>
+        <item quantity="one">正在删除音频文件…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">正在删除 ^1 项内容…</item>
+        <item quantity="one">正在删除内容…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">正在删除 ^1 张照片…</item>
+        <item quantity="one">正在删除照片…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">正在删除 ^1 个视频…</item>
+        <item quantity="one">正在删除视频…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">正在将 ^1 个音频文件移入回收站…</item>
+        <item quantity="one">正在将音频文件移入回收站…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">正在将 ^1 项内容移入回收站…</item>
+        <item quantity="one">正在将内容移入回收站…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">正在将 ^1 张照片移入回收站…</item>
+        <item quantity="one">正在将照片移入回收站…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">正在将 ^1 个视频移入回收站…</item>
+        <item quantity="one">正在将视频移入回收站…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">正在将 ^1 个音频文件从回收站中移出…</item>
+        <item quantity="one">正在将音频文件从回收站中移出…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">正在将 ^1 项内容从回收站中移出…</item>
+        <item quantity="one">正在将内容从回收站中移出…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">正在将 ^1 张照片从回收站中移出…</item>
+        <item quantity="one">正在将照片从回收站中移出…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">正在将 ^1 个视频从回收站中移出…</item>
+        <item quantity="one">正在将视频从回收站中移出…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">正在修改 ^1 个音频文件…</item>
+        <item quantity="one">正在修改音频文件…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">正在修改 ^1 项内容…</item>
+        <item quantity="one">正在修改内容…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">正在修改 ^1 张照片…</item>
+        <item quantity="one">正在修改照片…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">正在修改 ^1 个视频…</item>
+        <item quantity="one">正在修改视频…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">要允许^1将这 ^2 个音频文件移入回收站吗？</item>
+        <item quantity="one">要允许^1将这个音频文件移入回收站吗？</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">要允许^1将这 ^2 项内容移入回收站吗？</item>
+        <item quantity="one">要允许^1将这项内容移入回收站吗？</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">要允许^1将这 ^2 张照片移入回收站吗？</item>
+        <item quantity="one">要允许^1将这张照片移入回收站吗？</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">要允许^1将这 ^2 个视频移入回收站吗？</item>
+        <item quantity="one">要允许^1将这个视频移入回收站吗？</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">要允许^1将这 ^2 个音频文件从回收站中移出吗？</item>
+        <item quantity="one">要允许^1将这个音频文件从回收站中移出吗？</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">要允许^1将这 ^2 项内容从回收站中移出吗？</item>
+        <item quantity="one">要允许^1将这项内容从回收站中移出吗？</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">要允许^1将这 ^2 张照片从回收站中移出吗？</item>
+        <item quantity="one">要允许^1将这张照片从回收站中移出吗？</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">要允许^1将这 ^2 个视频从回收站中移出吗？</item>
+        <item quantity="one">要允许^1将这个视频从回收站中移出吗？</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">要允许^1修改这 ^2 个音频文件吗？</item>
+        <item quantity="one">要允许^1修改这个音频文件吗？</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">要允许^1修改这 ^2 项内容吗？</item>
+        <item quantity="one">要允许^1修改这项内容吗？</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">要允许^1修改这 ^2 张照片吗？</item>
+        <item quantity="one">要允许^1修改这张照片吗？</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">要允许^1修改这 ^2 个视频吗？</item>
+        <item quantity="one">要允许^1修改这个视频吗？</item>
+    </plurals>
+</resources>

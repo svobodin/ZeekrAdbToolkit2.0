@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_assistant">[Åñðŕöîð ÅðåþţîVé Ñöţîƒîçåţîöñš one two three four]</string>
+    <string name="status_bar_notification_info_overflow">[999+ one]</string>
+    <string name="tc_notif_code_copied_to_clipboard">[Çöðé çöþîéð one two]</string>
+    <string name="tc_notif_copy_code_desc">[Çöþý “%1$s“ one two]</string>
+</resources>

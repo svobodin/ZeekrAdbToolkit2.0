@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Pengurus Peranti Rakan</string>
+    <string name="chooser_title">Pilih %1$s untuk diurus oleh &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Benarkan &lt;strong>%1$s&lt;/strong> untuk mengurus &lt;strong>%2$s&lt;/strong> anda</string>
+    <string name="consent_no">Jangan benarkan</string>
+    <string name="consent_yes">Benarkan</string>
+    <string name="profile_name_generic">peranti</string>
+    <string name="profile_name_watch">jam tangan</string>
+    <string name="profile_summary">Apl ini diperlukan untuk mengurus %1$s anda. %2$s</string>
+</resources>

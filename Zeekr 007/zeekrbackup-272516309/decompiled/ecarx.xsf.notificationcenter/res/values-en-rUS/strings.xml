@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="btn_deault">button1</string>
+</resources>

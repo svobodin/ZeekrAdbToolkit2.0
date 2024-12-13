@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">%1$d more</item>
+        <item quantity="one">%1$d more</item>
+    </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">%1$d apps haven’t been used for a few months. Tap to review</item>
+        <item quantity="one">%1$d app hasn’t been used for a few months. Tap to review</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">%1$d apps haven’t been used for a few months</item>
+        <item quantity="one">%1$d app hasn’t been used for a few months</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s days</item>
+        <item quantity="one">1 day</item>
+    </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">%s days</item>
+        <item quantity="one">1 day</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">%s hours</item>
+        <item quantity="one">1 hour</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">%s mins</item>
+        <item quantity="one">1 min</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">%s secs</item>
+        <item quantity="one">1 sec</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s hours</item>
+        <item quantity="one">1 hour</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s minutes</item>
+        <item quantity="one">1 minute</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d new notifications</item>
+        <item quantity="one">%d new notification</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s apps</item>
+        <item quantity="one">1 app</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s apps</item>
+        <item quantity="one">1 app</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">Used by %1$d apps</item>
+        <item quantity="one">Used by 1 app</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"Last access: %1$s
+%2$s accesses"</item>
+        <item quantity="one">"Last access: %1$s
+%2$s access"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"Last access: %1$s
+%2$s accesses (%3$s in background)"</item>
+        <item quantity="one">"Last access: %1$s
+%2$s access (%3$s in background)"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"Last access: %1$s
+%2$s accesses (%3$s in background)
+Duration: %3$s"</item>
+        <item quantity="one">"Last access: %1$s
+%2$s access (%3$s in background)
+Duration: %3$s"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"Last access: %1$s
+%2$s accesses
+Duration: %3$s"</item>
+        <item quantity="one">"Last access: %1$s
+%2$s access
+Duration: %3$s"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s seconds</item>
+        <item quantity="one">1 second</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">%1$d unused apps</item>
+        <item quantity="one">%1$d unused app</item>
+    </plurals>
+</resources>

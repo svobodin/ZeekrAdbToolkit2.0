@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Шел</string>
+    <string name="bugreport_add_details_to_zip_failed">Алдааны тайлангийн дэлгэрэнгүй мэдээллийг zip файлд нэмж чадсангүй</string>
+    <string name="bugreport_confirm">Алдааны тайланд системийн төрөл бүрийн лог файлын өгөгдөл агуулагдах бөгөөд үүнд таны хувийн өгөгдөл (апп-н хэрэглээ болон байршлын өгөгдөл гэх мэт) багтана. Та алдааны тайланг зөвхөн итгэдэг хүмүүс болон апп-тай хуваалцана уу.</string>
+    <string name="bugreport_confirm_dont_repeat">Дахиж бүү харуул</string>
+    <string name="bugreport_finished_pending_screenshot_text">Алдааны тайлангаа дэлгэцээс авсан зураггүйгээр хуваалцах бол дарж, эсвэл дэлгэцээс авсан зургийг бэлэн болтол нь хүлээнэ үү</string>
+    <string name="bugreport_finished_text">Програмд гарсан алдааны мэдээллээ хуваалцах бол дарна уу</string>
+    <string name="bugreport_finished_title">Програмд гарсан алдааны мэдээллийн #%d-г бүртгэгдлээ</string>
+    <string name="bugreport_in_progress_title">Програмд гарсан алдааны мэдээллийн #%d үүсгэгдэж байна</string>
+    <string name="bugreport_info_action">Дэлгэрэнгүй</string>
+    <string name="bugreport_info_description">Алдааны хураангуй</string>
+    <string name="bugreport_info_dialog_title">Програмд гарсан алдааны мэдээллийн #%d-ны дэлгэрэнгүй</string>
+    <string name="bugreport_info_name">Файлын нэр</string>
+    <string name="bugreport_info_title">Алдааны нэр</string>
+    <string name="bugreport_intent_chooser_title">Алдааны тайланг хуваалцах</string>
+    <string name="bugreport_notification_channel">Алдааны тайлан</string>
+    <string name="bugreport_screenshot_action">Дэлгэцийн зураг</string>
+    <string name="bugreport_screenshot_failed">Дэлгэцийн зураг авах боломжгүй.</string>
+    <string name="bugreport_screenshot_taken">Дэлгэцийн зургийг амжилттай авлаа.</string>
+    <string name="bugreport_storage_title">Гэмтлийн тухай тайлан</string>
+    <string name="bugreport_unnamed">нэр байхгүй</string>
+    <string name="bugreport_unreadable_text">Алдааны тайлангийн файлыг уншиж чадахгүй байна</string>
+    <string name="bugreport_updating_title">Алдааны тайланд дэлгэрэнгүй мэдээлэл нэмж байна</string>
+    <string name="bugreport_updating_wait">Түр хүлээнэ үү...</string>
+    <string name="save">Хадгалах</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

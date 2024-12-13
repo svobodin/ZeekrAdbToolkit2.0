@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="network_switch_type_name">
+        <item>idatha yeselula</item>
+        <item>I-Wi-Fi</item>
+        <item>I-Bluetooth</item>
+        <item>I-Ethernet</item>
+        <item>I-VPN</item>
+    </string-array>
+</resources>

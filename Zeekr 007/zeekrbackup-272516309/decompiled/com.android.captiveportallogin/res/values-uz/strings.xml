@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Tarmoqqa kirish</string>
+    <string name="action_bar_title">%1$s hisobiga kirish</string>
+    <string name="action_do_not_use_network">Ushbu tarmoqdan foydalanilmasin</string>
+    <string name="action_use_network">Ushbu tarmoqdan o‘z holicha foydalanilsin</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">Fayl yuklanmalari jarayonini aks ettiruvchi bildirishnomalar</string>
+    <string name="channel_description_downloads">Yakunlangan yoki bekor qilingan yuklanmalarni aks ettiruvchi bildirishnomalar</string>
+    <string name="channel_name_download_progress">Yuklab olish jarayoni</string>
+    <string name="channel_name_downloads">Yuklanmalar</string>
+    <string name="custom_scheme_example">Masalan, tizimga kirish sahifasida maxsus autentifikatsiya ilovasi talab qilinishi mumkin</string>
+    <string name="custom_scheme_warning">Siz ulanmoqchi boʻlgan tarmoq boshqa ilovani ochishni talab qilmoqda.</string>
+    <string name="download_completed">Yuklab olindi</string>
+    <string name="downloading_paramfile">Yuklab olinmoqda: %1$s</string>
+    <string name="error_continue_via_browser">Brauzerda davom ettirish</string>
+    <string name="error_downloading_paramfile">Yuklab olinmadi: %1$s</string>
+    <string name="no_bypass_error_vpnwarning">Bundan tashqari, bu xatoni chetlab oʻtish imkonsiz, chunki qurilma hozirda VPN ishlatmoqda.</string>
+    <string name="ok">OK</string>
+    <string name="page_info">Sahifa haqida</string>
+    <string name="page_info_address">Manzil:</string>
+    <string name="ssl_error_date_invalid">Bu sertifikatdagi sana xato.</string>
+    <string name="ssl_error_example">Masalan, tizimga kirish sahifasi ko‘rsatilgan tashkilotga tegishli bo‘lmasligi mumkin.</string>
+    <string name="ssl_error_expired">Bu sertifikat muddati tugagan.</string>
+    <string name="ssl_error_invalid">Bu sertifikat yaroqsiz.</string>
+    <string name="ssl_error_mismatch">Sayt nomi sertifikatdagi nomga mos emas.</string>
+    <string name="ssl_error_not_yet_valid">Bu sertifikat hali yaroqli emas.</string>
+    <string name="ssl_error_unknown">Sertifikatga aloqador notanish xato.</string>
+    <string name="ssl_error_untrusted">Bu sertifikat ishonchsiz manbadan olingan.</string>
+    <string name="ssl_error_view_certificate">Sertifikatni ochish</string>
+    <string name="ssl_error_warning">Siz ulanmoqchi bo‘lgan tarmoqda xavfsizlik bilan bog‘liq muammolar mavjud.</string>
+    <string name="ssl_security_warning_title">Xavfsizlikka oid ogohlantirish</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

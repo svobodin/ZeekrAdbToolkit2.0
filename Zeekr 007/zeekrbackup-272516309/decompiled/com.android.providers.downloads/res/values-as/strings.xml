@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ডাউনল’ড মেনেজাৰ</string>
+    <string name="button_cancel_download">বাতিল কৰক</string>
+    <string name="button_queue_for_wifi">লানি পাতি ৰাখক</string>
+    <string name="button_start_now">এতিয়া আৰম্ভ কৰক</string>
+    <string name="download_error">"সফল নহ'ল"</string>
+    <string name="download_no_application_title">ফাইল খুলিব নোৱাৰি</string>
+    <string name="download_queued">লানি পাতি ৰখা হৈছে</string>
+    <string name="download_remaining">%s বাকী আছে</string>
+    <string name="download_running">চলি আছে</string>
+    <string name="download_running_percent">চলি আছে, %s</string>
+    <string name="download_unknown_title">&lt;শিৰোনামবিহীন></string>
+    <string name="notification_download_complete">ডাউনল’ড সম্পূৰ্ণ হ’ল।</string>
+    <string name="notification_download_failed">"ডাউনল’ড কৰিবপৰা নগ'ল।"</string>
+    <string name="notification_need_wifi_for_size">"এই আকাৰৰ ডাউনল'ডৰ বাবে ৱাই-ফাইৰ প্ৰয়োজন।"</string>
+    <string name="notification_paused_in_background">নেপথ্যত পজ কৰক।</string>
+    <string name="permdesc_accessAllDownloads">ছিষ্টেমত থকা যিকোনো এপে সূচনা কৰা আটাইবোৰ ডাউনল’ড চাবলৈ আৰু সংশোধন কৰিবলৈ এপ্‌টোক অনুমতি দিয়ে।</string>
+    <string name="permdesc_downloadCacheNonPurgeable">"এপটোক ডাউনল’ড কেশ্বত ফাইল ডাউনল’ড কৰিবলৈ অনুমতি দিয়ে, যাক ডাউনল’ড মেনেজাৰক অধিক খালী ঠাই প্ৰয়োজন হ'লে স্বয়ংক্ৰিয়ভাৱে মচি পেলাব নোৱাৰি।"</string>
+    <string name="permdesc_downloadCompletedIntent">"সম্পূৰ্ণ হোৱা ডাউনল'ডৰ বিষয়ে জাননী প্ৰেৰণ কৰিবলৈ এপটোক অনুমতি দিয়ে। ক্ষতিকাৰক এপসমূহে এই সুবিধাটো ফাইল ডাউনল'ডকাৰী অইন এপক বিভ্ৰান্ত কৰিবলৈ ব্যৱহাৰ কৰিব পাৰে।"</string>
+    <string name="permdesc_downloadManager">এপটোক ডাউনল’ড মেনেজাৰত প্ৰৱেশ কৰিবলৈ আৰু তাক ব্যৱহাৰ কৰি ফাইল ডাউনল’ড কৰিবলৈ অনুমতি দিয়ে। ক্ষতিকাৰক এপসমূহে এই সুবিধাটো ব্যৱহাৰ কৰি ডাউনল’ডত বিঘিনি জন্মোৱাৰ লগতে ব্যক্তিগত তথ্য চাব পাৰিব পাৰে।</string>
+    <string name="permdesc_downloadManagerAdvanced">এপটোক ডাউনল’ড মেনেজাৰৰ উচ্চখাপৰ ফাংশ্বনত প্ৰৱেশ কৰিবলৈ অনুমতি দিয়ে। ক্ষতিকাৰক এপসমূহে এই সুবিধাটো ব্যৱহাৰ কৰি ডাউনল’ডত বিঘিনি জন্মোৱাৰ লগতে ব্যক্তিগত তথ্য চাব পাৰিব পাৰে।</string>
+    <string name="permdesc_downloadWithoutNotification">এপটোক ব্যৱহাৰকাৰীক কোনো জাননী নিদিয়াকৈ ডাউনল’ড মেনেজাৰ ব্যৱহাৰ কৰি ফাইল ডাউনল’ড কৰিবলৈ অনুমতি দিয়ে।</string>
+    <string name="permlab_accessAllDownloads">"আটাইবোৰ ছিষ্টেম ডাউনল'ড এক্সেছ কৰিব পাৰে"</string>
+    <string name="permlab_downloadCacheNonPurgeable">"ডাউন'লড কেশ্বত ঠাই সংৰক্ষিত কৰিব পাৰে"</string>
+    <string name="permlab_downloadCompletedIntent">ডাউনল’ড জাননী প্ৰেৰণ কৰিব পাৰে।</string>
+    <string name="permlab_downloadManager">ডাউনল’ড মেনেজাৰত প্ৰৱেশ কৰিব পাৰে।</string>
+    <string name="permlab_downloadManagerAdvanced">উচ্চখাপৰ ডাউনল’ড মেনেজাৰ ফাংশ্বনসমূহ।</string>
+    <string name="permlab_downloadWithoutNotification">জাননী নিদিয়াকৈ ফাইল ডাউনল’ড কৰিব পাৰে</string>
+    <string name="root_downloads">"ডাউনল'ডসমূহ"</string>
+    <string name="storage_description">"ডাউনল'ডসমূহ"</string>
+    <string name="wifi_recommended_body">"এই %1$s  আকাৰৰ ডাউনল’ডটো আৰম্ভ কৰিলে বেটাৰিৰ জীৱনকাল হ্ৰাস হ'ব পাৰে আৰু/বা অত্যধিক ম’বাইল ডেটা ব্যৱহাৰ হ’ব পাৰে, যাৰ ফলত আপোনাৰ ডেটা আঁচনি অনুসৰি মাচুল ভৰিবলগীয়া হ’ব পাৰে।
+
+আপুনি পিছত ৱাই-ফাইৰ সৈতে সংযুক্ত হ’লে এই ডাউনল'ডটো আৰম্ভ কৰিবলৈ %2$sত স্পৰ্শ কৰক।"</string>
+    <string name="wifi_recommended_title">পিছত ডাউনল’ড কৰিবলৈ লানি পাতি ৰাখিবনে?</string>
+    <string name="wifi_required_body">"আপুনি এই %1$s  আকাৰৰ ডাউনল’ড কৰিবলৈ ৱাই-ফাই ব্যৱহাৰ কৰিবই লাগিব।
+
+আপুনি পিছত ৱাই-ফাইৰ সৈতে সংযুক্ত হ'লে এই ডাউনল’ডটো আৰম্ভ কৰিবলৈ %2$s ত স্পৰ্শ কৰক।"</string>
+    <string name="wifi_required_title">"অপাৰেটৰ নেটৱৰ্কৰ বাবে ডাউনল'ডটো অতি ডাঙৰ"</string>
+</resources>

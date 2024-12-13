@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Менаџер преузимања</string>
+    <string name="button_cancel_download">Откажи</string>
+    <string name="button_queue_for_wifi">Ред</string>
+    <string name="button_start_now">Започни</string>
+    <string name="download_error">Није успело</string>
+    <string name="download_no_application_title">Није могуће отворити датотеку</string>
+    <string name="download_queued">Стављено је на чекање</string>
+    <string name="download_remaining">Још %s</string>
+    <string name="download_running">У току је</string>
+    <string name="download_running_percent">У току, %s</string>
+    <string name="download_unknown_title">&lt;Без наслова></string>
+    <string name="notification_download_complete">Преузимање је завршено.</string>
+    <string name="notification_download_failed">Преузимање није успело.</string>
+    <string name="notification_need_wifi_for_size">Величина ставке захтева WiFi.</string>
+    <string name="notification_paused_in_background">Паузирано у позадини.</string>
+    <string name="permdesc_accessAllDownloads">Омогућава апликацији да прегледа и мења сва преузимања која је покренула било која апликација у систему.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Омогућава апликацији да преузима датотеке у кеш за преузимање који не може аутоматски да се избрише када је менаџеру преузимања потребно још простора.</string>
+    <string name="permdesc_downloadCompletedIntent">Омогућава апликацији да шаље обавештења о довршеним преузимањима. Злонамерне апликације могу помоћу тога да збуне остале апликације које преузимају датотеке.</string>
+    <string name="permdesc_downloadManager">Омогућава апликацији да приступа менаџеру преузимања и користи га за преузимање датотека. Злонамерне апликације могу помоћу тога да ометају преузимања и приступају приватним информацијама.</string>
+    <string name="permdesc_downloadManagerAdvanced">Омогућава апликацији да приступа напредним функцијама менаџера преузимања. Злонамерне апликације могу помоћу тога да ометају преузимања и приступају приватним информацијама.</string>
+    <string name="permdesc_downloadWithoutNotification">Омогућава апликацији да преузима датотеке преко менаџера преузимања без приказивања икаквог обавештења кориснику.</string>
+    <string name="permlab_accessAllDownloads">Приступи свим системским преузимањима</string>
+    <string name="permlab_downloadCacheNonPurgeable">Резервиши простор у кешу за преузимање</string>
+    <string name="permlab_downloadCompletedIntent">Шаљите обавештења о преузимањима.</string>
+    <string name="permlab_downloadManager">Приступ менаџеру преузимања.</string>
+    <string name="permlab_downloadManagerAdvanced">Напредне функције менаџера преузимања.</string>
+    <string name="permlab_downloadWithoutNotification">преузми датотеке без обавештења</string>
+    <string name="root_downloads">Преузимања</string>
+    <string name="storage_description">Преузимања</string>
+    <string name="wifi_recommended_body">"Овим преузимањем од %1$s  можете да скратите век трајања батерије и/или претерано користите мобилну везу за пренос података, што може да доведе до трошкова код мобилног оператера сходно тарифном пакету.
+
+ Додирните %2$s да бисте започели ово преузимање када се поново повежете са WiFi мрежом."</string>
+    <string name="wifi_recommended_title">Желите ли да ставите у ред за будуће преузимање?</string>
+    <string name="wifi_required_body">"Морате да користите WiFi да бисте довршили ово преузимање од %1$s . 
+
+Додирните %2$s  да бисте започели ово преузимање када се следећи пут повежете са WiFi мрежом."</string>
+    <string name="wifi_required_title">Преузимање је превелико за мрежу оператера</string>
+</resources>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">Vai atļaut lietotnei ^1 dzēst ^2 audio failus?</item>
+        <item quantity="zero">Vai atļaut lietotnei ^1 dzēst ^2 audio failus?</item>
+        <item quantity="one">Vai atļaut lietotnei ^1 dzēst ^2 audio failu?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">Vai atļaut lietotnei ^1 dzēst ^2 vienumus?</item>
+        <item quantity="zero">Vai atļaut lietotnei ^1 dzēst ^2 vienumus?</item>
+        <item quantity="one">Vai atļaut lietotnei ^1 dzēst ^2 vienumu?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">Vai atļaut lietotnei ^1 dzēst ^2 fotoattēlus?</item>
+        <item quantity="zero">Vai atļaut lietotnei ^1 dzēst ^2 fotoattēlus?</item>
+        <item quantity="one">Vai atļaut lietotnei ^1 dzēst ^2 fotoattēlu?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">Vai atļaut lietotnei ^1 dzēst ^2 videoklipus?</item>
+        <item quantity="zero">Vai atļaut lietotnei ^1 dzēst ^2 videoklipus?</item>
+        <item quantity="one">Vai atļaut lietotnei ^1 dzēst ^2 videoklipu?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">Un vēl ^1 vienumi</item>
+        <item quantity="zero">Un vēl ^1 vienumu</item>
+        <item quantity="one">Un vēl ^1 vienums</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">vēl ^1</item>
+        <item quantity="zero">vēl ^1</item>
+        <item quantity="one">vēl ^1</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">Notiek ^1 audio failu dzēšana…</item>
+        <item quantity="zero">Notiek ^1 audio failu dzēšana…</item>
+        <item quantity="one">Notiek ^1 audio faila dzēšana…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">Notiek ^1 vienumu dzēšana…</item>
+        <item quantity="zero">Notiek ^1 vienumu dzēšana…</item>
+        <item quantity="one">Notiek ^1 vienuma dzēšana…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">Notiek ^1 fotoattēlu dzēšana…</item>
+        <item quantity="zero">Notiek ^1 fotoattēlu dzēšana…</item>
+        <item quantity="one">Notiek ^1 fotoattēla dzēšana…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">Notiek ^1 videoklipu dzēšana…</item>
+        <item quantity="zero">Notiek ^1 videoklipu dzēšana…</item>
+        <item quantity="one">Notiek ^1 videoklipa dzēšana…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">Notiek ^1 audio failu pārvietošana uz atkritni…</item>
+        <item quantity="zero">Notiek ^1 audio failu pārvietošana uz atkritni…</item>
+        <item quantity="one">Notiek ^1 audio faila pārvietošana uz atkritni…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">Notiek ^1 vienumu pārvietošana uz atkritni…</item>
+        <item quantity="zero">Notiek ^1 vienumu pārvietošana uz atkritni…</item>
+        <item quantity="one">Notiek ^1 vienuma pārvietošana uz atkritni…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">Notiek ^1 fotoattēlu pārvietošana uz atkritni…</item>
+        <item quantity="zero">Notiek ^1 fotoattēlu pārvietošana uz atkritni…</item>
+        <item quantity="one">Notiek ^1 fotoattēla pārvietošana uz atkritni…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">Notiek ^1 videoklipu pārvietošana uz atkritni…</item>
+        <item quantity="zero">Notiek ^1 videoklipu pārvietošana uz atkritni…</item>
+        <item quantity="one">Notiek ^1 videoklipa pārvietošana uz atkritni…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">Notiek ^1 audio failu izņemšana no atkritnes…</item>
+        <item quantity="zero">Notiek ^1 audio failu izņemšana no atkritnes…</item>
+        <item quantity="one">Notiek ^1 audio faila izņemšana no atkritnes…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">Notiek ^1 vienumu izņemšana no atkritnes…</item>
+        <item quantity="zero">Notiek ^1 vienumu izņemšana no atkritnes…</item>
+        <item quantity="one">Notiek ^1 vienuma izņemšana no atkritnes…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">Notiek ^1 fotoattēlu izņemšana no atkritnes…</item>
+        <item quantity="zero">Notiek ^1 fotoattēlu izņemšana no atkritnes…</item>
+        <item quantity="one">Notiek ^1 fotoattēla izņemšana no atkritnes…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">Notiek ^1 videoklipu izņemšana no atkritnes…</item>
+        <item quantity="zero">Notiek ^1 videoklipu izņemšana no atkritnes…</item>
+        <item quantity="one">Notiek ^1 videoklipa izņemšana no atkritnes…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">Notiek ^1 audio failu pārveidošana…</item>
+        <item quantity="zero">Notiek ^1 audio failu pārveidošana…</item>
+        <item quantity="one">Notiek ^1 audio faila pārveidošana…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">Notiek ^1 vienumu pārveidošana…</item>
+        <item quantity="zero">Notiek ^1 vienumu pārveidošana…</item>
+        <item quantity="one">Notiek ^1 vienuma pārveidošana…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">Notiek ^1 fotoattēlu pārveidošana…</item>
+        <item quantity="zero">Notiek ^1 fotoattēlu pārveidošana…</item>
+        <item quantity="one">Notiek ^1 fotoattēla pārveidošana…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">Notiek ^1 videoklipu pārveidošana…</item>
+        <item quantity="zero">Notiek ^1 videoklipu pārveidošana…</item>
+        <item quantity="one">Notiek ^1 videoklipa pārveidošana…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">Vai atļaut lietotnei ^1 pārvietot ^2 audio failus uz atkritni?</item>
+        <item quantity="zero">Vai atļaut lietotnei ^1 pārvietot ^2 audio failus uz atkritni?</item>
+        <item quantity="one">Vai atļaut lietotnei ^1 pārvietot ^2 audio failu uz atkritni?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">Vai atļaut lietotnei ^1 pārvietot ^2 vienumus uz atkritni?</item>
+        <item quantity="zero">Vai atļaut lietotnei ^1 pārvietot ^2 vienumus uz atkritni?</item>
+        <item quantity="one">Vai atļaut lietotnei ^1 pārvietot ^2 vienumu uz atkritni?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">Vai atļaut lietotnei ^1 pārvietot ^2 fotoattēlus uz atkritni?</item>
+        <item quantity="zero">Vai atļaut lietotnei ^1 pārvietot ^2 fotoattēlus uz atkritni?</item>
+        <item quantity="one">Vai atļaut lietotnei ^1 pārvietot ^2 fotoattēlu uz atkritni?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">Vai atļaut lietotnei ^1 pārvietot ^2 videoklipus uz atkritni?</item>
+        <item quantity="zero">Vai atļaut lietotnei ^1 pārvietot ^2 videoklipus uz atkritni?</item>
+        <item quantity="one">Vai atļaut lietotnei ^1 pārvietot ^2 videoklipu uz atkritni?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">Vai atļaut lietotnei ^1 izņemt ^2 audio failus no atkritnes?</item>
+        <item quantity="zero">Vai atļaut lietotnei ^1 izņemt ^2 audio failus no atkritnes?</item>
+        <item quantity="one">Vai atļaut lietotnei ^1 izņemt ^2 audio failu no atkritnes?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">Vai atļaut lietotnei ^1 izņemt ^2 vienumus no atkritnes?</item>
+        <item quantity="zero">Vai atļaut lietotnei ^1 izņemt ^2 vienumus no atkritnes?</item>
+        <item quantity="one">Vai atļaut lietotnei ^1 izņemt ^2 vienumu no atkritnes?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">Vai atļaut lietotnei ^1 izņemt ^2 fotoattēlus no atkritnes?</item>
+        <item quantity="zero">Vai atļaut lietotnei ^1 izņemt ^2 fotoattēlus no atkritnes?</item>
+        <item quantity="one">Vai atļaut lietotnei ^1 izņemt ^2 fotoattēlu no atkritnes?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">Vai atļaut lietotnei ^1 izņemt ^2 videoklipus no atkritnes?</item>
+        <item quantity="zero">Vai atļaut lietotnei ^1 izņemt ^2 videoklipus no atkritnes?</item>
+        <item quantity="one">Vai atļaut lietotnei ^1 izņemt ^2 videoklipu no atkritnes?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">Vai atļaut lietotnei ^1 modificēt ^2 audio failus?</item>
+        <item quantity="zero">Vai atļaut lietotnei ^1 modificēt ^2 audio failus?</item>
+        <item quantity="one">Vai atļaut lietotnei ^1 modificēt ^2 audio failu?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">Vai atļaut lietotnei ^1 modificēt ^2 vienumus?</item>
+        <item quantity="zero">Vai atļaut lietotnei ^1 modificēt ^2 vienumus?</item>
+        <item quantity="one">Vai atļaut lietotnei ^1 modificēt ^2 vienumu?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">Vai atļaut lietotnei ^1 modificēt ^2 fotoattēlus?</item>
+        <item quantity="zero">Vai atļaut lietotnei ^1 modificēt ^2 fotoattēlus?</item>
+        <item quantity="one">Vai atļaut lietotnei ^1 modificēt ^2 fotoattēlu?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">Vai atļaut lietotnei ^1 modificēt ^2 videoklipus?</item>
+        <item quantity="zero">Vai atļaut lietotnei ^1 modificēt ^2 videoklipus?</item>
+        <item quantity="one">Vai atļaut lietotnei ^1 modificēt ^2 videoklipu?</item>
+    </plurals>
+</resources>

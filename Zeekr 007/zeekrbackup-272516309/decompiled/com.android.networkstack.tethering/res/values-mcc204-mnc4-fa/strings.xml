@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">نقطه اتصال را خاموش کنید</string>
+    <string name="no_upstream_notification_message">دستگاه‌ها به اینترنت متصل نشدند</string>
+    <string name="no_upstream_notification_title">نقطه اتصال به اینترنت دسترسی ندارد</string>
+    <string name="upstream_roaming_notification_message">ممکن است درحین فراگردی تغییرات دیگر اعمال شود</string>
+    <string name="upstream_roaming_notification_title">نقطه اتصال روشن است</string>
+    <string name="upstream_roaming_notification_continue_button">ادامه</string>
+</resources>

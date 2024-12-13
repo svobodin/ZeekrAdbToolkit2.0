@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Tarmoqlar menejeri</string>
+    <string name="connected">Ulandi</string>
+    <string name="notification_channel_description_connected">Qurilma tarmoqqa kirish portaliga muvaffaqiyatli autentifikatsiya qilinganida chiqadigan bildirishnomalar</string>
+    <string name="notification_channel_description_network_venue_info">Tarmoq bor joy haqida axborot sahifasi borligini bildiruvchi bildirishnomalar</string>
+    <string name="notification_channel_name_connected">Kirish portali autentifikatsiyasi</string>
+    <string name="notification_channel_name_network_venue_info">Qayerda tarmoq mavjudligi haqida axborot</string>
+    <string name="tap_for_info">Ulangan / Saytni ochish uchun bosing</string>
+</resources>

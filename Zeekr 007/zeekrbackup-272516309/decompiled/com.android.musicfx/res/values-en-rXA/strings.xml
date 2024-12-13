@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">[ḾûšîçF× one two]</string>
+    <string name="bass_boost_strength">[βåšš ɓööšţ one two]</string>
+    <string name="ci_extreme">[F× ɓööšţéŕ one two]</string>
+    <string name="classical">[Çļåššîçåļ one two]</string>
+    <string name="dance">[Ðåñçé one]</string>
+    <string name="eq_dialog_title">[ÉQûåļîžéŕ one two]</string>
+    <string name="flat">[Fļåţ one]</string>
+    <string name="folk">[Föļķ one]</string>
+    <string name="headset_plug">[Þļûĝ îñ ĥéåðþĥöñéš ƒöŕ ţĥéšé éƒƒéçţš. one two three four five]</string>
+    <string name="heavy_metal">[ĤéåVý Ḿéţåļ one two]</string>
+    <string name="hip_hop">[Ĥîþ Ĥöþ one two]</string>
+    <string name="jazz">[Ĵåžž one]</string>
+    <string name="no_effects">[Éƒƒéçţš ñöţ åVåîļåɓļé. one two three]</string>
+    <string name="normal">[Ñöŕḿåļ one two]</string>
+    <string name="picker_title">[Ḿûšîç éƒƒéçţš çöñţŕöļ þåñéļ one two three four]</string>
+    <string name="pop">[Þöþ one]</string>
+    <string name="rock">[Ŕöçķ one]</string>
+    <string name="setup">[Šéţûþ one]</string>
+    <string name="user">[Ûšéŕ one]</string>
+    <string name="virtualizer_strength">[Šûŕŕöûñð šöûñð one two three]</string>
+</resources>

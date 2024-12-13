@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s : Anda tidak boleh menyambung ke Verizon Wi-Fi Access dari luar kawasan liputan Verizon.</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s : Anda tidak melanggan Verizon Wi-Fi Access. Sila hubungi kami di 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s : Terdapat masalah dengan akaun Verizon Wi-Fi Access anda. Sila hubungi kami di 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s : Anda sudah disambungkan ke Verizon Wi-Fi Access.</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s : Terdapat masalah semasa menyambungkan anda ke Verizon Wi-Fi Access. Sila hubungi kami di 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s : Terdapat masalah dengan akaun Verizon Wi-Fi Access anda. Sila hubungi kami di 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s : Verizon Wi-Fi Access tidak tersedia dari lokasi anda. Cuba lagi nanti atau cuba dari lokasi lain.</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Blocage d'activité"</string>
+    <string name="message_not_supported">Aucune appli ne peut gérer cette action</string>
+    <string name="pip_not_supported">"La fonctionnalité Picture-in-picture n'est pas compatible avec cet appareil"</string>
+    <string name="stub_name">Aucun</string>
+</resources>

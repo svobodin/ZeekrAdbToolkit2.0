@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">[%1$s : Ýöû çåñ’ţ çöññéçţ ţö νéŕîžöñ Ŵî-Fî Åççéšš ƒŕöḿ öûţšîðé ţĥé νéŕîžöñ çöVéŕåĝé åŕéå. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen]</string>
+    <string name="wifi_eap_error_message_code_32761">[%1$s : Ýöû åŕé ñöţ šûɓšçŕîɓéð ţö νéŕîžöñ Ŵî-Fî Åççéšš. Þļéåšé çåļļ ûš åţ 800-922-0204. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen]</string>
+    <string name="wifi_eap_error_message_code_32762">[%1$s : Ţĥéŕé îš å þŕöɓļéḿ ŵîţĥ ýöûŕ νéŕîžöñ Ŵî-Fî Åççéšš åççöûñţ. Þļéåšé çåļļ ûš åţ 800-922-0204. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen]</string>
+    <string name="wifi_eap_error_message_code_32763">[%1$s : Ýöû åŕé åļŕéåðý çöññéçţéð ţö νéŕîžöñ Ŵî-Fî Åççéšš. one two three four five six]</string>
+    <string name="wifi_eap_error_message_code_32764">[%1$s : Ţĥéŕé îš å þŕöɓļéḿ çöññéçţîñĝ ýöû ţö νéŕîžöñ Ŵî-Fî Åççéšš. Þļéåšé çåļļ ûš åţ 800-922-0204. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen]</string>
+    <string name="wifi_eap_error_message_code_32765">[%1$s : Ţĥéŕé îš å þŕöɓļéḿ ŵîţĥ ýöûŕ νéŕîžöñ Ŵî-Fî Åççéšš åççöûñţ. Þļéåšé çåļļ ûš åţ 800-922-0204. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen]</string>
+    <string name="wifi_eap_error_message_code_32766">[%1$s : νéŕîžöñ Ŵî-Fî Åççéšš îš ñöţ åVåîļåɓļé ƒŕöḿ ýöûŕ ļöçåţîöñ. Ţŕý åĝåîñ ļåţéŕ öŕ ţŕý ƒŕöḿ å ðîƒƒéŕéñţ ļöçåţîöñ. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen]</string>
+</resources>

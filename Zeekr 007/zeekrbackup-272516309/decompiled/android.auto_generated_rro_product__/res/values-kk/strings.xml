@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="owner_name">Көлік жүргізуші</string>
+    <string name="permlab_accessCoarseLocation">болжалды орналасқан жер туралы ақпаратқа тек ашық экранда кіру</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">Микрофонды қосу</string>
+</resources>

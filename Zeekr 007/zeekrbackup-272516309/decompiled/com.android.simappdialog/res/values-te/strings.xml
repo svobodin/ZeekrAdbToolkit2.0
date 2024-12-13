@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">సిమ్ యాప్ డైలాగ్</string>
+    <string name="install_carrier_app_defer_action">ఇప్పుడు కాదు</string>
+    <string name="install_carrier_app_description">మీ SIM సరిగ్గా పనిచేయడానికి, మీరు %1$s యాప్‌ను ఇన్‌స్టాల్ చేయాల్సి ఉంటుంది</string>
+    <string name="install_carrier_app_description_default">మీ SIM సరిగ్గా పనిచేయడానికి, మీరు క్యారియర్ యాప్‌ని ఇన్‌స్టాల్ చేయాల్సి ఉంటుంది</string>
+    <string name="install_carrier_app_download_action">యాప్‌ని డౌన్‌లోడ్ చేయండి</string>
+    <string name="install_carrier_app_title">మొబైల్ సేవను యాక్టివేట్ చేయండి</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">వెనుకకు</string>
+    <string name="suw_more_button_label">మరింత</string>
+    <string name="suw_next_button_label">తర్వాత</string>
+</resources>

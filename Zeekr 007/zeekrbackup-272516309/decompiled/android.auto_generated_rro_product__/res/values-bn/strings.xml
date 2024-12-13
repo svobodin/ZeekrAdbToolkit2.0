@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="owner_name">ড্রাইভার</string>
+    <string name="permlab_accessCoarseLocation">শুধুমাত্র অ্যাপটি খোলা থাকলে আপনার আনুমানিক লোকেশন অ্যাক্সেস করা</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">মাইক্রোফোন চালু করুন</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">გთხოვთ, შეიყვანოთ პაროლი სისტემის დინამიურ განახლებებზე გადასასვლელად</string>
+    <string name="notification_action_cancel">გაუქმება</string>
+    <string name="notification_action_discard">გაუქმება</string>
+    <string name="notification_action_reboot_to_dynsystem">გადატვირთვა</string>
+    <string name="notification_action_reboot_to_origin">გადატვირთვა</string>
+    <string name="notification_dynsystem_in_use">ამჟამად გამოიყენება დინამიური სისტემა. გადატვირთეთ Android-ის ორიგინალი ვერსიის გამოსაყენებლად.</string>
+    <string name="notification_image_validation_failed">იმიჯის ვალიდაცია ვერ მოხერხდა. ინსტალაციის შეწყვეტა.</string>
+    <string name="notification_install_completed">დინამიური სისტემა მზადაა. გადატვირთეთ მოწყობილობა მის გამოსაყენებლად.</string>
+    <string name="notification_install_failed">ინსტალაცია ვერ მოხერხდა</string>
+    <string name="notification_install_inprogress">ინსტალირდება</string>
+    <string name="toast_dynsystem_discarded">გაუქმებული დინამიური სისტემა</string>
+    <string name="toast_failed_to_disable_dynsystem">დინამიკური სისტემის გათიშვა ვარ მოხერხდა</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">დინამიური სისტემის გადატვირთვა ან ჩატვირთვა ვერ ხერხდება</string>
+</resources>

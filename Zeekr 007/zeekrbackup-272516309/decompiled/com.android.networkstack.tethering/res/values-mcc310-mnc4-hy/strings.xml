@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Անջատել մոդեմի ռեժիմը</string>
+    <string name="no_upstream_notification_message">Չհաջողվեց միացնել սարքը</string>
+    <string name="no_upstream_notification_title">Մոդեմի ռեժիմի կապը բացակայում է</string>
+    <string name="upstream_roaming_notification_message">Ռոումինգում կարող են լրացուցիչ վճարներ գանձվել</string>
+    <string name="upstream_roaming_notification_title">Թեժ կետը կամ մոդեմի ռեժիմը միացված է</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_long_press_zoom_scale_tips">
+        <item quantity="other">التكبير بمعدل %s مرة</item>
+        <item quantity="zero">التكبير بمعدل %s مرات</item>
+        <item quantity="one">العرض بالحجم الطبيعي</item>
+        <item quantity="two">التكبير بمعدل مرة واحدة</item>
+        <item quantity="few">التكبير بمعدل %s مرات</item>
+        <item quantity="many">التكبير بمعدل %s مرة</item>
+    </plurals>
+</resources>

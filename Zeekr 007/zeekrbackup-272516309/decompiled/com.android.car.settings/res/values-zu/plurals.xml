@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">Ama-app wekhamera</item>
+        <item quantity="one">Ama-app wekhamera</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">Ama-app weklayenti ye-imeyili</item>
+        <item quantity="one">Ama-app weklayenti ye-imeyili</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">Ama-app wefoni</item>
+        <item quantity="one">Ama-app wefoni</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">imizamo engu-%d</item>
+        <item quantity="one">imizamo engu-%d</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">ama-app %d</item>
+        <item quantity="one">ama-app %d</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">Ubuncane bama-app obungu-%d</item>
+        <item quantity="one">Ubuncane bama-app obungu-%d</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d izaziso ezintsha</item>
+        <item quantity="one">%d izaziso ezintsha</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d amadivayisi axhunyiwe</item>
+        <item quantity="one">%1$d amadivayisi axhunyiwe</item>
+    </plurals>
+</resources>

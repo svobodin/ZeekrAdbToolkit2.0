@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Жүктөп алуу башкаргычы</string>
+    <string name="button_cancel_download">Токтотуу</string>
+    <string name="button_queue_for_wifi">Кезекке тургузуу</string>
+    <string name="button_start_now">Азыр баштоо</string>
+    <string name="download_error">Ийгиликсиз</string>
+    <string name="download_no_application_title">Файл ачылбады</string>
+    <string name="download_queued">Кезекте</string>
+    <string name="download_remaining">%s калды</string>
+    <string name="download_running">Жүктөлүүдө</string>
+    <string name="download_running_percent">Аткарылууда, %s</string>
+    <string name="download_unknown_title">&lt;Аталышы жок></string>
+    <string name="notification_download_complete">Жүктөлүп алынды.</string>
+    <string name="notification_download_failed">Жүктөө ийгиликсиз.</string>
+    <string name="notification_need_wifi_for_size">Чоң файл, Wi-Fi керек.</string>
+    <string name="notification_paused_in_background">Фондо тыныгууда турат.</string>
+    <string name="permdesc_accessAllDownloads">Колдонмого системдеги колдонмолор баштаган бардык жүктөөлөрдү көрүүгө жана өзгөртүүгө уруксат берет.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">"Колдонмого, жүктөө менежерине көбүрөөк орун керек болсо, автоматтык тазалана турган файлдарды жүктөө кэшине  жүктөөгө уруксат берет."</string>
+    <string name="permdesc_downloadCompletedIntent">Колдонмо аяктаган жүктөөлөр тууралуу билдирмелерди жөнөтүүгө уруксат алат. Зыяндуу колдонмолор муну башка файл жүктөөчү колдонмолорго тоскоол кылыш үчүн колдонушу мүмкүн.</string>
+    <string name="permdesc_downloadManager">Колдонмого, жүктөө мененджерине жетип, аны менен файлдарды жүктөп алууга уруксат берет. Зыяндуу колдонмолор муну колдонуп, жүктөөлөрдү үзгүлтүккө учурата алышы жана жеке маалыматка жете алышы мүмкүн.</string>
+    <string name="permdesc_downloadManagerAdvanced">Колдонмого жүктөө менежеринин озуккан функцияларына жетүү уруксатын берет. Зыяндуу колдонмолор муну колдонуп, жүктөөлөрдү үзгүлтүккө учуратышы жана жеке маалыматтарга жетиши мүмкүн.</string>
+    <string name="permdesc_downloadWithoutNotification">Колдонмо колдонуучуга эч эскертме көрсөтпөй туруп, жүктөө менежери аркылуу файлдарды жүктөп алуу уруксатын алат.</string>
+    <string name="permlab_accessAllDownloads">Бардык системдик жүктөөлөргө жетүү</string>
+    <string name="permlab_downloadCacheNonPurgeable">Жүктөө кэшинен орун ээлөө</string>
+    <string name="permlab_downloadCompletedIntent">Жүктөө эскертмелерин жөнөтүү.</string>
+    <string name="permlab_downloadManager">Жүктөө менежерине жетүү.</string>
+    <string name="permlab_downloadManagerAdvanced">Жүктөө менежеринин озуккан функцияларына жетүү.</string>
+    <string name="permlab_downloadWithoutNotification">файлдарды эскертмесиз жүктөө</string>
+    <string name="root_downloads">Жүктөлүп алынгандар</string>
+    <string name="storage_description">Жүктөлүп алынгандар</string>
+    <string name="wifi_recommended_body">"Өлчөмү %1$s  болгон жүктөөнү азыр баштасаңыз, батарейиңиздин өмүрү кыскарышы жана/же мобилдик интернет трафиги өтө көп сарпталып, тарифтик планыңызга жараша, операторуңуз сизден төлөм алышы мүмкүн.
+
+ Бул жүктөөнү сиз кийин Wi-Fi түйүнгө туташканда башташ үчүн, %2$s тийип коюңуз."</string>
+    <string name="wifi_recommended_title">Кийин жүктөө кезегине тургузулсунбу?</string>
+    <string name="wifi_required_body">"Өлчөмү %1$s  болгон бул жүктөөнү Wi-Fi менен аткарышыңыз керек. 
+
+Бул жүктөөнү сиз кийин Wi-Fi түйүнгө туташканда башташ үчүн, %2$s  тийип коюңуз."</string>
+    <string name="wifi_required_title">Мобилдик түйүн үчүн, бул өтө чоң жүктөө</string>
+</resources>

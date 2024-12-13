@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">សូមបញ្ចូល​ពាក្យសម្ងាត់​របស់អ្នក រួចបន្តទៅ​ការដំឡើងកំណែប្រព័ន្ធឌីណាមិច</string>
+    <string name="notification_action_cancel">បោះបង់</string>
+    <string name="notification_action_discard">លុបចោល</string>
+    <string name="notification_action_reboot_to_dynsystem">ចាប់ផ្ដើមឡើងវិញ</string>
+    <string name="notification_action_reboot_to_origin">ចាប់ផ្ដើមឡើងវិញ</string>
+    <string name="notification_dynsystem_in_use">បច្ចុប្បន្ន​កំពុងដំណើរការ​ប្រព័ន្ធឌីណាមិច។ ចាប់ផ្ដើម​ឡើងវិញ ដើម្បីប្រើ​កំណែ Android ដើម។</string>
+    <string name="notification_image_validation_failed">ការផ្ទៀងផ្ទាត់ច្បាប់ចម្លងថាស​មិនបានសម្រេច។ បោះបង់​ការដំឡើង។</string>
+    <string name="notification_install_completed">ប្រព័ន្ធឌីណាមិច​អាចប្រើ​បានហើយ។ ដើម្បីចាប់ផ្ដើមប្រើ​ប្រព័ន្ធឌីណាមិច សូមចាប់ផ្ដើម​ឧបករណ៍របស់អ្នក​ឡើងវិញ។</string>
+    <string name="notification_install_failed">ការដំឡើង​មិនបានសម្រេច</string>
+    <string name="notification_install_inprogress">ការដំឡើងកំពុង​ដំណើរការ</string>
+    <string name="toast_dynsystem_discarded">បានលុបចោល​ប្រព័ន្ធឌីណាមិច</string>
+    <string name="toast_failed_to_disable_dynsystem">មិនអាចបិទ​ប្រព័ន្ធឌីណាមិច​បានទេ</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">មិនអាច​ចាប់ផ្ដើមឡើងវិញ ឬផ្ទុក​ប្រព័ន្ធឌីណាមិច​បានទេ</string>
+</resources>

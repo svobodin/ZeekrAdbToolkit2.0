@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Download Manager</string>
+    <string name="button_cancel_download">ยกเลิก</string>
+    <string name="button_queue_for_wifi">คิว</string>
+    <string name="button_start_now">เริ่มต้นเดี๋ยวนี้</string>
+    <string name="download_error">ไม่สำเร็จ</string>
+    <string name="download_no_application_title">ไม่สามารถเปิดไฟล์ได้</string>
+    <string name="download_queued">อยู่ในคิว</string>
+    <string name="download_remaining">เหลืออีก %s</string>
+    <string name="download_running">กำลังดำเนินการ</string>
+    <string name="download_running_percent">กำลังดำเนินการ %s</string>
+    <string name="download_unknown_title">&lt;ไม่มีชื่อ></string>
+    <string name="notification_download_complete">ดาวน์โหลดเสร็จสมบูรณ์</string>
+    <string name="notification_download_failed">ดาวน์โหลดไม่สำเร็จ</string>
+    <string name="notification_need_wifi_for_size">ต้องใช้ WiFi ดาวน์โหลด</string>
+    <string name="notification_paused_in_background">หยุดชั่วคราวในเบื้องหลัง</string>
+    <string name="permdesc_accessAllDownloads">อนุญาตให้แอปพลิเคชันนี้ดูและแก้ไขรายการดาวน์โหลดทั้งหมดของทุกแอปพลิเคชันในระบบ</string>
+    <string name="permdesc_downloadCacheNonPurgeable">อนุญาตให้แอปพลิเคชันดาวน์โหลดไฟล์ไปยังแคชดาวน์โหลด ซึ่งไม่สามารถถูกนำออกโดยอัตโนมัติได้เมื่อตัวจัดการการดาวน์โหลดต้องใช้เนื้อที่เพิ่มเติม</string>
+    <string name="permdesc_downloadCompletedIntent">อนุญาตให้แอปพลิเคชันส่งการแจ้งเตือนเกี่ยวกับการดาวน์โหลดที่เสร็จสิ้น แอปพลิเคชันที่เป็นอันตรายสามารถใช้การทำงานนี้สร้างความสับสนแก่แอปพลิเคชันอื่นๆ ที่ดาวน์โหลดไฟล์ได้</string>
+    <string name="permdesc_downloadManager">อนุญาตให้แอปพลิเคชันเข้าถึงตัวจัดการการดาวน์โหลดและใช้ตัวจัดการนี้ในการดาวน์โหลดไฟล์ แอปพลิเคชันที่เป็นอันตรายสามารถใช้การทำงานนี้เพื่อขัดขวางการดาวน์โหลดและการเข้าถึงข้อมูลส่วนตัว</string>
+    <string name="permdesc_downloadManagerAdvanced">อนุญาตให้แอปพลิเคชันเข้าถึงฟังก์ชันขั้นสูงของตัวจัดการการดาวน์โหลด แอปพลิเคชันที่เป็นอันตรายสามารถใช้การทำงานนี้เพื่อขัดขวางการดาวน์โหลดและการเข้าถึงข้อมูลส่วนตัว</string>
+    <string name="permdesc_downloadWithoutNotification">อนุญาตให้แอปพลิเคชันดาวน์โหลดไฟล์ผ่านตัวจัดการการดาวน์โหลดโดยไม่แสดงการแจ้งเตือนแก่ผู้ใช้</string>
+    <string name="permlab_accessAllDownloads">เข้าถึงดาวน์โหลดทั้งหมดของระบบ</string>
+    <string name="permlab_downloadCacheNonPurgeable">สำรองพื้นที่ในแคชดาวน์โหลด</string>
+    <string name="permlab_downloadCompletedIntent">ส่งการแจ้งเตือนการดาวน์โหลด</string>
+    <string name="permlab_downloadManager">การเข้าถึงโปรแกรมการดาวน์โหลด</string>
+    <string name="permlab_downloadManagerAdvanced">ฟังก์ชันโปรแกรมจัดการการดาวน์โหลดขั้นสูง</string>
+    <string name="permlab_downloadWithoutNotification">ดาวน์โหลดไฟล์โดยไม่มีการแจ้งเตือน</string>
+    <string name="root_downloads">ดาวน์โหลด</string>
+    <string name="storage_description">ดาวน์โหลด</string>
+    <string name="wifi_recommended_body">"การเริ่มดาวน์โหลดรายการขนาด %1$s  ตอนนี้อาจลดเวลาใช้งานแบตเตอรี่และ/หรือทำให้ใช้งานการเชื่อมต่ออินเทอร์เน็ตมือถือมากไป ซึ่งผู้ให้บริการจะเก็บค่าใช้จ่ายตามแผนการใช้งานข้อมูลของคุณ
+
+แตะ %2$s เพื่อเริ่มการดาวน์โหลดนี้ในครั้งต่อไปที่เชื่อมต่อเครือข่าย WiFi"</string>
+    <string name="wifi_recommended_title">ต่อคิวเพื่อดาวน์โหลดในภายหลังหรือไม่</string>
+    <string name="wifi_required_body">"คุณต้องใช้ WiFi เพื่อดาวน์โหลดไฟล์ขนาด %1$s  นี้ให้เสร็จสิ้น
+
+แตะ %2$s  เพื่อเริ่มการดาวน์โหลดนี้ในครั้งต่อไปที่คุณเชื่อมต่อเครือข่าย WiFi"</string>
+    <string name="wifi_required_title">ดาวน์โหลดมีขนาดใหญ่เกินไปสำหรับเครือข่ายผู้ให้บริการ</string>
+</resources>

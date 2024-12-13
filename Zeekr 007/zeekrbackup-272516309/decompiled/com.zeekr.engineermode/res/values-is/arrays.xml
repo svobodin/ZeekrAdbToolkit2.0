@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>Sint Maarten</item>
+        <item>Karíbahafshluti Hollands</item>
+        <item>Curaçao</item>
+        <item>Suður-Súdan</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Mið-Ástralía – NT</item>
+        <item>Mið-Ástralía – SA</item>
+        <item>Staðaltími í A-Ástralíu – QLD</item>
+        <item>A-Ástralía – NSW</item>
+        <item>Staðaltími Klett. – Dawson Creek</item>
+        <item>Staðalt. miðhluta – Saskatchewan</item>
+        <item>Staðaltími A-hluta – Atikokan</item>
+        <item>Staðaltími Atlantshafs – Quebec</item>
+        <item>Hawaii og Aleútaeyjar – Hawaii</item>
+        <item>Hawaii og Aleútaeyjar – Alaska</item>
+        <item>Staðalt. Kyrrahafs – Metlakatla</item>
+        <item>Staðalt. Klettafjalla – Arizona</item>
+        <item>Kyrrahaf – Baja California</item>
+        <item>Klettafjöll – Chihuahua</item>
+        <item>Miðhluti – Tamaulipas</item>
+        <item>Klettafjöll – Sonora</item>
+        <item>Austur-Afríkutími</item>
+        <item>Staðaltími á Atlantshafssvæðinu</item>
+        <item>Staðaltími á Atlantshafssvæðinu</item>
+        <item>Austur-Evróputími</item>
+        <item>Kaliníngradtími</item>
+        <item>Amazon – Rondônia</item>
+        <item>Brasilia – Pará</item>
+    </string-array>
+</resources>

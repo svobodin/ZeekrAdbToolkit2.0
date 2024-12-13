@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Menadžer preuzimanja</string>
+    <string name="button_cancel_download">Otkaži</string>
+    <string name="button_queue_for_wifi">Red</string>
+    <string name="button_start_now">Započni</string>
+    <string name="download_error">Nije uspelo</string>
+    <string name="download_no_application_title">Nije moguće otvoriti datoteku</string>
+    <string name="download_queued">Stavljeno je na čekanje</string>
+    <string name="download_remaining">Još %s</string>
+    <string name="download_running">U toku je</string>
+    <string name="download_running_percent">U toku, %s</string>
+    <string name="download_unknown_title">&lt;Bez naslova></string>
+    <string name="notification_download_complete">Preuzimanje je završeno.</string>
+    <string name="notification_download_failed">Preuzimanje nije uspelo.</string>
+    <string name="notification_need_wifi_for_size">Veličina stavke zahteva WiFi.</string>
+    <string name="notification_paused_in_background">Pauzirano u pozadini.</string>
+    <string name="permdesc_accessAllDownloads">Omogućava aplikaciji da pregleda i menja sva preuzimanja koja je pokrenula bilo koja aplikacija u sistemu.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Omogućava aplikaciji da preuzima datoteke u keš za preuzimanje koji ne može automatski da se izbriše kada je menadžeru preuzimanja potrebno još prostora.</string>
+    <string name="permdesc_downloadCompletedIntent">Omogućava aplikaciji da šalje obaveštenja o dovršenim preuzimanjima. Zlonamerne aplikacije mogu pomoću toga da zbune ostale aplikacije koje preuzimaju datoteke.</string>
+    <string name="permdesc_downloadManager">Omogućava aplikaciji da pristupa menadžeru preuzimanja i koristi ga za preuzimanje datoteka. Zlonamerne aplikacije mogu pomoću toga da ometaju preuzimanja i pristupaju privatnim informacijama.</string>
+    <string name="permdesc_downloadManagerAdvanced">Omogućava aplikaciji da pristupa naprednim funkcijama menadžera preuzimanja. Zlonamerne aplikacije mogu pomoću toga da ometaju preuzimanja i pristupaju privatnim informacijama.</string>
+    <string name="permdesc_downloadWithoutNotification">Omogućava aplikaciji da preuzima datoteke preko menadžera preuzimanja bez prikazivanja ikakvog obaveštenja korisniku.</string>
+    <string name="permlab_accessAllDownloads">Pristupi svim sistemskim preuzimanjima</string>
+    <string name="permlab_downloadCacheNonPurgeable">Rezerviši prostor u kešu za preuzimanje</string>
+    <string name="permlab_downloadCompletedIntent">Šaljite obaveštenja o preuzimanjima.</string>
+    <string name="permlab_downloadManager">Pristup menadžeru preuzimanja.</string>
+    <string name="permlab_downloadManagerAdvanced">Napredne funkcije menadžera preuzimanja.</string>
+    <string name="permlab_downloadWithoutNotification">preuzmi datoteke bez obaveštenja</string>
+    <string name="root_downloads">Preuzimanja</string>
+    <string name="storage_description">Preuzimanja</string>
+    <string name="wifi_recommended_body">"Ovim preuzimanjem od %1$s  možete da skratite vek trajanja baterije i/ili preterano koristite mobilnu vezu za prenos podataka, što može da dovede do troškova kod mobilnog operatera shodno tarifnom paketu.
+
+ Dodirnite %2$s da biste započeli ovo preuzimanje kada se ponovo povežete sa WiFi mrežom."</string>
+    <string name="wifi_recommended_title">Želite li da stavite u red za buduće preuzimanje?</string>
+    <string name="wifi_required_body">"Morate da koristite WiFi da biste dovršili ovo preuzimanje od %1$s . 
+
+Dodirnite %2$s  da biste započeli ovo preuzimanje kada se sledeći put povežete sa WiFi mrežom."</string>
+    <string name="wifi_required_title">Preuzimanje je preveliko za mrežu operatera</string>
+</resources>

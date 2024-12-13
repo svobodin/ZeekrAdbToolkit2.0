@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_summary_active">
+        <item quantity="other">Téléchargement de %d fichiers</item>
+        <item quantity="one">Téléchargement de %d fichier</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">%d fichiers en attente</item>
+        <item quantity="one">%d fichier en attente</item>
+    </plurals>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s：無法在 Verizon 訊號涵蓋範圍之外的地點連線至 Verizon Wi-Fi Access。</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s：你並未訂閱 Verizon Wi-Fi Access。請撥打 800-922-0204 與我們聯絡。</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s：你的 Verizon Wi-Fi Access 帳戶發生問題。請撥打 800-922-0204 與我們聯絡。</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s：你已連線至 Verizon Wi-Fi Access。</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s：連線至 Verizon Wi-Fi Access 時發生問題。請撥打 800-922-0204 與我們聯絡。</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s：你的 Verizon Wi-Fi Access 帳戶發生問題。請撥打 800-922-0204 與我們聯絡。</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s：你目前的所在地點無法使用 Verizon Wi-Fi Access，請稍後再試。你也可以換個地點，然後再試一次。</string>
+</resources>

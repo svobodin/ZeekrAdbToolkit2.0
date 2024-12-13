@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">%1$d további</item>
+        <item quantity="one">%1$d további</item>
+    </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">%1$d alkalmazást több hónapja nem használt. Koppintson az áttekintéshez.</item>
+        <item quantity="one">%1$d alkalmazást több hónapja nem használt. Koppintson az áttekintéshez.</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">%1$d alkalmazást több hónapja nem használt</item>
+        <item quantity="one">%1$d alkalmazást több hónapja nem használt</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s nap</item>
+        <item quantity="one">1 nap</item>
+    </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">%s nap</item>
+        <item quantity="one">1 nap</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">%s óra</item>
+        <item quantity="one">1 óra</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">%s perc</item>
+        <item quantity="one">1 perc</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">%s másodperc</item>
+        <item quantity="one">1 másodperc</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s óra</item>
+        <item quantity="one">1 óra</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s perc</item>
+        <item quantity="one">1 perc</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d új értesítés</item>
+        <item quantity="one">%d új értesítés</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s alkalmazás</item>
+        <item quantity="one">1 alkalmazás</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s alkalmazás</item>
+        <item quantity="one">1 alkalmazás</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">%1$d alkalmazás használja</item>
+        <item quantity="one">1 alkalmazás használja</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"Legutóbbi hozzáférés: %1$s
+%2$s hozzáférés"</item>
+        <item quantity="one">"Legutóbbi hozzáférés: %1$s
+%2$s hozzáférés"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"Legutóbbi hozzáférés: %1$s
+%2$s hozzáférés (%3$s a háttérben)"</item>
+        <item quantity="one">"Legutóbbi hozzáférés: %1$s
+%2$s hozzáférés (%3$s a háttérben)"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"Legutóbbi hozzáférés: %1$s
+%2$s hozzáférés (%3$s a háttérben)
+Időtartam: %3$s"</item>
+        <item quantity="one">"Legutóbbi hozzáférés: %1$s
+%2$s hozzáférés (%3$s a háttérben)
+Időtartam: %3$s"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"Legutóbbi hozzáférés: %1$s
+%2$s hozzáférés
+Időtartam: %3$s"</item>
+        <item quantity="one">"Legutóbbi hozzáférés: %1$s
+%2$s hozzáférés
+Időtartam: %3$s"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s másodperc</item>
+        <item quantity="one">1 másodperc</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">%1$d nem használt alkalmazás</item>
+        <item quantity="one">%1$d nem használt alkalmazás</item>
+    </plurals>
+</resources>

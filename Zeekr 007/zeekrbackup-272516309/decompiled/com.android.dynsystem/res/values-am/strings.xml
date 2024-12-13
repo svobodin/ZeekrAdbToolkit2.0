@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">እባክዎ የእርስዎን የይለፍ ቃል ያስገቡ እና ወደ የተለዋዋጭ ሥርዓት ዝማኔዎች ይቀጥሉ</string>
+    <string name="notification_action_cancel">ይቅር</string>
+    <string name="notification_action_discard">አስወግድ</string>
+    <string name="notification_action_reboot_to_dynsystem">ዳግም ጀምር</string>
+    <string name="notification_action_reboot_to_origin">ዳግም ጀምር</string>
+    <string name="notification_dynsystem_in_use">የተለዋዋጭ ሥርዓትን አሁን ላይ በማስሄድ ላይ ኦርጂናሉን የAndroid ስሪት በመጠቀም ዳግም ያስጀምሩ።</string>
+    <string name="notification_image_validation_failed">የምስል ማረጋገጫ አልተሳካም። ጭነትን አጨናግፍ።</string>
+    <string name="notification_install_completed">የተለዋዋጭ ሥርዓት ዝግጁ ነው። እሱን መጠቀም ለመጀመር የእርስዎን መሣሪያ ዳግም ያስጀምሩ።</string>
+    <string name="notification_install_failed">መጫን አልተሳካም</string>
+    <string name="notification_install_inprogress">ጭነት በሂደት ላይ ነው</string>
+    <string name="toast_dynsystem_discarded">የተጣለ ተለዋዋጭ ሥርዓት</string>
+    <string name="toast_failed_to_disable_dynsystem">ተለዋዋጭ ስርዓትን ማሰናከል አልተሳካም</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">ዳግም ማስጀመር አይቻልም ወይም ተለዋዋጭ ሥርዓትን ይስቀሉ</string>
+</resources>

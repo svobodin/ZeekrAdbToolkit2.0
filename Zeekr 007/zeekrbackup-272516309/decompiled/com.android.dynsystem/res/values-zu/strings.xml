@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">Sicela ufake iphasiwedi yakho uphinde uqhubekele Ekubuyekezweni Kohlole Okunhlobonhlobo</string>
+    <string name="notification_action_cancel">Khansela</string>
+    <string name="notification_action_discard">Lahla</string>
+    <string name="notification_action_reboot_to_dynsystem">Qala kabusha</string>
+    <string name="notification_action_reboot_to_origin">Qala kabusha</string>
+    <string name="notification_dynsystem_in_use">Manje iqalisa uhlole olunhlobonhlobo. Qalisa kabusha ukuze usebenzise inguqulo yangempela ye-Android.</string>
+    <string name="notification_image_validation_failed">Ukuqinisekiswa kwe-disk image kuhlulekile. Yekisa ukufakwa.</string>
+    <string name="notification_install_completed">Uhlole Okunhlobonhlobo kulungile. Ukuze uqale ukuyisebenzisa, qalisa kabusha idivayisi yakho.</string>
+    <string name="notification_install_failed">Ukufaka kwehlulekile</string>
+    <string name="notification_install_inprogress">Ukufaka kuyaqhubeka</string>
+    <string name="toast_dynsystem_discarded">Kulahlwe uhlole olunhlobonhlobo</string>
+    <string name="toast_failed_to_disable_dynsystem">Yehlulekile ukukhubaza isistimu eguqukayo</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Ayikwazi ukuqalisa kabusha noma ukulayisha uhlole olunhlobonhlobo</string>
+</resources>

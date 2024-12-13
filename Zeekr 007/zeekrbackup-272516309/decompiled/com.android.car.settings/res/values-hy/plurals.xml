@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">Տեսախցիկի հավելվածներ</item>
+        <item quantity="one">Տեսախցիկի հավելված</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">Փոստային հավելվածներ</item>
+        <item quantity="one">Փոստային հավելված</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">Հեռախոսի հավելվածներ</item>
+        <item quantity="one">Հեռախոսի հավելված</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d փորձ</item>
+        <item quantity="one">%d փորձ</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d հավելված</item>
+        <item quantity="one">%d հավելված</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">Նվազագույնը %d հավելված</item>
+        <item quantity="one">Նվազագույնը %d հավելված</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d նոր ծանուցում</item>
+        <item quantity="one">%d նոր ծանուցում</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">Միացված է %1$d սարք</item>
+        <item quantity="one">Միացված է %1$d սարք</item>
+    </plurals>
+</resources>

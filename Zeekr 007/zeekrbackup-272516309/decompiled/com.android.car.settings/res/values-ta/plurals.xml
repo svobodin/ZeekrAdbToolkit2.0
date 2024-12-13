@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">கேமரா ஆப்ஸ்</item>
+        <item quantity="one">கேமரா ஆப்ஸ்</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">மின்னஞ்சல் கிளையன்ட் ஆப்ஸ்</item>
+        <item quantity="one">மின்னஞ்சல் கிளையன்ட் ஆப்ஸ்</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">ஃபோன் ஆப்ஸ்</item>
+        <item quantity="one">ஃபோன் ஆப்ஸ்</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d முயற்சிகள்</item>
+        <item quantity="one">%d முயற்சி</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d ஆப்ஸ்</item>
+        <item quantity="one">%d ஆப்ஸ்</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">குறைந்தது %d ஆப்ஸ்</item>
+        <item quantity="one">குறைந்தது %d ஆப்ஸ்</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d புதிய அறிவிப்புகள்</item>
+        <item quantity="one">%d புதிய அறிவிப்பு</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d சாதனங்கள் இணைக்கப்பட்டன</item>
+        <item quantity="one">%1$d சாதனம் இணைக்கப்பட்டது</item>
+    </plurals>
+</resources>

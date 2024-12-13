@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Складиште контаката</string>
+    <string name="debug_dump_database_message">Управо ћете 1) направити копију базе података која садржи све информације у вези са контактима и целокупну евиденцију позива у интерној меморији и 2) послати је имејлом. Не заборавите да избришете копију чим је будете копирали са уређаја или чим будете примили имејл.</string>
+    <string name="debug_dump_delete_button">Избриши одмах</string>
+    <string name="debug_dump_email_body">У прилогу је база података са мојим контактима и свим информацијама о њима. Рукујте пажљиво.</string>
+    <string name="debug_dump_email_sender_picker">Изаберите програм за слање датотеке</string>
+    <string name="debug_dump_email_subject">База података са контактима је у прилогу</string>
+    <string name="debug_dump_start_button">Покрени</string>
+    <string name="debug_dump_title">Копирање базе података са контактима</string>
+    <string name="default_directory">Контакти</string>
+    <string name="local_invisible_directory">Другo</string>
+    <string name="provider_label">Контакти</string>
+    <string name="sharedUserLabel">Android Core апликације</string>
+    <string name="upgrade_out_of_memory_notification_text">Додирните да бисте довршили надоградњу.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">За ажурирање контаката потребно је више меморије.</string>
+    <string name="upgrade_out_of_memory_notification_title">Надограђивање меморије за контакте</string>
+    <string name="voicemail_from_column">"Говорна пошта од "</string>
+</resources>

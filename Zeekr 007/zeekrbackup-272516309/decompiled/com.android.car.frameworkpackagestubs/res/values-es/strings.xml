@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stub de actividad</string>
+    <string name="message_not_supported">Ninguna app puede realizar esta acción</string>
+    <string name="pip_not_supported">La función de imagen en imagen no es compatible con este dispositivo</string>
+    <string name="stub_name">Ninguno</string>
+</resources>

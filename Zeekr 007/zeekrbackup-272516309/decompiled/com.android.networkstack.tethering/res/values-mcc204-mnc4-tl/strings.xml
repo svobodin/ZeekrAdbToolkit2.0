@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">I-off ang hotspot</string>
+    <string name="no_upstream_notification_message">Hindi makakonekta sa internet ang mga device</string>
+    <string name="no_upstream_notification_title">Walang internet ang hotspot</string>
+    <string name="upstream_roaming_notification_message">Posibleng magkaroon ng mga karagdagang singil habang nagro-roam</string>
+    <string name="upstream_roaming_notification_title">Naka-on ang hotspot</string>
+    <string name="upstream_roaming_notification_continue_button">Ituloy</string>
+</resources>

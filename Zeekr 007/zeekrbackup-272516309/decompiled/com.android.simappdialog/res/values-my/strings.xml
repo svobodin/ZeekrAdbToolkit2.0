@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ဆင်းမ်အက်ပ် အကွက်</string>
+    <string name="install_carrier_app_defer_action">ယခုမလုပ်ပါ</string>
+    <string name="install_carrier_app_description">သင့်ဆင်းမ်ကတ်အသစ်ကို ကောင်းမွန်စွာ အသုံးပြုနိုင်ရန် %1$s အက်ပ်ကို ထည့်သွင်းရပါမည်</string>
+    <string name="install_carrier_app_description_default">သင့်ဆင်းမ်ကတ်အသစ်ကို ကောင်းမွန်စွာ အသုံးပြုနိုင်ရန် ဝန်ဆောင်မှုပေးသူအက်ပ်ကို ထည့်သွင်းရပါမည်</string>
+    <string name="install_carrier_app_download_action">အက်ပ် ဒေါင်းလုဒ်လုပ်ရန်</string>
+    <string name="install_carrier_app_title">မိုဘိုင်းဝန်ဆောင်မှု စဖွင့်ရန်</string>
+    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
+    <string name="suw_back_button_label">နောက်သို့</string>
+    <string name="suw_more_button_label">နောက်ထပ်</string>
+    <string name="suw_next_button_label">ရှေ့သို့</string>
+</resources>

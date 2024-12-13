@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="array" name="persist_apns_for_plmn" id="0x7f010000" />
+    <public type="array" name="wfc_restore_blocked_countries" id="0x7f010001" />
+    <public type="mipmap" name="ic_launcher_phone" id="0x7f020000" />
+    <public type="string" name="apn_source_service" id="0x7f030000" />
+    <public type="string" name="app_label" id="0x7f030001" />
+    <public type="xml" name="hbpcd_lookup_tables" id="0x7f040000" />
+</resources>

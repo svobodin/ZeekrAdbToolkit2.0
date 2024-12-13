@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">കമ്പാനിയൻ ഉപകരണ മാനേജർ</string>
+    <string name="chooser_title">&lt;strong>%2$s&lt;/strong> ഉപയോഗിച്ച് മാനേജ് ചെയ്യുന്നതിന് ഒരു %1$s തിരഞ്ഞെടുക്കുക</string>
+    <string name="confirmation_title">നിങ്ങളുടെ &lt;strong>%2$s&lt;/strong> മാനേജ് ചെയ്യാൻ, &lt;strong>%1$s&lt;/strong> എന്നതിനെ അനുവദിക്കുക</string>
+    <string name="consent_no">അനുവദിക്കരുത്</string>
+    <string name="consent_yes">അനുവദിക്കുക</string>
+    <string name="profile_name_generic">ഉപകരണം</string>
+    <string name="profile_name_watch">വാച്ച്</string>
+    <string name="profile_summary">നിങ്ങളുടെ %1$s മാനേജ് ചെയ്യാൻ ഈ ആപ്പ് ആവശ്യമാണ്. %2$s</string>
+</resources>

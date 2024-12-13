@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_global_force_single_pane">false</bool>
+    <bool name="config_top_level_enable_chevrons">false</bool>
+</resources>

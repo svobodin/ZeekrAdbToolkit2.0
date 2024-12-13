@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">టెథరింగ్‌ను ఆఫ్ చేయండి</string>
+    <string name="no_upstream_notification_message">పరికరాలు కనెక్ట్ అవ్వడం లేదు</string>
+    <string name="no_upstream_notification_title">టెథరింగ్ చేయడానికి ఇంటర్నెట్ కనెక్షన్ లేదు</string>
+    <string name="upstream_roaming_notification_message">రోమింగ్‌లో ఉన్నప్పుడు అదనపు ఛార్జీలు వర్తించవచ్చు</string>
+    <string name="upstream_roaming_notification_title">హాట్‌స్పాట్ లేదా టెథరింగ్ ఆన్‌లో ఉంది</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="sensors_analytics_debug_mode_cancel" />
+    <item type="id" name="sensors_analytics_debug_mode_message" />
+    <item type="id" name="sensors_analytics_debug_mode_only" />
+    <item type="id" name="sensors_analytics_debug_mode_title" />
+    <item type="id" name="sensors_analytics_debug_mode_track" />
+    <item type="id" name="sensors_analytics_loading" />
+    <item type="id" name="sensors_analytics_pairing_code" />
+    <item type="id" name="sensors_analytics_rotate_layout" />
+    <item type="id" name="sensors_analytics_tag_view_activity" />
+    <item type="id" name="sensors_analytics_tag_view_fragment_name" />
+    <item type="id" name="sensors_analytics_tag_view_fragment_name2" />
+    <item type="id" name="sensors_analytics_tag_view_id" />
+    <item type="id" name="sensors_analytics_tag_view_ignored" />
+    <item type="id" name="sensors_analytics_tag_view_keyboard" />
+    <item type="id" name="sensors_analytics_tag_view_onclick_timestamp" />
+    <item type="id" name="sensors_analytics_tag_view_properties" />
+    <item type="id" name="sensors_analytics_tag_view_rn_key" />
+    <item type="id" name="sensors_analytics_tag_view_value" />
+    <item type="id" name="sensors_analytics_tag_view_webview" />
+    <item type="id" name="sensors_analytics_tag_view_webview_visual" />
+    <item type="id" name="sensors_analytics_verification_code_title" />
+    <item type="id" name="sensorsdata_analytics_loading_image1" />
+    <item type="id" name="sensorsdata_analytics_loading_image2" />
+    <item type="id" name="sensorsdata_analytics_loading_image3" />
+    <item type="id" name="sensorsdata_analytics_loading_image4" />
+</resources>

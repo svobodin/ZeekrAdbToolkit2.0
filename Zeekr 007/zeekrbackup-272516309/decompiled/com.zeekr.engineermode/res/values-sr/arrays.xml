@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>Свети Мартин</item>
+        <item>Карипска Холандија</item>
+        <item>Курасао</item>
+        <item>Јужни Судан</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Аустралијско централно – север</item>
+        <item>Аустралијско централно – југ</item>
+        <item>Источноаустралијско – Квинсланд</item>
+        <item>Источноаустр. – Нови Јужни Велс</item>
+        <item>Планинско стандард. – Досон Крик</item>
+        <item>Централ. стандардно – Саскачеван</item>
+        <item>Источно стандардно – Атикокан</item>
+        <item>Атланско стандардно – Квебек</item>
+        <item>Хавајско-алеутско – Хаваји</item>
+        <item>Хавајско-алеутско – Аљаска</item>
+        <item>Пацифик, стандардно – Метлакатла</item>
+        <item>Планинско стандардно – Аризона</item>
+        <item>Пацифик – Доња Калифорнија</item>
+        <item>Планинско – Чихуахуа</item>
+        <item>Централно – Тамаулипас</item>
+        <item>Планинско – Сонора</item>
+        <item>Источноафричко време</item>
+        <item>Атланско стандардно време</item>
+        <item>Атланско стандардно време</item>
+        <item>Источноевропско време</item>
+        <item>Калињинградско време</item>
+        <item>Амазон – Рондонија</item>
+        <item>Бразилија – Пара</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Gailu osagarriaren kudeatzailea</string>
+    <string name="chooser_title">Aukeratu &lt;strong>%2$s&lt;/strong> aplikazioak kudeatu beharreko %1$s</string>
+    <string name="confirmation_title">Eman &lt;strong>%2$s&lt;/strong> kudeatzeko baimena &lt;strong>%1$s&lt;/strong> aplikazioari</string>
+    <string name="consent_no">Ez eman baimenik</string>
+    <string name="consent_yes">Eman baimena</string>
+    <string name="profile_name_generic">gailua</string>
+    <string name="profile_name_watch">erlojua</string>
+    <string name="profile_summary">Aplikazioa %1$s kudeatzeko beharrezkoa da. %2$s</string>
+</resources>

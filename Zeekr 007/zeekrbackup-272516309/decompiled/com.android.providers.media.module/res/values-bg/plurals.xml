@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">Да се разреши ли на ^1 да изтрие ^2 аудиофайла?</item>
+        <item quantity="one">Да се разреши ли на ^1 да изтрие този аудиофайл?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">Да се разреши ли на ^1 да изтрие ^2 елемента?</item>
+        <item quantity="one">Да се разреши ли на ^1 да изтрие този елемент?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">Да се разреши ли на ^1 да изтрие ^2 снимки?</item>
+        <item quantity="one">Да се разреши ли на ^1 да изтрие тази снимка?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">Да се разреши ли на ^1 да изтрие ^2 видеоклипа?</item>
+        <item quantity="one">Да се разреши ли на ^1 да изтрие този видеоклип?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">И още ^1 допълнителни елемента</item>
+        <item quantity="one">И още ^1 допълнителен елемент</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">+ ^1</item>
+        <item quantity="one">+ ^1</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">^1 аудиофайла се изтриват…</item>
+        <item quantity="one">Аудиофайлът се изтрива…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">^1 елемента се изтриват…</item>
+        <item quantity="one">Елементът се изтрива…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">^1 снимки се изтриват…</item>
+        <item quantity="one">Снимката се изтрива…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">^1 видеоклипа се изтриват…</item>
+        <item quantity="one">Видеоклипът се изтрива…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">^1 аудиофайла се преместват в кошчето…</item>
+        <item quantity="one">Аудиофайлът се премества в кошчето…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">^1 елемента се преместват в кошчето…</item>
+        <item quantity="one">Елементът се премества в кошчето…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">^1 снимки се преместват в кошчето…</item>
+        <item quantity="one">Снимката се премества в кошчето…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">^1 видеоклипа се преместват в кошчето…</item>
+        <item quantity="one">Видеоклипът се премества в кошчето…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">^1 аудиофайла се преместват извън кошчето…</item>
+        <item quantity="one">Аудиофайлът се премества извън кошчето…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">^1 елемента се преместват извън кошчето…</item>
+        <item quantity="one">Елементът се премества извън кошчето…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">^1 снимки се преместват извън кошчето…</item>
+        <item quantity="one">Снимката се премества извън кошчето…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">^1 видеоклипа се преместват извън кошчето…</item>
+        <item quantity="one">Видеоклипът се премества извън кошчето…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">^1 аудиофайла се променят…</item>
+        <item quantity="one">Аудиофайлът се променя…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">^1 елемента се променят…</item>
+        <item quantity="one">Елементът се променя…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">^1 снимки се променят…</item>
+        <item quantity="one">Снимката се променя…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">^1 видеоклипа се променят…</item>
+        <item quantity="one">Видеоклипът се променя…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">Да се разреши ли на ^1 да премести ^2 аудиофайла в кошчето?</item>
+        <item quantity="one">Да се разреши ли на ^1 да премести този аудиофайл в кошчето?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">Да се разреши ли на ^1 да премести ^2 елемента в кошчето?</item>
+        <item quantity="one">Да се разреши ли на ^1 да премести този елемент в кошчето?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">Да се разреши ли на ^1 да премести ^2 снимки в кошчето?</item>
+        <item quantity="one">Да се разреши ли на ^1 да премести тази снимка в кошчето?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">Да се разреши ли на ^1 да премести ^2 видеоклипа в кошчето?</item>
+        <item quantity="one">Да се разреши ли на ^1 да премести този видеоклип в кошчето?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">Да се разреши ли на ^1 да премести ^2 аудиофайла извън кошчето?</item>
+        <item quantity="one">Да се разреши ли на ^1 да премести този аудиофайл извън кошчето?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">Да се разреши ли на ^1 да премести ^2 елемента извън кошчето?</item>
+        <item quantity="one">Да се разреши ли на ^1 да премести този елемент извън кошчето?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">Да се разреши ли на ^1 да премести ^2 снимки извън кошчето?</item>
+        <item quantity="one">Да се разреши ли на ^1 да премести тази снимка извън кошчето?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">Да се разреши ли на ^1 да премести ^2 видеоклипа извън кошчето?</item>
+        <item quantity="one">Да се разреши ли на ^1 да премести този видеоклип извън кошчето?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">Да се разреши ли на ^1 да промени ^2 аудиофайла?</item>
+        <item quantity="one">Да се разреши ли на ^1 да промени този аудиофайл?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">Да се разреши ли на ^1 да промени ^2 елемента?</item>
+        <item quantity="one">Да се разреши ли на ^1 да промени този елемент?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">Да се разреши ли на ^1 да промени ^2 снимки?</item>
+        <item quantity="one">Да се разреши ли на ^1 да промени тази снимка?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">Да се разреши ли на ^1 да промени ^2 видеоклипа?</item>
+        <item quantity="one">Да се разреши ли на ^1 да промени този видеоклип?</item>
+    </plurals>
+</resources>

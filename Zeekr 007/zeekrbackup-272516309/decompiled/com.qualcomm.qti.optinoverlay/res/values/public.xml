@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="color" name="dialog_button_color" id="0x7f010000" />
+    <public type="color" name="dialog_link_color" id="0x7f010001" />
+    <public type="color" name="dialog_message_color" id="0x7f010002" />
+    <public type="color" name="dialog_title_color" id="0x7f010003" />
+    <public type="color" name="transparent" id="0x7f010004" />
+    <public type="integer" name="dialog_message_typeface" id="0x7f020000" />
+    <public type="integer" name="dialog_padding_msg_bottom" id="0x7f020001" />
+    <public type="integer" name="dialog_padding_msg_left" id="0x7f020002" />
+    <public type="integer" name="dialog_padding_msg_right" id="0x7f020003" />
+    <public type="integer" name="dialog_padding_msg_top" id="0x7f020004" />
+    <public type="integer" name="dialog_padding_title_bottom" id="0x7f020005" />
+    <public type="integer" name="dialog_padding_title_left" id="0x7f020006" />
+    <public type="integer" name="dialog_padding_title_right" id="0x7f020007" />
+    <public type="integer" name="dialog_padding_title_top" id="0x7f020008" />
+    <public type="integer" name="dialog_title_typeface" id="0x7f020009" />
+    <public type="style" name="DisableAppStartingTheme" id="0x7f030000" />
+    <public type="style" name="TextAppearance_dialog_message" id="0x7f030001" />
+    <public type="style" name="TextAppearance_dialog_title" id="0x7f030002" />
+    <public type="style" name="XTActivityTheme" id="0x7f030003" />
+    <public type="style" name="XTDialogTheme" id="0x7f030004" />
+    <public type="style" name="XTNoticeActivityTheme" id="0x7f030005" />
+</resources>

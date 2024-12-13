@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">Ще %1$d</item>
+        <item quantity="one">Ще %1$d</item>
+        <item quantity="few">Ще %1$d</item>
+        <item quantity="many">Ще %1$d</item>
+    </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">%1$d додатка не використовувалися кілька місяців. Натисніть, щоб переглянути</item>
+        <item quantity="one">%1$d додаток не використовувався кілька місяців. Натисніть, щоб переглянути</item>
+        <item quantity="few">%1$d додатки не використовувалися кілька місяців. Натисніть, щоб переглянути</item>
+        <item quantity="many">%1$d додатків не використовувалися кілька місяців. Натисніть, щоб переглянути</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">%1$d додатка не використовувалися кілька місяців</item>
+        <item quantity="one">%1$d додаток не використовувався кілька місяців</item>
+        <item quantity="few">%1$d додатки не використовувалися кілька місяців</item>
+        <item quantity="many">%1$d додатків не використовувалися кілька місяців</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s дня</item>
+        <item quantity="one">%s день</item>
+        <item quantity="few">%s дні</item>
+        <item quantity="many">%s днів</item>
+    </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">%s дня</item>
+        <item quantity="one">%s день</item>
+        <item quantity="few">%s дні</item>
+        <item quantity="many">%s днів</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">%s години</item>
+        <item quantity="one">%s година</item>
+        <item quantity="few">%s години</item>
+        <item quantity="many">%s годин</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">%s хвилини</item>
+        <item quantity="one">%s хвилина</item>
+        <item quantity="few">%s хвилини</item>
+        <item quantity="many">%s хвилин</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">%s секунди</item>
+        <item quantity="one">%s секунда</item>
+        <item quantity="few">%s секунди</item>
+        <item quantity="many">%s секунд</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s години</item>
+        <item quantity="one">%s година</item>
+        <item quantity="few">%s години</item>
+        <item quantity="many">%s годин</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s хвилини</item>
+        <item quantity="one">%s хвилина</item>
+        <item quantity="few">%s хвилини</item>
+        <item quantity="many">%s хвилин</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нового сповіщення</item>
+        <item quantity="one">%d нове сповіщення</item>
+        <item quantity="few">%d нові сповіщення</item>
+        <item quantity="many">%d нових сповіщень</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s додатка</item>
+        <item quantity="one">%s додаток</item>
+        <item quantity="few">%s додатки</item>
+        <item quantity="many">%s додатків</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s додатка</item>
+        <item quantity="one">%s додаток</item>
+        <item quantity="few">%s додатки</item>
+        <item quantity="many">%s додатків</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">Використано в %1$d додатка</item>
+        <item quantity="one">Використано в %1$d додатку</item>
+        <item quantity="few">Використано в %1$d додатках</item>
+        <item quantity="many">Використано в %1$d додатках</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"Останні сеанси доступу: %1$s
+%2$s сеансу"</item>
+        <item quantity="one">"Останні сеанси доступу: %1$s
+%2$s сеанс"</item>
+        <item quantity="few">"Останні сеанси доступу: %1$s
+%2$s сеанси"</item>
+        <item quantity="many">"Останні сеанси доступу: %1$s
+%2$s сеансів"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"Останні сеанси доступу: %1$s
+%2$s сеансу (%3$s у фоновому режимі)"</item>
+        <item quantity="one">"Останні сеанси доступу: %1$s
+%2$s сеанс (%3$s у фоновому режимі)"</item>
+        <item quantity="few">"Останні сеанси доступу: %1$s
+%2$s сеанси (%3$s у фоновому режимі)"</item>
+        <item quantity="many">"Останні сеанси доступу: %1$s
+%2$s сеансів (%3$s у фоновому режимі)"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"Останні сеанси доступу: %1$s
+%2$s сеансу (%3$s у фоновому режимі)
+Тривалість: %3$s"</item>
+        <item quantity="one">"Останні сеанси доступу: %1$s
+%2$s сеанс (%3$s у фоновому режимі)
+Тривалість: %3$s"</item>
+        <item quantity="few">"Останні сеанси доступу: %1$s
+%2$s сеанси (%3$s у фоновому режимі)
+Тривалість: %3$s"</item>
+        <item quantity="many">"Останні сеанси доступу: %1$s
+%2$s сеансів (%3$s у фоновому режимі)
+Тривалість: %3$s"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"Останні сеанси доступу: %1$s
+%2$s сеансу
+Тривалість: %3$s"</item>
+        <item quantity="one">"Останні сеанси доступу: %1$s
+%2$s сеанс
+Тривалість: %3$s"</item>
+        <item quantity="few">"Останні сеанси доступу: %1$s
+%2$s сеанси
+Тривалість: %3$s"</item>
+        <item quantity="many">"Останні сеанси доступу: %1$s
+%2$s сеансів
+Тривалість: %3$s"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s секунди</item>
+        <item quantity="one">%s секунда</item>
+        <item quantity="few">%s секунди</item>
+        <item quantity="many">%s секунд</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">%1$d додатка, що не використовується</item>
+        <item quantity="one">%1$d додаток, що не використовується</item>
+        <item quantity="few">%1$d додатки, що не використовуються</item>
+        <item quantity="many">%1$d додатків, що не використовуються</item>
+    </plurals>
+</resources>

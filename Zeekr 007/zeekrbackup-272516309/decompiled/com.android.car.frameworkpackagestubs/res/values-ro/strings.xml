@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Activity Stub</string>
+    <string name="message_not_supported">Aplicațiile nu pot gestiona acțiunea</string>
+    <string name="pip_not_supported">Funcția picture-in-picture nu este acceptată pe acest dispozitiv</string>
+    <string name="stub_name">Fără</string>
+</resources>

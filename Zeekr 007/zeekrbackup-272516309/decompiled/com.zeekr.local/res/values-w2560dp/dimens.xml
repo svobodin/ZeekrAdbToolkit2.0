@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="media_source_checked_margin_end">35.0dip</dimen>
+    <dimen name="media_source_checked_size">52.0dip</dimen>
+    <dimen name="media_source_icon_size">58.0dip</dimen>
+    <dimen name="media_source_item_height">110.0dip</dimen>
+    <dimen name="media_source_item_padding_start">42.0dip</dimen>
+    <dimen name="media_source_name_margin_start">32.0dip</dimen>
+    <dimen name="media_source_name_text_size">32.0sp</dimen>
+    <dimen name="media_source_recy_padding_bottom">24.0dip</dimen>
+    <dimen name="media_source_recy_padding_top">16.0dip</dimen>
+    <dimen name="media_source_window_bottom_edge">50.0dip</dimen>
+    <dimen name="media_source_window_radius">16.0dip</dimen>
+    <dimen name="media_source_window_shadow_length">24.0dip</dimen>
+    <dimen name="media_source_window_top_edge">60.0dip</dimen>
+    <dimen name="media_source_window_width">660.0dip</dimen>
+    <dimen name="media_sourcelist_height_max">640.0dip</dimen>
+    <dimen name="media_sourcelist_height_min">590.0dip</dimen>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">Adja meg jelszavát, hogy használhassa a Dinamikus rendszerfrissítések funkciót</string>
+    <string name="notification_action_cancel">Mégse</string>
+    <string name="notification_action_discard">Elvetés</string>
+    <string name="notification_action_reboot_to_dynsystem">Újraindítás</string>
+    <string name="notification_action_reboot_to_origin">Újraindítás</string>
+    <string name="notification_dynsystem_in_use">Jelenleg dinamikus rendszert futtat. Az eredeti Android-verzió használatához indítsa újra az eszközt.</string>
+    <string name="notification_image_validation_failed">A lemezkép ellenőrzése nem sikerült. A telepítés megszakad.</string>
+    <string name="notification_install_completed">A dinamikus rendszer készen áll. A használatához indítsa újra az eszközt.</string>
+    <string name="notification_install_failed">Sikertelen telepítés</string>
+    <string name="notification_install_inprogress">Telepítés…</string>
+    <string name="toast_dynsystem_discarded">Elvetett dinamikus rendszer</string>
+    <string name="toast_failed_to_disable_dynsystem">Nem sikerült kikapcsolni a dinamikus rendszert</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Nem lehet újraindítani vagy betölteni a dinamikus rendszert</string>
+</resources>

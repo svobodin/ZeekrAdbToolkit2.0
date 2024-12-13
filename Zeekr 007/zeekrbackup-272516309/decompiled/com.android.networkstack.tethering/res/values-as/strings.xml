@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="disable_tether_notification_message">সবিশেষ জানিবলৈ আপোনাৰ প্ৰশাসকৰ সৈতে যোগাযোগ কৰক</string>
+    <string name="disable_tether_notification_title">"টে'ডাৰিঙৰ সুবিধাটো অক্ষম কৰি থোৱা হৈছে"</string>
+    <string name="no_upstream_notification_disable_button" />
+    <string name="no_upstream_notification_message" />
+    <string name="no_upstream_notification_title" />
+    <string name="notification_channel_tethering_status">"হ’টস্প'ট আৰু টে'ডাৰিঙৰ স্থিতি"</string>
+    <string name="tethered_notification_message">ছেট আপ কৰিবলৈ টিপক।</string>
+    <string name="tethered_notification_title">"টে'ডাৰিং অথবা হ'টস্প'ট সক্ৰিয় অৱস্থাত আছে"</string>
+    <string name="upstream_roaming_notification_message" />
+    <string name="upstream_roaming_notification_title" />
+</resources>

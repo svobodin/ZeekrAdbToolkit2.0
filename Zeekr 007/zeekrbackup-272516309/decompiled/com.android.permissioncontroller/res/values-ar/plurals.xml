@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">%1$d من الأذونات الأخرى</item>
+        <item quantity="zero">%1$dلا أذونات أخرى</item>
+        <item quantity="one">%1$dإذن واحد آخر</item>
+        <item quantity="two">إذنان آخران (%1$d)</item>
+        <item quantity="few">%1$d أذونات أخرى</item>
+        <item quantity="many">%1$d إذنًا آخر</item>
+    </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">لم يتم استخدام %1$d تطبيق منذ عدة شهور. انقر لمراجعة الأذونات.</item>
+        <item quantity="zero">لم يتم استخدام %1$d تطبيق منذ عدة شهور. انقر لمراجعة الأذونات.</item>
+        <item quantity="one">لم يتم استخدام تطبيق واحد (%1$d) منذ عدة أشهر. انقر لمراجعة الأذونات.</item>
+        <item quantity="two">لم يتم استخدام تطبيقين (%1$d) منذ عدة أشهر. انقر لمراجعة الأذونات.</item>
+        <item quantity="few">لم يتم استخدام %1$d تطبيقات منذ عدة شهور. انقر لمراجعة الأذونات.</item>
+        <item quantity="many">لم يتم استخدام %1$d تطبيقًا منذ عدة شهور. انقر لمراجعة الأذونات.</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">لم يتم استخدام %1$d تطبيق منذ عدة شهور.</item>
+        <item quantity="zero">لم يتم استخدام %1$d تطبيق منذ عدة شهور.</item>
+        <item quantity="one">لم يتم استخدام تطبيق واحد (%1$d) منذ عدة أشهر.</item>
+        <item quantity="two">لم يتم استخدام تطبيقين (%1$d) منذ عدة أشهر.</item>
+        <item quantity="few">لم يتم استخدام %1$d تطبيقات منذ عدة شهور.</item>
+        <item quantity="many">لم يتم استخدام %1$d تطبيقًا منذ عدة شهور.</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s يوم</item>
+        <item quantity="zero">%s يوم</item>
+        <item quantity="one">يوم واحد</item>
+        <item quantity="two">يومان (%s)</item>
+        <item quantity="few">%s أيام</item>
+        <item quantity="many">%s يومًا</item>
+    </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">%s يوم</item>
+        <item quantity="zero">%s يوم</item>
+        <item quantity="one">يوم واحد</item>
+        <item quantity="two">يومان (%s)</item>
+        <item quantity="few">%s أيام</item>
+        <item quantity="many">%s يومًا</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">%s ساعة</item>
+        <item quantity="zero">%s ساعة</item>
+        <item quantity="one">ساعة واحدة</item>
+        <item quantity="two">ساعتان (%s)</item>
+        <item quantity="few">%s ساعات</item>
+        <item quantity="many">%s ساعة</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">%s دقيقة</item>
+        <item quantity="zero">%s دقيقة</item>
+        <item quantity="one">دقيقة واحدة</item>
+        <item quantity="two">دقيقتان (%s)</item>
+        <item quantity="few">%s دقائق</item>
+        <item quantity="many">%s دقيقة</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">%s ثانية</item>
+        <item quantity="zero">%s ثانية</item>
+        <item quantity="one">ثانية واحدة</item>
+        <item quantity="two">ثانيتان (%s)</item>
+        <item quantity="few">%s ثوانٍ</item>
+        <item quantity="many">%s ثانية</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s ساعة</item>
+        <item quantity="zero">%s ساعة</item>
+        <item quantity="one">ساعة واحدة</item>
+        <item quantity="two">ساعتان (%s)</item>
+        <item quantity="few">%s ساعات</item>
+        <item quantity="many">%s ساعة</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s دقيقة</item>
+        <item quantity="zero">%s دقيقة</item>
+        <item quantity="one">دقيقة واحدة</item>
+        <item quantity="two">دقيقتان (%s)</item>
+        <item quantity="few">%s دقائق</item>
+        <item quantity="many">%s دقيقة</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d إشعار جديد</item>
+        <item quantity="zero">%d إشعار جديد</item>
+        <item quantity="one">إشعار جديد واحد (%d)</item>
+        <item quantity="two">إشعاران جديدان (%d)</item>
+        <item quantity="few">%d إشعارات جديدة</item>
+        <item quantity="many">%d إشعارًا جديدًا</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s تطبيق</item>
+        <item quantity="zero">%s تطبيق</item>
+        <item quantity="one">تطبيق واحد</item>
+        <item quantity="two">تطبيقان (%s)</item>
+        <item quantity="few">%s تطبيقات</item>
+        <item quantity="many">%s تطبيقًا</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s تطبيق</item>
+        <item quantity="zero">%s تطبيق</item>
+        <item quantity="one">تطبيق واحد</item>
+        <item quantity="two">تطبيقان (%s)</item>
+        <item quantity="few">%s تطبيقات</item>
+        <item quantity="many">%s تطبيقًا</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">يستخدمه %1$d تطبيق.</item>
+        <item quantity="zero">يستخدمه %1$d تطبيق.</item>
+        <item quantity="one">يستخدمه تطبيق واحد.</item>
+        <item quantity="two">يستخدمه تطبيقان (%1$d).</item>
+        <item quantity="few">يستخدمه %1$d تطبيقات.</item>
+        <item quantity="many">يستخدمه %1$d تطبيقًا.</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"آخر إذن وصول: %1$s
+%2$s إذن وصول"</item>
+        <item quantity="zero">"آخر إذن وصول: %1$s
+%2$s إذن وصول"</item>
+        <item quantity="one">"آخر إذن وصول: %1$s
+%2$s إذن وصول"</item>
+        <item quantity="two">"آخر إذن وصول: %1$s
+إذنا وصول (%2$s)"</item>
+        <item quantity="few">"آخر إذن وصول: %1$s
+%2$s أذونات وصول"</item>
+        <item quantity="many">"آخر إذن وصول: %1$s
+%2$s إذن وصول"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"آخر إذن وصول: %1$s
+%2$s إذن وصول (%3$s في الخلفية)"</item>
+        <item quantity="zero">"آخر إذن وصول: %1$s
+%2$s إذن وصول (%3$s في الخلفية)"</item>
+        <item quantity="one">"آخر إذن وصول: %1$s
+%2$s إذن وصول (%3$s في الخلفية)"</item>
+        <item quantity="two">"آخر إذن وصول: %1$s
+إذنا وصول (%2$s) (%3$s في الخلفية)"</item>
+        <item quantity="few">"آخر إذن وصول: %1$s
+%2$s أذونات وصول (%3$s في الخلفية)"</item>
+        <item quantity="many">"آخر إذن وصول: %1$s
+%2$s إذن وصول (%3$s في الخلفية)"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"آخر إذن وصول: %1$s
+%2$s إذن وصول (%3$s في الخلفية)
+المدة: %3$s"</item>
+        <item quantity="zero">"آخر إذن وصول: %1$s
+%2$s إذن وصول (%3$s في الخلفية)
+المدة: %3$s"</item>
+        <item quantity="one">"آخر إذن وصول: %1$s
+%2$s إذن وصول (%3$s في الخلفية)
+المدة: %3$s"</item>
+        <item quantity="two">"آخر إذن وصول: %1$s
+إذنا وصول (%2$s) (%3$s في الخلفية)
+المدة: %3$s"</item>
+        <item quantity="few">"آخر إذن وصول: %1$s
+%2$s أذونات وصول (%3$s في الخلفية)
+المدة: %3$s"</item>
+        <item quantity="many">"آخر إذن وصول: %1$s
+%2$s إذن وصول (%3$s في الخلفية)
+المدة: %3$s"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"آخر إذن وصول: %1$s
+%2$s إذن وصول
+المدة: %3$s"</item>
+        <item quantity="zero">"آخر إذن وصول: %1$s
+%2$s إذن وصول
+المدة: %3$s"</item>
+        <item quantity="one">"آخر إذن وصول: %1$s
+%2$s إذن وصول
+المدة: %3$s"</item>
+        <item quantity="two">"آخر إذن وصول: %1$s
+إذنا وصول (%2$s)
+المدة: %3$s"</item>
+        <item quantity="few">"آخر إذن وصول: %1$s
+%2$s أذونات وصول
+المدة: %3$s"</item>
+        <item quantity="many">"آخر إذن وصول: %1$s
+%2$s إذن وصول
+المدة: %3$s"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s ثانية</item>
+        <item quantity="zero">%s ثانية</item>
+        <item quantity="one">ثانية واحدة</item>
+        <item quantity="two">ثانيتان (%s)</item>
+        <item quantity="few">%s ثوانٍ</item>
+        <item quantity="many">%s ثانية</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">%1$d تطبيق غير مستخدم</item>
+        <item quantity="zero">%1$d تطبيق غير مستخدم</item>
+        <item quantity="one">تطبيق واحد (%1$d) غير مستخدم</item>
+        <item quantity="two">تطبيقان (%1$d) غير مستخدمين</item>
+        <item quantity="few">%1$d تطبيقات غير مستخدمة</item>
+        <item quantity="many">%1$d تطبيقًا غير مستخدم</item>
+    </plurals>
+</resources>

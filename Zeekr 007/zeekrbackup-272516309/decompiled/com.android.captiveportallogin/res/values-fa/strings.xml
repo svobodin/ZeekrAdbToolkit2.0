@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">ورود به سیستم شبکه</string>
+    <string name="action_bar_title">‏ورود به سیستم %1$s</string>
+    <string name="action_do_not_use_network">از این شبکه استفاده نشود</string>
+    <string name="action_use_network">از این شبکه همانطور که هست استفاده شود</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">اعلان‌هایی که میزان پیشرفت بارگیری فایل‌ها را نشان می‌دهند</string>
+    <string name="channel_description_downloads">اعلان‌هایی که بارگیری‌های کامل‌شده یا لغوشده را نشان می‌دهند</string>
+    <string name="channel_name_download_progress">پیشرفت بارگیری</string>
+    <string name="channel_name_downloads">بارگیری‌ها</string>
+    <string name="custom_scheme_example">به‌عنوان مثال، صفحه ورود به سیستم ممکن است برای اصالت‌سنجی به برنامه‌ای خاص نیاز داشته باشد</string>
+    <string name="custom_scheme_warning">شبکه‌ای که سعی دارید به آن بپیوندید درخواست کرده است برنامه دیگری را باز کنید.</string>
+    <string name="download_completed">بارگیری کامل شد</string>
+    <string name="downloading_paramfile">‏درحال بارگیری %1$s</string>
+    <string name="error_continue_via_browser">درهر صورت ازطریق مرورگر ادامه یابد</string>
+    <string name="error_downloading_paramfile">‏%1$s بارگیری نشد</string>
+    <string name="no_bypass_error_vpnwarning">‏به‌علاوه، نمی‌توانید این خطا را دور بزنید، زیرا درحال‌حاضر دستگاه درحال استفاده از VPN است.</string>
+    <string name="ok">تأیید</string>
+    <string name="page_info">اطلاعات صفحه</string>
+    <string name="page_info_address">نشانی:</string>
+    <string name="ssl_error_date_invalid">تاریخ این گواهی نامعتبر است.</string>
+    <string name="ssl_error_example">به عنوان مثال، صفحه ورود به سیستم ممکن است متعلق به سازمان نشان داده شده نباشد.</string>
+    <string name="ssl_error_expired">این گواهی منقضی شده است.</string>
+    <string name="ssl_error_invalid">این گواهی نامعتبر است.</string>
+    <string name="ssl_error_mismatch">نام سایت با نام موجود در گواهی مطابقت ندارد.</string>
+    <string name="ssl_error_not_yet_valid">این گواهی هنوز معتبر نیست.</string>
+    <string name="ssl_error_unknown">خطای ناشناخته در گواهی.</string>
+    <string name="ssl_error_untrusted">این گواهی از یک منبع مورد‌اطمینان صادر نشده است.</string>
+    <string name="ssl_error_view_certificate">مشاهده گواهی</string>
+    <string name="ssl_error_warning">شبکه‌ای که می‌خواهید به آن بپیوندید مشکلات امنیتی دارد.</string>
+    <string name="ssl_security_warning_title">اخطار امنیتی</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

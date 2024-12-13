@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="a2dp_sink_automatically_request_audio_focus">false</bool>
+    <bool name="avrcp_controller_cover_art_browsed_images">false</bool>
+    <bool name="avrcp_controller_enable_cover_art">true</bool>
+    <bool name="avrcp_target_cover_art_uri_images">false</bool>
+    <bool name="avrcp_target_enable_cover_art">false</bool>
+    <bool name="config_bluetooth_pan_enable_autoconnect">true</bool>
+    <bool name="enable_gd_up_to_scanning_layer">false</bool>
+    <bool name="enable_phone_policy">false</bool>
+    <bool name="headset_client_initial_audio_route_allowed">true</bool>
+    <bool name="hfp_clcc_poll_during_call">true</bool>
+    <bool name="hfp_client_connection_service_enabled">false</bool>
+    <bool name="hfp_client_connection_service_support_emergency_call">false</bool>
+    <bool name="pbap_include_photos_in_vcard">false</bool>
+    <bool name="pbap_use_profile_for_owner_vcard">false</bool>
+    <bool name="profile_supported_a2dp">true</bool>
+    <bool name="profile_supported_a2dp_sink">false</bool>
+    <bool name="profile_supported_avrcp_controller">false</bool>
+    <bool name="profile_supported_avrcp_target">true</bool>
+    <bool name="profile_supported_gatt">true</bool>
+    <bool name="profile_supported_hfp_incallservice">false</bool>
+    <bool name="profile_supported_hfpclient">false</bool>
+    <bool name="profile_supported_hid_device">true</bool>
+    <bool name="profile_supported_hid_host">true</bool>
+    <bool name="profile_supported_hs_hfp">false</bool>
+    <bool name="profile_supported_map">false</bool>
+    <bool name="profile_supported_mapmce">false</bool>
+    <bool name="profile_supported_opp">false</bool>
+    <bool name="profile_supported_pan">false</bool>
+    <bool name="profile_supported_pbap">false</bool>
+    <bool name="profile_supported_pbapclient">false</bool>
+    <bool name="profile_supported_sap">false</bool>
+    <bool name="strict_location_check">true</bool>
+</resources>

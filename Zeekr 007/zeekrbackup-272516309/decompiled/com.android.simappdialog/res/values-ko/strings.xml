@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SIM 앱 대화상자</string>
+    <string name="install_carrier_app_defer_action">나중에</string>
+    <string name="install_carrier_app_description">새로운 SIM을 정상적으로 사용하려면 %1$s 앱을 설치해야 합니다.</string>
+    <string name="install_carrier_app_description_default">새로운 SIM을 정상적으로 사용하려면 이동통신사 앱을 설치해야 합니다.</string>
+    <string name="install_carrier_app_download_action">앱 다운로드</string>
+    <string name="install_carrier_app_title">모바일 서비스 활성화</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">뒤로</string>
+    <string name="suw_more_button_label">더보기</string>
+    <string name="suw_next_button_label">다음</string>
+</resources>

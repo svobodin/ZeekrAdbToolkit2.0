@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">Vumela i-^1 ukususa amafayela omsindo angu-^2?</item>
+        <item quantity="one">Vumela i-^1 ukususa amafayela omsindo angu-^2?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">Vumela i-^1 ukususa izinto ezingu-^2?</item>
+        <item quantity="one">Vumela i-^1 ukususa izinto ezingu-^2?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">Vumela i-^1 ukususa izithombe ezingu-^2?</item>
+        <item quantity="one">Vumela i-^1 ukususa izithombe ezingu-^2?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">Vumela i-^1 ukususa amavidiyo angu-^2?</item>
+        <item quantity="one">Vumela i-^1 ukususa amavidiyo angu-^2?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">Kanye no-^1 izinto ezingeziwe</item>
+        <item quantity="one">Kanye no-^1 izinto ezingeziwe</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">+^1</item>
+        <item quantity="one">+^1</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">Isusa amafayela omsindo angu-^1…</item>
+        <item quantity="one">Isusa amafayela omsindo angu-^1…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">Isusa izinto ezingu-^1…</item>
+        <item quantity="one">Isusa izinto ezingu-^1…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">Isusa izithombe ezingu-^1…</item>
+        <item quantity="one">Isusa izithombe ezingu-^1…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">Isusa amavidiyo angu-^1…</item>
+        <item quantity="one">Isusa amavidiyo angu-^1…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">Ihambisa amafayela womsindo angu-^1 kudoti…</item>
+        <item quantity="one">Ihambisa amafayela womsindo angu-^1 kudoti…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">Ihambisa izinto ezingu-^1 kudoti…</item>
+        <item quantity="one">Ihambisa izinto ezingu-^1 kudoti…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">Ihambisa izithombe ezingu-^1 kudoti…</item>
+        <item quantity="one">Ihambisa izithombe ezingu-^1 kudoti…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">Ihambisa amavidiyo angu-^1 kudoti…</item>
+        <item quantity="one">Ihambisa amavidiyo angu-^1 kudoti…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">Ikhipha amafayela omsindo angu-^1 kudoti…</item>
+        <item quantity="one">Ikhipha amafayela omsindo angu-^1 kudoti…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">Ikhipha izinto ezingu-^1 kudoti…</item>
+        <item quantity="one">Ikhipha izinto ezingu-^1 kudoti…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">Ikhipha izithombe ezingu-^1 kudoti…</item>
+        <item quantity="one">Ikhipha izithombe ezingu-^1 kudoti…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">Ikhipha amavidiyo angu-^1 kudoti…</item>
+        <item quantity="one">Ikhipha amavidiyo angu-^1 kudoti…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">Ilungisa amafayela womsindo angu-^1…</item>
+        <item quantity="one">Ilungisa amafayela womsindo angu-^1…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">Ilungisa izinto ezingu-^1…</item>
+        <item quantity="one">Ilungisa izinto ezingu-^1…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">Ilungisa izithombe ezingu-^1…</item>
+        <item quantity="one">Ilungisa izithombe ezingu-^1…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">Ilungisa amavidiyo angu-^1…</item>
+        <item quantity="one">Ilungisa amavidiyo angu-^1…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">Vumela i-^1 ukuhambisa amafayela omsindo angu-^2 kudoti?</item>
+        <item quantity="one">Vumela i-^1 ukuhambisa amafayela omsindo angu-^2 kudoti?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">Vumela i-^1 ukuhambisa izinto ezingu-^2 kudoti?</item>
+        <item quantity="one">Vumela i-^1 ukuhambisa izinto ezingu-^2 kudoti?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">Vumela i-^1 ukuhambisa izithombe ezingu ku-^2?</item>
+        <item quantity="one">Vumela i-^1 ukuhambisa izithombe ezingu ku-^2?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">Vumela i-^1 ukuhambisa amavidiyo angu-^2 kudoti?</item>
+        <item quantity="one">Vumela i-^1 ukuhambisa amavidiyo angu-^2 kudoti?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">Vumela i-^1 ukuhambisa amafayela omsindo angu-^2 ngaphandle kwedoti?</item>
+        <item quantity="one">Vumela i-^1 ukuhambisa amafayela omsindo angu-^2 ngaphandle kwedoti?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">Vumela i-^1 ukuhambisa izinto ezingu-^2 ngaphandle kwedoti?</item>
+        <item quantity="one">Vumela i-^1 ukuhambisa izinto ezingu-^2 ngaphandle kwedoti?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">Vumela i-^1 ukuhambisa izithombe ezingu-^2 ngaphandle kwedoti?</item>
+        <item quantity="one">Vumela i-^1 ukuhambisa izithombe ezingu-^2 ngaphandle kwedoti?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">Vumela i-^1 ukuhambisa amavidiyo angu-^2 ngaphandle kwedoti?</item>
+        <item quantity="one">Vumela i-^1 ukuhambisa amavidiyo angu-^2 ngaphandle kwedoti?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">Vumela i-^1 ukuguqula amafayela omsindo angu-^2?</item>
+        <item quantity="one">Vumela i-^1 ukuguqula amafayela omsindo angu-^2?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">Vumela i-^1 ukuguqula izinto ezingu-^2?</item>
+        <item quantity="one">Vumela i-^1 ukuguqula izinto ezingu-^2?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">Vumela i-^1 ukuguqula izithombe ezingu-^2?</item>
+        <item quantity="one">Vumela i-^1 ukuguqula izithombe ezingu-^2?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">Vumela i-^1 ukuguqula amavidiyo angu-^2?</item>
+        <item quantity="one">Vumela i-^1 ukuguqula amavidiyo angu-^2?</item>
+    </plurals>
+</resources>

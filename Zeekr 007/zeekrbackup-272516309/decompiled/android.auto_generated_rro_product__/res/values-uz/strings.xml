@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="owner_name">Haydovchi</string>
+    <string name="permlab_accessCoarseLocation">taxminiy joylashuv axborotini olishga faqat old fonda ruxsat</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">Mikrofonni yoqish</string>
+</resources>

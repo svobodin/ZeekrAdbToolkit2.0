@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Кабык</string>
+    <string name="bugreport_add_details_to_zip_failed">Мүчүлүштүктөр жөнүндө кабардын чоо-жайы zip файлына кошулбай койду</string>
+    <string name="bugreport_confirm">Мүчүлүштүктөр тууралуу билдирүүлөрдө тутумдун ар кандай таржымалдарынан алынган дайындар, ошондой эле купуя маалымат камтылышы мүмкүн (мисалы, жайгашкан жер сыяктуу). Мындай билдирүүлөрдү бир гана ишеничтүү адамдар жана колдонмолор менен бөлүшүңүз.</string>
+    <string name="bugreport_confirm_dont_repeat">Экинчи көрүнбөсүн</string>
+    <string name="bugreport_finished_pending_screenshot_text">Мүчүлүштүк тууралуу билдирүүңүздү скриншотсуз бөлүшүү үчүн таптап коюңуз же скриншот даяр болгуча күтө туруңуз</string>
+    <string name="bugreport_finished_text">Мүчүлүштүк тууралуу билдирүүңүздү бөлүшүү үчүн таптап коюңуз</string>
+    <string name="bugreport_finished_title">Мүчүлүштүк тууралуу билдирүү #%d жаздырылды</string>
+    <string name="bugreport_in_progress_title">Мүчүлүштүк тууралуу билдирүү #%d түзүлүүдө</string>
+    <string name="bugreport_info_action">Чоо-жайы</string>
+    <string name="bugreport_info_description">Мүчүлүштүк корутундусу</string>
+    <string name="bugreport_info_dialog_title">Мүчүлүштүк тууралуу билдирүүнүн #%d чоо-жайы</string>
+    <string name="bugreport_info_name">Файлдын аталышы</string>
+    <string name="bugreport_info_title">Мүчүлүштүктүн аталышы</string>
+    <string name="bugreport_intent_chooser_title">Мүчүлүштүк тууралуу кабарлоо</string>
+    <string name="bugreport_notification_channel">Мүчүлүштүк тууралуу кабар берүүлөр</string>
+    <string name="bugreport_screenshot_action">Скриншот</string>
+    <string name="bugreport_screenshot_failed">Скриншот тартылбай койду.</string>
+    <string name="bugreport_screenshot_taken">Скриншот ийгиликтүү тартылды.</string>
+    <string name="bugreport_storage_title">Мүчүлүштүктөрдү кабарлоо</string>
+    <string name="bugreport_unnamed">аталышы жок</string>
+    <string name="bugreport_unreadable_text">Мүчүлүштүк тууралуу кабарлаган файл окулбай койду</string>
+    <string name="bugreport_updating_title">Мүчүлүштүк жөнүндө кабардын чоо-жайы кошулууда</string>
+    <string name="bugreport_updating_wait">Күтө туруңуз…</string>
+    <string name="save">Сактоо</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

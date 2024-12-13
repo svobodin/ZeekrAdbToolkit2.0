@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">アクセス ポイントを OFF にする</string>
+    <string name="no_upstream_notification_message">デバイスをインターネットに接続できません</string>
+    <string name="no_upstream_notification_title">アクセス ポイントがインターネットに接続されていません</string>
+    <string name="upstream_roaming_notification_message">ローミング時に追加料金が発生することがあります</string>
+    <string name="upstream_roaming_notification_title">アクセス ポイント: ON</string>
+    <string name="upstream_roaming_notification_continue_button">続行</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">संपर्क मेमोरी</string>
+    <string name="debug_dump_database_message">आप 1) मोबाइल मेमोरी में अपने उस डेटाबेस की कॉपी बनाने वाले हैं जिसमें सभी संपर्कों से जुड़ी जानकारी और सभी कॉल लॉग शामिल हैं, और 2) उसे ईमेल करने वाले हैं. जैसे ही आप डिवाइस से इसकी कॉपी सफलतापूर्वक बना लें या ईमेल मिल जाए तो कॉपी हटाना न भूलें.</string>
+    <string name="debug_dump_delete_button">अभी हटाएं</string>
+    <string name="debug_dump_email_body">मेरी समस्त संपर्क जानकारी के साथ मेरा संपर्क डेटाबेस अनुलग्न है. सावधानी से काम करें.</string>
+    <string name="debug_dump_email_sender_picker">अपनी फ़ाइल भेजने के लिए कोई प्रोग्राम चुनें</string>
+    <string name="debug_dump_email_subject">संपर्क Db अनुलग्न है</string>
+    <string name="debug_dump_start_button">प्रारंभ करें</string>
+    <string name="debug_dump_title">संपर्क डेटाबेस की कॉपी बनाएं</string>
+    <string name="default_directory">संपर्क</string>
+    <string name="local_invisible_directory">अन्य</string>
+    <string name="provider_label">संपर्क</string>
+    <string name="sharedUserLabel">Android Core Apps</string>
+    <string name="upgrade_out_of_memory_notification_text">अपग्रेड पूरा करने के लिए टैप करें.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">संपर्क अपग्रेड के लिए ज़्यादा स्टोरेज की आवश्यकता होती है.</string>
+    <string name="upgrade_out_of_memory_notification_title">संपर्कों के लिए मेमोरी अपग्रेड करना</string>
+    <string name="voicemail_from_column">"इनका ध्‍वनि‍मेल: "</string>
+</resources>

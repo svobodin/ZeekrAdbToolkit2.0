@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sim aplikazioaren leihoa</string>
+    <string name="install_carrier_app_defer_action">Orain ez</string>
+    <string name="install_carrier_app_description">SIM berriak behar bezala funtziona dezan, %1$s aplikazioa instalatu behar duzu</string>
+    <string name="install_carrier_app_description_default">SIM berriak behar bezala funtziona dezan, operadorearen aplikazioa instalatu behar duzu</string>
+    <string name="install_carrier_app_download_action">Deskargatu aplikazioa</string>
+    <string name="install_carrier_app_title">Aktibatu mugikorreko zerbitzua</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Atzera</string>
+    <string name="suw_more_button_label">Gehiago</string>
+    <string name="suw_next_button_label">Hurrengoa</string>
+</resources>

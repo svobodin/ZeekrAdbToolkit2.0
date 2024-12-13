@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ක්‍රියාකාරකම් අක්කඩ</string>
+    <string name="message_not_supported">කිසි යෙදුමකට මෙම ක්‍රියාව හැසිරවිය නොහැක</string>
+    <string name="pip_not_supported">මෙම උපාංගයෙහි පින්තූරය තුළ පින්තූරය සහාය නොදක්වයි</string>
+    <string name="stub_name">කිසිවක් නැත</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ar_capture">
+        <item>Снимок</item>
+    </string-array>
+    <string-array name="ar_finish">
+        <item>Стоп</item>
+    </string-array>
+    <string-array name="ar_other_again">
+        <item>Еще</item>
+    </string-array>
+    <string-array name="ar_start">
+        <item>Старт</item>
+    </string-array>
+    <string-array name="ar_to_gallery">
+        <item>Галерея</item>
+    </string-array>
+    <string-array name="camera_mode">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>@string/text_time_lapse</item>
+        <item>@string/text_video</item>
+        <item>@string/text_photo</item>
+        <item>@string/text_time_taken</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

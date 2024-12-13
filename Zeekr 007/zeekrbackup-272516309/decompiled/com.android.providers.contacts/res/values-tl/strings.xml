@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Storage ng Mga Contact</string>
+    <string name="debug_dump_database_message">Ikaw ay 1) gagawa na ng kopya ng iyong database na kinapapalooban ng lahat ng impormasyong nauugnay sa mga contact at ng lahat ng log ng tawag sa panloob na storage, at 2) ipapadala mo na ito sa email. Alalahaning tanggalin ang kopya sa sandaling matagumpay mo na itong nakopya mula sa device o sa sandaling natanggap na ang email.</string>
+    <string name="debug_dump_delete_button">Tanggalin ngayon</string>
+    <string name="debug_dump_email_body">Naka-attach ang aking database ng mga contact na kasama ang lahat ng impormasyon ng aking mga contact. Pangasiwaan nang may pag-iingat.</string>
+    <string name="debug_dump_email_sender_picker">Pumili ng program upang ipadala ang iyong file</string>
+    <string name="debug_dump_email_subject">Naka-attach ang Contacts Db</string>
+    <string name="debug_dump_start_button">Simulan</string>
+    <string name="debug_dump_title">Kopyahin ang database ng mga contact</string>
+    <string name="default_directory">Mga Contact</string>
+    <string name="local_invisible_directory">Iba pa</string>
+    <string name="provider_label">Mga Contact</string>
+    <string name="sharedUserLabel">Core Apps ng Android</string>
+    <string name="upgrade_out_of_memory_notification_text">I-tap upang kumpletuhin ang upgrade.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Nangangailangan ng higit pang memory ang pag-upgrade sa mga contact.</string>
+    <string name="upgrade_out_of_memory_notification_title">Ina-upgrade ang storage para sa mga contact</string>
+    <string name="voicemail_from_column">"Voicemail mula sa/kay "</string>
+</resources>

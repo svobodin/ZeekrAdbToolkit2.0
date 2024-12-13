@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Desactivar punto de acceso</string>
+    <string name="no_upstream_notification_message">Los dispositivos no se pueden conectar a Internet</string>
+    <string name="no_upstream_notification_title">El punto de acceso no tiene conexión a Internet</string>
+    <string name="upstream_roaming_notification_message">Puede que se apliquen cargos adicionales en itinerancia</string>
+    <string name="upstream_roaming_notification_title">Punto de acceso activado</string>
+    <string name="upstream_roaming_notification_continue_button">Continuar</string>
+</resources>

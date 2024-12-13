@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">هل تريد السماح لتطبيق ^1 بحذف ^2 ملف صوتي؟</item>
+        <item quantity="zero">هل تريد السماح لتطبيق ^1 بحذف ^2 ملف صوتي؟</item>
+        <item quantity="one">هل تريد السماح لتطبيق ^1 بحذف هذا الملف الصوتي؟</item>
+        <item quantity="two">هل تريد السماح لتطبيق ^1 بحذف ملفين صوتيين (^2)؟</item>
+        <item quantity="few">هل تريد السماح لتطبيق ^1 بحذف ^2 ملفات صوتية؟</item>
+        <item quantity="many">هل تريد السماح لتطبيق ^1 بحذف ^2 ملفًا صوتيًا؟</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">هل تريد السماح لتطبيق ^1 بحذف ^2 عنصر؟</item>
+        <item quantity="zero">هل تريد السماح لتطبيق ^1 بحذف ^2 عنصر؟</item>
+        <item quantity="one">هل تريد السماح لتطبيق ^1 بحذف هذا العنصر؟</item>
+        <item quantity="two">هل تريد السماح لتطبيق ^1 بحذف عنصرين (^2)؟</item>
+        <item quantity="few">هل تريد السماح لتطبيق ^1 بحذف ^2 عناصر؟</item>
+        <item quantity="many">هل تريد السماح لتطبيق ^1 بحذف ^2 عنصرًا؟</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">هل تريد السماح لتطبيق ^1 بحذف ^2 صورة؟</item>
+        <item quantity="zero">هل تريد السماح لتطبيق ^1 بحذف ^2 صورة؟</item>
+        <item quantity="one">هل تريد السماح لتطبيق ^1 بحذف صورة واحدة؟</item>
+        <item quantity="two">هل تريد السماح لتطبيق ^1 بحذف صورتين (^2)؟</item>
+        <item quantity="few">هل تريد السماح لتطبيق ^1 بحذف ^2 صور؟</item>
+        <item quantity="many">هل تريد السماح لتطبيق ^1 بحذف ^2 صورة؟</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">هل تريد السماح لتطبيق ^1 بحذف ^2 فيديو؟</item>
+        <item quantity="zero">هل تريد السماح لتطبيق ^1 بحذف ^2 فيديو؟</item>
+        <item quantity="one">هل تريد السماح لتطبيق ^1 بحذف هذا الفيديو؟</item>
+        <item quantity="two">هل تريد السماح لتطبيق ^1 بحذف فيديوهين (^2)؟</item>
+        <item quantity="few">هل تريد السماح لتطبيق ^1 بحذف ^2 فيديوهات؟</item>
+        <item quantity="many">هل تريد السماح لتطبيق ^1 بحذف ^2 فيديو؟</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">و^1 عنصر إضافي</item>
+        <item quantity="zero">و^1 عنصر إضافي</item>
+        <item quantity="one">وعنصر إضافي واحد (^1)</item>
+        <item quantity="two">وعنصران إضافيان (^1)</item>
+        <item quantity="few">و^1 عناصر إضافية</item>
+        <item quantity="many">و^1 عنصرًا إضافيًا</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">+^1</item>
+        <item quantity="zero">+^1</item>
+        <item quantity="one">+^1</item>
+        <item quantity="two">+^1</item>
+        <item quantity="few">+^1</item>
+        <item quantity="many">+^1</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">جارٍ حذف ^1 ملف صوتي…</item>
+        <item quantity="zero">جارٍ حذف ^1 ملف صوتي…</item>
+        <item quantity="one">جارٍ حذف ملف صوتي واحد…</item>
+        <item quantity="two">جارٍ حذف ملفَين صوتين (^1)…</item>
+        <item quantity="few">جارٍ حذف ^1 ملفات صوتية…</item>
+        <item quantity="many">جارٍ حذف ^1 ملفًا صوتيًا…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">جارٍ حذف ^1 عنصر…</item>
+        <item quantity="zero">جارٍ حذف ^1 عنصر…</item>
+        <item quantity="one">جارٍ حذف عنصر واحد…</item>
+        <item quantity="two">جارٍ حذف عنصرين (^1)…</item>
+        <item quantity="few">جارٍ حذف ^1 عناصر…</item>
+        <item quantity="many">جارٍ حذف ^1 عنصرًا…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">جارٍ حذف ^1 صورة…</item>
+        <item quantity="zero">جارٍ حذف ^1 صورة…</item>
+        <item quantity="one">جارٍ حذف صورة واحدة…</item>
+        <item quantity="two">جارٍ حذف صورتين (^1)…</item>
+        <item quantity="few">جارٍ حذف ^1 صور…</item>
+        <item quantity="many">جارٍ حذف ^1 صورة…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">جارٍ حذف ^1 فيديو…</item>
+        <item quantity="zero">جارٍ حذف ^1 فيديو…</item>
+        <item quantity="one">جارٍ حذف فيديو واحد…</item>
+        <item quantity="two">جارٍ حذف فيديوهين (^1)…</item>
+        <item quantity="few">جارٍ حذف ^1 فيديوهات…</item>
+        <item quantity="many">جارٍ حذف ^1 فيديو…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">جارٍ نقل ^1 ملف صوتي إلى المهملات…</item>
+        <item quantity="zero">جارٍ نقل ^1 ملف صوتي إلى المهملات…</item>
+        <item quantity="one">جارٍ نقل ملف صوتي واحد إلى المهملات…</item>
+        <item quantity="two">جارٍ نقل ملفَين صوتين (^1) إلى المهملات…</item>
+        <item quantity="few">جارٍ نقل ^1 ملفات صوتية إلى المهملات…</item>
+        <item quantity="many">جارٍ نقل ^1 ملفًا صوتيًا إلى المهملات…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">جارٍ نقل ^1 عنصر إلى المهملات…</item>
+        <item quantity="zero">جارٍ نقل ^1 عنصر إلى المهملات…</item>
+        <item quantity="one">جارٍ نقل عنصر واحد إلى المهملات…</item>
+        <item quantity="two">جارٍ نقل عنصرين (^1) إلى المهملات…</item>
+        <item quantity="few">جارٍ نقل ^1 عناصر إلى المهملات…</item>
+        <item quantity="many">جارٍ نقل ^1 عنصرًا إلى المهملات…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">جارٍ نقل ^1 صورة إلى المهملات…</item>
+        <item quantity="zero">جارٍ نقل ^1 صورة إلى المهملات…</item>
+        <item quantity="one">جارٍ نقل صورة واحدة إلى المهملات…</item>
+        <item quantity="two">جارٍ نقل صورتين (^1) إلى المهملات…</item>
+        <item quantity="few">جارٍ نقل ^1 صور إلى المهملات…</item>
+        <item quantity="many">جارٍ نقل ^1 صورة إلى المهملات…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">جارٍ نقل ^1 فيديو إلى المهملات…</item>
+        <item quantity="zero">جارٍ نقل ^1 فيديو إلى المهملات…</item>
+        <item quantity="one">جارٍ نقل فيديو واحد إلى المهملات…</item>
+        <item quantity="two">جارٍ نقل فيديوهين (^1) إلى المهملات…</item>
+        <item quantity="few">جارٍ نقل ^1 فيديوهات إلى المهملات…</item>
+        <item quantity="many">جارٍ نقل ^1 فيديو إلى المهملات…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">جارٍ إخراج ^1 ملف صوتي من المهملات…</item>
+        <item quantity="zero">جارٍ إخراج ^1 ملف صوتي من المهملات…</item>
+        <item quantity="one">جارٍ إخراج ملف صوتي واحد من المهملات…</item>
+        <item quantity="two">جارٍ إخراج ملفَين صوتين (^1) من المهملات…</item>
+        <item quantity="few">جارٍ إخراج ^1 ملفات صوتية من المهملات…</item>
+        <item quantity="many">جارٍ إخراج ^1 ملفًا صوتيًا من المهملات…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">جارٍ إخراج ^1 عنصر من المهملات…</item>
+        <item quantity="zero">جارٍ إخراج ^1 عنصر من المهملات…</item>
+        <item quantity="one">جارٍ إخراج عنصر واحد من المهملات…</item>
+        <item quantity="two">جارٍ إخراج عنصرين (^1) من المهملات…</item>
+        <item quantity="few">جارٍ إخراج ^1 عناصر من المهملات…</item>
+        <item quantity="many">جارٍ إخراج ^1 عنصرًا من المهملات…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">جارٍ إخراج ^1 صورة من المهملات…</item>
+        <item quantity="zero">جارٍ إخراج ^1 صورة من المهملات…</item>
+        <item quantity="one">جارٍ إخراج صورة واحدة من المهملات…</item>
+        <item quantity="two">جارٍ إخراج صورتين (^1) من المهملات…</item>
+        <item quantity="few">جارٍ إخراج ^1 صور من المهملات…</item>
+        <item quantity="many">جارٍ إخراج ^1 صورة من المهملات…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">جارٍ إخراج ^1 فيديو من المهملات…</item>
+        <item quantity="zero">جارٍ إخراج ^1 فيديو من المهملات…</item>
+        <item quantity="one">جارٍ إخراج فيديو واحد من المهملات…</item>
+        <item quantity="two">جارٍ إخراج فيديوهين (^1) من المهملات…</item>
+        <item quantity="few">جارٍ إخراج ^1 فيديوهات من المهملات…</item>
+        <item quantity="many">جارٍ إخراج ^1 فيديو من المهملات…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">جارٍ تعديل ^1 ملف صوتي…</item>
+        <item quantity="zero">جارٍ تعديل ^1 ملف صوتي…</item>
+        <item quantity="one">جارٍ تعديل ملف صوتي واحد…</item>
+        <item quantity="two">جارٍ تعديل ملفَين صوتين (^1)…</item>
+        <item quantity="few">جارٍ تعديل ^1 ملفات صوتية…</item>
+        <item quantity="many">جارٍ تعديل ^1 ملفًا صوتيًا…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">جارٍ تعديل ^1 عنصر…</item>
+        <item quantity="zero">جارٍ تعديل ^1 عنصر…</item>
+        <item quantity="one">جارٍ تعديل عنصر واحد…</item>
+        <item quantity="two">جارٍ تعديل عنصرين (^1)…</item>
+        <item quantity="few">جارٍ تعديل ^1 عناصر…</item>
+        <item quantity="many">جارٍ تعديل ^1 عنصرًا…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">جارٍ تعديل ^1 صورة…</item>
+        <item quantity="zero">جارٍ تعديل ^1 صورة…</item>
+        <item quantity="one">جارٍ تعديل صورة واحدة…</item>
+        <item quantity="two">جارٍ تعديل صورتين (^1)…</item>
+        <item quantity="few">جارٍ تعديل ^1 صور…</item>
+        <item quantity="many">جارٍ تعديل ^1 صورة…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">جارٍ تعديل ^1 فيديو…</item>
+        <item quantity="zero">جارٍ تعديل ^1 فيديو…</item>
+        <item quantity="one">جارٍ تعديل فيديو واحد…</item>
+        <item quantity="two">جارٍ تعديل فيديوهين (^1)…</item>
+        <item quantity="few">جارٍ تعديل ^1 فيديوهات…</item>
+        <item quantity="many">جارٍ تعديل ^1 فيديو…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">هل تريد السماح لتطبيق ^1 بنقل ^2 ملف صوتي إلى المهملات؟</item>
+        <item quantity="zero">هل تريد السماح لتطبيق ^1 بنقل ^2 ملف صوتي إلى المهملات؟</item>
+        <item quantity="one">هل تريد السماح لتطبيق ^1 بنقل هذا الملف الصوتي إلى المهملات؟</item>
+        <item quantity="two">هل تريد السماح لتطبيق ^1 بنقل ملفين صوتيين (^2) إلى المهملات؟</item>
+        <item quantity="few">هل تريد السماح لتطبيق ^1 بنقل ^2 ملفات صوتية إلى المهملات؟</item>
+        <item quantity="many">هل تريد السماح لتطبيق ^1 بنقل ^2 ملفًا صوتية إلى المهملات؟</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">هل تريد السماح لتطبيق ^1 بنقل ^2 عنصر إلى المهملات؟</item>
+        <item quantity="zero">هل تريد السماح لتطبيق ^1 بنقل ^2 عنصر إلى المهملات؟</item>
+        <item quantity="one">هل تريد السماح لتطبيق ^1 بنقل هذا العنصر إلى المهملات؟</item>
+        <item quantity="two">هل تريد السماح لتطبيق ^1 بنقل عنصرين (^2) إلى المهملات؟</item>
+        <item quantity="few">هل تريد السماح لتطبيق ^1 بنقل ^2 عناصر إلى المهملات؟</item>
+        <item quantity="many">هل تريد السماح لتطبيق ^1 بنقل ^2 عنصرًا إلى المهملات؟</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">هل تريد السماح لتطبيق ^1 بنقل ^2 صورة إلى المهملات؟</item>
+        <item quantity="zero">هل تريد السماح لتطبيق ^1 بنقل ^2 صورة إلى المهملات؟</item>
+        <item quantity="one">هل تريد السماح لتطبيق ^1 بنقل هذه الصورة إلى المهملات؟</item>
+        <item quantity="two">هل تريد السماح لتطبيق ^1 بنقل صورتين (^2) إلى المهملات؟</item>
+        <item quantity="few">هل تريد السماح لتطبيق ^1 بنقل ^2 صور إلى المهملات؟</item>
+        <item quantity="many">هل تريد السماح لتطبيق ^1 بنقل ^2 صورة إلى المهملات؟</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">هل تريد السماح لتطبيق ^1 بنقل ^2 فيديو إلى المهملات؟</item>
+        <item quantity="zero">هل تريد السماح لتطبيق ^1 بنقل ^2 فيديو إلى المهملات؟</item>
+        <item quantity="one">هل تريد السماح لتطبيق ^1 بنقل هذا الفيديو إلى المهملات؟</item>
+        <item quantity="two">هل تريد السماح لتطبيق ^1 بنقل فيديوهين (^2) إلى المهملات؟</item>
+        <item quantity="few">هل تريد السماح لتطبيق ^1 بنقل ^2 فيديوهات إلى المهملات؟</item>
+        <item quantity="many">هل تريد السماح لتطبيق ^1 بنقل ^2 فيديو إلى المهملات؟</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">هل تريد السماح لتطبيق ^1 بنقل ^2 ملف صوتي خارج المهملات؟</item>
+        <item quantity="zero">هل تريد السماح لتطبيق ^1 بنقل ^2 ملف صوتي خارج المهملات؟</item>
+        <item quantity="one">هل تريد السماح لتطبيق ^1 بنقل الملف الصوتي هذا خارج المهملات؟</item>
+        <item quantity="two">هل تريد السماح لتطبيق ^1 بنقل ملفين صوتيين (^2) خارج المهملات؟</item>
+        <item quantity="few">هل تريد السماح لتطبيق ^1 بنقل ^2 ملفات صوتية خارج المهملات؟</item>
+        <item quantity="many">هل تريد السماح لتطبيق ^1 بنقل ^2 ملفًا صوتيًا خارج المهملات؟</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">هل تريد السماح لتطبيق ^1 بنقل ^2 عنصر خارج المهملات؟</item>
+        <item quantity="zero">هل تريد السماح لتطبيق ^1 بنقل ^2 عنصر خارج المهملات؟</item>
+        <item quantity="one">هل تريد السماح لتطبيق ^1 بنقل هذا العنصر خارج المهملات؟</item>
+        <item quantity="two">هل تريد السماح لتطبيق ^1 بنقل عنصرين (^2) خارج المهملات؟</item>
+        <item quantity="few">هل تريد السماح لتطبيق ^1 بنقل ^2 عناصر خارج المهملات؟</item>
+        <item quantity="many">هل تريد السماح لتطبيق ^1 بنقل ^2 عنصرًا خارج المهملات؟</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">هل تريد السماح لتطبيق ^1 بنقل ^2 صورة خارج المهملات؟</item>
+        <item quantity="zero">هل تريد السماح لتطبيق ^1 بنقل ^2 صورة خارج المهملات؟</item>
+        <item quantity="one">هل تريد السماح لتطبيق ^1 بنقل هذه الصورة خارج المهملات؟</item>
+        <item quantity="two">هل تريد السماح لتطبيق ^1 بنقل صورتين (^2) خارج المهملات؟</item>
+        <item quantity="few">هل تريد السماح لتطبيق ^1 بنقل ^2 صور خارج المهملات؟</item>
+        <item quantity="many">هل تريد السماح لتطبيق ^1 بنقل ^2 صورة خارج المهملات؟</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">هل تريد السماح لتطبيق ^1 بنقل ^2 فيديو خارج المهملات؟</item>
+        <item quantity="zero">هل تريد السماح لتطبيق ^1 بنقل ^2 فيديو خارج المهملات؟</item>
+        <item quantity="one">هل تريد السماح لتطبيق ^1 بنقل هذا الفيديو خارج المهملات؟</item>
+        <item quantity="two">هل تريد السماح لتطبيق ^1 بنقل فيديوهين (^2) خارج المهملات؟</item>
+        <item quantity="few">هل تريد السماح لتطبيق ^1 بنقل ^2 فيديوهات خارج المهملات؟</item>
+        <item quantity="many">هل تريد السماح لتطبيق ^1 بنقل ^2 فيديو خارج المهملات؟</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">هل تريد السماح لتطبيق ^1 بتعديل ^2 ملف صوتي؟</item>
+        <item quantity="zero">هل تريد السماح لتطبيق ^1 بتعديل ^2 ملف صوتي؟</item>
+        <item quantity="one">هل تريد السماح لتطبيق ^1 بتعديل هذا الملف الصوتي؟</item>
+        <item quantity="two">هل تريد السماح لتطبيق ^1 بتعديل ملفين صوتيين (^2)؟</item>
+        <item quantity="few">هل تريد السماح لتطبيق ^1 بتعديل ^2 ملفات صوتية؟</item>
+        <item quantity="many">هل تريد السماح لتطبيق ^1 بتعديل ^2 ملفًا صوتيًا؟</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">هل تريد السماح لتطبيق ^1 بتعديل ^2 عنصر؟</item>
+        <item quantity="zero">هل تريد السماح لتطبيق ^1 بتعديل ^2 عنصر؟</item>
+        <item quantity="one">هل تريد السماح لتطبيق ^1 بتعديل هذا العنصر؟</item>
+        <item quantity="two">هل تريد السماح لتطبيق ^1 بتعديل عنصرين (^2)؟</item>
+        <item quantity="few">هل تريد السماح لتطبيق ^1 بتعديل ^2 عناصر؟</item>
+        <item quantity="many">هل تريد السماح لتطبيق ^1 بتعديل ^2 عنصرًا؟</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">هل تريد السماح لتطبيق ^1 بتعديل ^2 صورة؟</item>
+        <item quantity="zero">هل تريد السماح لتطبيق ^1 بتعديل ^2 صورة؟</item>
+        <item quantity="one">هل تريد السماح لتطبيق ^1 بتعديل هذه الصورة؟</item>
+        <item quantity="two">هل تريد السماح لتطبيق ^1 بتعديل صورتين (^2)؟</item>
+        <item quantity="few">هل تريد السماح لتطبيق ^1 بتعديل ^2 صور؟</item>
+        <item quantity="many">هل تريد السماح لتطبيق ^1 بتعديل ^2 صورة؟</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">هل تريد السماح لتطبيق ^1 بتعديل ^2 فيديو؟</item>
+        <item quantity="zero">هل تريد السماح لتطبيق ^1 بتعديل ^2 فيديو؟</item>
+        <item quantity="one">هل تريد السماح لتطبيق ^1 بتعديل هذا الفيديو؟</item>
+        <item quantity="two">هل تريد السماح لتطبيق ^1 بتعديل فيديوهين (^2)؟</item>
+        <item quantity="few">هل تريد السماح لتطبيق ^1 بتعديل ^2 فيديوهات؟</item>
+        <item quantity="many">هل تريد السماح لتطبيق ^1 بتعديل ^2 فيديو؟</item>
+    </plurals>
+</resources>

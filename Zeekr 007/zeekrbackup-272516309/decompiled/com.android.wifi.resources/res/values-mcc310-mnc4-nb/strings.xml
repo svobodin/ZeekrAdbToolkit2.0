@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s : Du kan ikke koble til Verizon Wi-Fi Access fra utenfor Verizons dekningsområde.</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s : Du abonnerer ikke på Verizon Wi-Fi Access. Ring oss på 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s : Det har oppstått et problem med Verizon Wi-Fi Access-kontoen din. Ring oss på 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s : Du er allerede koblet til Verizon Wi-Fi Access.</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s : Det har oppstått et problem med å koble deg til Verizon Wi-Fi Access. Ring oss på 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s : Det har oppstått et problem med Verizon Wi-Fi Access-kontoen din. Ring oss på 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s : Verizon Wi-Fi Access er ikke tilgjengelig fra der du er. Prøv igjen senere, eller prøv fra et annet sted.</string>
+</resources>

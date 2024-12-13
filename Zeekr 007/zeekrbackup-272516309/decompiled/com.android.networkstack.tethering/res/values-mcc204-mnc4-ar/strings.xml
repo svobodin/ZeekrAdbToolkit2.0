@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">إيقاف نقطة الاتصال</string>
+    <string name="no_upstream_notification_message">لا يمكن للأجهزة الاتصال بالإنترنت.</string>
+    <string name="no_upstream_notification_title">نقطة الاتصال غير متصلة بالإنترنت.</string>
+    <string name="upstream_roaming_notification_message">قد يتم تطبيق رسوم إضافية أثناء التجوال.</string>
+    <string name="upstream_roaming_notification_title">نقطة الاتصال مفعّلة</string>
+    <string name="upstream_roaming_notification_continue_button">متابعة</string>
+</resources>

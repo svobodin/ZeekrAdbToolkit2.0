@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">बेस बढ़ाएं</string>
+    <string name="ci_extreme">एफ़एक्स बूस्टर</string>
+    <string name="classical">क्लासिकल</string>
+    <string name="dance">डांस</string>
+    <string name="eq_dialog_title">आवाज़ बराबर करने की सुविधा</string>
+    <string name="flat">फ़्लैट</string>
+    <string name="folk">फ़ोक</string>
+    <string name="headset_plug">इन इफ़ेक्ट को सुनने के लिए हेडफ़ोन का इस्तेमाल करें.</string>
+    <string name="heavy_metal">हेवी मेटल</string>
+    <string name="hip_hop">हिप हॉप</string>
+    <string name="jazz">जैज़</string>
+    <string name="no_effects">इफ़ेक्ट उपलब्ध नहीं हैं.</string>
+    <string name="normal">सामान्य</string>
+    <string name="picker_title">म्यूज़िक इफ़ेक्ट के लिए कंट्रोल पैनल</string>
+    <string name="pop">पॉप</string>
+    <string name="rock">रॉक</string>
+    <string name="setup">सेट अप</string>
+    <string name="user">उपयोगकर्ता</string>
+    <string name="virtualizer_strength">सराउंड साउंड</string>
+</resources>

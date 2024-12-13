@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">Камерын аппууд</item>
+        <item quantity="one">Камерын апп</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">Имэйл хэрэглэгчийн аппууд</item>
+        <item quantity="one">Имэйл хэрэглэгчийн апп</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">Гар утасны аппууд</item>
+        <item quantity="one">Гар утасны апп</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d оролдлого</item>
+        <item quantity="one">%d оролдлого</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d апп</item>
+        <item quantity="one">%d апп</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">Хамгийн багадаа %d апп</item>
+        <item quantity="one">Хамгийн багадаа %d апп</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d шинэ мэдэгдэл</item>
+        <item quantity="one">%d шинэ мэдэгдэл</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d төхөөрөмж холбосон</item>
+        <item quantity="one">%1$d төхөөрөмж холбосон</item>
+    </plurals>
+</resources>

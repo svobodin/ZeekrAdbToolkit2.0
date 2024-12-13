@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_summary_active">
+        <item quantity="other">%d amafayela alandwayo</item>
+        <item quantity="one">%d amafayela alandwayo</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">%d amafayela alindiwe</item>
+        <item quantity="one">%d amafayela alindiwe</item>
+    </plurals>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">नेटवर्क व्यवस्थापक</string>
+    <string name="connected">कनेक्ट गरिएको छ</string>
+    <string name="notification_channel_description_connected">यन्त्र क्याप्टिभ पोर्टल नेटवर्कमा सफलतापूर्वक जोडिएको कुरा प्रमाणित भएपछि देखाइने सूचनाहरू</string>
+    <string name="notification_channel_description_network_venue_info">नेटवर्कको स्थानसम्बन्धी जानकारी भएको पृष्ठ रहेको सङ्केत गर्न देखाइने सूचनाहरू</string>
+    <string name="notification_channel_name_connected">क्याप्टिभ पोर्टलको प्रमाणीकरण</string>
+    <string name="notification_channel_name_network_venue_info">नेटवर्कको स्थानसम्बन्धी जानकारी</string>
+    <string name="tap_for_info">जोडियो / वेबसाइट हेर्न ट्याप गर्नुहोस्</string>
+</resources>

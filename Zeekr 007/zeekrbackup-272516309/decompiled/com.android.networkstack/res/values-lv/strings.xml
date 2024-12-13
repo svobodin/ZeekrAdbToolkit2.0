@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Tīkla pārzinis</string>
+    <string name="connected">Izveidots savienojums</string>
+    <string name="notification_channel_description_connected">Paziņojumi, kas tiek rādīti, kad ierīcē ir sekmīgi veikta autentifikācija caurlaides lapas tīklā</string>
+    <string name="notification_channel_description_network_venue_info">Paziņojumi par to, ka tīklam ir norises vietas informācijas lapa</string>
+    <string name="notification_channel_name_connected">Autentifikācija caurlaides lapā</string>
+    <string name="notification_channel_name_network_venue_info">Norises vietas informācija</string>
+    <string name="tap_for_info">Izveidots savienojums / piesk., lai skatītu vietni</string>
+</resources>

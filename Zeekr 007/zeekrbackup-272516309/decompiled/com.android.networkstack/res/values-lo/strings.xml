@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">ຕົວຈັດການເຄືອຂ່າຍ</string>
+    <string name="connected">ເຊື່ອມຕໍ່ແລ້ວ</string>
+    <string name="notification_channel_description_connected">ສະແດງການແຈ້ງເຕືອນເມື່ອອຸປະກອນໄດ້ພິສູດຢືນຢັນຫາເຄືອຂ່າຍຊ່ອງ​ທາງ​ເຂົ້າ​ຮັກ​ສາ​ໄວ້ສຳເລັດ</string>
+    <string name="notification_channel_description_network_venue_info">ສະແດງການແຈ້ງເຕືອນເພື່ອລະບຸວ່າເຄືອຂ່າຍມີໜ້າຂໍ້ມູນສະຖານທີ່</string>
+    <string name="notification_channel_name_connected">ການພິສູດຢືນຢັນຊ່ອງ​ທາງ​ເຂົ້າ​ຮັກ​ສາ​ໄວ້</string>
+    <string name="notification_channel_name_network_venue_info">ຂໍ້ມູນສະຖານທີ່ເຄືອຂ່າຍ</string>
+    <string name="tap_for_info">ເຊື່ອມຕໍ່ແລ້ວ / ແຕະເພື່ອເບິ່ງເວັບໄຊ</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_long_press_zoom_scale_tips">
+        <item quantity="other">זום %s פעמים</item>
+        <item quantity="one">זום פעם %s אחת</item>
+        <item quantity="two">זום %s פעמים</item>
+        <item quantity="many">זום %s פעמים</item>
+    </plurals>
+</resources>

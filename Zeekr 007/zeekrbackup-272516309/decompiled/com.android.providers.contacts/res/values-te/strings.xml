@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">కాంటాక్ట్‌ల స్టోరేజ్</string>
+    <string name="debug_dump_database_message">మీరు 1) అన్ని కాంటాక్ట్‌లకు సంబంధించిన సమాచారాన్ని మరియు మొత్తం కాల్ లాగ్‌ను కలిగి ఉండే మీ డేటాబేస్ యొక్క కాపీని అంతర్గత స్టోరేజ్‌లో రూపొందించి 2) దాన్ని ఈమెయిల్‌ చేయబోతున్నారు. మీరు దాన్ని పరికరం నుండి విజయవంతంగా కాపీ చేసిన తర్వాత లేదా ఈమెయిల్‌ను స్వీకరించిన తర్వాత కాపీని తొలగించడం మర్చిపోవద్దు.</string>
+    <string name="debug_dump_delete_button">ఇప్పుడే తొలగించు</string>
+    <string name="debug_dump_email_body">జోడింపు నా అన్ని కాంటాక్ట్‌ల సమాచారాన్ని కలిగి ఉన్న నా కాంటాక్ట్‌ల డేటాబేస్. జాగ్రత్తగా వ్యవహరించండి.</string>
+    <string name="debug_dump_email_sender_picker">మీ పైల్‌ను పంపడానికి ప్రోగ్రామ్‌ను ఎంచుకోండి</string>
+    <string name="debug_dump_email_subject">కాంటాక్ట్‌ల Db జోడించబడింది</string>
+    <string name="debug_dump_start_button">ప్రారంభించు</string>
+    <string name="debug_dump_title">కాంటాక్ట్‌ల డేటాబేస్‌ను కాపీ చేయండి</string>
+    <string name="default_directory">కాంటాక్ట్‌లు</string>
+    <string name="local_invisible_directory">ఇతరం</string>
+    <string name="provider_label">కాంటాక్ట్‌లు</string>
+    <string name="sharedUserLabel">Android ప్రధాన యాప్‌లు</string>
+    <string name="upgrade_out_of_memory_notification_text">అప్‌గ్రేడ్‌ను పూర్తి చేయడానికి నొక్కండి.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">కాంటాక్ట్‌ల అప్‌గ్రేడ్‌కు మరింత మెమరీ అవసరం.</string>
+    <string name="upgrade_out_of_memory_notification_title">కాంటాక్ట్‌ల కోసం స్టోరేజ్‌ను అప్‌గ్రేడ్ చేస్తోంది</string>
+    <string name="voicemail_from_column">"దీని నుండి వాయిస్ మెయిల్ "</string>
+</resources>

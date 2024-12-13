@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Заменски код за активноста</string>
+    <string name="message_not_supported">Нема апликација што ќе го изврши ова</string>
+    <string name="pip_not_supported">„Слика во слика“ не е поддржана на уредов</string>
+    <string name="stub_name">Нема</string>
+</resources>

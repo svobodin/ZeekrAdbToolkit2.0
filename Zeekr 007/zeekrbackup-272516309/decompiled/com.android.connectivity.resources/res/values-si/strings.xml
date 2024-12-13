@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">පද්ධති සබැඳුම් හැකියා සම්පත්</string>
+    <string name="mobile_no_internet">ජංගම ජාලවලට අන්තර්ජාල ප්‍රවේශය නැත</string>
+    <string name="network_available_sign_in">ජාලයට පුරනය වන්න</string>
+    <string name="network_partial_connectivity">%1$s හට සීමිත සබැඳුම් හැකියාවක් ඇත</string>
+    <string name="network_partial_connectivity_detailed">කෙසේ වෙතත් ඉදිරියට යාමට තට්ටු කරන්න</string>
+    <string name="network_switch_metered">%1$s වෙත මාරු විය</string>
+    <string name="network_switch_metered_detail">උපාංගය %1$s %2$s සඳහා අන්තර්ජාල ප්‍රවේශය නැති විට භාවිත කරයි. ගාස්තු අදාළ විය හැකිය.</string>
+    <string name="network_switch_metered_toast">%1$s සිට %2$s වෙත මාරු විය</string>
+    <string name="network_switch_type_name_unknown">නොදන්නා ජාල වර්ගයකි</string>
+    <string name="other_networks_no_internet">ජාලයට අන්තර්ජාල ප්‍රවේශය නැත</string>
+    <string name="private_dns_broken_detailed">පුද්ගලික DNS සේවාදායකයට ප්‍රවේශ වීමට නොහැකිය</string>
+    <string name="wifi_available_sign_in">Wi-Fi ජාලයට පුරනය වන්න</string>
+    <string name="wifi_no_internet">%1$s හට අන්තර්ජාල ප්‍රවේශය නැත</string>
+    <string name="wifi_no_internet_detailed">විකල්ප සඳහා තට්ටු කරන්න</string>
+</resources>

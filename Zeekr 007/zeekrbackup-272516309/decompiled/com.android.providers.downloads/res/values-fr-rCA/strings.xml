@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Gestionnaire de téléchargement</string>
+    <string name="button_cancel_download">Annuler</string>
+    <string name="button_queue_for_wifi">"File d'attente"</string>
+    <string name="button_start_now">Commencer</string>
+    <string name="download_error">Échec</string>
+    <string name="download_no_application_title">"Impossible d'ouvrir le fichier."</string>
+    <string name="download_queued">"Placé en file d'attente"</string>
+    <string name="download_remaining">Temps restant : %s</string>
+    <string name="download_running">En cours de traitement</string>
+    <string name="download_running_percent">En cours : %s</string>
+    <string name="download_unknown_title">&lt;Sans_titre></string>
+    <string name="notification_download_complete">Téléchargement terminé.</string>
+    <string name="notification_download_failed">Échec du téléchargement</string>
+    <string name="notification_need_wifi_for_size">Taille du fichier requiert Wi-Fi.</string>
+    <string name="notification_paused_in_background">Interrompu en arr.-plan.</string>
+    <string name="permdesc_accessAllDownloads">"Permet à l'application d'afficher et de modifier tous les téléchargements lancés par n'importe quelle application du système."</string>
+    <string name="permdesc_downloadCacheNonPurgeable">"Permet à l'application de télécharger des fichiers dans le cache de téléchargement, et empêche ainsi leur suppression automatique par le gestionnaire de téléchargement."</string>
+    <string name="permdesc_downloadCompletedIntent">"Permet à l'application d'envoyer des notifications relatives aux téléchargements terminés. Des applications malveillantes peuvent utiliser cette fonctionnalité pour induire en erreur d'autres applications pouvant télécharger des fichiers."</string>
+    <string name="permdesc_downloadManager">"Permet à l'application d'accéder au gestionnaire de téléchargement et de l'utiliser pour télécharger des fichiers. Des applications malveillantes peuvent utiliser cette fonctionnalité pour perturber les téléchargements et accéder à des données confidentielles."</string>
+    <string name="permdesc_downloadManagerAdvanced">"Permet à l'application d'accéder aux fonctionnalités avancées du gestionnaire de téléchargement. Les applications malveillantes peuvent utiliser cette fonctionnalité pour perturber les téléchargements et accéder à des données confidentielles."</string>
+    <string name="permdesc_downloadWithoutNotification">"Permet à l'application de télécharger des fichiers dans le gestionnaire de téléchargement sans afficher de notification à l'attention de l'utilisateur."</string>
+    <string name="permlab_accessAllDownloads">Accéder à tous les téléchargements système</string>
+    <string name="permlab_downloadCacheNonPurgeable">"Réserver de l'espace dans le cache de téléchargement"</string>
+    <string name="permlab_downloadCompletedIntent">Envoyer des notifications de téléchargement.</string>
+    <string name="permlab_downloadManager">Accéder au gestionnaire de téléchargement.</string>
+    <string name="permlab_downloadManagerAdvanced">Fonctions avancées du gestionnaire de téléchargement.</string>
+    <string name="permlab_downloadWithoutNotification">télécharger des fichiers sans envoyer de notification</string>
+    <string name="root_downloads">Téléchargements</string>
+    <string name="storage_description">Téléchargements</string>
+    <string name="wifi_recommended_body">"Ce téléchargement (%1$s ) risque de décharger votre batterie et/ou d'entraîner une consommation excessive de votre connexion Internet mobile. Des frais supplémentaires peuvent être facturés par votre opérateur en fonction de votre forfait.
+
+Appuyez sur %2$s pour le lancer lors de votre prochaine connexion au Wi-Fi."</string>
+    <string name="wifi_recommended_title">"Ajouter à la file d'attente des téléchargements?"</string>
+    <string name="wifi_required_body">"Vous devez utiliser le Wi-Fi pour finaliser ce téléchargement de %1$s . 
+
+Appuyez sur %2$s  pour le lancer lors de votre prochaine connexion à un réseau Wi-Fi."</string>
+    <string name="wifi_required_title">"Téléchargement trop volumineux pour l'opérateur"</string>
+</resources>

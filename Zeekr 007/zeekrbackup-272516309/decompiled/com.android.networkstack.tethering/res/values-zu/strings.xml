@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="disable_tether_notification_message">Xhumana nomphathi wakho ukuze uthole imininingwane</string>
+    <string name="disable_tether_notification_title">Ukusebenzisa ifoni njengemodemu kukhutshaziwe</string>
+    <string name="no_upstream_notification_disable_button" />
+    <string name="no_upstream_notification_message" />
+    <string name="no_upstream_notification_title" />
+    <string name="notification_channel_tethering_status">I-Hotspot nesimo sokusebenzisa ifoni njengemodemu</string>
+    <string name="tethered_notification_message">Thepha ukuze usethe.</string>
+    <string name="tethered_notification_title">Ukusebenzisa njengemodemu noma i-hotspot ephathekayo kuvuliwe</string>
+    <string name="upstream_roaming_notification_message" />
+    <string name="upstream_roaming_notification_title" />
+</resources>

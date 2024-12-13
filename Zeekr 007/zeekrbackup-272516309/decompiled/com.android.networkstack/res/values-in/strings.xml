@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Pengelola jaringan</string>
+    <string name="connected">Terhubung</string>
+    <string name="notification_channel_description_connected">Notifikasi ditampilkan saat perangkat telah berhasil diautentikasi ke jaringan captive portal</string>
+    <string name="notification_channel_description_network_venue_info">Notifikasi ditampilkan untuk menandakan bahwa jaringan memiliki halaman informasi tempat</string>
+    <string name="notification_channel_name_connected">Autentikasi captive portal</string>
+    <string name="notification_channel_name_network_venue_info">Informasi tempat jaringan</string>
+    <string name="tap_for_info">Terhubung / Ketuk untuk melihat situs</string>
+</resources>

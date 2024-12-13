@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">%1$d অধিক</item>
+        <item quantity="one">%1$d অধিক</item>
+    </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">%1$d টা এপ্‌ কেইমাহমান ব্যৱহাৰ কৰা হোৱা নাই। পর্যালোচনা কৰিবলৈ টিপক</item>
+        <item quantity="one">%1$d টা এপ্‌ কেইমাহমান ব্যৱহাৰ কৰা হোৱা নাই। পর্যালোচনা কৰিবলৈ টিপক</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">%1$d টা এপ্‌ কেইমাহমান ব্যৱহাৰ কৰা হোৱা নাই</item>
+        <item quantity="one">%1$d টা এপ্‌ কেইমাহমান ব্যৱহাৰ কৰা হোৱা নাই</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s দিন</item>
+        <item quantity="one">%s দিন</item>
+    </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">%s দিন</item>
+        <item quantity="one">%s দিন</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">%s ঘণ্টা</item>
+        <item quantity="one">%s ঘণ্টা</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">%s মিনিট</item>
+        <item quantity="one">%s মিনিট</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">%s ছেকেণ্ড</item>
+        <item quantity="one">%s ছেকেণ্ড</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s ঘণ্টা</item>
+        <item quantity="one">%s ঘণ্টা</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s মিনিট</item>
+        <item quantity="one">%s মিনিট</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d new notifications</item>
+        <item quantity="one">%d new notification</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%sটা এপ্</item>
+        <item quantity="one">%sটা এপ্</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%sটা এপ্</item>
+        <item quantity="one">%sটা এপ্</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">%1$d টা এপে ব্যৱহাৰ কৰিছে</item>
+        <item quantity="one">%1$d টা এপে ব্যৱহাৰ কৰিছে</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"শেহতীয়া এক্সেছৰ সংখ্যা: %1$s
+%2$sটা এক্সেছ"</item>
+        <item quantity="one">"শেহতীয়া এক্সেছৰ সংখ্যা: %1$s
+%2$sটা এক্সেছ"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"শেহতীয়া এক্সেছৰ সংখ্যা: %1$s
+%2$sটা এক্সেছ (নেপথ্যত %3$sটা)"</item>
+        <item quantity="one">"শেহতীয়া এক্সেছৰ সংখ্যা: %1$s
+%2$sটা এক্সেছ (নেপথ্যত %3$sটা)"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"শেহতীয়া এক্সেছৰ সংখ্যা: %1$s
+%2$sটা এক্সেছ (নেপথ্যত %3$sটা)
+দৈৰ্ঘ্য: %3$s"</item>
+        <item quantity="one">"শেহতীয়া এক্সেছৰ সংখ্যা: %1$s
+%2$sটা এক্সেছ (নেপথ্যত %3$sটা)
+দৈৰ্ঘ্য: %3$s"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"শেহতীয়া এক্সেছৰ সংখ্যা: %1$s
+%2$sটা এক্সেছ
+দৈৰ্ঘ্য: %3$s"</item>
+        <item quantity="one">"শেহতীয়া এক্সেছৰ সংখ্যা: %1$s
+%2$sটা এক্সেছ
+দৈৰ্ঘ্য: %3$s"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s ছেকেণ্ড</item>
+        <item quantity="one">%s ছেকেণ্ড</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">%1$d টা অব্যৱহৃত এপ্‌</item>
+        <item quantity="one">%1$d টা অব্যৱহৃত এপ্‌</item>
+    </plurals>
+</resources>

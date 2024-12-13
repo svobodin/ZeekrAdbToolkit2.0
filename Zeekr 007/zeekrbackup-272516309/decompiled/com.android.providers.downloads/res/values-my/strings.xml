@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ဒေါင်းလုဒ်မန်နေဂျာ</string>
+    <string name="button_cancel_download">မလုပ်တော့</string>
+    <string name="button_queue_for_wifi">တန်းစီရန်</string>
+    <string name="button_start_now">ယခုအချိန်မှစတင်ပါ</string>
+    <string name="download_error">မအောင်မြင်ပါ</string>
+    <string name="download_no_application_title">ဖိုင်အား ဖွင့်မရပါ</string>
+    <string name="download_queued">တန်းစီထားပြီး</string>
+    <string name="download_remaining">%s ကျန်ရှိသည်</string>
+    <string name="download_running">ပြုလုပ်နေဆဲ</string>
+    <string name="download_running_percent">လုပ်ဆောင်နေဆဲ၊ %s</string>
+    <string name="download_unknown_title">အမည်မသိ</string>
+    <string name="notification_download_complete">ဒေါင်းလုပ်ပြုလုပ်ပြီး</string>
+    <string name="notification_download_failed">ဒေါင်းလုပ်မအောင်မြင်ပါ</string>
+    <string name="notification_need_wifi_for_size">ဒေါင်းလုပ်ပမာဏမှာ ဝိုင်ဖိုင်လိုအပ်သည်</string>
+    <string name="notification_paused_in_background">နောက်ခံတွင် ခဏဆိုင်းထားသည်</string>
+    <string name="permdesc_accessAllDownloads">အပလီကေးရှင်းအား စစ်စတန်ပေါ်ရှိ မည်သည့်အပလီကေးရှင်းမှ ဒေါင်းလုပ်ကိုမဆို ကြည့်ခြင်း သို့မဟုတ်ပြင်ဆင်နိုင်ရန် ခွင့်ပြုသည်</string>
+    <string name="permdesc_downloadCacheNonPurgeable">အပလီကေးရှင်းအား ဒေါင်းလုပ်ပြုလုပ်ထားသောဖိုင်များကို ဒေါင်းလုပ်မန်နေဂျာမှ နေရာလွတ်လိုအပ်လျှင်အလိုအလျောက်ဖျက်မရသော ယာယီသိမ်းဆည်းရန်နေရာထဲသို့ ထည့်ရန် ခွင့်ပြုမည်</string>
+    <string name="permdesc_downloadCompletedIntent">အက်ပ်အား ဒေါင်းလုပ်ပြီးဆုံးပါက အကြောင်းကြားရန် ခွင့်ပြုမည်။ အန္တရာယ် ရှိသော အက်ပ်များက ၎င်းကို အသုံးပြုကာ ဖိုင်များကိုဒေါင်းလုပ်ပြုထားသော အက်ပ်ကို ရောထွေးအောင်ပြုလုပ်နိုင်သည်။</string>
+    <string name="permdesc_downloadManager">အပလီကေးရှင်းအား ဒေါင်းလုပ်မန်နေဂျာကို သုံးစွဲနိုင်ရန်နှင့် ဖိုင်များကိုဒေါင်းလုပ်ပြုလုပ်ရန်အတွက်သုံးခြင်းကို ခွင့်ပြုမည်။ အန္တရာယ် ရှိသော အပလီကေးရှင်းများက ၎င်းကို အသုံးပြုကာ ဒေါင်းလုပ်ပြုလုပ်ခြင်းကို နှောက်ယှက်ခြင်းနှင့် ကိုယ်ပိုင်အချက်အလက်များကို ဝင်ရောက်ယူနိုင်သည်။</string>
+    <string name="permdesc_downloadManagerAdvanced">အပလီကေးရှင်းအား ဒေါင်းလုပ်မန်နေဂျာ၏ အဆင့်မြင့် လုပ်ဆောင်ချက်များကို သုံးစွဲခွင့်ပြုမည်။ အန္တရာယ် ရှိသော အပလီကေးရှင်းများက ၎င်းကို အသုံးပြုကာ ဒေါင်းလုပ်ပြုလုပ်ခြင်းကို နှောက်ယှက်ခြင်းနှင့် ကိုယ်ပိုင်အချက်အလက်များကို ဝင်ရောက်ယူနိုင်သည်။</string>
+    <string name="permdesc_downloadWithoutNotification">အပလီကေးရှင်းအား အသုံးပြုသူအား မည်သည့်အကြောင်းကြားချက်မျှမပေးပို့ပဲ ဒေါင်းလုပ်မန်နေဂျာမှတစ်ဆင့် ဖိုင်များကိုဒေါင်းလုပ်ပြုလုပ်ရန် ခွင့်ပြုမည်။</string>
+    <string name="permlab_accessAllDownloads">စနစ်၏ ဒေါင်းလုပ်အားလုံးကို သုံးစွဲခွင့်ပြုမည်</string>
+    <string name="permlab_downloadCacheNonPurgeable">ဒေါင်းလုပ်ယာယီသိမ်းရန်နေရာတွင် ကြိုတင်နေရာယူထားမည်</string>
+    <string name="permlab_downloadCompletedIntent">ဒေါင်းလုပ်နှင့် ပတ်သက်သော အကြောင်းကြားချက် အားလုံးကိုပို့မည်</string>
+    <string name="permlab_downloadManager">ဒေါင်းလုပ်မန်နေဂျာကို သုံးစွဲခွင့်ပြုမည်</string>
+    <string name="permlab_downloadManagerAdvanced">အဆင့်မြင့် ဒေါင်းလုပ်မန်နေဂျာ လုပ်ငန်းများ</string>
+    <string name="permlab_downloadWithoutNotification">အကြောင်းမကြားပဲ ဖိုင်များကို ဒေါင်းလုပ်ပြုလုပ်မည်</string>
+    <string name="root_downloads">ဒေါင်းလုဒ်များ</string>
+    <string name="storage_description">ဒေါင်းလုဒ်များ</string>
+    <string name="wifi_recommended_body">"ဤ %1$s ဒေါင်းလုပ်ကို စတင်ခြင်းမှာ သင့်ဘက်ထရီ သက်တမ်းကို တိုစေသည် သို့မဟုတ် သင့်ဒေတာပလန်ပေါ် မူတည်၍ ကျသင့်ငွေ ပိုကုန်စေမည့် မိုဘိုင်းဒေတာ ချိတ်ဆက်မှုကို အလွန်အကျွံ သုံးနိုင်သည်။ 
+
+ နောက်တစ်ခါ ဝိုင်ဖိုင်ချိတ်ဆက်လျှင် ဒေါင်းလုပ်စတင်ရန် %2$s ကို တို့ထိပါ။"</string>
+    <string name="wifi_recommended_title">နောက်မှ ဒေါင်းလုပ်ပြုလုပ်ရန် တန်းစီထားမလား?</string>
+    <string name="wifi_required_body">"ဤ %1$s  ဒေါင်းလုပ်ကို ပြုလုပ်ရန် Wi-Fi  ချိတ်ဆက်ထားရပါမည်၊ 
+
+နောက်တစ်ခါ Wi-Fi ကိုချိတ်ဆက်လျှင် ဒေါင်းလုပ်စတင်ရန် %2$s  ကို တို့ထိပါ။"</string>
+    <string name="wifi_required_title">ဒေါင်းလုပ်မှာ အော်ပရေတာကွန်ယက်အတွက် ကြီးလွန်းသည်</string>
+</resources>

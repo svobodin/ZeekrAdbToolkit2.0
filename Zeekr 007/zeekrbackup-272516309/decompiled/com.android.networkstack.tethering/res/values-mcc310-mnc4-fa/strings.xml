@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">خاموش کردن «اشتراک‌گذاری اینترنت»</string>
+    <string name="no_upstream_notification_message">دستگاه‌ها متصل نمی‌شوند</string>
+    <string name="no_upstream_notification_title">«اشتراک‌گذاری اینترنت» به اینترنت دسترسی ندارد</string>
+    <string name="upstream_roaming_notification_message">ممکن است درحین فراگردی تغییرات دیگر اعمال شود</string>
+    <string name="upstream_roaming_notification_title">«نقطه اتصال» یا «اشتراک‌گذاری اینترنت» روشن است</string>
+</resources>

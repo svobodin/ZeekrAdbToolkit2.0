@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Вход в мрежата</string>
+    <string name="action_bar_title">Влезте в(ъв) %1$s</string>
+    <string name="action_do_not_use_network">Без използване на тази мрежа</string>
+    <string name="action_use_network">Директно използване на тази мрежа</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">Известия, които показват напредъка на изтеглянията на файлове</string>
+    <string name="channel_description_downloads">Известия, които показват завършените и анулираните изтегляния</string>
+    <string name="channel_name_download_progress">Напредък на изтеглянето</string>
+    <string name="channel_name_downloads">Изтегляния</string>
+    <string name="custom_scheme_example">Например страницата за вход може да изисква конкретно приложение за удостоверяване</string>
+    <string name="custom_scheme_warning">Мрежата, към която се опитвате да се присъедините, иска да отвори друго приложение.</string>
+    <string name="download_completed">Изтеглянето завърши</string>
+    <string name="downloading_paramfile">%s се изтегля</string>
+    <string name="error_continue_via_browser">Продължаване през браузър въпреки това</string>
+    <string name="error_downloading_paramfile">Изтеглянето на %1$s не бе успешно</string>
+    <string name="no_bypass_error_vpnwarning">Също така заобикалянето на тази грешка не е възможно, защото понастоящем устройството използва VPN.</string>
+    <string name="ok">OK</string>
+    <string name="page_info">Данни за страницата</string>
+    <string name="page_info_address">Адрес:</string>
+    <string name="ssl_error_date_invalid">Този сертификат е с невалидна дата.</string>
+    <string name="ssl_error_example">Например страницата за вход може да не принадлежи на показаната организация.</string>
+    <string name="ssl_error_expired">Този сертификат е изтекъл.</string>
+    <string name="ssl_error_invalid">Този сертификат е невалиден.</string>
+    <string name="ssl_error_mismatch">Името на сайта не съответства на името в сертификата.</string>
+    <string name="ssl_error_not_yet_valid">Този сертификат още не е валиден.</string>
+    <string name="ssl_error_unknown">Неизвестна грешка в сертификата.</string>
+    <string name="ssl_error_untrusted">Този сертификат не е от надежден орган.</string>
+    <string name="ssl_error_view_certificate">Преглед на сертификата</string>
+    <string name="ssl_error_warning">Мрежата, към която опитвате да се присъедините, има проблеми със сигурността.</string>
+    <string name="ssl_security_warning_title">Предупреждение относно сигурността</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

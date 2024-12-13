@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">Sistem Bağlantı Kaynakları</string>
+    <string name="mobile_no_internet">Mobil ağın internet bağlantısı yok</string>
+    <string name="network_available_sign_in">Ağda oturum açın</string>
+    <string name="network_partial_connectivity">%1$s sınırlı bağlantıya sahip</string>
+    <string name="network_partial_connectivity_detailed">Yine de bağlanmak için dokunun</string>
+    <string name="network_switch_metered">%1$s ağına geçildi</string>
+    <string name="network_switch_metered_detail">%2$s ağının internet erişimi olmadığında cihaz %1$s ağını kullanır. Bunun için ödeme alınabilir.</string>
+    <string name="network_switch_metered_toast">%1$s ağından %2$s ağına geçildi</string>
+    <string name="network_switch_type_name_unknown">bilinmeyen ağ türü</string>
+    <string name="other_networks_no_internet">Ağın internet bağlantısı yok</string>
+    <string name="private_dns_broken_detailed">Gizli DNS sunucusuna erişilemiyor</string>
+    <string name="wifi_available_sign_in">Kablosuz ağda oturum açın</string>
+    <string name="wifi_no_internet">%1$s ağının internet bağlantısı yok</string>
+    <string name="wifi_no_internet_detailed">Seçenekler için dokunun</string>
+</resources>

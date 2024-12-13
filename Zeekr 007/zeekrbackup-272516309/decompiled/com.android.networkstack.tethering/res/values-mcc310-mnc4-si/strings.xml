@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">ටෙදරින් ක්‍රියාවිරහිත කරන්න</string>
+    <string name="no_upstream_notification_message">උපාංගවලට සම්බන්ධ විය නොහැකිය</string>
+    <string name="no_upstream_notification_title">ටෙදරින් හට අන්තර්ජාලය නැත</string>
+    <string name="upstream_roaming_notification_message">රෝමිං අතරතුර අමතර ගාස්තු අදාළ විය හැකිය</string>
+    <string name="upstream_roaming_notification_title">හොට්ස්පොට් හෝ ටෙදරින් ක්‍රියාත්මකයි</string>
+</resources>

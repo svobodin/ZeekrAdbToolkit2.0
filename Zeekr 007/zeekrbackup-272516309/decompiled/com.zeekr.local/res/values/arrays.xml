@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="in_colors_light">
+        <item>#4b03a9f4</item>
+        <item>#3303a9f4</item>
+        <item>#1903a9f4</item>
+    </array>
+    <string-array name="radio_tab_array">
+        <item>@string/radio_list</item>
+        <item>@string/collect</item>
+    </string-array>
+</resources>

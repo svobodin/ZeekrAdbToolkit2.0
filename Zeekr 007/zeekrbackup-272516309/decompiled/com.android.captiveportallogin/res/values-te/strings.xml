@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">నెట్‌వర్క్‌కి సైన్ ఇన్ చేయండి</string>
+    <string name="action_bar_title">%1$sకి సైన్ ఇన్ చేయండి</string>
+    <string name="action_do_not_use_network">ఈ నెట్‌వర్క్‌ని ఉపయోగించవద్దు</string>
+    <string name="action_use_network">ఈ నెట్‌వర్క్‌ని యథావిధిగా ఉపయోగించు</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">ఫైల్ డౌన్‌లోడ్‌ల ప్రోగ్రెస్‌ను చూపించే నోటిఫికేషన్‌లు</string>
+    <string name="channel_description_downloads">పూర్తయిన లేదా రద్దు చేసిన డౌన్‌లోడ్‌లను చూపించే నోటిఫికేషన్‌లు</string>
+    <string name="channel_name_download_progress">డౌన్‌లోడ్ ప్రోగ్రెస్</string>
+    <string name="channel_name_downloads">డౌన్‌లోడ్‌లు</string>
+    <string name="custom_scheme_example">ఉదాహరణకు, ప్రామాణీకరణ కోసం లాగిన్ పేజీకి ఒక నిర్దిష్ట యాప్ అవసరం కావచ్చు</string>
+    <string name="custom_scheme_warning">మరొక యాప్‌ను తెరవమని మీరు చేరడానికి ప్రయత్నిస్తున్న నెట్‌వర్క్ అభ్యర్థిస్తోంది.</string>
+    <string name="download_completed">డౌన్‌లోడ్ పూర్తయింది</string>
+    <string name="downloading_paramfile">%1$sను డౌన్‌లోడ్ చేస్తోంది</string>
+    <string name="error_continue_via_browser">ఏదేమైనా బ్రౌజర్ ద్వారా కొనసాగించు</string>
+    <string name="error_downloading_paramfile">%1$sను డౌన్‌లోడ్‌ చేయడం సాధ్యపడలేదు</string>
+    <string name="no_bypass_error_vpnwarning">అదనంగా, పరికరం ప్రస్తుతం VPNను నడుపుతోంది కాబట్టి ఈ ఎర్రర్‌ను దాటవేయడం సాధ్యం కాదు.</string>
+    <string name="ok">సరే</string>
+    <string name="page_info">పేజీ సమాచారం</string>
+    <string name="page_info_address">అడ్రస్‌:</string>
+    <string name="ssl_error_date_invalid">ఈ సర్టిఫికెట్ చెల్లని తేదీని కలిగి ఉంది.</string>
+    <string name="ssl_error_example">ఉదాహరణకు, లాగిన్ పేజీ చూపిన సంస్థకు చెందినది కాకపోవచ్చు.</string>
+    <string name="ssl_error_expired">ఈ సర్టిఫికెట్ గడువు ముగిసింది.</string>
+    <string name="ssl_error_invalid">ఈ సర్టిఫికెట్ చెల్లుబాటు కాదు.</string>
+    <string name="ssl_error_mismatch">సైట్ యొక్క పేరు సర్టిఫికెట్‌లోని పేరుతో సరిపోలలేదు.</string>
+    <string name="ssl_error_not_yet_valid">ఈ సర్టిఫికెట్ ఇప్పటికీ చెల్లదు.</string>
+    <string name="ssl_error_unknown">తెలియని సర్టిఫికెట్ ఎర్రర్.</string>
+    <string name="ssl_error_untrusted">ఈ సర్టిఫికెట్ విశ్వసనీయ అధికార సంస్థ నుండి కాదు.</string>
+    <string name="ssl_error_view_certificate">సర్టిఫికెట్‌ని చూడండి</string>
+    <string name="ssl_error_warning">మీరు చేరడానికి ప్రయత్నిస్తున్న నెట్‌వర్క్ సెక్యూరిటీ సమస్యలను కలిగి ఉంది.</string>
+    <string name="ssl_security_warning_title">సెక్యూరిటీ హెచ్చరిక</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s : Awukwazi ukuxhuma kukufinyelela kwi-Verizon Wi-Fi kusuka ngaphandle kwendawo yokufakwa ye-Verizon.</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s : Awubhalisele ukufinyelela kwi-Verizon Wi-Fi. Sicela usishayele ucingo ku-800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s : Kukhona inkinga nge-akhawunti yakho yokufinyelela kwi-Wi-Fi. Sicela usishayele ucingo ku-800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s : Usuxhumeke kakade kukufinyelela kwi-Verizon Wi-Fi.</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s : Kukhona inkinga yokukuxhuma kukufinyelela kwi-Verizon Wi-Fi. Sicela usishayele ucingo ku-800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s : Kukhona inkinga nge-akhawunti yakho yokufinyelela kwi-Wi-Fi. Sicela usishayele ucingo ku-800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s : Ukufinyelela kwi-Verizon Wi-Fi akutholakali kusuka endaweni yakho. Zama futhi ngemuva kwesikhathi noma zama indawo ehlukile.</string>
+</resources>

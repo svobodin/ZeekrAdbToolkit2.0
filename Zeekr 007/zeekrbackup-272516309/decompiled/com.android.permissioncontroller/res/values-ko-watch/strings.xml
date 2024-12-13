@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_summary_enforced_by_policy">변경할 수 없음</string>
+    <string name="grant_dialog_button_deny_dont_ask_again">거부 및 다시 묻지 않음</string>
+    <string name="preference_show_system_apps">시스템 앱 보기</string>
+    <string name="generic_cancel">취소</string>
+    <string name="generic_yes">예</string>
+</resources>

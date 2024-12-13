@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_action_bar_content_inset_material">16.0dip</dimen>
+    <dimen name="abc_action_bar_content_inset_with_nav">72.0dip</dimen>
+    <dimen name="abc_action_bar_default_height_material">56.0dip</dimen>
+    <dimen name="abc_action_bar_default_padding_end_material">0.0dip</dimen>
+    <dimen name="abc_action_bar_default_padding_start_material">0.0dip</dimen>
+    <dimen name="abc_action_bar_elevation_material">4.0dip</dimen>
+    <dimen name="abc_action_bar_icon_vertical_padding_material">16.0dip</dimen>
+    <dimen name="abc_action_bar_overflow_padding_end_material">10.0dip</dimen>
+    <dimen name="abc_action_bar_overflow_padding_start_material">6.0dip</dimen>
+    <dimen name="abc_action_bar_stacked_max_height">48.0dip</dimen>
+    <dimen name="abc_action_bar_stacked_tab_max_width">180.0dip</dimen>
+    <dimen name="abc_action_bar_subtitle_bottom_margin_material">5.0dip</dimen>
+    <dimen name="abc_action_bar_subtitle_top_margin_material">-3.0dip</dimen>
+    <dimen name="abc_action_button_min_height_material">48.0dip</dimen>
+    <dimen name="abc_action_button_min_width_material">48.0dip</dimen>
+    <dimen name="abc_action_button_min_width_overflow_material">36.0dip</dimen>
+    <dimen name="abc_alert_dialog_button_bar_height">48.0dip</dimen>
+    <dimen name="abc_alert_dialog_button_dimen">48.0dip</dimen>
+    <item type="dimen" name="abc_button_inset_horizontal_material">@dimen/abc_control_inset_material</item>
+    <dimen name="abc_button_inset_vertical_material">6.0dip</dimen>
+    <dimen name="abc_button_padding_horizontal_material">8.0dip</dimen>
+    <item type="dimen" name="abc_button_padding_vertical_material">@dimen/abc_control_padding_material</item>
+    <dimen name="abc_cascading_menus_min_smallest_width">720.0dip</dimen>
+    <dimen name="abc_config_prefDialogWidth">320.0dip</dimen>
+    <dimen name="abc_control_corner_material">2.0dip</dimen>
+    <dimen name="abc_control_inset_material">4.0dip</dimen>
+    <dimen name="abc_control_padding_material">4.0dip</dimen>
+    <dimen name="abc_dialog_corner_radius_material">2.0dip</dimen>
+    <item type="dimen" name="abc_dialog_fixed_height_major">79.99999%</item>
+    <item type="dimen" name="abc_dialog_fixed_height_minor">100.0%</item>
+    <dimen name="abc_dialog_fixed_width_major">320.0dip</dimen>
+    <dimen name="abc_dialog_fixed_width_minor">320.0dip</dimen>
+    <dimen name="abc_dialog_list_padding_bottom_no_buttons">8.0dip</dimen>
+    <dimen name="abc_dialog_list_padding_top_no_title">8.0dip</dimen>
+    <item type="dimen" name="abc_dialog_min_width_major">65.0%</item>
+    <item type="dimen" name="abc_dialog_min_width_minor">95.00001%</item>
+    <dimen name="abc_dialog_padding_material">24.0dip</dimen>
+    <dimen name="abc_dialog_padding_top_material">18.0dip</dimen>
+    <dimen name="abc_dialog_title_divider_material">8.0dip</dimen>
+    <item type="dimen" name="abc_disabled_alpha_material_dark">0.3</item>
+    <item type="dimen" name="abc_disabled_alpha_material_light">0.26</item>
+    <dimen name="abc_dropdownitem_icon_width">32.0dip</dimen>
+    <dimen name="abc_dropdownitem_text_padding_left">8.0dip</dimen>
+    <dimen name="abc_dropdownitem_text_padding_right">8.0dip</dimen>
+    <dimen name="abc_edit_text_inset_bottom_material">7.0dip</dimen>
+    <dimen name="abc_edit_text_inset_horizontal_material">4.0dip</dimen>
+    <dimen name="abc_edit_text_inset_top_material">10.0dip</dimen>
+    <dimen name="abc_floating_window_z">16.0dip</dimen>
+    <dimen name="abc_list_item_height_large_material">80.0dip</dimen>
+    <dimen name="abc_list_item_height_material">64.0dip</dimen>
+    <dimen name="abc_list_item_height_small_material">48.0dip</dimen>
+    <item type="dimen" name="abc_list_item_padding_horizontal_material">@dimen/abc_action_bar_content_inset_material</item>
+    <dimen name="abc_panel_menu_list_width">296.0dip</dimen>
+    <dimen name="abc_progress_bar_height_material">4.0dip</dimen>
+    <dimen name="abc_search_view_preferred_height">48.0dip</dimen>
+    <dimen name="abc_search_view_preferred_width">320.0dip</dimen>
+    <dimen name="abc_seekbar_track_background_height_material">2.0dip</dimen>
+    <dimen name="abc_seekbar_track_progress_height_material">2.0dip</dimen>
+    <dimen name="abc_select_dialog_padding_start_material">20.0dip</dimen>
+    <dimen name="abc_star_big">48.0dip</dimen>
+    <dimen name="abc_star_medium">36.0dip</dimen>
+    <dimen name="abc_star_small">16.0dip</dimen>
+    <dimen name="abc_switch_padding">0.0px</dimen>
+    <dimen name="abc_text_size_body_1_material">14.0sp</dimen>
+    <dimen name="abc_text_size_body_2_material">14.0sp</dimen>
+    <dimen name="abc_text_size_button_material">14.0sp</dimen>
+    <dimen name="abc_text_size_caption_material">12.0sp</dimen>
+    <dimen name="abc_text_size_display_1_material">34.0sp</dimen>
+    <dimen name="abc_text_size_display_2_material">45.0sp</dimen>
+    <dimen name="abc_text_size_display_3_material">56.0sp</dimen>
+    <dimen name="abc_text_size_display_4_material">112.0sp</dimen>
+    <dimen name="abc_text_size_headline_material">24.0sp</dimen>
+    <dimen name="abc_text_size_large_material">22.0sp</dimen>
+    <dimen name="abc_text_size_medium_material">18.0sp</dimen>
+    <dimen name="abc_text_size_menu_header_material">14.0sp</dimen>
+    <dimen name="abc_text_size_menu_material">16.0sp</dimen>
+    <dimen name="abc_text_size_small_material">14.0sp</dimen>
+    <dimen name="abc_text_size_subhead_material">16.0sp</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">16.0dip</dimen>
+    <dimen name="abc_text_size_title_material">20.0sp</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">20.0dip</dimen>
+    <dimen name="car_ui_app_styled_dialog_height">0.0dip</dimen>
+    <dimen name="car_ui_app_styled_dialog_height_max">768.0dip</dimen>
+    <dimen name="car_ui_app_styled_dialog_position_x">0.0dip</dimen>
+    <dimen name="car_ui_app_styled_dialog_position_y">0.0dip</dimen>
+    <dimen name="car_ui_app_styled_dialog_width">0.0dip</dimen>
+    <dimen name="car_ui_app_styled_dialog_width_max">1334.0dip</dimen>
+    <dimen name="car_ui_body1_size">32.0sp</dimen>
+    <dimen name="car_ui_body2_size">28.0sp</dimen>
+    <dimen name="car_ui_body3_size">24.0sp</dimen>
+    <item type="dimen" name="car_ui_button_disabled_alpha">0.2</item>
+    <dimen name="car_ui_dialog_edittext_height">50.0dip</dimen>
+    <dimen name="car_ui_dialog_edittext_margin_bottom">10.0dip</dimen>
+    <item type="dimen" name="car_ui_dialog_edittext_margin_end">@dimen/car_ui_padding_5</item>
+    <item type="dimen" name="car_ui_dialog_edittext_margin_start">@dimen/car_ui_padding_5</item>
+    <dimen name="car_ui_dialog_edittext_margin_top">10.0dip</dimen>
+    <dimen name="car_ui_dialog_icon_size">56.0dip</dimen>
+    <item type="dimen" name="car_ui_dialog_title_margin">@dimen/car_ui_padding_5</item>
+    <dimen name="car_ui_divider_width">1.0dip</dimen>
+    <dimen name="car_ui_header_list_item_text_start_margin">0.0dip</dimen>
+    <dimen name="car_ui_ime_wide_screen_action_button_height">88.0dip</dimen>
+    <dimen name="car_ui_ime_wide_screen_action_button_margin_bottom">40.0dip</dimen>
+    <dimen name="car_ui_ime_wide_screen_action_button_margin_left">36.0dip</dimen>
+    <dimen name="car_ui_ime_wide_screen_action_button_text_size">32.0dip</dimen>
+    <dimen name="car_ui_ime_wide_screen_description_padding_top">16.0dip</dimen>
+    <dimen name="car_ui_ime_wide_screen_description_text_size">32.0dip</dimen>
+    <dimen name="car_ui_ime_wide_screen_description_title_margin_top">190.0dip</dimen>
+    <dimen name="car_ui_ime_wide_screen_description_title_padding_left">36.0dip</dimen>
+    <dimen name="car_ui_ime_wide_screen_description_title_text_size">44.0dip</dimen>
+    <dimen name="car_ui_ime_wide_screen_divider_width">5.0dip</dimen>
+    <dimen name="car_ui_ime_wide_screen_error_text_padding_start">68.0dip</dimen>
+    <dimen name="car_ui_ime_wide_screen_error_text_size">24.0dip</dimen>
+    <dimen name="car_ui_ime_wide_screen_input_area_height">96.0dip</dimen>
+    <dimen name="car_ui_ime_wide_screen_input_area_padding_end">68.0dip</dimen>
+    <dimen name="car_ui_ime_wide_screen_input_area_padding_top">56.0dip</dimen>
+    <dimen name="car_ui_ime_wide_screen_input_edit_text_padding_left">68.0dip</dimen>
+    <dimen name="car_ui_ime_wide_screen_input_edit_text_padding_right">0.0dip</dimen>
+    <dimen name="car_ui_ime_wide_screen_input_edit_text_size">68.0dip</dimen>
+    <dimen name="car_ui_ime_wide_screen_input_padding_start">36.0dip</dimen>
+    <dimen name="car_ui_ime_wide_screen_keyboard_area_padding_bottom">40.0dip</dimen>
+    <dimen name="car_ui_ime_wide_screen_keyboard_area_padding_end">36.0dip</dimen>
+    <dimen name="car_ui_ime_wide_screen_keyboard_area_padding_start">36.0dip</dimen>
+    <dimen name="car_ui_ime_wide_screen_keyboard_width">1250.0dip</dimen>
+    <dimen name="car_ui_ime_wide_screen_recycler_view_padding_top">100.0dip</dimen>
+    <dimen name="car_ui_ime_wide_search_item_icon_size">116.0dip</dimen>
+    <dimen name="car_ui_ime_wide_search_item_secondary_image_padding_left">36.0dip</dimen>
+    <dimen name="car_ui_ime_wide_search_item_sub_title_padding_left">24.0dip</dimen>
+    <dimen name="car_ui_ime_wide_search_item_sub_title_padding_top">22.0dip</dimen>
+    <dimen name="car_ui_ime_wide_search_item_sub_title_text_size">24.0dip</dimen>
+    <dimen name="car_ui_ime_wide_search_item_title_padding_left">24.0dip</dimen>
+    <dimen name="car_ui_ime_wide_search_item_title_padding_top">22.0dip</dimen>
+    <dimen name="car_ui_ime_wide_search_item_title_text_size">32.0dip</dimen>
+    <dimen name="car_ui_list_item_action_divider_height">60.0dip</dimen>
+    <dimen name="car_ui_list_item_action_divider_width">1.0dip</dimen>
+    <item type="dimen" name="car_ui_list_item_avatar_icon_height">@dimen/car_ui_primary_icon_size</item>
+    <item type="dimen" name="car_ui_list_item_avatar_icon_width">@dimen/car_ui_primary_icon_size</item>
+    <item type="dimen" name="car_ui_list_item_check_box_end_inset" />
+    <item type="dimen" name="car_ui_list_item_check_box_height" />
+    <item type="dimen" name="car_ui_list_item_check_box_icon_container_width" />
+    <item type="dimen" name="car_ui_list_item_check_box_start_inset" />
+    <item type="dimen" name="car_ui_list_item_content_icon_height">@dimen/car_ui_list_item_icon_container_width</item>
+    <item type="dimen" name="car_ui_list_item_content_icon_width">@dimen/car_ui_list_item_icon_container_width</item>
+    <dimen name="car_ui_list_item_end_inset">0.0dip</dimen>
+    <dimen name="car_ui_list_item_header_height">76.0dip</dimen>
+    <dimen name="car_ui_list_item_header_start_inset">0.0dip</dimen>
+    <dimen name="car_ui_list_item_height">116.0dip</dimen>
+    <dimen name="car_ui_list_item_icon_container_width">112.0dip</dimen>
+    <item type="dimen" name="car_ui_list_item_icon_size">@dimen/car_ui_primary_icon_size</item>
+    <item type="dimen" name="car_ui_list_item_radio_button_end_inset" />
+    <item type="dimen" name="car_ui_list_item_radio_button_height" />
+    <item type="dimen" name="car_ui_list_item_radio_button_icon_container_width" />
+    <item type="dimen" name="car_ui_list_item_radio_button_start_inset" />
+    <dimen name="car_ui_list_item_start_inset">0.0dip</dimen>
+    <item type="dimen" name="car_ui_list_item_supplemental_icon_size">@dimen/car_ui_primary_icon_size</item>
+    <dimen name="car_ui_list_item_text_no_icon_start_margin">24.0dip</dimen>
+    <dimen name="car_ui_list_item_text_start_margin">24.0dip</dimen>
+    <dimen name="car_ui_margin">112.0dip</dimen>
+    <dimen name="car_ui_padding_0">4.0dip</dimen>
+    <dimen name="car_ui_padding_1">8.0dip</dimen>
+    <dimen name="car_ui_padding_2">12.0dip</dimen>
+    <dimen name="car_ui_padding_3">16.0dip</dimen>
+    <dimen name="car_ui_padding_4">24.0dip</dimen>
+    <dimen name="car_ui_padding_5">32.0dip</dimen>
+    <dimen name="car_ui_padding_6">48.0dip</dimen>
+    <dimen name="car_ui_padding_7">64.0dip</dimen>
+    <dimen name="car_ui_padding_8">96.0dip</dimen>
+    <dimen name="car_ui_preference_category_icon_margin_end">16.0dip</dimen>
+    <dimen name="car_ui_preference_category_icon_size">44.0dip</dimen>
+    <dimen name="car_ui_preference_category_min_height">76.0dip</dimen>
+    <dimen name="car_ui_preference_content_margin_bottom">16.0dip</dimen>
+    <dimen name="car_ui_preference_content_margin_top">16.0dip</dimen>
+    <dimen name="car_ui_preference_dropdown_padding_start">112.0dip</dimen>
+    <dimen name="car_ui_preference_edit_text_dialog_margin_bottom">32.0dip</dimen>
+    <dimen name="car_ui_preference_edit_text_dialog_margin_top">32.0dip</dimen>
+    <dimen name="car_ui_preference_edit_text_dialog_message_margin_bottom">32.0dip</dimen>
+    <dimen name="car_ui_preference_edit_text_dialog_message_margin_end">24.0dip</dimen>
+    <dimen name="car_ui_preference_edit_text_dialog_message_margin_start">24.0dip</dimen>
+    <dimen name="car_ui_preference_edit_text_dialog_text_margin_end">24.0dip</dimen>
+    <dimen name="car_ui_preference_edit_text_dialog_text_margin_start">24.0dip</dimen>
+    <dimen name="car_ui_preference_icon_margin_end">16.0dip</dimen>
+    <dimen name="car_ui_preference_icon_size">44.0dip</dimen>
+    <dimen name="car_ui_primary_icon_size">44.0dip</dimen>
+    <dimen name="car_ui_recyclerview_divider_bottom_margin">0.0dip</dimen>
+    <dimen name="car_ui_recyclerview_divider_end_margin">0.0dip</dimen>
+    <dimen name="car_ui_recyclerview_divider_height">0.0dip</dimen>
+    <dimen name="car_ui_recyclerview_divider_start_margin">0.0dip</dimen>
+    <dimen name="car_ui_recyclerview_divider_top_margin">0.0dip</dimen>
+    <dimen name="car_ui_rotary_focus_pressed_stroke_width">4.0dip</dimen>
+    <dimen name="car_ui_rotary_focus_stroke_width">8.0dip</dimen>
+    <item type="dimen" name="car_ui_scrollbar_button_size">@dimen/car_ui_touch_target_width</item>
+    <item type="dimen" name="car_ui_scrollbar_container_width">@dimen/car_ui_margin</item>
+    <item type="dimen" name="car_ui_scrollbar_decelerate_interpolator_factor">1.8</item>
+    <item type="dimen" name="car_ui_scrollbar_deceleration_times_divisor">0.45</item>
+    <item type="dimen" name="car_ui_scrollbar_margin">@dimen/car_ui_margin</item>
+    <item type="dimen" name="car_ui_scrollbar_milliseconds_per_inch">150.0</item>
+    <dimen name="car_ui_scrollbar_min_thumb_height">56.0dip</dimen>
+    <dimen name="car_ui_scrollbar_padding_bottom">0.0dip</dimen>
+    <dimen name="car_ui_scrollbar_padding_top">0.0dip</dimen>
+    <dimen name="car_ui_scrollbar_separator_margin">16.0dip</dimen>
+    <dimen name="car_ui_scrollbar_thumb_radius">100.0dip</dimen>
+    <dimen name="car_ui_scrollbar_thumb_width">7.0dip</dimen>
+    <dimen name="car_ui_sub1_size">22.0sp</dimen>
+    <dimen name="car_ui_sub2_size">20.0sp</dimen>
+    <dimen name="car_ui_sub3_size">18.0sp</dimen>
+    <dimen name="car_ui_toolbar_bottom_inset">0.0dip</dimen>
+    <dimen name="car_ui_toolbar_bottom_view_height">0.100000024dip</dimen>
+    <dimen name="car_ui_toolbar_end_inset">0.0dip</dimen>
+    <item type="dimen" name="car_ui_toolbar_first_row_height">@dimen/car_ui_toolbar_row_height</item>
+    <item type="dimen" name="car_ui_toolbar_logo_size">@dimen/car_ui_primary_icon_size</item>
+    <item type="dimen" name="car_ui_toolbar_margin">@dimen/car_ui_margin</item>
+    <dimen name="car_ui_toolbar_menu_item_icon_background_size">54.0dip</dimen>
+    <dimen name="car_ui_toolbar_menu_item_icon_ripple_radius">48.0dip</dimen>
+    <item type="dimen" name="car_ui_toolbar_menu_item_icon_size">@dimen/car_ui_primary_icon_size</item>
+    <item type="dimen" name="car_ui_toolbar_menu_item_margin">@dimen/car_ui_padding_3</item>
+    <item type="dimen" name="car_ui_toolbar_nav_icon_size">@dimen/car_ui_primary_icon_size</item>
+    <dimen name="car_ui_toolbar_row_height">96.0dip</dimen>
+    <item type="dimen" name="car_ui_toolbar_search_close_icon_container_width">@dimen/car_ui_touch_target_width</item>
+    <item type="dimen" name="car_ui_toolbar_search_close_icon_size">@dimen/car_ui_primary_icon_size</item>
+    <dimen name="car_ui_toolbar_search_height">0.0dip</dimen>
+    <item type="dimen" name="car_ui_toolbar_search_search_icon_container_width">@dimen/car_ui_touch_target_width</item>
+    <item type="dimen" name="car_ui_toolbar_search_search_icon_size">@dimen/car_ui_primary_icon_size</item>
+    <item type="dimen" name="car_ui_toolbar_second_row_height">@dimen/car_ui_toolbar_row_height</item>
+    <dimen name="car_ui_toolbar_separator_height">0.100000024dip</dimen>
+    <dimen name="car_ui_toolbar_start_inset">0.0dip</dimen>
+    <dimen name="car_ui_toolbar_tab_icon_height">36.0dip</dimen>
+    <dimen name="car_ui_toolbar_tab_icon_width">36.0dip</dimen>
+    <dimen name="car_ui_toolbar_tab_padding_x">12.0dip</dimen>
+    <dimen name="car_ui_toolbar_tab_text_width">135.0dip</dimen>
+    <dimen name="car_ui_toolbar_title_logo_padding">0.0dip</dimen>
+    <item type="dimen" name="car_ui_toolbar_title_margin_start">@dimen/car_ui_padding_3</item>
+    <dimen name="car_ui_toolbar_title_no_logo_margin_start">0.0dip</dimen>
+    <dimen name="car_ui_toolbar_top_inset">0.0dip</dimen>
+    <item type="dimen" name="car_ui_touch_target_height">@dimen/car_ui_touch_target_size</item>
+    <dimen name="car_ui_touch_target_size">76.0dip</dimen>
+    <item type="dimen" name="car_ui_touch_target_width">@dimen/car_ui_touch_target_size</item>
+    <dimen name="compat_button_inset_horizontal_material">4.0dip</dimen>
+    <dimen name="compat_button_inset_vertical_material">6.0dip</dimen>
+    <dimen name="compat_button_padding_horizontal_material">8.0dip</dimen>
+    <dimen name="compat_button_padding_vertical_material">4.0dip</dimen>
+    <dimen name="compat_control_corner_material">2.0dip</dimen>
+    <dimen name="compat_notification_large_icon_max_height">320.0dip</dimen>
+    <dimen name="compat_notification_large_icon_max_width">320.0dip</dimen>
+    <dimen name="def_drawer_elevation">10.0dip</dimen>
+    <item type="dimen" name="disabled_alpha_material_dark">0.3</item>
+    <item type="dimen" name="disabled_alpha_material_light">0.26</item>
+    <dimen name="fastscroll_default_thickness">8.0dip</dimen>
+    <dimen name="fastscroll_margin">0.0dip</dimen>
+    <dimen name="fastscroll_minimum_range">50.0dip</dimen>
+    <item type="dimen" name="highlight_alpha_material_colored">0.26</item>
+    <item type="dimen" name="highlight_alpha_material_dark">0.2</item>
+    <item type="dimen" name="highlight_alpha_material_light">0.12</item>
+    <item type="dimen" name="hint_alpha_material_dark">0.5</item>
+    <item type="dimen" name="hint_alpha_material_light">0.38</item>
+    <item type="dimen" name="hint_pressed_alpha_material_dark">0.7</item>
+    <item type="dimen" name="hint_pressed_alpha_material_light">0.54</item>
+    <dimen name="item_touch_helper_max_drag_scroll_per_frame">20.0dip</dimen>
+    <dimen name="item_touch_helper_swipe_escape_max_velocity">800.0dip</dimen>
+    <dimen name="item_touch_helper_swipe_escape_velocity">120.0dip</dimen>
+    <dimen name="notification_action_icon_size">32.0dip</dimen>
+    <dimen name="notification_action_text_size">13.0sp</dimen>
+    <dimen name="notification_big_circle_margin">12.0dip</dimen>
+    <dimen name="notification_content_margin_start">0.0dip</dimen>
+    <dimen name="notification_large_icon_height">64.0dip</dimen>
+    <dimen name="notification_large_icon_width">64.0dip</dimen>
+    <dimen name="notification_main_column_padding_top">0.0dip</dimen>
+    <dimen name="notification_media_narrow_margin">12.0dip</dimen>
+    <dimen name="notification_right_icon_size">16.0dip</dimen>
+    <dimen name="notification_right_side_padding_top">4.0dip</dimen>
+    <dimen name="notification_small_icon_background_padding">3.0dip</dimen>
+    <dimen name="notification_small_icon_size_as_large">24.0dip</dimen>
+    <dimen name="notification_subtext_size">13.0sp</dimen>
+    <dimen name="notification_top_pad">10.0dip</dimen>
+    <dimen name="notification_top_pad_large_text">5.0dip</dimen>
+    <dimen name="preference_dropdown_padding_start">72.0dip</dimen>
+    <dimen name="preference_icon_minWidth">0.0dip</dimen>
+    <dimen name="preference_seekbar_padding_horizontal">0.0dip</dimen>
+    <dimen name="preference_seekbar_padding_vertical">15.0dip</dimen>
+    <dimen name="preference_seekbar_value_minWidth">36.0dip</dimen>
+    <dimen name="tooltip_corner_radius">2.0dip</dimen>
+    <dimen name="tooltip_horizontal_padding">16.0dip</dimen>
+    <dimen name="tooltip_margin">8.0dip</dimen>
+    <dimen name="tooltip_precise_anchor_extra_offset">8.0dip</dimen>
+    <dimen name="tooltip_precise_anchor_threshold">96.0dip</dimen>
+    <dimen name="tooltip_vertical_padding">6.5dip</dimen>
+    <dimen name="tooltip_y_offset_non_touch">0.0dip</dimen>
+    <dimen name="tooltip_y_offset_touch">16.0dip</dimen>
+    <item type="dimen" name="wrap_content">-2</item>
+</resources>

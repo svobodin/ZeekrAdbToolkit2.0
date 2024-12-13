@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s: Verizon 서비스 지역 외부에서는 Verizon Wi-Fi Access에 연결할 수 없습니다.</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s: Verizon Wi-Fi Access를 구독 중이 아닙니다. 800-922-0204번으로 문의하세요.</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s: Verizon Wi-Fi Access 계정에 문제가 있습니다. 800-922-0204번으로 문의하세요.</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s: 이미 Verizon Wi-Fi Access에 연결되어 있습니다.</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s: Verizon Wi-Fi Access에 연결하는 중에 문제가 발생했습니다. 800-922-0204번으로 문의하세요.</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s: Verizon Wi-Fi Access 계정에 문제가 있습니다. 800-922-0204번으로 문의하세요.</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s: 해당 위치에서는 Verizon Wi-Fi Access를 이용할 수 없습니다. 나중에 다시 시도하거나 다른 장소에서 시도해 보세요.</string>
+</resources>

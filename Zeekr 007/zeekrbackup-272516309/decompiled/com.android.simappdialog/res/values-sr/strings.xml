@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sim App Dialog</string>
+    <string name="install_carrier_app_defer_action">Не сада</string>
+    <string name="install_carrier_app_description">Да би нова SIM картица исправно радила, треба да инсталирате апликацију %1$s</string>
+    <string name="install_carrier_app_description_default">Да би нова SIM картица исправно радила, треба да инсталирате апликацију мобилног оператера</string>
+    <string name="install_carrier_app_download_action">Преузми апликацију</string>
+    <string name="install_carrier_app_title">Активирајте мобилну услугу</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Назад</string>
+    <string name="suw_more_button_label">Још</string>
+    <string name="suw_next_button_label">Даље</string>
+</resources>

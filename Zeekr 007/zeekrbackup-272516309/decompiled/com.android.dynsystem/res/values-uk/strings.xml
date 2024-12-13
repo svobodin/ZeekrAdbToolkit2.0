@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">Введіть пароль і перейдіть до Динамічних оновлень системи</string>
+    <string name="notification_action_cancel">Скасувати</string>
+    <string name="notification_action_discard">Видалити</string>
+    <string name="notification_action_reboot_to_dynsystem">Перезапустити</string>
+    <string name="notification_action_reboot_to_origin">Перезапустити</string>
+    <string name="notification_dynsystem_in_use">Запущено динамічну систему. Перезапустіть пристрій, щоб повернутися до попередньої версії Android.</string>
+    <string name="notification_image_validation_failed">Не вдалося перевірити образ. Встановлення скасовано.</string>
+    <string name="notification_install_completed">Динамічна система готова. Щоб перейти до неї, перезапустіть пристрій.</string>
+    <string name="notification_install_failed">Не вдалося встановити</string>
+    <string name="notification_install_inprogress">Триває встановлення</string>
+    <string name="toast_dynsystem_discarded">Динамічну систему видалено</string>
+    <string name="toast_failed_to_disable_dynsystem">Не вдалося вимкнути динамічну систему</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Не вдається перезапустити пристрій або завантажити динамічну систему</string>
+</resources>

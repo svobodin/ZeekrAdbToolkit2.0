@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AlertDialog.DeviceDefault" parent="@android:style/ActiveWallpaperSettings">
+        <item name="android:layout">@android:layout/autofill_fill_dialog</item>
+    </style>
+    <style name="Animation.Activity" parent="@android:style/Animation.DeviceDefault.Dialog">
+        <item name="android:activityOpenEnterAnimation">@null</item>
+        <item name="android:activityOpenExitAnimation">@null</item>
+        <item name="android:activityCloseEnterAnimation">@null</item>
+        <item name="android:activityCloseExitAnimation">@null</item>
+        <item name="android:taskOpenEnterAnimation">@null</item>
+        <item name="android:taskOpenExitAnimation">@null</item>
+        <item name="android:taskCloseEnterAnimation">@null</item>
+        <item name="android:taskCloseExitAnimation">@null</item>
+        <item name="android:taskToFrontEnterAnimation">@null</item>
+        <item name="android:taskToFrontExitAnimation">@null</item>
+        <item name="android:taskToBackEnterAnimation">@null</item>
+        <item name="android:taskToBackExitAnimation">@null</item>
+        <item name="android:wallpaperOpenEnterAnimation">@null</item>
+        <item name="android:wallpaperOpenExitAnimation">@null</item>
+        <item name="android:wallpaperCloseEnterAnimation">@null</item>
+        <item name="android:wallpaperCloseExitAnimation">@null</item>
+        <item name="android:wallpaperIntraOpenEnterAnimation">@null</item>
+        <item name="android:wallpaperIntraOpenExitAnimation">@null</item>
+        <item name="android:wallpaperIntraCloseEnterAnimation">@null</item>
+        <item name="android:wallpaperIntraCloseExitAnimation">@null</item>
+        <item name="android:fragmentOpenEnterAnimation">@null</item>
+        <item name="android:fragmentOpenExitAnimation">@null</item>
+        <item name="android:fragmentCloseEnterAnimation">@null</item>
+        <item name="android:fragmentCloseExitAnimation">@null</item>
+        <item name="android:fragmentFadeEnterAnimation">@null</item>
+        <item name="android:fragmentFadeExitAnimation">@null</item>
+        <item name="android:launchTaskBehindTargetAnimation">@null</item>
+        <item name="android:launchTaskBehindSourceAnimation">@null</item>
+    </style>
+    <style name="DialogWindowTitle.DeviceDefault" parent="@android:style/DialogWindowTitle.DeviceDefault.Light">
+        <item name="android:textAppearance">@android:style/TextAppearance.DeviceDefault.DialogWindowTitle</item>
+    </style>
+    <style name="NotificationMediaActionContainer">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@android:color/group_button_dialog_focused_holo_dark</item>
+        <item name="android:paddingBottom">@android:dimen/indeterminate_progress_alpha_59</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@android:dimen/kg_clock_top_margin</item>
+        <item name="android:layout_marginTop">0.0dip</item>
+        <item name="android:paddingStart">0.0dip</item>
+    </style>
+    <style name="Preference.DeviceDefault" parent="@android:style/Preference.Holo.Information">
+        <item name="android:layout">@android:layout/breadcrumbs_in_fragment_material</item>
+    </style>
+    <style name="Preference.DeviceDefault.Category" parent="@android:style/Preference.Holo.RingtonePreference">
+        <item name="android:layout">@android:layout/calendar_view</item>
+    </style>
+    <style name="Preference.DeviceDefault.CheckBoxPreference" parent="@android:style/Preference.Holo.SeekBarPreference">
+        <item name="android:layout">@android:layout/breadcrumbs_in_fragment_material</item>
+    </style>
+    <style name="Preference.DeviceDefault.DialogPreference" parent="@android:style/Preference.Holo.SwitchPreference">
+        <item name="android:layout">@android:layout/breadcrumbs_in_fragment_material</item>
+    </style>
+    <style name="Preference.DeviceDefault.DialogPreference.EditTextPreference" parent="@android:style/Preference.Information">
+        <item name="android:layout">@android:layout/breadcrumbs_in_fragment_material</item>
+    </style>
+    <style name="Preference.DeviceDefault.SwitchPreference" parent="@android:style/Preference.Material.DialogPreference.SeekBarPreference">
+        <item name="android:layout">@android:layout/breadcrumbs_in_fragment_material</item>
+    </style>
+    <style name="TextAppearance.DeviceDefault" parent="@android:style/TextAppearance.Material.Large">
+        <item name="android:textSize">@android:dimen/button_end_margin</item>
+    </style>
+    <style name="TextAppearance.DeviceDefault.DialogWindowTitle" parent="@android:style/TextAppearance.Material.DialogWindowTitle">
+        <item name="android:textSize">@android:dimen/button_elevation_material</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@android:color/SIM_color_pink</item>
+        <item name="android:fontFamily">@android:string/config_dozeUdfpsLongPressSensorType</item>
+    </style>
+    <style name="TextAppearance.DeviceDefault.Inverse" parent="@android:style/TextAppearance.Material.Inverse">
+        <item name="android:textSize">@android:dimen/button_end_margin</item>
+    </style>
+    <style name="TextAppearance.DeviceDefault.Large" parent="@android:style/TextAppearance.Material.Large">
+        <item name="android:textSize">@android:dimen/button_bar_layout_top_padding</item>
+    </style>
+    <style name="TextAppearance.DeviceDefault.Large.Inverse" parent="@android:style/TextAppearance.Material.Large.Inverse">
+        <item name="android:textSize">@android:dimen/button_bar_layout_top_padding</item>
+    </style>
+    <style name="TextAppearance.DeviceDefault.Medium" parent="@android:style/TextAppearance.Material.Medium">
+        <item name="android:textSize">@android:dimen/button_elevation_material</item>
+    </style>
+    <style name="TextAppearance.DeviceDefault.Medium.Inverse" parent="@android:style/TextAppearance.Material.Medium.Inverse">
+        <item name="android:textSize">@android:dimen/button_elevation_material</item>
+    </style>
+    <style name="TextAppearance.DeviceDefault.Small" parent="@android:style/TextAppearance.Material.Small">
+        <item name="android:textSize">@android:dimen/button_inset_horizontal_material</item>
+    </style>
+    <style name="TextAppearance.DeviceDefault.Small.Inverse" parent="@android:style/TextAppearance.Material.Small.Inverse">
+        <item name="android:textSize">@android:dimen/button_inset_horizontal_material</item>
+    </style>
+    <style name="TextAppearance.DeviceDefault.Subhead" parent="@android:style/TextAppearance.Material.Subhead">
+        <item name="android:textSize">@android:dimen/button_bar_layout_top_padding</item>
+    </style>
+    <style name="TextAppearance.DeviceDefault.Widget.Button" parent="@android:style/TextAppearance.Material.Widget.Button">
+        <item name="android:textSize">@android:dimen/base_error_dialog_top_padding</item>
+        <item name="android:textColor">@android:color/accent_device_default_light</item>
+        <item name="android:textAllCaps">@android:bool/config_batterySaverSupported</item>
+        <item name="android:fontFamily">@android:string/config_dozeUdfpsLongPressSensorType</item>
+    </style>
+    <style name="TextAppearance.DeviceDefault.Widget.Button.Borderless.Colored" parent="@android:style/TextAppearance.DeviceDefault.Widget.Button">
+        <item name="android:textColor">@android:color/accent_device_default_dark</item>
+    </style>
+    <style name="TextAppearance.Material.DialogWindowTitle" parent="@android:style/TextAppearance.Material.Title" />
+    <style name="TextAppearance.Material.Title" parent="@android:style/TextAppearance.Material">
+        <item name="android:textSize">@android:dimen/preference_screen_side_margin_negative_material</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:fontFamily">@android:string/face_error_unable_to_process</item>
+    </style>
+    <style name="TextAppearance.Toast" parent="@android:style/TextAppearance">
+        <item name="android:textSize">42.0sp</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+    <style name="Theme.DeviceDefault" parent="@android:style/Theme.DeviceDefault.Settings.Dialog.NoActionBar">
+        <item name="android:colorForeground">@android:color/accent_primary_device_default</item>
+        <item name="android:colorBackground">@android:color/system_on_primary_container_dark</item>
+        <item name="android:disabledAlpha">@dimen/car_disabled_alpha</item>
+        <item name="android:textColorPrimary">@android:color/primary_dark_device_default_dark</item>
+        <item name="android:textColorSecondary">@android:color/SIM_color_pink</item>
+        <item name="android:buttonStyle">@android:style/Widget.DeviceDefault.Button</item>
+        <item name="android:radioButtonStyle">@style/Widget.DeviceDefault.CompoundButton.RadioButton</item>
+        <item name="android:textColorHint">@android:color/SIM_color_pink</item>
+        <item name="android:actionBarSize">@android:dimen/button_bar_layout_start_padding</item>
+        <item name="android:selectableItemBackground">@android:drawable/ic_qs_auto_rotate</item>
+        <item name="android:borderlessButtonStyle">@android:style/Widget.DeviceDefault.Button.Borderless.Colored</item>
+        <item name="android:buttonBarButtonStyle">@android:style/ThemeOverlay.DeviceDefault.Accent.Light</item>
+        <item name="android:editTextColor">@android:color/SIM_color_cyan</item>
+        <item name="android:listPreferredItemHeightSmall">@android:dimen/car_preference_icon_size</item>
+        <item name="android:textAppearanceListItem">@android:style/TextAppearance.DeviceDefault.Large</item>
+        <item name="android:textAppearanceListItemSmall">@android:style/TextAppearance.DeviceDefault.Large</item>
+        <item name="android:colorControlNormal">@android:color/SIM_color_pink</item>
+        <item name="android:colorButtonNormal">@android:color/button_normal_device_default_dark</item>
+        <item name="android:colorControlHighlight">@android:color/accent_primary_variant_dark_device_default</item>
+        <item name="android:textAppearanceListItemSecondary">@android:style/TextAppearance.DeviceDefault.Small</item>
+        <item name="android:colorPrimary">@android:color/holo_primary_dark</item>
+        <item name="android:colorPrimaryDark">@android:color/holo_primary</item>
+        <item name="android:colorAccent">@android:color/system_surface_container_light</item>
+        <item name="android:statusBarColor">@android:color/black</item>
+        <item name="android:colorBackgroundFloating">@android:color/system_on_primary_dark</item>
+        <item name="colorSeekBarTrackBackground">@color/car_seekbar_track_background</item>
+        <item name="colorSeekBarTrackProgress">@color/car_seekbar_track_progress</item>
+        <item name="colorSeekBarTrackProgressSecondary">@color/car_seekbar_track_progress_secondary</item>
+        <item name="colorSeekbarThumb">@color/car_seekbar_thumb_selector</item>
+        <item name="colorSwitchThumbDisabled">@color/car_switch_thumb_color_disabled_on_dark</item>
+        <item name="colorSwitchThumbNormal">@color/car_switch_thumb_color</item>
+        <item name="colorSwitchTrack">@color/car_switch_track_background_selector</item>
+    </style>
+    <style name="Theme.DeviceDefault.Dialog" parent="@android:style/Theme.Material.Dialog">
+        <item name="android:colorForeground">@android:color/accent_primary_device_default</item>
+        <item name="android:textColorPrimary">@android:color/primary_dark_device_default_dark</item>
+        <item name="android:textColorSecondary">@android:color/SIM_color_pink</item>
+        <item name="android:textAppearanceLarge">@android:style/TextAppearance.DeviceDefault.Large</item>
+        <item name="android:textAppearanceMedium">@android:style/TextAppearance.DeviceDefault.Medium</item>
+        <item name="android:textAppearanceSmall">@android:style/TextAppearance.DeviceDefault.Small</item>
+        <item name="android:textAppearanceLargeInverse">@android:style/TextAppearance.DeviceDefault.Large.Inverse</item>
+        <item name="android:textAppearanceMediumInverse">@android:style/TextAppearance.DeviceDefault.Medium.Inverse</item>
+        <item name="android:textAppearanceSmallInverse">@android:style/TextAppearance.DeviceDefault.Small.Inverse</item>
+        <item name="android:buttonStyle">@android:style/Widget.DeviceDefault.Button</item>
+        <item name="android:windowTitleStyle">?android:textAppearanceLarge</item>
+        <item name="android:textColorHint">@android:color/SIM_color_pink</item>
+        <item name="android:textAppearanceButton">@android:style/Widget.DeviceDefault.Button</item>
+        <item name="android:selectableItemBackground">@android:drawable/ic_qs_auto_rotate</item>
+        <item name="android:borderlessButtonStyle">@android:style/Widget.DeviceDefault.Button.Borderless.Colored</item>
+        <item name="android:buttonBarButtonStyle">@android:style/ThemeOverlay.DeviceDefault.Accent.Light</item>
+        <item name="android:editTextColor">@android:color/SIM_color_cyan</item>
+        <item name="android:textAppearanceListItem">@android:style/TextAppearance.DeviceDefault.Large</item>
+        <item name="android:textAppearanceListItemSmall">@android:style/TextAppearance.DeviceDefault.Large</item>
+        <item name="android:colorControlNormal">@android:color/SIM_color_pink</item>
+        <item name="android:colorButtonNormal">@android:color/button_normal_device_default_dark</item>
+        <item name="android:colorControlHighlight">@android:color/accent_primary_variant_dark_device_default</item>
+        <item name="android:textAppearanceListItemSecondary">@android:style/TextAppearance.DeviceDefault.Small</item>
+        <item name="android:colorPrimary">@android:color/holo_primary_dark</item>
+        <item name="android:colorPrimaryDark">@android:color/holo_primary</item>
+        <item name="android:colorAccent">@android:color/system_surface_container_light</item>
+        <item name="android:colorBackgroundFloating">@android:color/system_on_primary_dark</item>
+    </style>
+    <style name="Theme.DeviceDefault.Dialog.Alert" parent="@android:style/Theme.Material.Dialog.Alert">
+        <item name="android:colorForeground">@android:color/accent_primary_device_default</item>
+        <item name="android:textColorPrimary">@android:color/primary_dark_device_default_dark</item>
+        <item name="android:textColorSecondary">@android:color/SIM_color_pink</item>
+        <item name="android:textAppearanceLarge">@android:style/TextAppearance.DeviceDefault.Large</item>
+        <item name="android:textAppearanceMedium">@android:style/TextAppearance.DeviceDefault.Medium</item>
+        <item name="android:textAppearanceSmall">@android:style/TextAppearance.DeviceDefault.Small</item>
+        <item name="android:buttonStyle">@android:style/Widget.DeviceDefault.Button</item>
+        <item name="android:windowTitleStyle">?android:textAppearanceLarge</item>
+        <item name="android:alertDialogStyle">@android:style/AccessibilityDialogDescription</item>
+        <item name="android:textColorHint">@android:color/SIM_color_pink</item>
+        <item name="android:textAppearanceButton">@android:style/Widget.DeviceDefault.Button</item>
+        <item name="android:selectableItemBackground">@android:drawable/ic_qs_auto_rotate</item>
+        <item name="android:borderlessButtonStyle">@android:style/Widget.DeviceDefault.Button.Borderless.Colored</item>
+        <item name="android:buttonBarButtonStyle">@android:style/ThemeOverlay.DeviceDefault.Accent.Light</item>
+        <item name="android:editTextColor">@android:color/SIM_color_cyan</item>
+        <item name="android:textAppearanceListItem">@android:style/TextAppearance.DeviceDefault.Large</item>
+        <item name="android:textAppearanceListItemSmall">@android:style/TextAppearance.DeviceDefault.Large</item>
+        <item name="android:colorControlNormal">@android:color/SIM_color_pink</item>
+        <item name="android:colorButtonNormal">@android:color/button_normal_device_default_dark</item>
+        <item name="android:colorControlHighlight">@android:color/accent_primary_variant_dark_device_default</item>
+        <item name="android:textAppearanceListItemSecondary">@android:style/TextAppearance.DeviceDefault.Small</item>
+        <item name="android:colorPrimary">@android:color/holo_primary_dark</item>
+        <item name="android:colorPrimaryDark">@android:color/holo_primary</item>
+        <item name="android:colorAccent">@android:color/system_surface_container_light</item>
+        <item name="android:colorBackgroundFloating">@android:color/system_on_primary_dark</item>
+    </style>
+    <style name="Theme.DeviceDefault.Dialog.NoActionBar" parent="@android:style/Theme.DeviceDefault.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="Theme.DeviceDefault.InputMethod" parent="@android:style/Theme.Material.InputMethod">
+        <item name="android:colorBackground">@android:color/holo_primary_dark</item>
+        <item name="android:textColorPrimary">@android:color/car_accent_dark</item>
+        <item name="android:textColorSecondary">@android:color/car_accent_light</item>
+        <item name="android:listDivider">@android:color/car_accent</item>
+        <item name="android:selectableItemBackground">@android:drawable/ic_qs_auto_rotate</item>
+        <item name="android:colorAccent">@android:color/system_surface_container_light</item>
+    </style>
+    <style name="Theme.DeviceDefault.Light" parent="@android:style/Theme.DeviceDefault">
+        <item name="android:disabledAlpha">@dimen/car_disabled_alpha</item>
+        <item name="android:switchStyle">@style/Widget.DeviceDefault.Light.CompoundButton.Switch</item>
+        <item name="colorSeekBarTrackBackground">@color/car_seekbar_track_background</item>
+        <item name="colorSeekBarTrackProgress">@color/car_seekbar_track_progress</item>
+        <item name="colorSeekBarTrackProgressSecondary">@color/car_seekbar_track_progress_secondary</item>
+        <item name="colorSeekbarThumb">@color/car_seekbar_thumb</item>
+        <item name="colorSwitchThumbDisabled">@color/car_switch_thumb_color_disabled_on_light</item>
+        <item name="colorSwitchThumbNormal">@color/car_switch_thumb_color</item>
+    </style>
+    <style name="Theme.DeviceDefault.Light.DarkActionBar" parent="@android:style/Theme.DeviceDefault" />
+    <style name="Theme.DeviceDefault.Light.Dialog" parent="@android:style/Theme.DeviceDefault.Dialog" />
+    <style name="Theme.DeviceDefault.Light.Dialog.Alert" parent="@android:style/Theme.DeviceDefault.Dialog.Alert" />
+    <style name="Theme.DeviceDefault.Light.Dialog.NoActionBar" parent="@android:style/Theme.DeviceDefault.Dialog.NoActionBar" />
+    <style name="Theme.DeviceDefault.Light.NoActionBar" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="Theme.DeviceDefault.Light.Panel" parent="@android:style/Theme.DeviceDefault.Panel" />
+    <style name="Theme.DeviceDefault.NoActionBar" parent="@android:style/Theme.DeviceDefault">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="Theme.DeviceDefault.Panel" parent="@android:style/Theme.Material.Panel">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:textAppearanceButton">@android:style/TextAppearance.DeviceDefault.Widget.Button</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:alertDialogTheme">@android:style/Theme.DeviceDefault.Dialog.Alert</item>
+        <item name="android:selectableItemBackground">@android:drawable/ic_qs_auto_rotate</item>
+        <item name="android:buttonBarButtonStyle">@android:style/ThemeOverlay.DeviceDefault.Accent.Light</item>
+        <item name="android:colorPrimary">@android:color/holo_primary_dark</item>
+        <item name="android:colorPrimaryDark">@android:color/holo_primary</item>
+        <item name="android:colorAccent">@android:color/system_surface_container_light</item>
+        <item name="android:toolbarStyle">@android:style/Widget.DeviceDefault.ProgressBar.Large.Inverse</item>
+        <item name="android:colorError">@android:color/car_red_500</item>
+        <item name="android:dialogCornerRadius">@android:dimen/chooser_row_text_option_translate</item>
+        <item name="android:buttonCornerRadius">@android:dimen/chooser_preview_image_border</item>
+        <item name="android:colorListDivider">@android:color/car_keyboard_text_secondary_color</item>
+        <item name="android:mtpReserve">@android:dimen/config_inCallNotificationVolume</item>
+    </style>
+    <style name="Theme.DeviceDefault.Resolver" parent="@android:style/Theme.DeviceDefault">
+        <item name="android:colorForeground">@android:color/accent_primary_device_default</item>
+        <item name="android:textColorPrimary">@android:color/primary_dark_device_default_dark</item>
+        <item name="android:textColorSecondary">@android:color/SIM_color_pink</item>
+        <item name="android:buttonStyle">@android:style/Widget.DeviceDefault.Button</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:textColorHint">@android:color/SIM_color_pink</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:alertDialogTheme">@android:style/Theme.DeviceDefault.Light.Dialog.Alert</item>
+        <item name="android:borderlessButtonStyle">@android:style/Widget.DeviceDefault.Button.Borderless.Colored</item>
+        <item name="android:buttonBarButtonStyle">@android:style/ThemeOverlay.DeviceDefault.Accent.Light</item>
+        <item name="android:editTextColor">@android:color/SIM_color_cyan</item>
+        <item name="android:textAppearanceListItem">@android:style/TextAppearance.DeviceDefault.Large</item>
+        <item name="android:textAppearanceListItemSmall">@android:style/TextAppearance.DeviceDefault.Large</item>
+        <item name="android:listPreferredItemPaddingStart">?android:dialogPreferredPadding</item>
+        <item name="android:listPreferredItemPaddingEnd">?android:dialogPreferredPadding</item>
+        <item name="android:colorControlNormal">@android:color/SIM_color_pink</item>
+        <item name="android:colorControlActivated">?android:colorControlHighlight</item>
+        <item name="android:colorButtonNormal">@android:color/button_normal_device_default_dark</item>
+        <item name="android:colorControlHighlight">@android:color/accent_primary_variant_dark_device_default</item>
+        <item name="android:textAppearanceListItemSecondary">@android:style/TextAppearance.DeviceDefault.Small</item>
+        <item name="android:colorPrimary">@android:color/holo_primary_dark</item>
+        <item name="android:colorPrimaryDark">@android:color/holo_primary</item>
+        <item name="android:colorAccent">@android:color/system_surface_container_light</item>
+        <item name="android:windowEnterTransition">@empty</item>
+        <item name="android:windowExitTransition">@empty</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:toolbarStyle">@android:style/Widget.DeviceDefault.ProgressBar.Large.Inverse</item>
+        <item name="android:colorBackgroundFloating">@android:color/system_on_primary_dark</item>
+        <item name="android:colorError">@android:color/car_red_500</item>
+        <item name="android:dialogCornerRadius">@android:dimen/chooser_row_text_option_translate</item>
+        <item name="android:buttonCornerRadius">@android:dimen/chooser_preview_image_border</item>
+        <item name="android:colorListDivider">@android:color/car_keyboard_text_secondary_color</item>
+        <item name="android:gestureOverlayViewStyle">@android:dimen/notification_content_margin_start</item>
+        <item name="android:glowDot">@android:dimen/notification_feedback_size</item>
+        <item name="android:mtpReserve">@android:dimen/config_inCallNotificationVolume</item>
+        <item name="android:quickContactBadgeOverlay">@android:drawable/toast_frame</item>
+    </style>
+    <style name="Theme.DeviceDefault.Settings" parent="@android:style/Theme.DeviceDefault" />
+    <style name="Theme.DeviceDefault.Settings.Dialog" parent="@android:style/Theme.DeviceDefault.Dialog.Alert" />
+    <style name="Theme.DeviceDefault.Settings.NoActionBar" parent="@android:style/Theme.DeviceDefault.NoActionBar" />
+    <style name="Theme.DeviceDefault.System" parent="@android:style/Theme.DeviceDefault.Light.DarkActionBar" />
+    <style name="Theme.DeviceDefault.Wallpaper" parent="@android:style/Theme.DeviceDefault">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:textAppearanceButton">@android:style/TextAppearance.DeviceDefault.Widget.Button</item>
+        <item name="android:windowShowWallpaper">true</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:alertDialogTheme">@android:style/Theme.DeviceDefault.Dialog.Alert</item>
+        <item name="android:buttonBarButtonStyle">@android:style/ThemeOverlay.DeviceDefault.Accent.Light</item>
+        <item name="android:colorPrimary">@android:color/holo_primary</item>
+        <item name="android:colorPrimaryDark">@android:color/holo_control_normal</item>
+        <item name="android:colorAccent">@android:color/system_surface_container_low_light</item>
+        <item name="android:toolbarStyle">@android:style/Widget.DeviceDefault.ProgressBar.Large.Inverse</item>
+        <item name="android:colorError">@android:color/car_red_50</item>
+        <item name="android:dialogCornerRadius">@android:dimen/chooser_row_text_option_translate</item>
+        <item name="android:buttonCornerRadius">@android:dimen/chooser_preview_image_border</item>
+        <item name="android:colorListDivider">@android:color/car_keyboard_text_secondary_color</item>
+        <item name="android:mtpReserve">@android:dimen/config_inCallNotificationVolume</item>
+    </style>
+    <style name="Theme.DeviceDefault.Wallpaper.NoTitleBar" parent="@android:style/Theme.DeviceDefault.Wallpaper">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:textAppearanceButton">@android:style/TextAppearance.DeviceDefault.Widget.Button</item>
+        <item name="android:alertDialogTheme">@android:style/Theme.DeviceDefault.Dialog.Alert</item>
+        <item name="android:buttonBarButtonStyle">@android:style/ThemeOverlay.DeviceDefault.Accent.Light</item>
+        <item name="android:colorPrimary">@android:color/holo_primary</item>
+        <item name="android:colorPrimaryDark">@android:color/holo_control_normal</item>
+        <item name="android:colorAccent">@android:color/system_surface_container_low_light</item>
+        <item name="android:toolbarStyle">@android:style/Widget.DeviceDefault.ProgressBar.Large.Inverse</item>
+        <item name="android:colorError">@android:color/car_red_50</item>
+        <item name="android:dialogCornerRadius">@android:dimen/chooser_row_text_option_translate</item>
+        <item name="android:buttonCornerRadius">@android:dimen/chooser_preview_image_border</item>
+        <item name="android:colorListDivider">@android:color/car_keyboard_text_secondary_color</item>
+        <item name="android:mtpReserve">@android:dimen/config_inCallNotificationVolume</item>
+    </style>
+    <style name="Widget.DeviceDefault.ActionBar.Solid" parent="@android:style/Widget.Material.ActionBar.Solid">
+        <item name="android:textSize">@android:dimen/button_end_margin</item>
+    </style>
+    <style name="Widget.DeviceDefault.Button" parent="@android:style/Widget.Material.Button">
+        <item name="android:ellipsize">none</item>
+        <item name="android:background">@android:drawable/btn_switch_to_off_mtrl_00003</item>
+        <item name="android:fadingEdgeLength">@android:dimen/car_radius_1</item>
+        <item name="android:layout_height">@android:dimen/button_padding_horizontal_material</item>
+        <item name="android:minWidth">@android:dimen/button_pressed_z_material</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:requiresFadingEdge">horizontal</item>
+        <item name="android:paddingStart">@android:dimen/button_padding_vertical_material</item>
+        <item name="android:paddingEnd">@android:dimen/button_padding_vertical_material</item>
+    </style>
+    <style name="Widget.DeviceDefault.Button.Borderless" parent="@android:style/Widget.Material.Button.Borderless">
+        <item name="android:background">@drawable/btn_borderless_car</item>
+    </style>
+    <style name="Widget.DeviceDefault.CompoundButton.CheckBox" parent="@android:style/Widget.Material.CompoundButton.CheckBox">
+        <item name="android:button">@android:drawable/btn_switch_to_off_mtrl_00004</item>
+    </style>
+    <style name="Widget.DeviceDefault.CompoundButton.RadioButton" parent="@android:style/Widget.Material.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/car_radio_button</item>
+    </style>
+    <style name="Widget.DeviceDefault.CompoundButton.Switch" parent="@android:style/Widget.Material.CompoundButton.Switch">
+        <item name="android:thumb">@drawable/car_switch_thumb</item>
+        <item name="android:track">@drawable/car_switch_track</item>
+    </style>
+    <style name="Widget.DeviceDefault.Light.CompoundButton.Switch" parent="@android:style/Widget.Material.Light.CompoundButton.Switch">
+        <item name="android:thumb">@drawable/car_switch_thumb</item>
+        <item name="android:track">@drawable/car_switch_track</item>
+    </style>
+    <style name="Widget.DeviceDefault.Light.SeekBar" parent="@android:style/Widget.Material.Light.SeekBar">
+        <item name="android:clipToPadding">false</item>
+        <item name="android:progressDrawable">@drawable/car_seekbar_track</item>
+        <item name="android:thumb">@drawable/car_seekbar_thumb_selectable</item>
+        <item name="android:thumbOffset">@dimen/car_seekbar_thumb_offset</item>
+        <item name="android:paddingStart">@dimen/car_seekbar_horizontal_padding</item>
+        <item name="android:paddingEnd">@dimen/car_seekbar_horizontal_padding</item>
+        <item name="android:splitTrack">false</item>
+        <item name="android:clipToOutline">false</item>
+        <item name="android:requestDetail">true</item>
+    </style>
+    <style name="Widget.DeviceDefault.ProgressBar.Horizontal" parent="@android:style/Widget.Material.ProgressBar.Horizontal">
+        <item name="android:maxHeight">@android:dimen/car_list_divider_height</item>
+        <item name="android:minHeight">@android:dimen/car_list_divider_height</item>
+    </style>
+    <style name="Widget.DeviceDefault.SeekBar" parent="@android:style/Widget.Material.SeekBar">
+        <item name="android:clipToPadding">false</item>
+        <item name="android:progressDrawable">@drawable/car_seekbar_track</item>
+        <item name="android:thumb">@drawable/car_seekbar_thumb_selectable</item>
+        <item name="android:thumbOffset">@dimen/car_seekbar_thumb_offset</item>
+        <item name="android:paddingStart">@dimen/car_seekbar_horizontal_padding</item>
+        <item name="android:paddingEnd">@dimen/car_seekbar_horizontal_padding</item>
+        <item name="android:splitTrack">false</item>
+        <item name="android:clipToOutline">false</item>
+        <item name="android:requestDetail">true</item>
+    </style>
+    <style name="Widget.DeviceDefault.TextView" parent="@android:style/Widget.Material.TextView">
+        <item name="android:ellipsize">none</item>
+        <item name="android:fadingEdgeLength">@android:dimen/car_radius_1</item>
+        <item name="android:requiresFadingEdge">horizontal</item>
+    </style>
+</resources>

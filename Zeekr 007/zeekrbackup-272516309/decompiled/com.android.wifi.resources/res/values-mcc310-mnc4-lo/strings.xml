@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s : ທ່ານບໍ່ສາມາດເຊື່ອມຕໍ່ຫາ Verizon Wi-Fi Access ຈາກນອກພື້ນທີ່ຄອບຄຸມ Verizon ໄດ້.</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s : ທ່ານບໍ່ໄດ້ສະໝັກໃຊ້ Verizon Wi-Fi Access. ກະລຸນາໂທຫາພວກເຮົາທີ່ເບີ 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s : ເກີດບັນຫາກັບບັນຊີ Verizon Wi-Fi Access ຂອງທ່ານ. ກະລຸນາໂທຫາພວກເຮົາທີ່ເບີ 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s : ທ່ານເຊື່ອມຕໍ່ຫາ Verizon Wi-Fi Access ຢູ່ກ່ອນແລ້ວ.</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s : ເກີດບັນຫາໃນການເຊື່ອມຕໍ່ທ່ານຫາ Verizon Wi-Fi Access. ກະລຸນາໂທຫາພວກເຮົາທີ່ເບີ 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s : ເກີດບັນຫາກັບບັນຊີ Verizon Wi-Fi Access ຂອງທ່ານ. ກະລຸນາໂທຫາພວກເຮົາທີ່ເບີ 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s : ບໍ່ສາມາດໃຊ້ Verizon Wi-Fi Access ຈາກສະຖານທີ່ຂອງທ່ານໄດ້. ກະລຸນາລອງໃໝ່ ຫຼື ລອງຈາກສະຖານທີ່ອື່ນ.</string>
+</resources>

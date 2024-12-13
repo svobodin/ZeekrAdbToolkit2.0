@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">"%1$s: Verizon'ın kapsama alanının dışından Verizon Wi-Fi Access'e bağlanamazsınız."</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s: Verizon Wi-Fi Access abonesi değilsiniz. Bize ulaşmak için lütfen 800-922-0204 numaralı telefonu arayın.</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s: Verizon Wi-Fi Access hesabınızla ilgili bir sorun var. Bize ulaşmak için lütfen 800-922-0204 numaralı telefonu arayın.</string>
+    <string name="wifi_eap_error_message_code_32763">"%1$s: Verizon Wi-Fi Access'e zaten bağlısınız."</string>
+    <string name="wifi_eap_error_message_code_32764">"%1$s: Verizon Wi-Fi Access'e bağlanırken bir sorun oluştu. Bize ulaşmak için lütfen 800-922-0204 numaralı telefonu arayın."</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s: Verizon Wi-Fi Access hesabınızla ilgili bir sorun var. Bize ulaşmak için lütfen 800-922-0204 numaralı telefonu arayın.</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s: Verizon Wi-Fi Access bulunduğunuz konumdan kullanılamıyor. Daha sonra tekrar deneyin veya farklı bir konumdan bağlanmaya çalışın.</string>
+</resources>

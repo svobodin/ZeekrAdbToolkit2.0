@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">ഓൺലെെൻ സെെൻ അപ്പ്</string>
+    <string name="app_name">OsuLogin</string>
+    <string name="sign_up_failed">സൈൻ അപ്പ് ചെയ്യാനായില്ല</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

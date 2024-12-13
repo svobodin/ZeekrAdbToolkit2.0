@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="noti_caption_success">
+        <item quantity="other">[%1$d šûççéššƒûļ, »%2$s« one two]</item>
+        <item quantity="one">[%1$d šûççéššƒûļ, »%2$s« one two]</item>
+    </plurals>
+    <plurals name="noti_caption_unsuccessful">
+        <item quantity="other">[%1$d ûñšûççéššƒûļ. one two three]</item>
+        <item quantity="one">[%1$d ûñšûççéššƒûļ. one two three]</item>
+    </plurals>
+</resources>

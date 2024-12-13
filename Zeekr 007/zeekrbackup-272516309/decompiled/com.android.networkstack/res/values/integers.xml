@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="integer" name="config_captive_portal_dns_probe_timeout">@null</item>
+    <item type="integer" name="config_evaluating_bandwidth_max_retry_timer_ms">@null</item>
+    <item type="integer" name="config_evaluating_bandwidth_min_retry_timer_ms">@null</item>
+    <item type="integer" name="config_evaluating_bandwidth_timeout_ms">@null</item>
+    <integer name="config_max_matches_http_content_length">0</integer>
+    <integer name="config_min_matches_http_content_length">0</integer>
+    <integer name="config_nud_postroaming_solicit_interval">750</integer>
+    <integer name="config_nud_postroaming_solicit_num">5</integer>
+    <integer name="config_nud_steadystate_solicit_interval">750</integer>
+    <integer name="config_nud_steadystate_solicit_num">10</integer>
+</resources>

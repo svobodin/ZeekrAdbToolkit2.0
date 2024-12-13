@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">యాక్టివిటీ స్టబ్</string>
+    <string name="message_not_supported">ఈ చర్యను ఏ అప్లికేషన్‌ నిర్వహించలేదు</string>
+    <string name="pip_not_supported">ఈ పరికరంలో పిక్చర్-ఇన్-పిక్చర్ ఫీచర్‌కు సపోర్ట్ లేదు</string>
+    <string name="stub_name">ఏదీ లేదు</string>
+</resources>

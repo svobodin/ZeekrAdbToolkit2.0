@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">የሲም መተግበሪያ መገናኛ</string>
+    <string name="install_carrier_app_defer_action">አሁን አይደለም</string>
+    <string name="install_carrier_app_description">አዲሱ የእርስዎ ሲም በአግባቡ እንዲሰራ ለማድረግ የ%1$s መተግበሪያውን መጫን አለብዎት</string>
+    <string name="install_carrier_app_description_default">አዲሱ የእርስዎ ሲም በአግባቡ እንዲሰራ ለማድረግ የአገልግሎት አቅራቢ መተግበሪያውን መጫን አለብዎት</string>
+    <string name="install_carrier_app_download_action">መተግበሪያን አውርድ</string>
+    <string name="install_carrier_app_title">የሞባይል አገልግሎትን አግብር</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">ተመለስ</string>
+    <string name="suw_more_button_label">ተጨማሪ</string>
+    <string name="suw_next_button_label">ቀጣይ</string>
+</resources>

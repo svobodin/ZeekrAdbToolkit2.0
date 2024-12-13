@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Искључи привезивање</string>
+    <string name="no_upstream_notification_message">Повезивање уређаја није успело</string>
+    <string name="no_upstream_notification_title">Привезивање нема приступ интернету</string>
+    <string name="upstream_roaming_notification_message">Можда важе додатни трошкови у ромингу</string>
+    <string name="upstream_roaming_notification_title">Укључен је хотспот или привезивање</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="cropView" />
+    <item type="id" name="loading" />
+    <item type="id" name="set_wallpaper_button" />
+    <item type="id" name="wallpaper_root" />
+</resources>

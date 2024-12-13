@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">Nyenzo za Muunganisho wa Mfumo</string>
+    <string name="mobile_no_internet">Mtandao wa simu hauna uwezo wa kufikia intaneti</string>
+    <string name="network_available_sign_in">Ingia katika mtandao</string>
+    <string name="network_partial_connectivity">%1$s ina muunganisho unaofikia huduma chache.</string>
+    <string name="network_partial_connectivity_detailed">Gusa ili uunganishe tu</string>
+    <string name="network_switch_metered">Sasa inatumia %1$s</string>
+    <string name="network_switch_metered_detail">Kifaa hutumia %1$s wakati %2$s haina intaneti. Huenda ukalipishwa.</string>
+    <string name="network_switch_metered_toast">Imebadilisha mtandao kutoka %1$s na sasa inatumia %2$s</string>
+    <string name="network_switch_type_name_unknown">aina ya mtandao isiyojulikana</string>
+    <string name="other_networks_no_internet">Mtandao hauna uwezo wa kufikia intaneti</string>
+    <string name="private_dns_broken_detailed">Seva ya faragha ya DNS haiwezi kufikiwa</string>
+    <string name="wifi_available_sign_in">Ingia kwa mtandao wa Wi-Fi</string>
+    <string name="wifi_no_internet">%1$s haina uwezo wa kufikia intaneti</string>
+    <string name="wifi_no_internet_detailed">Gusa ili upate chaguo</string>
+</resources>

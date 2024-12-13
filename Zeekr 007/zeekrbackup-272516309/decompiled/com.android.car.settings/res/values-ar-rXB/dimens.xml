@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="car_ui_list_item_check_box_end_inset" />
+    <item type="dimen" name="car_ui_list_item_check_box_height" />
+    <item type="dimen" name="car_ui_list_item_check_box_icon_container_width" />
+    <item type="dimen" name="car_ui_list_item_check_box_start_inset" />
+    <item type="dimen" name="car_ui_list_item_radio_button_end_inset" />
+    <item type="dimen" name="car_ui_list_item_radio_button_height" />
+    <item type="dimen" name="car_ui_list_item_radio_button_icon_container_width" />
+    <item type="dimen" name="car_ui_list_item_radio_button_start_inset" />
+</resources>

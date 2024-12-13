@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">Fotoaparato programos</item>
+        <item quantity="one">Fotoaparato programos</item>
+        <item quantity="few">Fotoaparato programos</item>
+        <item quantity="many">Fotoaparato programos</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">El. pašto programos</item>
+        <item quantity="one">El. pašto programos</item>
+        <item quantity="few">El. pašto programos</item>
+        <item quantity="many">El. pašto programos</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">Telefono programos</item>
+        <item quantity="one">Telefono programos</item>
+        <item quantity="few">Telefono programos</item>
+        <item quantity="many">Telefono programos</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d bandymų</item>
+        <item quantity="one">%d bandymas</item>
+        <item quantity="few">%d bandymai</item>
+        <item quantity="many">%d bandymo</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d programų</item>
+        <item quantity="one">%d programa</item>
+        <item quantity="few">%d programos</item>
+        <item quantity="many">%d programos</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">Mažiausiai %d programų</item>
+        <item quantity="one">Mažiausiai %d programa</item>
+        <item quantity="few">Mažiausiai %d programos</item>
+        <item quantity="many">Mažiausiai %d programos</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d naujų pranešimų</item>
+        <item quantity="one">%d naujas pranešimas</item>
+        <item quantity="few">%d nauji pranešimai</item>
+        <item quantity="many">%d naujo pranešimo</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">Prijungta %1$d įrenginių</item>
+        <item quantity="one">Prijungtas %1$d įrenginys</item>
+        <item quantity="few">Prijungti %1$d įrenginiai</item>
+        <item quantity="many">Prijungta %1$d įrenginio</item>
+    </plurals>
+</resources>

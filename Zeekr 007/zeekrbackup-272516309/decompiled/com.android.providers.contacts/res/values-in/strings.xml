@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Penyimpanan Kontak</string>
+    <string name="debug_dump_database_message">Anda akan 1) membuat salinan basis data yang mencakup semua informasi terkait kontak dan semua log panggilan ke penyimpanan internal, dan 2) mengirimkannya sebagai email. Ingat untuk menghapus salinan secepatnya setelah Anda selesai menyalinnya dari perangkat atau saat email telah diterima.</string>
+    <string name="debug_dump_delete_button">Hapus sekarang</string>
+    <string name="debug_dump_email_body">Terlampir basis data kontak saya dengan semua informasi kontak. Harap tangani dengan benar.</string>
+    <string name="debug_dump_email_sender_picker">Pilih program untuk mengirim file Anda</string>
+    <string name="debug_dump_email_subject">Db Kontak terlampir</string>
+    <string name="debug_dump_start_button">Mulai</string>
+    <string name="debug_dump_title">Salin basis data kontak</string>
+    <string name="default_directory">Kontak</string>
+    <string name="local_invisible_directory">Lainnya</string>
+    <string name="provider_label">Kontak</string>
+    <string name="sharedUserLabel">Aplikasi Inti Android</string>
+    <string name="upgrade_out_of_memory_notification_text">Ketuk untuk menyelesaikan peningkatan versi.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Upgrade kontak memerlukan lebih banyak memori.</string>
+    <string name="upgrade_out_of_memory_notification_title">Meningkatkan versi penyimpanan untuk kontak</string>
+    <string name="voicemail_from_column">"Kotak pesan dari "</string>
+</resources>

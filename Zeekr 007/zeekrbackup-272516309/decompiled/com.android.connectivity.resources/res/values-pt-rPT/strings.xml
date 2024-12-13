@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">Recursos de conetividade do sistema</string>
+    <string name="mobile_no_internet">A rede móvel não tem acesso à Internet</string>
+    <string name="network_available_sign_in">Início de sessão na rede</string>
+    <string name="network_partial_connectivity">%1$s tem conetividade limitada.</string>
+    <string name="network_partial_connectivity_detailed">Toque para ligar mesmo assim.</string>
+    <string name="network_switch_metered">Mudou para %1$s</string>
+    <string name="network_switch_metered_detail">O dispositivo utiliza %1$s quando %2$s não tem acesso à Internet. Podem aplicar-se custos.</string>
+    <string name="network_switch_metered_toast">Mudou de %1$s para %2$s</string>
+    <string name="network_switch_type_name_unknown">um tipo de rede desconhecido</string>
+    <string name="other_networks_no_internet">A rede não tem acesso à Internet</string>
+    <string name="private_dns_broken_detailed">Não é possível aceder ao servidor DNS.</string>
+    <string name="wifi_available_sign_in">Iniciar sessão na rede Wi-Fi</string>
+    <string name="wifi_no_internet">%1$s não tem acesso à Internet</string>
+    <string name="wifi_no_internet_detailed">Toque para obter mais opções</string>
+</resources>

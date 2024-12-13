@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">Kas soovite lubada rakendusel ^1 kustutada ^2 helifaili?</item>
+        <item quantity="one">Kas soovite lubada rakendusel ^1 selle helifaili kustutada?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">Kas soovite lubada rakendusel ^1 kustutada ^2 üksust?</item>
+        <item quantity="one">Kas soovite lubada rakendusel ^1 selle üksuse kustutada?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">Kas soovite lubada rakendusel ^1 kustutada ^2 fotot?</item>
+        <item quantity="one">Kas soovite lubada rakendusel ^1 selle foto kustutada?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">Kas soovite lubada rakendusel ^1 kustutada ^2 videot?</item>
+        <item quantity="one">Kas soovite lubada rakendusel ^1 selle video kustutada?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">Veel ^1 lisaüksust</item>
+        <item quantity="one">Veel ^1 lisaüksus</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">+^1</item>
+        <item quantity="one">+^1</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">^1 helifaili kustutamine …</item>
+        <item quantity="one">Helifaili kustutamine …</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">^1 üksuse kustutamine …</item>
+        <item quantity="one">Üksuse kustutamine …</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">^1 foto kustutamine …</item>
+        <item quantity="one">Foto kustutamine …</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">^1 video kustutamine …</item>
+        <item quantity="one">Video kustutamine …</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">^1 helifaili teisaldamine prügikasti …</item>
+        <item quantity="one">Helifaili teisaldamine prügikasti …</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">^1 üksuse teisaldamine prügikasti …</item>
+        <item quantity="one">Üksuse teisaldamine prügikasti …</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">^1 foto teisaldamine prügikasti …</item>
+        <item quantity="one">Foto teisaldamine prügikasti …</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">^1 video teisaldamine prügikasti …</item>
+        <item quantity="one">Video teisaldamine prügikasti …</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">^1 helifaili taastamine prügikastist …</item>
+        <item quantity="one">Helifaili taastamine prügikastist …</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">^1 üksuse taastamine prügikastist …</item>
+        <item quantity="one">Üksuse taastamine prügikastist …</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">^1 foto taastamine prügikastist …</item>
+        <item quantity="one">Foto taastamine prügikastist …</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">^1 video taastamine prügikastist …</item>
+        <item quantity="one">Video taastamine prügikastist …</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">^1 helifaili töötlemine …</item>
+        <item quantity="one">Helifaili töötlemine …</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">^1 üksuse töötlemine …</item>
+        <item quantity="one">Üksuse töötlemine …</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">^1 foto töötlemine …</item>
+        <item quantity="one">Foto töötlemine …</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">^1 video töötlemine …</item>
+        <item quantity="one">Video töötlemine …</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">Kas lubada rakendusel ^1 ^2 helifaili prügikasti teisaldada?</item>
+        <item quantity="one">Kas lubada rakendusel ^1 see helifail prügikasti teisaldada?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">Kas lubada rakendusel ^1 ^2 üksust prügikasti teisaldada?</item>
+        <item quantity="one">Kas lubada rakendusel ^1 see üksus prügikasti teisaldada?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">Kas lubada rakendusel ^1 ^2 fotot prügikasti teisaldada?</item>
+        <item quantity="one">Kas lubada rakendusel ^1 see foto prügikasti teisaldada?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">Kas lubada rakendusel ^1 ^2 videot prügikasti teisaldada?</item>
+        <item quantity="one">Kas lubada rakendusel ^1 see video prügikasti teisaldada?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">Kas lubada rakendusel ^1 ^2 helifaili prügikastist taastada?</item>
+        <item quantity="one">Kas lubada rakendusel ^1 selle helifaili prügikastist taastada?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">Kas lubada rakendusel ^1 ^2 üksust prügikastist taastada?</item>
+        <item quantity="one">Kas lubada rakendusel ^1 selle üksuse prügikastist taastada?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">Kas lubada rakendusel ^1 ^2 fotot prügikastist taastada?</item>
+        <item quantity="one">Kas lubada rakendusel ^1 selle foto prügikastist taastada?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">Kas lubada rakendusel ^1 ^2 videot prügikastist taastada?</item>
+        <item quantity="one">Kas lubada rakendusel ^1 selle video prügikastist taastada?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">Kas lubada rakendusel ^1 ^2 helifaili muuta?</item>
+        <item quantity="one">Kas lubada rakendusel ^1 seda helifaili muuta?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">Kas lubada rakendusel ^1 ^2 üksust muuta?</item>
+        <item quantity="one">Kas lubada rakendusel ^1 seda üksust muuta?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">Kas lubada rakendusel ^1 ^2 fotot muuta?</item>
+        <item quantity="one">Kas lubada rakendusel ^1 seda fotot muuta?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">Kas lubada rakendusel ^1 ^2 videot muuta?</item>
+        <item quantity="one">Kas lubada rakendusel ^1 seda videot muuta?</item>
+    </plurals>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="disable_tether_notification_message">Jei reikia išsamios informacijos, susisiekite su administratoriumi</string>
+    <string name="disable_tether_notification_title">Įrenginio kaip modemo naudojimas išjungtas</string>
+    <string name="no_upstream_notification_disable_button" />
+    <string name="no_upstream_notification_message" />
+    <string name="no_upstream_notification_title" />
+    <string name="notification_channel_tethering_status">Viešosios interneto prieigos taško ir įrenginio kaip modemo naudojimo būsena</string>
+    <string name="tethered_notification_message">Palieskite, kad nustatytumėte.</string>
+    <string name="tethered_notification_title">Įrenginys naudojamas kaip modemas arba įjungtas viešosios interneto prieigos taškas</string>
+    <string name="upstream_roaming_notification_message" />
+    <string name="upstream_roaming_notification_title" />
+</resources>

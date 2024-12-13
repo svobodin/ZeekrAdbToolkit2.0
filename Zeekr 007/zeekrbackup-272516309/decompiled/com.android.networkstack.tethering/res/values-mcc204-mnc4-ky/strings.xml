@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Туташуу түйүнүн өчүрүү</string>
+    <string name="no_upstream_notification_message">Түзмөктөр Интернетке туташпай жатат</string>
+    <string name="no_upstream_notification_title">Байланыш түйүнүндө Интернет жок</string>
+    <string name="upstream_roaming_notification_message">Роумингде кошумча акы алынышы мүмкүн</string>
+    <string name="upstream_roaming_notification_title">Кошулуу түйүнү күйүк</string>
+    <string name="upstream_roaming_notification_continue_button">Улантуу</string>
+</resources>

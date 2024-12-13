@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_assistant">การแจ้งเตือนแบบปรับอัตโนมัติใน Android</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="tc_notif_code_copied_to_clipboard">คัดลอกรหัสแล้ว</string>
+    <string name="tc_notif_copy_code_desc">คัดลอก “%1$s“</string>
+</resources>

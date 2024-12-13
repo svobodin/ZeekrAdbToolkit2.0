@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Απενεργοποιήστε τη σύνδεση</string>
+    <string name="no_upstream_notification_message">Δεν είναι δυνατή η σύνδεση των συσκευών</string>
+    <string name="no_upstream_notification_title">Η σύνδεση δεν έχει πρόσβαση στο διαδίκτυο</string>
+    <string name="upstream_roaming_notification_message">Ενδέχεται να ισχύουν επιπλέον χρεώσεις κατά την περιαγωγή.</string>
+    <string name="upstream_roaming_notification_title">Ενεργό σημείο πρόσβασης Wi-Fi ή ενεργή σύνδεση</string>
+</resources>

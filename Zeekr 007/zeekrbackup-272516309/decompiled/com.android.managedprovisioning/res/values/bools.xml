@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="lock_to_portrait">true</bool>
+    <bool name="mtrl_btn_textappearance_all_caps">true</bool>
+    <bool name="show_edu_animations">false</bool>
+    <bool name="show_progress_label_on_left_side">false</bool>
+    <bool name="sudUseTabletLayout">false</bool>
+</resources>

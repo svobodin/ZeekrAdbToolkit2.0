@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="action_bar_switch_padding">16.0dip</dimen>
+    <dimen name="eq_slider_height">180.0dip</dimen>
+    <dimen name="eq_slider_margin">5.0dip</dimen>
+</resources>

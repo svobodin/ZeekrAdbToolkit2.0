@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="owner_name">கார் உரிமையாளர்</string>
+    <string name="permlab_accessCoarseLocation">முன்புலத்தில் இயங்கும்போது மட்டும் தோராயமான இருப்பிடத்தைக் கண்டறிதல்</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">மைக்ரோஃபோனை இயக்கு</string>
+</resources>

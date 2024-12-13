@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Kidhibiti cha mtandao</string>
+    <string name="connected">Umeunganisha</string>
+    <string name="notification_channel_description_connected">Arifa zinaonyeshwa wakati kifaa kimethibitishwa kwenye mtandao wenye ukurasa wa mwanzo</string>
+    <string name="notification_channel_description_network_venue_info">Arifa zinaonyeshwa ili kuashiria kuwa mtandao una ukurasa wa maelezo ya mahali</string>
+    <string name="notification_channel_name_connected">Uthibitishaji wa ukurasa wa mwanzo</string>
+    <string name="notification_channel_name_network_venue_info">Maelezo ya mtandao wa mahali</string>
+    <string name="tap_for_info">Imeunganishwa / Gusa ili uangalie tovuti</string>
+</resources>

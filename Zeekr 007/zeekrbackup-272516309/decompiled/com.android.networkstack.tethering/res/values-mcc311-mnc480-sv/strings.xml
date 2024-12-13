@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Inaktivera internetdelning</string>
+    <string name="no_upstream_notification_message">Enheterna kan inte anslutas</string>
+    <string name="no_upstream_notification_title">Det finns ingen internetanslutning för internetdelningen</string>
+    <string name="upstream_roaming_notification_message">Ytterligare avgifter kan tillkomma vid roaming</string>
+    <string name="upstream_roaming_notification_title">Surfzon eller internetdelning har aktiverats</string>
+</resources>

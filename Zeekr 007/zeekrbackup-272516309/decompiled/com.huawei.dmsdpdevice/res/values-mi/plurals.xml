@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_long_press_zoom_scale_tips">
+        <item quantity="other">%s ngā topa</item>
+        <item quantity="zero">%s ngā topa</item>
+        <item quantity="one">%s ngā topa</item>
+        <item quantity="two">%s ngā topa</item>
+        <item quantity="few">%s ngā topa</item>
+        <item quantity="many">%s ngā topa</item>
+    </plurals>
+</resources>

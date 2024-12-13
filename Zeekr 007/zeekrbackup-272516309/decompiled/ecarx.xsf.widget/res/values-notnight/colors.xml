@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="eui_dialog_btn_bg_color">#ffffffff</color>
+    <color name="eui_dialog_btn_bg_pressed_color">#19000000</color>
+    <color name="eui_tip_bg_color">#ffffffff</color>
+    <color name="eui_tip_custom_close_button_color">#ff000000</color>
+    <color name="eui_tip_custom_close_button_pressed_color">#80222222</color>
+    <color name="eui_tip_divider_line">#33000000</color>
+    <color name="eui_tip_list_unselected_color">#ff949494</color>
+    <color name="eui_tip_no_network_view_in_app_btn_setup_network_text_color">#99444444</color>
+    <color name="eui_tip_no_network_view_in_app_rl_content_bg">#ffffffff</color>
+    <color name="eui_tip_no_network_view_in_app_tv_no_network_message_text_color">#ff000000</color>
+    <color name="eui_tip_text_color">#ff000000</color>
+    <color name="eui_tip_text_pressed_color">#80000000</color>
+    <color name="eui_tip_toast_bg_color">#ff1a1a1a</color>
+</resources>

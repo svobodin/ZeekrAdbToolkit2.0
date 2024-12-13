@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">^1 ^2 የኦዲዮ ፋይሎችን እንዲሰረዝ ይፈቀድለት?</item>
+        <item quantity="one">^1 ^2 የኦዲዮ ፋይሎችን እንዲሰረዝ ይፈቀድለት?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">^1 ^2 ንጥሎችን እንዲሰረዝ ይፈቀድለት?</item>
+        <item quantity="one">^1 ^2 ንጥሎችን እንዲሰረዝ ይፈቀድለት?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">^1 ^2 ፎቶዎችን እንዲሰረዝ ይፈቀድለት?</item>
+        <item quantity="one">^1 ^2 ፎቶዎችን እንዲሰረዝ ይፈቀድለት?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">^1 ^2 ቪዲዮዎችን እንዲሰረዝ ይፈቀድለት?</item>
+        <item quantity="one">^1 ^2 ቪዲዮዎችን እንዲሰረዝ ይፈቀድለት?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">እንዲሁም ^1 ተጨማሪ ንጥሎች</item>
+        <item quantity="one">እንዲሁም ^1 ተጨማሪ ንጥሎች</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">+^1</item>
+        <item quantity="one">+^1</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">^1 የኦዲዮ ፋይሎችን በመሰረዝ ላይ…</item>
+        <item quantity="one">^1 የኦዲዮ ፋይሎችን በመሰረዝ ላይ…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">^1 ንጥሎችን በመሰረዝ ላይ…</item>
+        <item quantity="one">^1 ንጥሎችን በመሰረዝ ላይ…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">^1 ፎቶዎችን በመሰረዝ ላይ…</item>
+        <item quantity="one">^1 ፎቶዎችን በመሰረዝ ላይ…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">^1 ቪዲዮዎችን በመሰረዝ ላይ…</item>
+        <item quantity="one">^1 ቪዲዮዎችን በመሰረዝ ላይ…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">^1 የድምጽ ፋይሎችን ወደ መጣያ በመውሰድ ላይ…</item>
+        <item quantity="one">^1 የድምጽ ፋይሎችን ወደ መጣያ በመውሰድ ላይ…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">^1 ንጥሎችን ወደ መጣያ በመውሰድ ላይ…</item>
+        <item quantity="one">^1 ንጥሎችን ወደ መጣያ በመውሰድ ላይ…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">^1 ፎቶዎችን ወደ መጣያ በመውሰድ ላይ…</item>
+        <item quantity="one">^1 ፎቶዎችን ወደ መጣያ በመውሰድ ላይ…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">^1 ቪዱዮዎችን ወደ መጣያ በመውሰድ ላይ…</item>
+        <item quantity="one">^1 ቪዱዮዎችን ወደ መጣያ በመውሰድ ላይ…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">^1 የኦዲዮ ፋይሎችን ከመጣያ በማስወጣት ላይ…</item>
+        <item quantity="one">^1 የኦዲዮ ፋይሎችን ከመጣያ በማስወጣት ላይ…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">^1 ንጥሎችን ከመጣያ በማስወጣት ላይ…</item>
+        <item quantity="one">^1 ንጥሎችን ከመጣያ በማስወጣት ላይ…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">^1 ፎቶዎችን ከመጣያ በማስወጣት ላይ…</item>
+        <item quantity="one">^1 ፎቶዎችን ከመጣያ በማስወጣት ላይ…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">^1 ቪዲዮዎችን ከመጣያ በማስወጣት ላይ…</item>
+        <item quantity="one">^1 ቪዲዮዎችን ከመጣያ በማስወጣት ላይ…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">^1 የኦዲዮ ፋይሎችን በመቀየር ላይ…</item>
+        <item quantity="one">^1 የኦዲዮ ፋይሎችን በመቀየር ላይ…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">^1 ንጥሎችን በመቀየር ላይ…</item>
+        <item quantity="one">^1 ንጥሎችን በመቀየር ላይ…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">^1 ፎቶዎችን በመቀየር ላይ…</item>
+        <item quantity="one">^1 ፎቶዎችን በመቀየር ላይ…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">^1 ቪዲዮዎችን በመቀየር ላይ…</item>
+        <item quantity="one">^1 ቪዲዮዎችን በመቀየር ላይ…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">^1 ^2 ኦዲዮ ፋይሎችን ወደ መጣያ እንዲወስድ ይፈቀድለት?</item>
+        <item quantity="one">^1 ^2 ኦዲዮ ፋይሎችን ወደ መጣያ እንዲወስድ ይፈቀድለት?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">^1 ^2 ንጥሎችን ወደ መጣያ እንዲወስድ ይፈቀድለት?</item>
+        <item quantity="one">^1 ^2 ንጥሎችን ወደ መጣያ እንዲወስድ ይፈቀድለት?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">^1 ^2 ፎቶዎችን ወደ መጣያ እንዲወስድ ይፈቀድለት?</item>
+        <item quantity="one">^1 ^2 ፎቶዎችን ወደ መጣያ እንዲወስድ ይፈቀድለት?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">^1 ^2 ቪዲዮዎችን ወደ መጣያ እንዲወስድ ይፈቀድለት?</item>
+        <item quantity="one">^1 ^2 ቪዲዮዎችን ወደ መጣያ እንዲወስድ ይፈቀድለት?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">^1 ^2 ኦዲዮ ፋይሎችን ከመጣያ እንዲያስወጣ ይፈቀድለት?</item>
+        <item quantity="one">^1 ^2 ኦዲዮ ፋይሎችን ከመጣያ እንዲያስወጣ ይፈቀድለት?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">^1 ^2 ንጥሎችን ከመጣያ እንዲያስወጣ ይፈቀድለት?</item>
+        <item quantity="one">^1 ^2 ንጥሎችን ከመጣያ እንዲያስወጣ ይፈቀድለት?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">^1 ^2 ፎቶዎችን ከመጣያ እንዲያስወጣ ይፈቀድለት?</item>
+        <item quantity="one">^1 ^2 ፎቶዎችን ከመጣያ እንዲያስወጣ ይፈቀድለት?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">^1 ^2 ቪዲዮዎችን ከመጣያ እንዲያስወጣ ይፈቀድለት?</item>
+        <item quantity="one">^1 ^2 ቪዲዮዎችን ከመጣያ እንዲያስወጣ ይፈቀድለት?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">^1 ^2 ኦዲዮ ፋይሎችን እንዲቀይር ይፈቀድለት?</item>
+        <item quantity="one">^1 ^2 ኦዲዮ ፋይሎችን እንዲቀይር ይፈቀድለት?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">^1 ^2 ንጥሎችን እንዲቀይር ይፈቀድለት?</item>
+        <item quantity="one">^1 ^2 ንጥሎችን እንዲቀይር ይፈቀድለት?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">^1 ^2 ፎቶዎችን እንዲቀይር ይፈቀድለት?</item>
+        <item quantity="one">^1 ^2 ፎቶዎችን እንዲቀይር ይፈቀድለት?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">^1 ^2 ቪዲዮዎችን እንዲቀይር ይፈቀድለት?</item>
+        <item quantity="one">^1 ^2 ቪዲዮዎችን እንዲቀይር ይፈቀድለት?</item>
+    </plurals>
+</resources>

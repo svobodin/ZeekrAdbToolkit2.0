@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">Увядзіце пароль і перайдзіце ў Дынамічныя абнаўленні сістэмы</string>
+    <string name="notification_action_cancel">Скасаваць</string>
+    <string name="notification_action_discard">Адхіліць</string>
+    <string name="notification_action_reboot_to_dynsystem">Перазапусціць</string>
+    <string name="notification_action_reboot_to_origin">Перазапусціць</string>
+    <string name="notification_dynsystem_in_use">Цяпер запушчана дынамічная сістэма. Перазапусціце, каб скарыстаць арыгінальную версію Android.</string>
+    <string name="notification_image_validation_failed">Збой пры праверцы вобраза дыска. Усталёўка спынена.</string>
+    <string name="notification_install_completed">Дынамічная сістэма гатовая. Каб пачаць выкарыстоўваць яе, перазапусціце прыладу.</string>
+    <string name="notification_install_failed">Збой усталёўкі</string>
+    <string name="notification_install_inprogress">Ідзе ўсталёўка</string>
+    <string name="toast_dynsystem_discarded">Дынамічная сістэма адхілена</string>
+    <string name="toast_failed_to_disable_dynsystem">Не ўдалося адключыць дынамічную сістэму</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Не ўдалося перазапусціць або загрузіць дынамічную сістэму</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">কম্পেনিয়ন ডিভাইচ মেনেজাৰ</string>
+    <string name="chooser_title">&lt;strong>%2$s&lt;/strong>এ পৰিচালনা কৰিব লগা এটা %1$s বাছনি কৰক</string>
+    <string name="confirmation_title">&lt;strong>%1$s&lt;/strong>ক আপোনাৰ &lt;strong>%2$s&lt;/strong> পৰিচালনা কৰিবলৈ দিয়ক</string>
+    <string name="consent_no">অনুমতি নিদিব</string>
+    <string name="consent_yes">অনুমতি দিয়ক</string>
+    <string name="profile_name_generic">ডিভাইচ</string>
+    <string name="profile_name_watch">ঘড়ী</string>
+    <string name="profile_summary">আপোনাৰ %1$s পৰিচালনা কৰিবলৈ এই এপ্‌টোৰ আৱশ্যক। %2$s</string>
+</resources>

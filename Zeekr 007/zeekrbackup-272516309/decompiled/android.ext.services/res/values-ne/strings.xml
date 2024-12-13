@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_assistant">Android को अनुकूल पार्न मिल्ने सूचना</string>
+    <string name="status_bar_notification_info_overflow">९९९+</string>
+    <string name="tc_notif_code_copied_to_clipboard">कोड प्रतिलिपि गरियो</string>
+    <string name="tc_notif_copy_code_desc">“%1$s“ प्रतिलिपि गर्नु…</string>
+</resources>

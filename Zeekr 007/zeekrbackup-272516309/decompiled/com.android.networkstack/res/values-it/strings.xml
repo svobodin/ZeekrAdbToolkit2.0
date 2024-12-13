@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Network manager</string>
+    <string name="connected">Connesso</string>
+    <string name="notification_channel_description_connected">"Notifiche mostrate in seguito all'autenticazione del dispositivo su una rete captive portal"</string>
+    <string name="notification_channel_description_network_venue_info">Notifiche mostrate per indicare che la rete ha una pagina di informazioni su un luogo</string>
+    <string name="notification_channel_name_connected">Autenticazione a captive portal</string>
+    <string name="notification_channel_name_network_venue_info">"Info sull'attività che offre la rete"</string>
+    <string name="tap_for_info">Rete collegata/Tocca per visualizzare il sito web</string>
+</resources>

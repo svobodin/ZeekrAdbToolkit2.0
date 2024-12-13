@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="enable_antenna_blocked_alert">false</bool>
+    <bool name="enable_auto_play">true</bool>
+    <bool name="enable_nfc_provisioning">true</bool>
+    <bool name="enable_nfc_url_open_dialog">false</bool>
+    <bool name="enable_notify_dispatch_failed">false</bool>
+    <bool name="enable_notify_read_failed">false</bool>
+    <bool name="nfcc_always_on_allowed">false</bool>
+    <bool name="polling_disable_allowed">false</bool>
+</resources>

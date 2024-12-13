@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">گھر کی طرف نیویگیٹ کریں</string>
+    <string name="abc_action_bar_up_description">اوپر نیویگیٹ کریں</string>
+    <string name="abc_action_menu_overflow_description">مزید اختیارات</string>
+    <string name="abc_action_mode_done">ہو گیا</string>
+    <string name="abc_activity_chooser_view_see_all">سبھی دیکھیں</string>
+    <string name="abc_activitychooserview_choose_application">ایک ایپ منتخب کریں</string>
+    <string name="abc_capital_off">آف</string>
+    <string name="abc_capital_on">آن</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+‎</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+‎</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+‎</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+‎</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+‎</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+‎</string>
+    <string name="abc_prepend_shortcut_label">Menu+‎</string>
+    <string name="abc_search_hint">تلاش کریں…</string>
+    <string name="abc_searchview_description_clear">استفسار صاف کریں</string>
+    <string name="abc_searchview_description_query">تلاش کا استفسار</string>
+    <string name="abc_searchview_description_search">تلاش کریں</string>
+    <string name="abc_searchview_description_submit">استفسار جمع کرائیں</string>
+    <string name="abc_searchview_description_voice">صوتی تلاش</string>
+    <string name="abc_shareactionprovider_share_with">اس کے ساتھ اشتراک کریں</string>
+    <string name="abc_shareactionprovider_share_with_application">%s کے ساتھ اشتراک کریں</string>
+    <string name="abc_toolbar_collapse_description">سکیڑیں</string>
+    <string name="add_alarm_text">الارم شامل کریں</string>
+    <string name="add_notification_text">اطلاع شامل کریں</string>
+    <string name="add_ringtone_text">رنگ ٹون شامل کریں</string>
+    <string name="alarm_sound_default">الارم کی ڈیفالٹ آواز</string>
+    <string name="app_label">آوازیں</string>
+    <string name="delete_ringtone_text">حذف کریں</string>
+    <string name="notification_sound_default">اطلاع کی ڈیفالٹ آواز</string>
+    <string name="ringtone_default">ڈیفالٹ رنگ ٹون</string>
+    <string name="search_menu_title">تلاش کریں</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
+    <string name="unable_to_add_ringtone">حسب ضرورت رنگ ٹون شامل کرنے سے قاصر ہے</string>
+    <string name="unable_to_delete_ringtone">حسب ضرورت رنگ ٹون حذف کرنے سے قاصر ہے</string>
+</resources>

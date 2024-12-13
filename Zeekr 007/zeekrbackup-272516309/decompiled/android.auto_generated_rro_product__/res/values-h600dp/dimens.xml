@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="media_notification_action_button_size">56.0dip</dimen>
+    <dimen name="notification_action_list_height">96.0dip</dimen>
+    <dimen name="notification_content_margin_top">68.0dip</dimen>
+    <dimen name="notification_header_height">76.0dip</dimen>
+    <dimen name="notification_header_icon_size">32.0dip</dimen>
+    <dimen name="notification_text_size">32.0sp</dimen>
+    <dimen name="notification_title_text_size">40.0sp</dimen>
+    <dimen name="car_app_bar_height">96.0dip</dimen>
+    <dimen name="car_single_line_list_item_height">116.0dip</dimen>
+</resources>

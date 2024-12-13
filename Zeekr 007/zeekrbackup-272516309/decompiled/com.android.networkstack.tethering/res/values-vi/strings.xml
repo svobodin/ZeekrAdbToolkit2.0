@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="disable_tether_notification_message">Hãy liên hệ với quản trị viên của bạn để biết chi tiết</string>
+    <string name="disable_tether_notification_title">Đã tắt tính năng chia sẻ Internet</string>
+    <string name="no_upstream_notification_disable_button" />
+    <string name="no_upstream_notification_message" />
+    <string name="no_upstream_notification_title" />
+    <string name="notification_channel_tethering_status">Trạng thái điểm phát sóng và chia sẻ Internet</string>
+    <string name="tethered_notification_message">Hãy nhấn để thiết lập.</string>
+    <string name="tethered_notification_title">Tính năng chia sẻ Internet hoặc điểm phát sóng đang hoạt động</string>
+    <string name="upstream_roaming_notification_message" />
+    <string name="upstream_roaming_notification_title" />
+</resources>

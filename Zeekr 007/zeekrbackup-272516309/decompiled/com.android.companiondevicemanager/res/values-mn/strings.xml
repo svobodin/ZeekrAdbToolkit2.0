@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Companion Device Manager</string>
+    <string name="chooser_title">&lt;strong>%2$s&lt;/strong>-н удирдах%1$s-г сонгоно уу</string>
+    <string name="confirmation_title">&lt;strong>%2$s&lt;/strong>-г удирдахын тулд &lt;strong>%1$s&lt;/strong>-г зөвшөөрнө үү</string>
+    <string name="consent_no">Бүү зөвшөөр</string>
+    <string name="consent_yes">Зөвшөөрөх</string>
+    <string name="profile_name_generic">төхөөрөмж</string>
+    <string name="profile_name_watch">цаг</string>
+    <string name="profile_summary">Энэ апп таны %1$s-г удирдахад шаардлагатай. %2$s</string>
+</resources>

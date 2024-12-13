@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Искључи хотспот</string>
+    <string name="no_upstream_notification_message">Уређаји не могу да се повежу на интернет</string>
+    <string name="no_upstream_notification_title">Хотспот нема приступ интернету</string>
+    <string name="upstream_roaming_notification_message">Можда важе додатни трошкови у ромингу</string>
+    <string name="upstream_roaming_notification_title">Хотспот је укључен</string>
+    <string name="upstream_roaming_notification_continue_button">Настави</string>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">Aplikace k focení a natáčení</item>
+        <item quantity="one">Aplikace k focení a natáčení</item>
+        <item quantity="few">Aplikace k focení a natáčení</item>
+        <item quantity="many">Aplikace k focení a natáčení</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">Aplikace pro práci s e-maily</item>
+        <item quantity="one">Aplikace pro práci s e-maily</item>
+        <item quantity="few">Aplikace pro práci s e-maily</item>
+        <item quantity="many">Aplikace pro práci s e-maily</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">Aplikace k telefonování</item>
+        <item quantity="one">Aplikace k telefonování</item>
+        <item quantity="few">Aplikace k telefonování</item>
+        <item quantity="many">Aplikace k telefonování</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d pokusů</item>
+        <item quantity="one">%d pokus</item>
+        <item quantity="few">%d pokusy</item>
+        <item quantity="many">%d pokusu</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d aplikací</item>
+        <item quantity="one">%d aplikace</item>
+        <item quantity="few">%d aplikace</item>
+        <item quantity="many">%d aplikace</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">Minimálně %d aplikací</item>
+        <item quantity="one">Minimálně %d aplikace</item>
+        <item quantity="few">Minimálně %d aplikace</item>
+        <item quantity="many">Minimálně %d aplikace</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nových oznámení</item>
+        <item quantity="one">%d nové oznámení</item>
+        <item quantity="few">%d nová oznámení</item>
+        <item quantity="many">%d nového oznámení</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">Připojeno %1$d zařízení</item>
+        <item quantity="one">Připojeno %1$d zařízení</item>
+        <item quantity="few">Připojena %1$d zařízení</item>
+        <item quantity="many">Připojeno %1$d zařízení</item>
+    </plurals>
+</resources>

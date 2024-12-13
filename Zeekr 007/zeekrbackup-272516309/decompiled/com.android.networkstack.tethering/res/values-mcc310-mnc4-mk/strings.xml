@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Исклучи интернет преку мобилен</string>
+    <string name="no_upstream_notification_message">Уредите не може да се поврзат</string>
+    <string name="no_upstream_notification_title">Нема интернет преку мобилен</string>
+    <string name="upstream_roaming_notification_message">При роаминг може да се наплатат дополнителни трошоци</string>
+    <string name="upstream_roaming_notification_title">Точката на пристап или интернетот преку мобилен е вклучен</string>
+</resources>

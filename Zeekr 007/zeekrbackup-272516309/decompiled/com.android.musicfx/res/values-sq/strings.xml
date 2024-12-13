@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">Përforcimi i basit</string>
+    <string name="ci_extreme">Përforcuesi i efekteve</string>
+    <string name="classical">Klasike</string>
+    <string name="dance">Kërcim</string>
+    <string name="eq_dialog_title">Balancuesi</string>
+    <string name="flat">I rrafshët</string>
+    <string name="folk">Folk</string>
+    <string name="headset_plug">Vendos kufjet për këto efekte.</string>
+    <string name="heavy_metal">Heavy Metal</string>
+    <string name="hip_hop">Hip hop</string>
+    <string name="jazz">Xhaz</string>
+    <string name="no_effects">Efektet nuk ofrohen.</string>
+    <string name="normal">Normal</string>
+    <string name="picker_title">Paneli i kontrollit i efekteve të muzikës</string>
+    <string name="pop">Pop</string>
+    <string name="rock">Rok</string>
+    <string name="setup">Konfigurimi</string>
+    <string name="user">Përdoruesi</string>
+    <string name="virtualizer_strength">Tingulli rrethues</string>
+</resources>

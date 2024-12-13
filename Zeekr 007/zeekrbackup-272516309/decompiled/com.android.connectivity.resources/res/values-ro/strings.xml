@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">Resurse pentru conectivitatea sistemului</string>
+    <string name="mobile_no_internet">Rețeaua mobilă nu are acces la internet</string>
+    <string name="network_available_sign_in">Conectați-vă la rețea</string>
+    <string name="network_partial_connectivity">%1$s are conectivitate limitată</string>
+    <string name="network_partial_connectivity_detailed">Atingeți pentru a vă conecta oricum</string>
+    <string name="network_switch_metered">S-a comutat la %1$s</string>
+    <string name="network_switch_metered_detail">Dispozitivul folosește %1$s când %2$s nu are acces la internet. Se pot aplica taxe.</string>
+    <string name="network_switch_metered_toast">S-a comutat de la %1$s la %2$s</string>
+    <string name="network_switch_type_name_unknown">un tip de rețea necunoscut</string>
+    <string name="other_networks_no_internet">Rețeaua nu are acces la internet</string>
+    <string name="private_dns_broken_detailed">Serverul DNS privat nu poate fi accesat</string>
+    <string name="wifi_available_sign_in">Conectați-vă la rețeaua Wi-Fi</string>
+    <string name="wifi_no_internet">%1$s nu are acces la internet</string>
+    <string name="wifi_no_internet_detailed">Atingeți pentru opțiuni</string>
+</resources>

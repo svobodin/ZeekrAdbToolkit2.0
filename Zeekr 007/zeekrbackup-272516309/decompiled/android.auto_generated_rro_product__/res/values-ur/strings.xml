@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="owner_name">ڈرائیور</string>
+    <string name="permlab_accessCoarseLocation">صرف پیش منظر میں تخمینی مقام تک رسائی</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">مائیکروفون آن کریں</string>
+</resources>

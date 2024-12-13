@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">बास बूस्ट</string>
+    <string name="ci_extreme">FX बूस्टर</string>
+    <string name="classical">शास्त्रीय संगीत</string>
+    <string name="dance">नृत्य</string>
+    <string name="eq_dialog_title">इक्वलायझर</string>
+    <string name="flat">फ्लॅट</string>
+    <string name="folk">लोकसंगीत</string>
+    <string name="headset_plug">या इफेक्टसाठी हेडफोन प्लग इन करा.</string>
+    <string name="heavy_metal">हेवी मेटल</string>
+    <string name="hip_hop">हिप हॉप</string>
+    <string name="jazz">जॅझ</string>
+    <string name="no_effects">इफेक्ट उपलब्ध नाहीत.</string>
+    <string name="normal">सामान्य</string>
+    <string name="picker_title">संगीत इफेक्टचे कंट्रोल पॅनल</string>
+    <string name="pop">पॉप</string>
+    <string name="rock">रॉक गाणी</string>
+    <string name="setup">सेटअप</string>
+    <string name="user">वापरकर्ता</string>
+    <string name="virtualizer_strength">सराउंड साउंड</string>
+</resources>

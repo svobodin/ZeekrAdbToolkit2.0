@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Přihlásit se k síti</string>
+    <string name="action_bar_title">Přihlaste se k síti %1$s</string>
+    <string name="action_do_not_use_network">Tuto síť nepoužívat</string>
+    <string name="action_use_network">Použít tuto síť tak, jak je</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">Oznámení zobrazující průběh stahování souborů</string>
+    <string name="channel_description_downloads">Oznámení zobrazující dokončená nebo zrušená stahování</string>
+    <string name="channel_name_download_progress">Průběh stahování</string>
+    <string name="channel_name_downloads">Stahování</string>
+    <string name="custom_scheme_example">Přihlašovací stránka například může vyžadovat konkrétní aplikaci pro ověření</string>
+    <string name="custom_scheme_warning">Síť, ke které se snažíte připojit, vyžaduje otevření další aplikace.</string>
+    <string name="download_completed">Stahování bylo dokončeno</string>
+    <string name="downloading_paramfile">Stahování souboru %1$s</string>
+    <string name="error_continue_via_browser">Přesto pokračovat prostřednictvím prohlížeče</string>
+    <string name="error_downloading_paramfile">Stažení souboru %1$s se nezdařilo</string>
+    <string name="no_bypass_error_vpnwarning">Tuto chybu není možné obejít, protože zařízení momentálně používá síť VPN.</string>
+    <string name="ok">OK</string>
+    <string name="page_info">Informace o stránce</string>
+    <string name="page_info_address">Adresa:</string>
+    <string name="ssl_error_date_invalid">Datum tohoto certifikátu není platné.</string>
+    <string name="ssl_error_example">Například přihlašovací stránka nemusí patřit do zobrazované organizace.</string>
+    <string name="ssl_error_expired">Platnost certifikátu vypršela.</string>
+    <string name="ssl_error_invalid">Tento certifikát je neplatný.</string>
+    <string name="ssl_error_mismatch">Název webu se neshoduje s názvem uvedeným v certifikátu.</string>
+    <string name="ssl_error_not_yet_valid">Tento certifikát ještě není platný.</string>
+    <string name="ssl_error_unknown">Neznámá chyba certifikátu.</string>
+    <string name="ssl_error_untrusted">Tento certifikát nepochází od důvěryhodné autority.</string>
+    <string name="ssl_error_view_certificate">Zobrazit certifikát</string>
+    <string name="ssl_error_warning">Síť, ke které se pokoušíte připojit, má bezpečnostní problémy.</string>
+    <string name="ssl_security_warning_title">Bezpečnostní upozornění</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

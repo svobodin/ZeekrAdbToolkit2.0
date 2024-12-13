@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="additional_permissions_decor_title">অতিরিক্ত অনুমতিগুলি</string>
+    <string name="app_permissions_decor_title">অ্যাপ্লিকেশনের অনুমতি</string>
+    <string name="current_permission_template">%1$s / %2$s</string>
+    <string name="grant_dialog_button_deny_dont_ask_again">অস্বীকার করুন এবং আবার জিজ্ঞাসা করবেন না</string>
+    <string name="grant_dialog_how_to_change">আপনি সেটিংস > অ্যাপ্লিকেশান এ এটি পরে পরিবর্তন করতে পারেন</string>
+    <string name="manage_permissions_decor_title">অ্যাপ্লিকেশনের অনুমতি</string>
+    <string name="permission_apps_decor_title">%1$s অনুমতিগুলি</string>
+    <string name="preference_show_system_apps">সিস্টেম অ্যাপ্লিকেশানগুলি দেখান</string>
+    <string name="system_apps_decor_title">%1$s অনুমতিগুলি</string>
+</resources>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_missing_private_key">ຕ້ອງໃຊ້ກະແຈສ່ວນຕົວເພື່ອຕິດຕັ້ງໃບຮັບຮອງ</string>
+    <string name="action_missing_user_cert">ຕ້ອງໃຊ້ໃບຮັບຮອງເພື່ອຕິດຕັ້ງກະແຈສ່ວນຕົວ</string>
+    <string name="app_name">ໂຕຕິດຕັ້ງໃບຮັບຮອງ</string>
+    <string name="ca_cert_is_added">ຕິດຕັ້ງໃບຮັບຮອງ CA ແລ້ວ</string>
+    <string name="ca_certificate">ໃບ​ຢັ້ງ​ຢືນ​ CA</string>
+    <string name="cert_missing_error">ບໍ່ສາມາດຕິດຕັ້ງໄດ້ເນື່ອງຈາກບໍ່ສາມາດລະບຸຕຳແໜ່ງຂອງໄຟລ໌ຮັບຮອງໄດ້.</string>
+    <string name="cert_not_saved">ໃບຮັບຮອງບໍ່ໄດ້ຖືກຕິດຕັ້ງເທື່ອ.</string>
+    <string name="cert_read_error">ບໍ່ສາມາດຕິດຕັ້ງໄດ້ເນື່ອງຈາກບໍ່ສາມາດອ່ານໄຟລ໌ຮັບຮອງໄດ້.</string>
+    <string name="cert_temp_error">ເກີດຄວາມລົ້ມເຫລວຊົ່ວຄາວ. ກະລຸນາລອງໃໝ່ພາຍຫຼັງ.</string>
+    <string name="cert_too_large_error">ບໍ່ສາມາດຕິດຕັ້ງໄດ້ເພາະວ່າໃບຮັບຮອງມີຂະໜາດໃຫຍ່ເກີນໄປ.</string>
+    <string name="certificate">ໃບຮັບຮອງ</string>
+    <string name="certificate_capabilities_warning">ໝາຍເຫດ: ຜູ້ອອກໃບຮັບຮອງນີ້ອາດກວດສອບທຣາບຟິກທັງໝົດທີ່ສົ່ງໄປຫາ ແລະ ສົ່ງມາຈາກ.</string>
+    <string name="certificate_name">ຊື່ໃບຮັບຮອງ</string>
+    <string name="credential_info">ແພັກເກດປະກອບດ້ວຍ:</string>
+    <string name="credential_password">ພິມລະຫັດຜ່ານເພື່ອຄາຍໃບຮັບຮອງ.</string>
+    <string name="credential_usage_label">ການໃຊ້ຂໍ້ມູນຮັບຮອງ:</string>
+    <string name="done_label">ແລ້ວໆ</string>
+    <string name="extracting_pkcs12">ກຳລັງຄາຍຂໍ້ມູນ...</string>
+    <string name="install_done">%1$s ເພີ່ມ​​ຂໍ້​ມູນ​ປະ​ຈຳ​ຕົວ​ໄປ​ໃສ່​ເຄືອ​ຂ່າຍ​ບັນ​ທຶກ​ໄວ້​ຂອງ Wi-Fi ແລ້ວ.</string>
+    <string name="install_done_title">ຕິດ​ຕັ້ງ​ຂໍ້​ມູນ​ປະ​ຈຳ​ຕົວ​ແລ້ວ</string>
+    <string name="invalid_cert">ໃບຮັບຮອງບໍ່ຖືກຕ້ອງ.</string>
+    <string name="invalid_certificate_close_button">ປິດ</string>
+    <string name="invalid_certificate_message">ບໍ່ສາມາດໃຊ້ໄຟລ໌ນີ້ເປັນ %1$s ໄດ້</string>
+    <string name="invalid_certificate_title">ບໍ່ສາມາດໃຊ້ໄຟລ໌ນີ້ໄດ້</string>
+    <string name="n_cacrts">%d ໃບຮັບຮອງ CA</string>
+    <string name="name_char_error">ພິມຊື່ທີ່ມີພຽງແຕ່ໂຕອັກສອນ ແລະໂຕເລກ.</string>
+    <string name="name_credential_dialog_title">ຕັ້ງຊື່ໃບຮັງຮອງນີ້</string>
+    <string name="name_empty_error">ພິມຊື່.</string>
+    <string name="no_cert_to_saved">ບໍ່ມີໃບຮັບຮອງເພື່ອຕິດຕັ້ງ.</string>
+    <string name="one_cacrt">ໃບຢັ້ງຢືນ CA ໜຶ່ງໃບ</string>
+    <string name="one_usercrt">ນຶ່ງໃບຮັບຮອງຜູ່ໃຊ້</string>
+    <string name="one_userkey">ນຶ່ງກະແຈຜູ່ໃຊ້</string>
+    <string name="only_primary_user_allowed">ສະເພາະເຈົ້າຂອງອຸປະກອນນີ້ເທົ່ານັ້ນ ທີ່ສາມາດຕິດຕັ້ງໃບຮັບຮອງໄດ້.</string>
+    <string name="p12_description">ໃບຮັບຮອງໃນແຫລ່ງເກັບກະແຈ PKCS12.</string>
+    <string name="password_empty_error">ພິມລະຫັດຜ່ານ.</string>
+    <string name="password_error">ພິມລະຫັດຜ່ານທີ່ຖືກຕ້ອງ.</string>
+    <string name="pick_file_title">ເລືອກ​ໃບຮັບຮອງໃດນຶ່ງ</string>
+    <string name="pkcs12_file_password_dialog_title">ຄາຍຈາກ %s</string>
+    <string name="pkcs12_password_dialog_title">ຄາຍຂໍ້ມູນໃບຮັບຮອງ</string>
+    <string name="redirect_ca_certificate_close_button">ປິດ</string>
+    <string name="redirect_ca_certificate_title">ຕິດຕັ້ງໃບຮັບຮອງ CA ໃນການຕັ້ງຄ່າ</string>
+    <string name="redirect_ca_certificate_with_app_info_message">ໃບຮັບຮອງນີ້ຈາກ %1$s ຈະຕ້ອງຖືກຕິດຕັ້ງໃນການຕັ້ງຄ່າກ່ອນ. ໃຫ້ຕິດຕັ້ງໃບຮັບຮອງ CA ຈາກອົງການທີ່ທ່ານເຊື່ອຖືເທົ່ານັ້ນ.</string>
+    <string name="select_certificate_usage_title">ເລືອກປະເພດໃບຮັບຮອງ</string>
+    <string name="unable_to_save_cert">ບໍ່ສາມາດບັນທຶກໃບຮັບຮອງໄດ້. ບ່ອນຈັດເກັບຂໍ້ມູນລັບບໍ່ໄດ້ເປີດນຳໃຊ້ ຫຼືຖືກເປີດຢ່າງບໍ່ຖືກຕ້ອງ.</string>
+    <string name="user_cert_is_added">ຕິດຕັ້ງໃບຮັບຮອງຜູ້ໃຊ້ແລ້ວ</string>
+    <string name="user_certificate">VPN ແລະ ໃບຮັບຮອງຜູ້ໃຊ້ແອັບ</string>
+    <string name="userkey_type">ອະກໍຣິທຶມ:</string>
+    <string name="wifi_cancel_label">ຍົກເລີກ</string>
+    <string name="wifi_cert_is_added">ຕິດຕັ້ງໃບຮັບຮອງ Wi‑Fi ແລ້ວ</string>
+    <string name="wifi_certificate">ໃບຮັບຮອງ Wi‑Fi</string>
+    <string name="wifi_config_text">"ຊື່: %1$s
+FQDN: %2$s
+Consortiums ໂຣມ​ມິງ: %3$s
+ຄວາມ​ເປັນ​ຈິງ: %4$s
+ວິ​ທີ​ການ​ໃຫ້​ສິດ: EAP-%5$s
+"</string>
+    <string name="wifi_detail_label">ລາຍລະອຽດ</string>
+    <string name="wifi_detail_title">ລາຍ​ລະ​ອຽດ​ສຳ​ລັບ %s</string>
+    <string name="wifi_dismiss_label">ປິດໄວ້</string>
+    <string name="wifi_install_label">ຕິດຕັ້ງ</string>
+    <string name="wifi_installer_detail">ຕິດ​ຕັ້ງ​ຂໍ້​ມູນ​ປະ​ຈຳ​ຕົວ Wi-Fi ເພື່ອ​ເຊື່ອມ​ຕໍ່​ກັບ​ເຄືອ​ຂ່າຍ​ທີ່​ມີ​ຢູ່​ຜ່ານ %1$s.</string>
+    <string name="wifi_installer_download_error">ໄຟ​ລ​໌​ທີ່​ດາວ​ໂຫຼດ​ໄວ້​ມີ​ບັນ​ຫາ ແລະ​ບໍ່​ສາ​ມາດ​ຕິດ​ຕັ້ງ​ໄດ້. ເບິ່ງ​ໃຫ້​ແນ່​ໃຈ​ວ່າ ທ່ານ​ດາວ​ໂຫຼດໄຟ​ລ໌ມາ​ຈາກ​ແຫຼ່ງ​ທີ່​ຖືກ​ຕ້ອງ​ແລ້ວ.</string>
+    <string name="wifi_installer_fail">ບໍ່​ສາ​ມາດ​ຕິດ​ຕັ້ງ​ຂໍ້​ມູນ​ປະ​ຈຳ​ໂຕ Wi-Fi ໄດ້. ລອງ​ດາວ​ໂຫຼດ​ໄຟ​ລ໌​ອີກ.</string>
+    <string name="wifi_installer_fail_no_wifi">ເປີດ Wi-Fi ແລະ​ລອງ​ໃໝ່​ອີກ.</string>
+    <string name="wifi_installer_fail_no_wifi_title">ການ​ຕິດ​ຕັ້ງ​ຍົກ​ເລີກ​ແລ້ວ</string>
+    <string name="wifi_installer_fail_title">ບໍ່​ສາ​ມາດ​ຕິດ​ຕັ້ງ​ໄດ້</string>
+    <string name="wifi_installing_label">​ກຳ​ລັງ​ຕິດ​ຕັ້ງ</string>
+    <string name="wifi_no_config">ບໍ່ມີ</string>
+    <string name="wifi_sim_config_text">"SIM: %s
+"</string>
+    <string name="wifi_title">ໂປ​ຣ​ໄຟ​ລ໌ Wi-Fi</string>
+    <string name="wifi_tls_config_text">"ໃບ​ຢັ້ງ​ຢືນ​ລູກ​ຂ່າຍ:
+%1$s
+ລະ​ຫັດ: %2$s
+"</string>
+    <string name="wifi_trust_config_text">"ໃບ​ຢັ້ງ​ຢືນ​ຄວາມ​ເຊື່ອຖືໄດ້:
+%s
+"</string>
+    <string name="wifi_ttls_config_text">"ຊື່​ຜູ້​ໃຊ້: %s
+"</string>
+</resources>

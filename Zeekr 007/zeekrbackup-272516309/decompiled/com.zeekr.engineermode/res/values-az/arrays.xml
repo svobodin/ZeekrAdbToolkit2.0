@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>Sint Martin</item>
+        <item>Karib Hollandiyası</item>
+        <item>Kuraçao</item>
+        <item>Cənubi Sudan</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Avstraliya Mərkəzi - NT</item>
+        <item>Avstraliya Mərkəzi - SA</item>
+        <item>Avstraliya Şərqi - QLD</item>
+        <item>Avstraliya Şərqi - NSW</item>
+        <item>Mountain Standard - Dawson Creek</item>
+        <item>Mərkəzi Standard - Saskatçevan</item>
+        <item>Şərq Standard - Atikokan</item>
+        <item>Atlantik Standard - Kvebek</item>
+        <item>Havay-Aleut adaları - Havay</item>
+        <item>Havay-Aleut adaları - Alyaska</item>
+        <item>Sakit okean Standard - Metlakatla</item>
+        <item>Dağlıq Standard - Arizona</item>
+        <item>Sakit okean - Baja Kalifornia</item>
+        <item>Dağlıq - Chihuahua</item>
+        <item>Mərkəzi - Tamaulipas</item>
+        <item>Dağlıq - Sonora</item>
+        <item>Şərqi Afrika saatı</item>
+        <item>Atlantik Standard saatı</item>
+        <item>Atlantik Standard saatı</item>
+        <item>Şərqi Avropa saatı</item>
+        <item>Kalininqrad saatı</item>
+        <item>Amazon - Rondônia</item>
+        <item>Braziliya - Pará</item>
+    </string-array>
+</resources>

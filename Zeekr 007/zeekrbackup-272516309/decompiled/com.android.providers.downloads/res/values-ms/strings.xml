@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Pengurus Muat Turun</string>
+    <string name="button_cancel_download">Batal</string>
+    <string name="button_queue_for_wifi">Baris gilir</string>
+    <string name="button_start_now">Mulakan sekarang</string>
+    <string name="download_error">Tidak berjaya</string>
+    <string name="download_no_application_title">Tidak dapat membuka fail</string>
+    <string name="download_queued">Dibaris gilir</string>
+    <string name="download_remaining">%s tinggal</string>
+    <string name="download_running">Sedang berlangsung</string>
+    <string name="download_running_percent">Sedang berjalan, %s</string>
+    <string name="download_unknown_title">&lt;Tidak bertajuk></string>
+    <string name="notification_download_complete">Muat turun selesai.</string>
+    <string name="notification_download_failed">Muat turun tidak berjaya.</string>
+    <string name="notification_need_wifi_for_size">Saiz m.trn perlukn Wi-Fi</string>
+    <string name="notification_paused_in_background">Dijeda di latar belakang.</string>
+    <string name="permdesc_accessAllDownloads">Membenarkan aplikasi untuk melihat dan mengubah suai semua muat turun yang dimulakan oleh mana-mana aplikasi pada sistem.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Membenarkan aplikasi memuat turun fail ke cache muat turun, yang tidak boleh dipadamkan secara automatik apabila pengurus muat turun memerlukan lebih banyak ruang.</string>
+    <string name="permdesc_downloadCompletedIntent">Membenarkan aplikasi menghantar pemberitahuan tentang muat turun yang telah siap. Aplikasi berbahaya boleh menggunakan ini untuk mengelirukan aplikasi lain yang memuat turun fail.</string>
+    <string name="permdesc_downloadManager">Membenarkan aplikasi untuk mengakses pengurus muat turun dan menggunakannya untuk memuat turun fail. Aplikasi berniat jahat boleh menggunakan ini untuk mengganggu muat turun dan mengakses maklumat peribadi.</string>
+    <string name="permdesc_downloadManagerAdvanced">Membenarkan aplikasi mengakses fungsi-fungsi lanjutan pengurus muat turun. Aplikasi berbahaya boleh menggunakan ini untuk mengganggu muat turun dan mengakses maklumat peribadi.</string>
+    <string name="permdesc_downloadWithoutNotification">Membenarkan aplikasi memuat turun fail melalui pengurus muat turun tanpa menunjukkan sebarang pemberitahuan kepada pengguna.</string>
+    <string name="permlab_accessAllDownloads">Mengakses semua muat turun sistem</string>
+    <string name="permlab_downloadCacheNonPurgeable">Menempah ruang dalam cache muat turun</string>
+    <string name="permlab_downloadCompletedIntent">Hantar pemberitahuan muat turun.</string>
+    <string name="permlab_downloadManager">Akses pengurus muat turun.</string>
+    <string name="permlab_downloadManagerAdvanced">Fungsi pengurus muat turun lanjutan.</string>
+    <string name="permlab_downloadWithoutNotification">memuat turun fail tanpa pemberitahuan</string>
+    <string name="root_downloads">Muat turun</string>
+    <string name="storage_description">Muat turun</string>
+    <string name="wifi_recommended_body">"Memulakan muat turun %1$s  ini sekarang mungkin memendekkan hayat bateri dan/atau menyebabkan penggunaan berlebihan sambungan data mudah alih anda, yang boleh menyebabkan caj dikenakan oleh operator mudah alih anda, bergantung kepada pelan data anda.
+
+ Sentuh %2$s untuk memulakan muat turun ini pada kali seterusnya anda disambungkan kepada rangkaian Wi-Fi."</string>
+    <string name="wifi_recommended_title">Baris gilir untuk dimuat turun kemudian?</string>
+    <string name="wifi_required_body">"Anda mesti menggunakan Wi-Fi untuk melengkapkan muat turun %1$s  ini. 
+
+Sentuh %2$s  untuk memulakan muat turun ini lain kali anda disambungkan ke rangkaian Wi-Fi."</string>
+    <string name="wifi_required_title">Muat turun terlalu besar untuk operator rangkaian</string>
+</resources>

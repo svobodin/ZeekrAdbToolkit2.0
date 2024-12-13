@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">Mga Resource ng Pagkakonekta ng System</string>
+    <string name="mobile_no_internet">Walang access sa internet ang mobile network</string>
+    <string name="network_available_sign_in">Mag-sign in sa network</string>
+    <string name="network_partial_connectivity">Limitado ang koneksyon ng %1$s</string>
+    <string name="network_partial_connectivity_detailed">I-tap para kumonekta pa rin</string>
+    <string name="network_switch_metered">Lumipat sa %1$s</string>
+    <string name="network_switch_metered_detail">Ginagamit ng device ang %1$s kapag walang access sa internet ang %2$s. Maaaring may mga malapat na singilin.</string>
+    <string name="network_switch_metered_toast">Lumipat sa %2$s mula sa %1$s</string>
+    <string name="network_switch_type_name_unknown">isang hindi kilalang uri ng network</string>
+    <string name="other_networks_no_internet">Walang access sa internet ang network</string>
+    <string name="private_dns_broken_detailed">Hindi ma-access ang pribadong DNS server</string>
+    <string name="wifi_available_sign_in">Mag-sign in sa Wi-Fi network</string>
+    <string name="wifi_no_internet">Walang access sa internet ang %1$s</string>
+    <string name="wifi_no_internet_detailed">I-tap para sa mga opsyon</string>
+</resources>

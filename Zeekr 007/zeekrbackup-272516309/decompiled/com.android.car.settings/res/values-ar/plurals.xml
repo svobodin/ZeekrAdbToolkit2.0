@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">تطبيقات الكاميرا</item>
+        <item quantity="zero">تطبيق الكاميرا</item>
+        <item quantity="one">تطبيق الكاميرا</item>
+        <item quantity="two">تطبيقا الكاميرا</item>
+        <item quantity="few">تطبيقات الكاميرا</item>
+        <item quantity="many">تطبيقات الكاميرا</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">تطبيقات البريد الإلكتروني</item>
+        <item quantity="zero">تطبيق بريد إلكتروني</item>
+        <item quantity="one">تطبيق البريد الإلكتروني</item>
+        <item quantity="two">تطبيقا البريد الإلكتروني</item>
+        <item quantity="few">تطبيقات البريد الإلكتروني</item>
+        <item quantity="many">تطبيقات البريد الإلكتروني</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">تطبيقات الهاتف</item>
+        <item quantity="zero">تطبيق الهاتف</item>
+        <item quantity="one">تطبيق الهاتف</item>
+        <item quantity="two">تطبيقا الهاتف</item>
+        <item quantity="few">تطبيقات الهاتف</item>
+        <item quantity="many">تطبيقات الهاتف</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">لديك %d محاولة.</item>
+        <item quantity="zero">لديك %d محاولة.</item>
+        <item quantity="one">لديك محاولة واحدة (%d).</item>
+        <item quantity="two">لديك محاولتان (%d).</item>
+        <item quantity="few">لديك %d محاولات.</item>
+        <item quantity="many">لديك %d محاولة.</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d تطبيق</item>
+        <item quantity="zero">%d تطبيق</item>
+        <item quantity="one">تطبيق واحد (%d)</item>
+        <item quantity="two">تطبيقان (%d)</item>
+        <item quantity="few">%d تطبيقات</item>
+        <item quantity="many">%d تطبيقًا</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">%d تطبيق كحد أدنى</item>
+        <item quantity="zero">%d تطبيق كحد أدنى</item>
+        <item quantity="one">تطبيق واحد (%d) كحد أدنى</item>
+        <item quantity="two">تطبيقان (%d) كحد أدنى</item>
+        <item quantity="few">%d تطبيقات كحد أدنى</item>
+        <item quantity="many">%d تطبيقًا كحد أدنى</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d إشعار جديد</item>
+        <item quantity="zero">%d إشعار جديد</item>
+        <item quantity="one">إشعار جديد واحد (%d)</item>
+        <item quantity="two">إشعاران جديدان (%d)</item>
+        <item quantity="few">%d إشعارات جديدة</item>
+        <item quantity="many">%d إشعارًا جديدًا</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">‏عدد الأجهزة المتصلة ‎%1$d</item>
+        <item quantity="zero">‏عدد الأجهزة المتصلة ‎%1$d</item>
+        <item quantity="one">‏عدد الأجهزة المتصلة ‎%1$d</item>
+        <item quantity="two">‏عدد الأجهزة المتصلة ‎%1$d</item>
+        <item quantity="few">‏عدد الأجهزة المتصلة ‎%1$d</item>
+        <item quantity="many">‏عدد الأجهزة المتصلة ‎%1$d</item>
+    </plurals>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">ტეტერინგის გამორთვა</string>
+    <string name="no_upstream_notification_message">მოწყობილობები ვერ ახერხებენ დაკავშირებას</string>
+    <string name="no_upstream_notification_title">ტეტერინგს არ აქვს ინტერნეტზე წვდომა</string>
+    <string name="upstream_roaming_notification_message">როუმინგის გამოყენებისას შეიძლება ჩამოგეჭრათ დამატებითი საფასური</string>
+    <string name="upstream_roaming_notification_title">ჩართულია უსადენო ქსელი ან ტეტერინგი</string>
+</resources>

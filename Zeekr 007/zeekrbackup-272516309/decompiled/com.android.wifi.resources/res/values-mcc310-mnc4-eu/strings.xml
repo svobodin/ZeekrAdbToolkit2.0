@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s: ezin zara konektatu Verizon Wi-Fi Access zerbitzura Verizon-en estaldura-eremutik kanpo bazaude.</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s: ez zaude harpidetuta Verizon Wi-Fi Access zerbitzura. Dei iezaguzu 800-922-0204 zenbakira.</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s: arazo bat dago Verizon Wi-Fi Access zerbitzuko kontuarekin. Dei iezaguzu 800-922-0204 zenbakira.</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s: dagoeneko konektatuta zaude Verizon Wi-Fi Access zerbitzura.</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s: arazo bat dago Verizon Wi-Fi Access zerbitzura konektatzeko. Dei iezaguzu 800-922-0204 zenbakira.</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s: arazo bat dago Verizon Wi-Fi Access zerbitzuko kontuarekin. Dei iezaguzu 800-922-0204 zenbakira.</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s: Verizon Wi-Fi Access ez dago erabilgarri kokapen horretan. Saiatu berriro geroago edo beste kokapen batetik.</string>
+</resources>

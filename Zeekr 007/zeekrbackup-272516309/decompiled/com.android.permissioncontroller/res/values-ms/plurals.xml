@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">%1$d lagi</item>
+        <item quantity="one">%1$d lagi</item>
+    </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">%1$d apl tidak digunakan selama beberapa bulan. Ketik untuk menyemak</item>
+        <item quantity="one">%1$d apl tidak digunakan selama beberapa bulan. Ketik untuk menyemak</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">%1$d apl tidak digunakan selama beberapa bulan</item>
+        <item quantity="one">%1$d apl tidak digunakan selama beberapa bulan</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s hari</item>
+        <item quantity="one">1 hari</item>
+    </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">%s hari</item>
+        <item quantity="one">1 hari</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">%s jam</item>
+        <item quantity="one">1 jam</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">%s min</item>
+        <item quantity="one">1 min</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">%s saat</item>
+        <item quantity="one">1 saat</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s jam</item>
+        <item quantity="one">1 jam</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s minit</item>
+        <item quantity="one">1 minit</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d pemberitahuan baharu</item>
+        <item quantity="one">%d pemberitahuan baharu</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s apl</item>
+        <item quantity="one">1 apl</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s apl</item>
+        <item quantity="one">1 apl</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">Digunakan oleh %1$d apl</item>
+        <item quantity="one">Digunakah oleh 1 apl</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"Akses terakhir: %1$s
+%2$s akses"</item>
+        <item quantity="one">"Akses terakhir: %1$s
+%2$s akses"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"Akses terakhir: %1$s
+%2$s akses (%3$s di latar belakang)"</item>
+        <item quantity="one">"Akses terakhir: %1$s
+%2$s akses (%3$s di latar belakang)"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"Akses terakhir: %1$s
+%2$s akses (%3$s di latar belakang)
+Tempoh: %3$s"</item>
+        <item quantity="one">"Akses terakhir: %1$s
+%2$s akses (%3$s di latar belakang)
+Tempoh: %3$s"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"Akses terakhir: %1$s
+%2$s akses
+Tempoh: %3$s"</item>
+        <item quantity="one">"Akses terakhir: %1$s
+%2$s akses
+Tempoh: %3$s"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s saat</item>
+        <item quantity="one">1 saat</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">%1$d apl yang tidak digunakan</item>
+        <item quantity="one">%1$d apl yang tidak digunakan</item>
+    </plurals>
+</resources>

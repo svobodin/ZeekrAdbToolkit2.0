@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Keratan Aktiviti</string>
+    <string name="message_not_supported">Tiada apl dapat kendalikan tindakan ini</string>
+    <string name="pip_not_supported">Gambar dalam Gambar tidak disokong pada peranti ini</string>
+    <string name="stub_name">Tiada</string>
+</resources>

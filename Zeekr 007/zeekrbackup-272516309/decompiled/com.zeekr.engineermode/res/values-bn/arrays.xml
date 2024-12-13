@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>সিন্ট মারটিন</item>
+        <item>ক্যারিবিয়ান নেদারল্যান্ডস</item>
+        <item>কিউরাসো</item>
+        <item>দক্ষিণ সুদান</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>অস্ট্রেলিয়ার মধ্য - NT</item>
+        <item>অস্ট্রেলিয়ার মধ্য - SA</item>
+        <item>অস্ট্রেলিয়ার পূর্বাঞ্চলীয় - QLD</item>
+        <item>অস্ট্রেলিয়ার পূর্বাঞ্চলীয় - NSW</item>
+        <item>মাউন্টেন মানক - ডসন ক্রিক</item>
+        <item>মধ্য মানক - সাসকাচেওয়ান</item>
+        <item>পূর্বাঞ্চলীয় মানক - অ্যাটিকোকান</item>
+        <item>আটলান্টিক মানক - ক্যুবেক</item>
+        <item>হাওয়াই-আলেউত - হাওয়াই</item>
+        <item>হাওয়াই-আলেউত - আলাস্কা</item>
+        <item>প্যাসিফিক মানক - মেটলাকাটলা</item>
+        <item>মাউন্টেন মানক - আরিজোনা</item>
+        <item>প্যাসিফিক - বাজা ক্যালিফোর্নিয়া</item>
+        <item>মাউন্টেন - চিহুয়াহুয়া</item>
+        <item>মধ্য - তামাউলিপাস</item>
+        <item>মাউন্টেন - সোনোরা</item>
+        <item>পূর্ব আফ্রিকা সময়</item>
+        <item>আটলান্টিক মানক সময়</item>
+        <item>আটলান্টিক মানক সময়</item>
+        <item>পূর্ব ইউরোপীয় সময়</item>
+        <item>কালিনিনগ্রাদ সময়</item>
+        <item>আমাজন - রনডনিয়া</item>
+        <item>ব্রাসিলিয়া - পারা</item>
+    </string-array>
+</resources>

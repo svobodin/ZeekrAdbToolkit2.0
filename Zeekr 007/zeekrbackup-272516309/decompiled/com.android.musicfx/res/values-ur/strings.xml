@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">بیس بوسٹ کریں</string>
+    <string name="ci_extreme">‫FX بوسٹر</string>
+    <string name="classical">کلاسیکل</string>
+    <string name="dance">رقص</string>
+    <string name="eq_dialog_title">ایکولائزر</string>
+    <string name="flat">فلیٹ</string>
+    <string name="folk">لوک موسیقی</string>
+    <string name="headset_plug">ان اثرات کے لیے ہیڈ فونز لگائیں۔</string>
+    <string name="heavy_metal">ہیوی میٹل</string>
+    <string name="hip_hop">ہپ ہاپ</string>
+    <string name="jazz">جاز</string>
+    <string name="no_effects">اثرات دستیاب نہیں ہیں۔</string>
+    <string name="normal">عام</string>
+    <string name="picker_title">موسیقی اثرات کے کنٹرول پینل</string>
+    <string name="pop">پاپ</string>
+    <string name="rock">راک</string>
+    <string name="setup">سیٹ اپ</string>
+    <string name="user">صارف</string>
+    <string name="virtualizer_strength">محیط آواز</string>
+</resources>

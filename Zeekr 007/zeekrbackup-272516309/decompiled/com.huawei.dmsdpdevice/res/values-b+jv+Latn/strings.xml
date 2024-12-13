@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Screen_notification_text">Bukak kunci kanggo menehi akses.</string>
+    <string name="Screen_notification_title">%s kepengin ngakses kamera piranti iki.</string>
+    <string name="accessibility_back_preview">Kamera mburi</string>
+    <string name="accessibility_falsh_mode_off">Lampu kilat mati</string>
+    <string name="accessibility_falsh_mode_torch">Lampu kilat tansah urip</string>
+    <string name="accessibility_front_preview">Pratinjo kamera ngarep</string>
+    <string name="accessibility_stop_sharing_to_source">Mandheg anggone mbage kamera</string>
+    <string name="app_name_for_libdmsdpcamera">Kamera Multi Piranti</string>
+    <string name="capsule_dialog_content">Kamera kasambung karo %s.</string>
+    <string name="capsule_dialog_negative_btn">Pedhot</string>
+    <string name="lens_wide">Sudhut amba</string>
+    <string name="notification_content_text">%s kepengin ngakses kamera piranti iki. Bukak kunci kanggo wiwit mbage.</string>
+    <string name="notification_content_theme">Pangaturan multi piranti</string>
+    <string name="notification_content_title">Sambungan piranti</string>
+    <string name="permission_dialog_content">Idini %s kanggo ngakses kamera piranti?</string>
+    <string name="permission_dialog_hint">Iki kanggo mbage kamera karo piranti liyane.</string>
+    <string name="permission_dialog_negative_btn">Tolak</string>
+    <string name="res_allow">Idini</string>
+    <string name="res_cancel">Wurung</string>
+    <string name="res_ok">OK</string>
+    <string name="res_reject">Tolak (%sd)</string>
+    <string name="res_stop_use_camera">Lereni panggunaan kamera?</string>
+    <string name="res_toast">%s wis nglereni panggunaan kamera.</string>
+    <string name="sink_back_to_desktop">Mbalik menyang layar ngarep</string>
+    <string name="sink_stop_sharing">Mandheg mbage</string>
+    <string name="sink_stop_sharing_or_not">Lereni mbage kamera karo %1$s?</string>
+    <string name="source_connection_service_exception">Piranti kapedhot. Sambungake maneh.</string>
+    <string name="source_sharing_status_text">Mbage karo %1$s</string>
+    <string name="source_stop_sharing_tip">%1$s wis leren nggunakake kamera.</string>
+</resources>

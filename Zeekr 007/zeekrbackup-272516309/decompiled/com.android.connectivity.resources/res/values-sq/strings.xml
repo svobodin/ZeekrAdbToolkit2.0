@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">Burimet e lidhshmërisë së sistemit</string>
+    <string name="mobile_no_internet">Rrjeti celular nuk ka qasje në internet</string>
+    <string name="network_available_sign_in">Identifikohu në rrjet</string>
+    <string name="network_partial_connectivity">%1$s ka lidhshmëri të kufizuar</string>
+    <string name="network_partial_connectivity_detailed">"Trokit për t'u lidhur gjithsesi"</string>
+    <string name="network_switch_metered">Kaloi te %1$s</string>
+    <string name="network_switch_metered_detail">Pajisja përdor %1$s kur %2$s nuk ka qasje në internet. Mund të zbatohen tarifa.</string>
+    <string name="network_switch_metered_toast">Kaloi nga %1$s te %2$s</string>
+    <string name="network_switch_type_name_unknown">një lloj rrjeti i panjohur</string>
+    <string name="other_networks_no_internet">Rrjeti nuk ka qasje në internet</string>
+    <string name="private_dns_broken_detailed">Serveri privat DNS nuk mund të qaset</string>
+    <string name="wifi_available_sign_in">Identifikohu në rrjetin Wi-Fi</string>
+    <string name="wifi_no_internet">%1$s nuk ka qasje në internet</string>
+    <string name="wifi_no_internet_detailed">Trokit për opsionet</string>
+</resources>

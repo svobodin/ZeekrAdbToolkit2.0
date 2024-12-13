@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Bejelentkezés a hálózatba</string>
+    <string name="action_bar_title">Bejelentkezés a következőbe: %1$s</string>
+    <string name="action_do_not_use_network">Ne használja ezt a hálózatot</string>
+    <string name="action_use_network">Hálózat használata jelen állapotában</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">Letöltések előrehaladását jelző értesítések</string>
+    <string name="channel_description_downloads">Befejezett vagy megszakított letöltéseket jelző értesítések</string>
+    <string name="channel_name_download_progress">Letöltési folyamat állapota</string>
+    <string name="channel_name_downloads">Letöltések</string>
+    <string name="custom_scheme_example">Például lehet, hogy a bejelentkezési oldalon egy konkrét alkalmazásra van szükség a hitelesítéshez</string>
+    <string name="custom_scheme_warning">A hálózat, amelyre csatlakozni szeretne, megköveteli egy másik alkalmazás megnyitását.</string>
+    <string name="download_completed">A letöltés befejeződött</string>
+    <string name="downloading_paramfile">A(z) %1$s letöltése folyamatban van</string>
+    <string name="error_continue_via_browser">Folytatás ennek ellenére böngészőn keresztül</string>
+    <string name="error_downloading_paramfile">Nem sikerült a(z) %1$s letöltése</string>
+    <string name="no_bypass_error_vpnwarning">Továbbá nem lehetséges a hiba megkerülése, mert az eszköz jelenleg VPN-t használ.</string>
+    <string name="ok">OK</string>
+    <string name="page_info">Oldaladatok</string>
+    <string name="page_info_address">Cím:</string>
+    <string name="ssl_error_date_invalid">A tanúsítvány dátuma érvénytelen.</string>
+    <string name="ssl_error_example">Például lehet, hogy a bejelentkezési oldal nem a megjelenített szervezethez tartozik.</string>
+    <string name="ssl_error_expired">A tanúsítvány lejárt.</string>
+    <string name="ssl_error_invalid">Ez a tanúsítvány érvénytelen.</string>
+    <string name="ssl_error_mismatch">A webhely neve nem egyezik a tanúsítványon lévő névvel.</string>
+    <string name="ssl_error_not_yet_valid">A tanúsítvány még nem érvényes.</string>
+    <string name="ssl_error_unknown">Ismeretlen tanúsítványhiba.</string>
+    <string name="ssl_error_untrusted">Ez a tanúsítvány nem hiteles tanúsítványkibocsátótól származik.</string>
+    <string name="ssl_error_view_certificate">Tanúsítvány megtekintése</string>
+    <string name="ssl_error_warning">Biztonsági problémák vannak azzal a hálózattal, amelyhez csatlakozni szeretne.</string>
+    <string name="ssl_security_warning_title">Biztonsági figyelmeztetés</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

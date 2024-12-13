@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">Penguat bass</string>
+    <string name="ci_extreme">Penguat FX</string>
+    <string name="classical">Klasik</string>
+    <string name="dance">Dance</string>
+    <string name="eq_dialog_title">Equalizer</string>
+    <string name="flat">Rata</string>
+    <string name="folk">Folk</string>
+    <string name="headset_plug">Pasang headphone untuk efek ini.</string>
+    <string name="heavy_metal">Heavy Metal</string>
+    <string name="hip_hop">Hip Hop</string>
+    <string name="jazz">Jazz</string>
+    <string name="no_effects">Efek tidak tersedia.</string>
+    <string name="normal">Normal</string>
+    <string name="picker_title">Panel kontrol efek musik</string>
+    <string name="pop">Pop</string>
+    <string name="rock">Rock</string>
+    <string name="setup">Penyiapan</string>
+    <string name="user">Pengguna</string>
+    <string name="virtualizer_strength">Suara surround</string>
+</resources>

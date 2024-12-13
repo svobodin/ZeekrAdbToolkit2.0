@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">Myndavélarforrit</item>
+        <item quantity="one">Myndavélarforrit</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">Póstforrit</item>
+        <item quantity="one">Póstforrit</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">Símaforrit</item>
+        <item quantity="one">Símaforrit</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d tilraunir</item>
+        <item quantity="one">%d tilraun</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d forrit</item>
+        <item quantity="one">%d forrit</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">Að lágmarki %d forrit</item>
+        <item quantity="one">Að lágmarki %d forrit</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nýjar tilkynningar</item>
+        <item quantity="one">%d ný tilkynning</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d tæki tengd</item>
+        <item quantity="one">%1$d tæki tengt</item>
+    </plurals>
+</resources>

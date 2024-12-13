@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Izklopi dostopno točko</string>
+    <string name="no_upstream_notification_message">Naprave ne morejo vzpostaviti internetne povezave</string>
+    <string name="no_upstream_notification_title">Dostopna točka nima internetne povezave</string>
+    <string name="upstream_roaming_notification_message">Med gostovanjem lahko nastanejo dodatni stroški</string>
+    <string name="upstream_roaming_notification_title">Dostopna točka je vklopljena</string>
+    <string name="upstream_roaming_notification_continue_button">Naprej</string>
+</resources>

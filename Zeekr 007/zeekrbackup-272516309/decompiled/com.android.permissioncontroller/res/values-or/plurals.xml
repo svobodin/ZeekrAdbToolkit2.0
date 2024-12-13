@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">%1$d ଅଧିକ</item>
+        <item quantity="one">%1$d ଅଧିକ</item>
+    </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">%1$dଟି ଆପକୁ କିଛି ମାସ ହେଲା ବ୍ୟବହାର କରାଯାଇନାହିଁ। ସମୀକ୍ଷା କରିବାକୁ ଟାପ୍ କରନ୍ତୁ</item>
+        <item quantity="one">%1$dଟି ଆପକୁ କିଛି ମାସ ହେଲା ବ୍ୟବହାର କରାଯାଇନାହିଁ। ସମୀକ୍ଷା କରିବାକୁ ଟାପ୍ କରନ୍ତୁ</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">%1$dଟି ଆପକୁ କିଛି ମାସ ହେଲା ବ୍ୟବହାର କରାଯାଇନାହିଁ</item>
+        <item quantity="one">%1$dଟି ଆପକୁ କିଛି ମାସ ହେଲା ବ୍ୟବହାର କରାଯାଇନାହିଁ</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s ଦିନ</item>
+        <item quantity="one">1 ଦିନ</item>
+    </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">%s ଦିନ</item>
+        <item quantity="one">1 ଦିନ</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">%s ଘଣ୍ଟା</item>
+        <item quantity="one">1 ଘଣ୍ଟା</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">%s ମିନିଟ୍</item>
+        <item quantity="one">1 ମିନିଟ୍</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">%s ସେକେଣ୍ଡ</item>
+        <item quantity="one">1 ସେକେଣ୍ଡ</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s ଘଣ୍ଟା</item>
+        <item quantity="one">1 ଘଣ୍ଟା</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s ମିନିଟ୍</item>
+        <item quantity="one">1 ମିନିଟ୍</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d new notifications</item>
+        <item quantity="one">%d new notification</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%sଟି ଆପ୍ସ</item>
+        <item quantity="one">1 ଆପ୍</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%sଟି ଆପ୍ସ</item>
+        <item quantity="one">1 ଆପ୍</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">%1$dଟି ଆପ୍ ଦ୍ୱାରା ବ୍ୟବହାର କରାଯାଇଛି</item>
+        <item quantity="one">1ଟି ଆପ୍ ଦ୍ୱାରା ବ୍ୟବହାର କରାଯାଇଛି</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"ଶେଷ ଆକ୍ସେସ୍: %1$s
+%2$sଟି ଆକ୍ସେସ୍"</item>
+        <item quantity="one">"ଶେଷ ଆକ୍ସେସ୍: %1$s
+%2$s ଆକ୍ସେସ୍"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"ଶେଷ ଆକ୍ସେସ୍: %1$s
+%2$s ଆକ୍ସେସ୍ (ପୃଷ୍ଠଭୂମିରେ %3$s)"</item>
+        <item quantity="one">"ଶେଷ ଆକ୍ସେସ୍: %1$s
+%2$s ଆକ୍ସେସ୍ (ପୃଷ୍ଠଭୂମିରେ %3$s)"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"ଶେଷ ଆକ୍ସେସ୍: %1$s
+%2$s ଆକ୍ସେସ୍ (ପୃଷ୍ଠଭୂମିରେ %3$s)
+ଅବଧି: %3$s"</item>
+        <item quantity="one">"ଶେଷ ଆକ୍ସେସ୍: %1$s
+%2$s ଆକ୍ସେସ୍ (ପୃଷ୍ଠଭୂମିରେ %3$s)
+ଅବଧି: %3$s"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"ଶେଷ ଆକ୍ସେସ୍: %1$s
+%2$s ଆକ୍ସେସ୍
+ଅବଧି: %3$s"</item>
+        <item quantity="one">"ଶେଷ ଆକ୍ସେସ୍: %1$s
+%2$s ଆକ୍ସେସ୍
+ଅବଧି: %3$s"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s ସେକେଣ୍ଡ</item>
+        <item quantity="one">1 ସେକେଣ୍ଡ</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">%1$dଟି ଅବ୍ୟବହୃତ ଆପ୍</item>
+        <item quantity="one">%1$dଟି ଅବ୍ୟବହୃତ ଆପ୍</item>
+    </plurals>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">କ୍ୟାମେରା ଆପଗୁଡ଼ିକ</item>
+        <item quantity="one">କ୍ୟାମେରା ଆପ</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">ଇମେଲ କ୍ଲାଏଣ୍ଟ ଆପଗୁଡ଼ିକ</item>
+        <item quantity="one">ଇମେଲ କ୍ଲାଏଣ୍ଟ ଆପ</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">ଫୋନ ଆପଗୁଡ଼ିକ</item>
+        <item quantity="one">ଫୋନ ଆପ</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%dଟି ପ୍ରଚେଷ୍ଟା</item>
+        <item quantity="one">%dଟି ପ୍ରଚେଷ୍ଟା</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%dଟି ଆପ</item>
+        <item quantity="one">%dଟି ଆପ</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">ସର୍ବନିମ୍ନ %dଟି ଆପ</item>
+        <item quantity="one">ସର୍ବନିମ୍ନ %dଟି ଆପ</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d new notifications</item>
+        <item quantity="one">%d new notification</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$dଟି ଡିଭାଇସ୍‌ ସଂଯୁକ୍ତ ହୋଇଛି</item>
+        <item quantity="one">%1$dଟି ଡିଭାଇସ୍ ସଂଯୁକ୍ତ ହୋଇଛି</item>
+    </plurals>
+</resources>

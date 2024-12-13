@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Gestor de dispositius complementaris</string>
+    <string name="chooser_title">Tria un %1$s perquè el gestioni &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Permet que &lt;strong>%1$s&lt;/strong> gestioni el teu &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_no">No permetis</string>
+    <string name="consent_yes">Permet</string>
+    <string name="profile_name_generic">dispositiu</string>
+    <string name="profile_name_watch">rellotge</string>
+    <string name="profile_summary">Aquesta aplicació es necessita per gestionar el teu %1$s. %2$s</string>
+</resources>

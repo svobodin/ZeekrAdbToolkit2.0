@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">隨附裝置管理員</string>
+    <string name="chooser_title">選擇要讓「%2$s」&lt;strong>&lt;/strong>管理的%1$s</string>
+    <string name="confirmation_title">允許「%1$s」&lt;strong>&lt;/strong>管理你的「%2$s」&lt;strong>&lt;/strong></string>
+    <string name="consent_no">不允許</string>
+    <string name="consent_yes">允許</string>
+    <string name="profile_name_generic">裝置</string>
+    <string name="profile_name_watch">手錶</string>
+    <string name="profile_summary">需使用這個應用程式，才能管理「%1$s」。%2$s</string>
+</resources>

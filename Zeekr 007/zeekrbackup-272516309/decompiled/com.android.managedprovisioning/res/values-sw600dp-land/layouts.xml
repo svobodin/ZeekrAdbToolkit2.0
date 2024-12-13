@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="layout" name="sud_list_template">@layout/sud_list_template_card_wide</item>
+    <item type="layout" name="sud_list_template_short">@layout/sud_list_template_card_wide</item>
+    <item type="layout" name="sud_no_scroll_template">@layout/sud_no_scroll_template_card_wide</item>
+    <item type="layout" name="sud_no_scroll_template_short">@layout/sud_no_scroll_template_card_wide</item>
+    <item type="layout" name="sud_preference_template">@layout/sud_no_scroll_template_card_wide</item>
+    <item type="layout" name="sud_recycler_template">@layout/sud_recycler_template_card_wide</item>
+    <item type="layout" name="sud_recycler_template_short">@layout/sud_recycler_template_card_wide</item>
+    <item type="layout" name="sud_template">@layout/sud_template_card_wide</item>
+    <item type="layout" name="sud_template_short">@layout/sud_template_card_wide</item>
+</resources>

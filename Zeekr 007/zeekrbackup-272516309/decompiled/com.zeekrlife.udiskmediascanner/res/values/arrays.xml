@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="audio_file">
+        <item>.mp3</item>
+        <item>.MP3</item>
+        <item>.wav</item>
+        <item>.WAV</item>
+        <item>.wma</item>
+        <item>.WMA</item>
+        <item>.midi</item>
+        <item>.MIDI</item>
+        <item>.ra</item>
+        <item>.RA</item>
+        <item>.aac</item>
+        <item>.AAC</item>
+    </string-array>
+    <string-array name="picture_file">
+        <item>.png</item>
+        <item>.PNG</item>
+        <item>.jpg</item>
+        <item>.JPG</item>
+        <item>.jpeg</item>
+        <item>.JPEG</item>
+        <item>.ai</item>
+        <item>.AI</item>
+        <item>.psd</item>
+        <item>.PSD</item>
+        <item>.bmp</item>
+        <item>.BMP</item>
+    </string-array>
+    <string-array name="video_file">
+        <item>.mp4</item>
+        <item>.MP4</item>
+        <item>.swf</item>
+        <item>.SWF</item>
+        <item>.flv</item>
+        <item>.FLV</item>
+        <item>.mpg</item>
+        <item>.MPG</item>
+        <item>.wmv</item>
+        <item>.WMV</item>
+        <item>.mov</item>
+        <item>.MOV</item>
+        <item>.rm</item>
+        <item>.RM</item>
+        <item>.ram</item>
+        <item>.RAM</item>
+        <item>.avi</item>
+        <item>.AVI</item>
+    </string-array>
+</resources>

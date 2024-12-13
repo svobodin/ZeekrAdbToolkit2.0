@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="network_switch_type_name">
+        <item>อินเทอร์เน็ตมือถือ</item>
+        <item>Wi-Fi</item>
+        <item>บลูทูธ</item>
+        <item>อีเทอร์เน็ต</item>
+        <item>VPN</item>
+    </string-array>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">מעטפת</string>
+    <string name="bugreport_add_details_to_zip_failed">‏לא ניתן היה להוסיף את פרטי הדוח על הבאג לקובץ ה-zip</string>
+    <string name="bugreport_confirm">דוחות על באגים כוללים נתונים מקובצי היומן השונים במערכת, שעשויים לכלול נתונים הנחשבים רגישים (כגון שימוש באפליקציות ונתוני מיקום). כדאי לשתף דוחות על באגים רק עם אפליקציות ואנשים מהימנים.</string>
+    <string name="bugreport_confirm_dont_repeat">אין צורך להציג זאת שוב</string>
+    <string name="bugreport_finished_pending_screenshot_text">יש להקיש כדי לשתף את הדוח על הבאג ללא צילום מסך, או להמתין להשלמת צילום המסך</string>
+    <string name="bugreport_finished_text">יש להקיש כדי לשתף את הדוח על הבאג</string>
+    <string name="bugreport_finished_title">הדוח על הבאג (#%d) צולם</string>
+    <string name="bugreport_in_progress_title">בתהליך יצירה של דוח על באג (#%d)</string>
+    <string name="bugreport_info_action">פרטים</string>
+    <string name="bugreport_info_description">סיכום הבאג</string>
+    <string name="bugreport_info_dialog_title">פרטי הדוח על הבאג (#%d)</string>
+    <string name="bugreport_info_name">שם קובץ</string>
+    <string name="bugreport_info_title">כותרת הבאג</string>
+    <string name="bugreport_intent_chooser_title">שיתוף דוח על באג</string>
+    <string name="bugreport_notification_channel">דוחות על באגים</string>
+    <string name="bugreport_screenshot_action">צילום מסך</string>
+    <string name="bugreport_screenshot_failed">לא ניתן היה לצלם את המסך.</string>
+    <string name="bugreport_screenshot_taken">צילום המסך בוצע בהצלחה.</string>
+    <string name="bugreport_storage_title">דוחות על באגים</string>
+    <string name="bugreport_unnamed">ללא שם</string>
+    <string name="bugreport_unreadable_text">לא ניתן היה לקרוא את קובץ הדוח על הבאג</string>
+    <string name="bugreport_updating_title">בתהליך הוספת פרטים לדוח על הבאג</string>
+    <string name="bugreport_updating_wait">רק רגע…</string>
+    <string name="save">שמירה</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

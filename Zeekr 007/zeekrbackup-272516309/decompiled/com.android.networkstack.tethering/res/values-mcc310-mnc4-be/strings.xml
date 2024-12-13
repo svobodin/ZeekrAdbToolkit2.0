@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Выключыць рэжым мадэма</string>
+    <string name="no_upstream_notification_message">Не ўдалося падключыць прылады</string>
+    <string name="no_upstream_notification_title">Рэжым мадэма выкарыстоўваецца без доступу да інтэрнэту</string>
+    <string name="upstream_roaming_notification_message">Пры выкарыстанні роўмінгу можа спаганяцца дадатковая плата</string>
+    <string name="upstream_roaming_notification_title">Хот-спот або рэжым мадэма ўключаны</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">નેટવર્ક મેનેજર</string>
+    <string name="connected">કનેક્ટ કર્યું છે</string>
+    <string name="notification_channel_description_connected">જ્યારે કૅપ્ટિવ પોર્ટલ નેટવર્ક પર ડિવાઇસનું સફળતાપૂર્વક પ્રમાણીકરણ થઈ જાય, ત્યારે બતાવવામાં આવતા નોટિફિકેશન</string>
+    <string name="notification_channel_description_network_venue_info">નેટવર્ક સ્થળની માહિતીનું પેજ ધરાવે છે તે સૂચવવા માટે બતાવવામાં આવતા નોટિફિકેશન</string>
+    <string name="notification_channel_name_connected">કૅપ્ટિવ પોર્ટલ માટેનું પ્રમાણીકરણ</string>
+    <string name="notification_channel_name_network_venue_info">નેટવર્કના સ્થળની માહિતી</string>
+    <string name="tap_for_info">કનેક્ટેડ / વેબસાઇટ જોવા માટે ટૅપ કરો</string>
+</resources>

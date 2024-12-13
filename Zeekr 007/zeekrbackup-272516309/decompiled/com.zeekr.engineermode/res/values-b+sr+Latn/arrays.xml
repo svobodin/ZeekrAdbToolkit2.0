@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>Sveti Martin</item>
+        <item>Karipska Holandija</item>
+        <item>Kurasao</item>
+        <item>Južni Sudan</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Australijsko centralno – sever</item>
+        <item>Australijsko centralno – jug</item>
+        <item>Istočnoaustralijsko – Kvinsland</item>
+        <item>Istočnoaustr. – Novi Južni Vels</item>
+        <item>Planinsko standard. – Doson Krik</item>
+        <item>Central. standardno – Saskačevan</item>
+        <item>Istočno standardno – Atikokan</item>
+        <item>Atlansko standardno – Kvebek</item>
+        <item>Havajsko-aleutsko – Havaji</item>
+        <item>Havajsko-aleutsko – Aljaska</item>
+        <item>Pacifik, standardno – Metlakatla</item>
+        <item>Planinsko standardno – Arizona</item>
+        <item>Pacifik – Donja Kalifornija</item>
+        <item>Planinsko – Čihuahua</item>
+        <item>Centralno – Tamaulipas</item>
+        <item>Planinsko – Sonora</item>
+        <item>Istočnoafričko vreme</item>
+        <item>Atlansko standardno vreme</item>
+        <item>Atlansko standardno vreme</item>
+        <item>Istočnoevropsko vreme</item>
+        <item>Kalinjingradsko vreme</item>
+        <item>Amazon – Rondonija</item>
+        <item>Brazilija – Para</item>
+    </string-array>
+</resources>

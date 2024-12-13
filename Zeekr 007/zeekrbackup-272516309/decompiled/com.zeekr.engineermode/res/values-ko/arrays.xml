@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>신트마르턴</item>
+        <item>네덜란드령 카리브</item>
+        <item>퀴라소</item>
+        <item>남수단</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>호주 중부 - NT</item>
+        <item>호주 중부 - SA</item>
+        <item>호주 동부 - QLD</item>
+        <item>호주 동부 - NSW</item>
+        <item>산지 표준시 - 도슨 크리크</item>
+        <item>중앙 표준시 - 서스케처원</item>
+        <item>동부 표준시 - 아티코칸</item>
+        <item>대서양 표준시 - 퀘벡</item>
+        <item>하와이 알류샨 - 하와이</item>
+        <item>하와이 알류샨 - 알래스카</item>
+        <item>태평양 표준시 - 메틀라카틀라</item>
+        <item>산지 표준시 - 애리조나</item>
+        <item>태평양 - 바하 칼리포니아</item>
+        <item>산지 - 치와와</item>
+        <item>중앙 - 타마울리파스</item>
+        <item>산지 - 소노라</item>
+        <item>동아프리카 시간</item>
+        <item>대서양 표준시</item>
+        <item>대서양 표준시</item>
+        <item>동유럽 시간</item>
+        <item>칼리닌그라드 시간</item>
+        <item>아마존 - 혼도니아</item>
+        <item>브라질리아 - 파라</item>
+    </string-array>
+</resources>

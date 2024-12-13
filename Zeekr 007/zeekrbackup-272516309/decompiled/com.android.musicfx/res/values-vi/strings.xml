@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">Tăng âm trầm</string>
+    <string name="ci_extreme">Bộ tăng FX</string>
+    <string name="classical">Nhạc cổ điển</string>
+    <string name="dance">Nhạc nhảy</string>
+    <string name="eq_dialog_title">Bộ chỉnh âm</string>
+    <string name="flat">Trung bình</string>
+    <string name="folk">Nhạc dân gian</string>
+    <string name="headset_plug">Cắm tai nghe để nghe những hiệu ứng này.</string>
+    <string name="heavy_metal">Nhạc Heavy Metal</string>
+    <string name="hip_hop">Nhạc Hip Hop</string>
+    <string name="jazz">Nhạc Jazz</string>
+    <string name="no_effects">Không có hiệu ứng.</string>
+    <string name="normal">Chuẩn</string>
+    <string name="picker_title">Bảng điều khiển hiệu ứng nhạc</string>
+    <string name="pop">Nhạc Pop</string>
+    <string name="rock">Nhạc Rock</string>
+    <string name="setup">Thiết lập</string>
+    <string name="user">Người dùng</string>
+    <string name="virtualizer_strength">Âm thanh vòm</string>
+</resources>

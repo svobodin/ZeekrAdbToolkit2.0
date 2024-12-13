@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stub ng Aktibidad</string>
+    <string name="message_not_supported">Walang app ang makakapangasiwa sa action</string>
+    <string name="pip_not_supported">Hindi sinusuportahan sa device na ito ang Picture in Picture</string>
+    <string name="stub_name">Wala</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="current_permission_template">%1$s / %2$s</string>
+    <string name="permission_summary_enforced_by_policy">无法更改</string>
+    <string name="grant_dialog_button_deny_dont_ask_again">拒绝，不要再询问</string>
+    <string name="preference_show_system_apps">显示系统应用</string>
+    <string name="generic_cancel">取消</string>
+    <string name="generic_yes">是</string>
+</resources>

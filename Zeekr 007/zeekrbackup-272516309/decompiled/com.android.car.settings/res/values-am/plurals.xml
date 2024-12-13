@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">የካሜራ መተግበሪያዎች</item>
+        <item quantity="one">የካሜራ መተግበሪያዎች</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">የኢሜይል ደንበኛ መተግበሪያዎች</item>
+        <item quantity="one">የኢሜይል ደንበኛ መተግበሪያዎች</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">የስልክ መተግበሪያዎች</item>
+        <item quantity="one">የስልክ መተግበሪያዎች</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d ሙከራዎች</item>
+        <item quantity="one">%d ሙከራዎች</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d መተግበሪያዎች</item>
+        <item quantity="one">%d መተግበሪያዎች</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">ዝቅተኛ %d መተግበሪያዎች</item>
+        <item quantity="one">ዝቅተኛ %d መተግበሪያዎች</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d አዲስ ማሳወቂያዎች</item>
+        <item quantity="one">%d አዲስ ማሳወቂያዎች</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d መሣሪያዎች ተገናኝተዋል</item>
+        <item quantity="one">%1$d መሣሪያዎች ተገናኝተዋል</item>
+    </plurals>
+</resources>

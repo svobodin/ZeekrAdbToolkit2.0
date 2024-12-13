@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Virknistubbur</string>
+    <string name="message_not_supported">Ekkert forrit getur meðhöndlað aðgerðina</string>
+    <string name="pip_not_supported">Mynd í mynd er ekki studd í þessu tæki</string>
+    <string name="stub_name">Engin</string>
+</resources>

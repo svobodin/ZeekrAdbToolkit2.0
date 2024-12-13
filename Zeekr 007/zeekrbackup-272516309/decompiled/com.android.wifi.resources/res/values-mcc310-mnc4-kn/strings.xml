@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s : Verizon ಕವರೇಜ್ ಪ್ರದೇಶದ ಹೊರಗಿನಿಂದ Verizon ವೈ-ಫೈ ಪ್ರವೇಶಕ್ಕೆ ಕನೆಕ್ಟ್ ಮಾಡಲು ನಿಮಗೆ ಸಾಧ್ಯವಿಲ್ಲ.</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s : ನೀವು Verizon ವೈ-ಫೈ ಪ್ರವೇಶಕ್ಕೆ ಸಬ್‌ಸ್ಕ್ರೈಬ್‌ ಆಗಿಲ್ಲ. ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಲು 800-922-0204 ಗೆ ಕರೆ ಮಾಡಿ.</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s : ನಿಮ್ಮ Verizon ವೈ-ಫೈ ಪ್ರವೇಶ ಖಾತೆಯಲ್ಲಿ ಸಮಸ್ಯೆಯಿದೆ. ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಲು 800-922-0204 ಗೆ ಕರೆ ಮಾಡಿ.</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s : ನೀವು ಈಗಾಗಲೇ Verizon ವೈ-ಫೈ ಪ್ರವೇಶಕ್ಕೆ ಕನೆಕ್ಟ್ ಆಗಿರುವಿರಿ.</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s : Verizon ವೈ-ಫೈ ಪ್ರವೇಶಕ್ಕೆ ನಿಮ್ಮನ್ನು ಕನೆಕ್ಟ್ ಮಾಡುವಾಗ ಸಮಸ್ಯೆ ಎದುರಾಗುತ್ತಿದೆ. ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಲು 800-922-0204 ಗೆ ಕರೆ ಮಾಡಿ.</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s : ನಿಮ್ಮ Verizon ವೈ-ಫೈ ಪ್ರವೇಶ ಖಾತೆಯಲ್ಲಿ ಸಮಸ್ಯೆಯಿದೆ. ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಲು 800-922-0204 ಗೆ ಕರೆ ಮಾಡಿ.</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s : ನಿಮ್ಮ ಸ್ಥಳದಿಂದ Verizon ವೈ-ಫೈ ಪ್ರವೇಶ ಲಭ್ಯವಿಲ್ಲ. ನಂತರ ಪುನಃ ಪ್ರಯತ್ನಿಸಿ ಅಥವಾ ಬೇರೊಂದು ಸ್ಥಳದಿಂದ ಪ್ರಯತ್ನಿಸಿ.</string>
+</resources>

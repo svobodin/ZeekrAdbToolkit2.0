@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Мениджър на изтеглянията</string>
+    <string name="button_cancel_download">Отказ</string>
+    <string name="button_queue_for_wifi">Опашка</string>
+    <string name="button_start_now">Стартиране сега</string>
+    <string name="download_error">Неуспешно</string>
+    <string name="download_no_application_title">Файлът не може да се отвори</string>
+    <string name="download_queued">На опашка</string>
+    <string name="download_remaining">Оставащо време: %s</string>
+    <string name="download_running">В ход</string>
+    <string name="download_running_percent">В ход: %s</string>
+    <string name="download_unknown_title">&lt;Без заглавие></string>
+    <string name="notification_download_complete">Изтеглянето завърши.</string>
+    <string name="notification_download_failed">Изтеглянето не е успешно.</string>
+    <string name="notification_need_wifi_for_size">Изисква се Wi-Fi.</string>
+    <string name="notification_paused_in_background">На пауза на заден план.</string>
+    <string name="permdesc_accessAllDownloads">Разрешава на приложението да преглежда и променя всички изтегляния, започнати от всяко приложение в системата.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Разрешава на приложението да изтегля файлове в кеша, които не могат да се изтрият автоматично, когато мениджърът на изтеглянията се нуждае от още място.</string>
+    <string name="permdesc_downloadCompletedIntent">Разрешава на приложението да изпраща известия за завършени изтегляния. Злонамерените приложения могат да използват това, за да объркат други приложения, изтеглящи файлове.</string>
+    <string name="permdesc_downloadManager">Дава на приложението достъп до мениджъра на изтеглянията и му позволява да го използва за изтегляне на файлове. Злонамерените приложения могат да използват това за прекъсване на изтеглянията и за достъп до лична информация.</string>
+    <string name="permdesc_downloadManagerAdvanced">Разрешава на приложението достъп до разширените функции на мениджъра на изтеглянията. Злонамерените приложения могат да използват това за прекъсване на изтеглянията и за достъп до поверителна информация.</string>
+    <string name="permdesc_downloadWithoutNotification">Разрешава на приложението да изтегля файлове чрез мениджъра на изтеглянията без известие до потребителя.</string>
+    <string name="permlab_accessAllDownloads">Достъп до всички изтегляния в системата</string>
+    <string name="permlab_downloadCacheNonPurgeable">Запазване на място в кеша за изтегляне</string>
+    <string name="permlab_downloadCompletedIntent">Изпращане на известия за изтегляне.</string>
+    <string name="permlab_downloadManager">Достъп до диспечера за изтегляне.</string>
+    <string name="permlab_downloadManagerAdvanced">Разширени функции на диспечера за изтегляне.</string>
+    <string name="permlab_downloadWithoutNotification">изтегляне на файловете без известяване</string>
+    <string name="root_downloads">Изтегляния</string>
+    <string name="storage_description">Изтегляния</string>
+    <string name="wifi_recommended_body">"Изтеглянето на %1$s  може да изхаби батерията и/или да причини прекомерно използване на мобилни данни и таксуване от оператора според плана ви.
+
+ Докоснете „%2$s“ за изтегляне при следващо свързване с Wi-Fi."</string>
+    <string name="wifi_recommended_title">Да се постави ли на опашка за изтегляне по-късно?</string>
+    <string name="wifi_required_body">"Трябва да използвате Wi-Fi, за да завършите това изтегляне от %1$s . 
+
+Докоснете „%2$s “, за да започнете изтеглянето при следващото свързване с Wi-Fi мрежа."</string>
+    <string name="wifi_required_title">Изтеглянето е твърде голямо за операторската мрежа</string>
+</resources>

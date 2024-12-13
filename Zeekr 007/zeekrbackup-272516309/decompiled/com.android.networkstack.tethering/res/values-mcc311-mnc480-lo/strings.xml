@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">ປິດການປ່ອຍສັນຍານ</string>
+    <string name="no_upstream_notification_message">ອຸປະກອນບໍ່ສາມາດເຊື່ອມຕໍ່ໄດ້</string>
+    <string name="no_upstream_notification_title">ການປ່ອຍສັນຍານບໍ່ມີອິນເຕີເນັດ</string>
+    <string name="upstream_roaming_notification_message">ອາດມີຄ່າໃຊ້ຈ່າຍເພີ່ມເຕີມໃນລະຫວ່າງການໂຣມມິງ</string>
+    <string name="upstream_roaming_notification_title">ເປີດໃຊ້ຮັອດສະປອດ ຫຼື ການປ່ອຍສັນຍານຢູ່</string>
+</resources>

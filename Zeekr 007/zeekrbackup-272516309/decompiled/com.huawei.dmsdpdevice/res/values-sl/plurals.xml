@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_long_press_zoom_scale_tips">
+        <item quantity="other">%s-kratna povečava</item>
+        <item quantity="one">%s-kratna povečava</item>
+        <item quantity="two">%s-kratna povečava</item>
+        <item quantity="few">%s-kratna povečava</item>
+    </plurals>
+</resources>

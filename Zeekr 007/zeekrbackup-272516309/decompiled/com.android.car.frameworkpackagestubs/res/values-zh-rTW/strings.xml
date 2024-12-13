@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Activity Stub</string>
+    <string name="message_not_supported">沒有應用程式能夠處理這項操作</string>
+    <string name="pip_not_supported">這部裝置不支援子母畫面功能</string>
+    <string name="stub_name">無</string>
+</resources>

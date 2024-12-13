@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Απενεργοποίηση σημείου πρόσβασης Wi-Fi</string>
+    <string name="no_upstream_notification_message">Δεν είναι η δυνατή η σύνδεση των συσκευών στο διαδίκτυο.</string>
+    <string name="no_upstream_notification_title">Το σημείο πρόσβασης Wi-Fi δεν έχει πρόσβαση στο διαδίκτυο.</string>
+    <string name="upstream_roaming_notification_message">Ενδέχεται να ισχύουν επιπλέον χρεώσεις κατά την περιαγωγή.</string>
+    <string name="upstream_roaming_notification_title">Σημείο πρόσβασης Wi-Fi ενεργό</string>
+    <string name="upstream_roaming_notification_continue_button">Συνέχεια</string>
+</resources>

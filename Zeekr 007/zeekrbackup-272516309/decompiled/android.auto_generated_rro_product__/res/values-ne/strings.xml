@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="owner_name">चालक</string>
+    <string name="permlab_accessCoarseLocation">अग्रभूमिमा मात्र अनुमानित स्थानमाथि पहुँच राख्नुहोस्</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">माइक्रोफोन अन गर्नुहोस्</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">ລົງຊື່ເຂົ້າເຄືອຂ່າຍ</string>
+    <string name="action_bar_title">ເຂົ້າສູ່ລະບົບ %1$s</string>
+    <string name="action_do_not_use_network">ບໍ່​ໃຊ້​ເຄືອ​ຂ່າຍ​ນີ້</string>
+    <string name="action_use_network">​ໃຊ້​ເຄືອ​ຂ່າຍ​ນີ້​ຕາມ​ທີ່​ມັນ​ເປັນ</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">ການແຈ້ງເຕືອນທີ່ສະແດງສະຖານະຂອງການດາວໂຫຼດໄຟລ໌</string>
+    <string name="channel_description_downloads">ການແຈ້ງເຕືອນທີ່ສະແດງການດາວໂຫຼດທີ່ສຳເລັດແລ້ວ ຫຼື ຍົກເລີກແລ້ວ</string>
+    <string name="channel_name_download_progress">ສະຖານະການດາວໂຫຼດ</string>
+    <string name="channel_name_downloads">ດາວໂຫຼດ</string>
+    <string name="custom_scheme_example">ຕົວຢ່າງ: ໜ້າເຂົ້າສູ່ລະບົບອາດຕ້ອງໃຊ້ແອັບພລິເຄຊັນສະເພາະໃດໜຶ່ງສຳລັບການພິສູດຢືນຢັນ</string>
+    <string name="custom_scheme_warning">ເຄືອຂ່າຍທີ່ທ່ານກຳລັງພະຍາຍາມເຂົ້າຮ່ວມນັ້ນກຳລັງຮ້ອງຂໍໃຫ້ເປີດແອັບພລິເຄຊັນອື່ນ.</string>
+    <string name="download_completed">ດາວໂຫຼດສຳເລັດແລ້ວ</string>
+    <string name="downloading_paramfile">ກຳລັງດາວໂຫຼດ %s</string>
+    <string name="error_continue_via_browser">ດຳເນີນການຕໍ່ຜ່ານໂປຣແກຣມທ່ອງເວັບ</string>
+    <string name="error_downloading_paramfile">ບໍ່ສາມາດດາວໂຫຼດ %1$s ໄດ້</string>
+    <string name="no_bypass_error_vpnwarning">ນອກຈາກນັ້ນ, ມັນຍັງບໍ່ສາມາດຂ້າມຂໍ້ຜິດພາດນີ້ໄດ້ເນື່ອງຈາກຕອນນີ້ອຸປະກອນກຳລັງໃຊ້ VPN ຢູ່.</string>
+    <string name="ok">ຕົກລົງ</string>
+    <string name="page_info">ຂໍ້ມູນໜ້າ</string>
+    <string name="page_info_address">ທີ່ຢູ່:</string>
+    <string name="ssl_error_date_invalid">ໃບຮັບຮອງນີ້ມີວັນທີບໍ່ຖືກຕ້ອງ.</string>
+    <string name="ssl_error_example">ຕົວ​ຢ່າງ, ໜ້າ​ລົງ​ຊື່​ເຂົ້າ​ໃຊ້​ອາດ​ຈະ​ບໍ່​ເປັນ​ຂອງ​ອົງ​ການ​ທີ່​ສະ​ແດງ​ຂຶ້ນ.</string>
+    <string name="ssl_error_expired">ໃບຮັບຮອງນີ້ຫມົດອາຍຸແລ້ວ.</string>
+    <string name="ssl_error_invalid">ໃບຮັບຮອງນີ້ບໍ່ຖືກຕ້ອງ.</string>
+    <string name="ssl_error_mismatch">ຊື່ຂອງເວັບໄຊບໍ່ກົງກັບຊື່ຢູ່ໃບຮັບຮອງ.</string>
+    <string name="ssl_error_not_yet_valid">ໃບຮັບຮອງນີ້ບໍ່ຖືກຕ້ອງເທື່ອ.</string>
+    <string name="ssl_error_unknown">ໃບຮັບຮອງມີຄວາມຜິດພາດທີ່ບໍ່ຮູ້ຈັກ.</string>
+    <string name="ssl_error_untrusted">ໃບຮັບຮອງນີ້ບໍ່ໄດ້ມາຈາກໜ່ວຍງານທີ່ເຊື່ອຖືໄດ້.</string>
+    <string name="ssl_error_view_certificate">ເບິ່ງໃບຮັບຮອງ</string>
+    <string name="ssl_error_warning">ເຄືອ​ຂ່າຍ​ທີ່​ທ່ານ​ກຳ​ລັງ​ເຂົ້າ​ຮ່ວມ​ມີ​ບັນ​ຫາ​ຄວາມ​ປອດ​ໄພ.</string>
+    <string name="ssl_security_warning_title">ຄຳເຕືອນຄວາມປອດໄພ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

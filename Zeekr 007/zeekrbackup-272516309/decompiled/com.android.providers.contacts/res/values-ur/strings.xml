@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">رابطوں کا اسٹوریج</string>
+    <string name="debug_dump_database_message">آپ 1) اپنے اس ڈیٹابیس کو جس میں رابطوں سے متعلق سبھی معلومات اور داخلی اسٹوریج میں کال لاگ کی معلومات شامل ہے کاپی کرنے اور 2) اسے ای میل کرنے والے ہیں۔ آلے سے باہر کامیابی کے ساتھ کاپی کر لینے یا ای میل موصول ہو جانے کے ساتھ ہی کاپی کو یاد سے حذف کر دیں۔</string>
+    <string name="debug_dump_delete_button">ابھی حذف کریں</string>
+    <string name="debug_dump_email_body">میرے سبھی رابطوں کی معلومات پر مشتمل میرے رابطوں کا ڈیٹابیس منسلک ہے۔ احتیاط استعمال کریں۔</string>
+    <string name="debug_dump_email_sender_picker">اپنی فائل بھیجنے کیلئے کوئی پروگرام منتخب کریں</string>
+    <string name="debug_dump_email_subject">‏رابطوں کا Db منسلک ہے</string>
+    <string name="debug_dump_start_button">شروع کریں</string>
+    <string name="debug_dump_title">رابطوں کا ڈیٹابیس کاپی کریں</string>
+    <string name="default_directory">رابطے</string>
+    <string name="local_invisible_directory">دیگر</string>
+    <string name="provider_label">رابطے</string>
+    <string name="sharedUserLabel">‏Android کور ایپس</string>
+    <string name="upgrade_out_of_memory_notification_text">اپ گریڈ مکمل کرنے کیلئے تھپتھپائیں۔</string>
+    <string name="upgrade_out_of_memory_notification_ticker">رابطوں کے اپ گریڈ کیلئے مزید میموری درکار ہے۔</string>
+    <string name="upgrade_out_of_memory_notification_title">رابطوں کیلئے اسٹوریج اپ گریڈ ہو رہا ہے</string>
+    <string name="voicemail_from_column">"صوتی میل منجانب "</string>
+</resources>

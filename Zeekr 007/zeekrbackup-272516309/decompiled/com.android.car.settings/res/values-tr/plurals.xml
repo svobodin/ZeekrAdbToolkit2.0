@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">Kamera uygulaması</item>
+        <item quantity="one">Kamera uygulaması</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">E-posta istemci uygulaması</item>
+        <item quantity="one">E-posta istemci uygulaması</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">Telefon uygulaması</item>
+        <item quantity="one">Telefon uygulaması</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d deneme</item>
+        <item quantity="one">%d deneme</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d uygulama</item>
+        <item quantity="one">%d uygulama</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">En az %d uygulama</item>
+        <item quantity="one">En az %d uygulama</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildirim</item>
+        <item quantity="one">%d yeni bildirim</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d cihaz bağlı</item>
+        <item quantity="one">%1$d cihaz bağlı</item>
+    </plurals>
+</resources>

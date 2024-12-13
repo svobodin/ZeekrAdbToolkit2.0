@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Letöltéskezelő</string>
+    <string name="button_cancel_download">Mégse</string>
+    <string name="button_queue_for_wifi">Várólista</string>
+    <string name="button_start_now">Indítás most</string>
+    <string name="download_error">Sikertelen</string>
+    <string name="download_no_application_title">A fájlt nem lehet megnyitni.</string>
+    <string name="download_queued">Várólistán</string>
+    <string name="download_remaining">%s van hátra</string>
+    <string name="download_running">Folyamatban</string>
+    <string name="download_running_percent">Folyamatban, %s</string>
+    <string name="download_unknown_title">&lt;Névtelen></string>
+    <string name="notification_download_complete">A letöltés befejeződött.</string>
+    <string name="notification_download_failed">A letöltés nem sikerült.</string>
+    <string name="notification_need_wifi_for_size">A letöltéshez Wi-Fi kell</string>
+    <string name="notification_paused_in_background">Szünetel a háttérben.</string>
+    <string name="permdesc_accessAllDownloads">Az alkalmazás megnézheti és módosíthatja a rendszer bármelyik alkalmazása által kezdeményezett letöltést.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Az alkalmazás letölthet fájlokat a letöltési gyorsítótárba, amelyeket a letöltéskezelő nem törölhet automatikusan, ha helyre van szüksége.</string>
+    <string name="permdesc_downloadCompletedIntent">Lehetővé teszi az alkalmazás számára, hogy értesítést küldjön a befejezett letöltésekről. A rosszindulatú alkalmazások kihasználhatják ezt más, fájlokat letöltő alkalmazások megzavarására.</string>
+    <string name="permdesc_downloadManager">Lehetővé teszi az alkalmazás számára a letöltéskezelő elérését fájlok letöltéséhez. A rosszindulatú alkalmazások kihasználhatják ezt a letöltések megzavarására és személyes adatok elérésére.</string>
+    <string name="permdesc_downloadManagerAdvanced">Lehetővé teszi az alkalmazás számára a letöltéskezelő speciális funkcióinak elérését. A rosszindulatú alkalmazások kihasználhatják ezt a letöltések megzavarására és személyes adatok elérésére.</string>
+    <string name="permdesc_downloadWithoutNotification">Az alkalmazások letölthetnek fájlokat a letöltéskezelő segítségével anélkül, hogy értesítenék róla a felhasználót.</string>
+    <string name="permlab_accessAllDownloads">Hozzáférés a rendszer összes letöltéséhez</string>
+    <string name="permlab_downloadCacheNonPurgeable">Hely lefoglalása a letöltési gyorsítótárban</string>
+    <string name="permlab_downloadCompletedIntent">Letöltési értesítések küldése.</string>
+    <string name="permlab_downloadManager">Hozzáférés a letöltéskezelőhöz.</string>
+    <string name="permlab_downloadManagerAdvanced">Speciális letöltéskezelő-funkciók.</string>
+    <string name="permlab_downloadWithoutNotification">fájlok letöltése értesítés nélkül</string>
+    <string name="root_downloads">Letöltések</string>
+    <string name="storage_description">Letöltések</string>
+    <string name="wifi_recommended_body">"A fájl (%1$s ) letöltése miatt hamarabb lemerülhet az akku, megnőhet az adathasználat, így előfizetésétől függően egyéb költségei lehetnek.
+
+ Érintse meg a(z) %2$s lehetőséget, ha Wi-Fihez csatlakozik."</string>
+    <string name="wifi_recommended_title">Várólistára teszi későbbi letöltés céljából?</string>
+    <string name="wifi_required_body">"Wi-Fi szükséges a letöltés (%1$s ) befejezéséhez. 
+
+Érintse meg a(z) %2$s  lehetőséget a letöltés elindításához, ha majd Wi-Fi hálózathoz csatlakozik."</string>
+    <string name="wifi_required_title">A letöltés túl nagy a szolgáltató hálózatához</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>ሲንት ማርተን</item>
+        <item>የካሪቢያን ኔዘርላንድስ</item>
+        <item>ኩራሳዎ</item>
+        <item>ደቡብ ሱዳን</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>የአውስትራሊያ ማዕከላዊ - ኤን ቲ</item>
+        <item>የአውትራሊያ ማዕከላዊ - ኤስ ኤ</item>
+        <item>የአውትራሊያ ምስራቃዊ - ኪዩ ኤል ዲ</item>
+        <item>የአውስትራሊያ ምስራቃዊ - ኤን ኤስ ደብልዩ</item>
+        <item>የተራራ መደበኛ - ዳውሰን ክሪክ</item>
+        <item>ማዕከላዊ መደበኛ - ሳስካቸዋን</item>
+        <item>ምስራቃዊ መደበኛ - አቲኮካን</item>
+        <item>አትላንቲክ መደበኛ - ኴቤክ</item>
+        <item>ሃዋዪ-አሊዩሻን - ሃዋዪ</item>
+        <item>ሃዋዪ-አሊዩሻን - አላስካ</item>
+        <item>ፓሲፊክ መደበኛ - መትላካትላ</item>
+        <item>የተራራ መደበኛ - አሪዞና</item>
+        <item>ፓሲፊክ - ባያ ካሊፎርኒያ</item>
+        <item>ተራራ - ቺዋዋ</item>
+        <item>ማዕከላዊ - ታማውሊፓስ</item>
+        <item>ተራራ - ሶኖራ</item>
+        <item>የምስራቅ አፍሪካ ሰዓት</item>
+        <item>የአትላንቲክ መደበኛ ሰዓት</item>
+        <item>የአትላንቲክ መደበኛ ሰዓት</item>
+        <item>የምስራቃዊ አውሮፓ ሰዓት</item>
+        <item>የካሊኒንግራድ ሰዓት</item>
+        <item>አማዞን - ዶንዶኒያ</item>
+        <item>ብራሲሊያ - ፓራ</item>
+    </string-array>
+</resources>

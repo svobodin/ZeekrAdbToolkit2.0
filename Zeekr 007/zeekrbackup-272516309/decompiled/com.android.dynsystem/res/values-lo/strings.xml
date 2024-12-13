@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">ກະລຸນາໃສ່ລະຫັດຜ່ານຂອງທ່ານ ແລະ ດຳເນີນການຕໍ່ຫາອັບເດດລະບົບແບບໄດນາມິກ</string>
+    <string name="notification_action_cancel">ຍົກເລີກ</string>
+    <string name="notification_action_discard">ປິດໄວ້</string>
+    <string name="notification_action_reboot_to_dynsystem">ຣີສະຕາດ</string>
+    <string name="notification_action_reboot_to_origin">ຣີສະຕາດ</string>
+    <string name="notification_dynsystem_in_use">ຕອນນີ້ກຳລັງໃຊ້ລະບົບໄດນາມິກ. ກະລຸນາຣີສະຕາດເພື່ອໃຊ້ເວີຊັນ Android ຕົ້ນສະບັບ.</string>
+    <string name="notification_image_validation_failed">ກວດສອບໄຟລ໌ອິມເມກບໍ່ສຳເລັດ. ຍົກເລີກການຕິດຕັ້ງ.</string>
+    <string name="notification_install_completed">ລະບົບໄດນາມິກພ້ອມແລ້ວ. ກະລຸນາຣີສະຕາດອຸປະກອນຂອງທ່ານເພື່ອເລີ່ມນຳໃຊ້ມັນ.</string>
+    <string name="notification_install_failed">ຕິດຕັ້ງບໍ່ສຳເລັດ</string>
+    <string name="notification_install_inprogress">ກຳລັງຕິດຕັ້ງຢູ່</string>
+    <string name="toast_dynsystem_discarded">ລະບົບໄດນາມິກທີ່ຍົກເລີກແລ້ວ</string>
+    <string name="toast_failed_to_disable_dynsystem">ປິດການນຳໃຊ້ລະບົບໄດນາມິກບໍ່ສຳເລັດ</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">ບໍ່ສາມາດຣີສະຕາດ ຫຼື ໂຫຼດລະບົບໄດນາມິກໄດ້</string>
+</resources>

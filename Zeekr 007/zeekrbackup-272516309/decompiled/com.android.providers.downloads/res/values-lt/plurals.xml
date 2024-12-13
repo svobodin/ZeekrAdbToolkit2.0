@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_summary_active">
+        <item quantity="other">Atsisiunčiama %d failų</item>
+        <item quantity="one">Atsisiunčiamas %d failas</item>
+        <item quantity="few">Atsisiunčiami %d failai</item>
+        <item quantity="many">Atsisiunčiama %d failo</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">Laukiama %d failų</item>
+        <item quantity="one">Laukiama %d failo</item>
+        <item quantity="few">Laukiama %d failų</item>
+        <item quantity="many">Laukiama %d failo</item>
+    </plurals>
+</resources>

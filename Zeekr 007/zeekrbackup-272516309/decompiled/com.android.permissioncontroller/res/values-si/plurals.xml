@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">.තව %1$d</item>
+        <item quantity="one">.තව %1$d</item>
+    </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">යෙදුම් %1$dක් මාස කිහිපයක් තුළ භාවිත කර නැත. සමාලෝචනය කිරීමට තට්ටු කරන්න</item>
+        <item quantity="one">යෙදුම් %1$dක් මාස කිහිපයක් තුළ භාවිත කර නැත. සමාලෝචනය කිරීමට තට්ටු කරන්න</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">යෙදුම් %1$dක් මාස කිහිපයක් තුළ භාවිත කර නැත</item>
+        <item quantity="one">යෙදුම් %1$dක් මාස කිහිපයක් තුළ භාවිත කර නැත</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">දින %s</item>
+        <item quantity="one">දින %s</item>
+    </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">දින %s</item>
+        <item quantity="one">දින %s</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">පැය %s</item>
+        <item quantity="one">පැය %s</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">මිනි %s</item>
+        <item quantity="one">මිනි %s</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">තත් %s</item>
+        <item quantity="one">තත් %s</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">පැය %s</item>
+        <item quantity="one">පැය %s</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">මිනිත්තු %s</item>
+        <item quantity="one">මිනිත්තු %s</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">නව දැනුම්දීම් %dක්</item>
+        <item quantity="one">නව දැනුම්දීම් %dක්</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">යෙදුම් %sක්</item>
+        <item quantity="one">යෙදුම් %sක්</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">යෙදුම් %sක්</item>
+        <item quantity="one">යෙදුම් %sක්</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">යෙදුම් %1$dකින් භාවිත කෙරේ</item>
+        <item quantity="one">යෙදුම් %1$dකින් භාවිත කෙරේ</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"අවසන් ප්‍රවේශය: ප්‍රවේශ %1$s
+%2$sක්"</item>
+        <item quantity="one">"අවසන් ප්‍රවේශය: ප්‍රවේශ %1$s
+%2$sක්"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"අවසන් ප්‍රවේශය: ප්‍රවේශ %1$s
+%2$sක් (පසුබිම තුළ %3$s)"</item>
+        <item quantity="one">"අවසන් ප්‍රවේශය: ප්‍රවේශ %1$s
+%2$sක් (පසුබිම තුළ %3$s)"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"අවසන් ප්‍රවේශය: ප්‍රවේශ %1$s
+%2$sක් (පසුබිම තුළ %3$s)
+කාලය: %3$s"</item>
+        <item quantity="one">"අවසන් ප්‍රවේශය: ප්‍රවේශ %1$s
+%2$sක් (පසුබිම තුළ %3$s)
+කාලය: %3$s"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"අවසන් ප්‍රවේශය: ප්‍රවේශ %1$s
+%2$sක්
+කාලය: %3$s"</item>
+        <item quantity="one">"අවසන් ප්‍රවේශය: ප්‍රවේශ %1$s
+%2$sක්
+කාලය: %3$s"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">තත්පර %s</item>
+        <item quantity="one">තත්පර %s</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">භාවිත නොකළ යෙදුම් %1$d</item>
+        <item quantity="one">භාවිත නොකළ යෙදුම් %1$d</item>
+    </plurals>
+</resources>

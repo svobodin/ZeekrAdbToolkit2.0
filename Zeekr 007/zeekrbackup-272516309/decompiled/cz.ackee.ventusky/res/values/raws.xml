@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="raw" name="firebase_common_keep">false</item>
+    <item type="raw" name="places_keep">false</item>
+</resources>

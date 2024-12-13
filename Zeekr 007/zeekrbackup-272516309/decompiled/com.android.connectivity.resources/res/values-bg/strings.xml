@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">Ресурси за свързаността на системата</string>
+    <string name="mobile_no_internet">Мобилната мрежа няма достъп до интернет</string>
+    <string name="network_available_sign_in">Вход в мрежата</string>
+    <string name="network_partial_connectivity">%1$s има ограничена свързаност</string>
+    <string name="network_partial_connectivity_detailed">Докоснете, за да се свържете въпреки това</string>
+    <string name="network_switch_metered">Превключи се към %1$s</string>
+    <string name="network_switch_metered_detail">Устройството използва %1$s, когато %2$s няма достъп до интернет. Възможно е да бъдете таксувани.</string>
+    <string name="network_switch_metered_toast">Превключи се от %1$s към %2$s</string>
+    <string name="network_switch_type_name_unknown">неизвестен тип мрежа</string>
+    <string name="other_networks_no_internet">Мрежата няма достъп до интернет</string>
+    <string name="private_dns_broken_detailed">Не може да се осъществи достъп до частния DNS сървър</string>
+    <string name="wifi_available_sign_in">Влизане в Wi-Fi мрежа</string>
+    <string name="wifi_no_internet">%1$s няма достъп до интернет</string>
+    <string name="wifi_no_internet_detailed">Докоснете за опции</string>
+</resources>

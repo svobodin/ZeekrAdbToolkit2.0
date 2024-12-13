@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="owner_name">Conductor</string>
+    <string name="permlab_accessCoarseLocation">acceder a la ubicación aproximada solo al estar en primer plano</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">Activar micrófono</string>
+</resources>

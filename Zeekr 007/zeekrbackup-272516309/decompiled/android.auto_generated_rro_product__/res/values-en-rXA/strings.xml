@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_UsbDeviceConnectionHandling_component">[åñðŕöîð.çåŕ.ûšɓ.ĥåñðļéŕ/åñðŕöîð.çåŕ.ûšɓ.ĥåñðļéŕ.ÛšɓĤöšţḾåñåĝéḿéñţÅçţîVîţý one two three four five six seven eight]</string>
+    <string name="config_dataUsageSummaryComponent">[çöḿ.åñðŕöîð.çåŕ.šéţţîñĝš/çöḿ.åñðŕöîð.çåŕ.šéţţîñĝš.ðåţåûšåĝé.ÐåţåŴåŕñîñĝÅñðĻîḿîţÅçţîVîţý one two three four five six seven eight nine]</string>
+    <string name="config_dozeComponent">[çöḿ.åñðŕöîð.šýšţéḿûî/çöḿ.åñðŕöîð.šýšţéḿûî.ðöžé.ÐöžéŠéŕVîçé one two three four five six seven]</string>
+    <string name="config_headlineFontFamilyMedium">[šåñš-šéŕîƒ-ḿéðîûḿ one two three]</string>
+    <string name="config_ims_package">[öŕĝ.çöðéåûŕöŕå.îḿš one two three]</string>
+    <string name="owner_name">[ÐŕîVéŕ one two]</string>
+    <string name="permlab_accessCoarseLocation">[åççéšš åþþŕöхîḿåţé ļöçåţîöñ öñļý îñ ţĥé ƒöŕéĝŕöûñð one two three four five six]</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">[Ţûŕñ öñ ḿîçŕöþĥöñé one two three]</string>
+</resources>

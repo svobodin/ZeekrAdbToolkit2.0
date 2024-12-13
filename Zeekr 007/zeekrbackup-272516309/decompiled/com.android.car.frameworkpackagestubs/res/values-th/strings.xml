@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stub กิจกรรม</string>
+    <string name="message_not_supported">ไม่มีแอปพลิเคชันใดทำงานนี้ได้</string>
+    <string name="pip_not_supported">อุปกรณ์นี้ไม่รองรับการแสดงภาพซ้อนภาพ</string>
+    <string name="stub_name">ไม่มี</string>
+</resources>

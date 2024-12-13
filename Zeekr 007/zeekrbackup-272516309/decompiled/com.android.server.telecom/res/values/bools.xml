@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="allow_emergency_numbers_in_call_log">false</bool>
+    <bool name="allow_local_dtmf_tones">true</bool>
+    <bool name="combine_options_to_block_restricted_and_unknown_callers">true</bool>
+    <bool name="config_hspa_data_distinguishable">false</bool>
+    <bool name="config_materialPreferenceIconSpaceReserved">false</bool>
+    <bool name="config_showMin3G">false</bool>
+    <bool name="grant_location_permission_enabled">false</bool>
+    <bool name="is_tablet">false</bool>
+    <bool name="mtrl_btn_textappearance_all_caps">true</bool>
+    <bool name="settingslib_config_allow_divider">false</bool>
+    <bool name="settingslib_config_icon_space_reserved">false</bool>
+    <bool name="show_option_to_block_callers_not_in_contacts">false</bool>
+    <bool name="silence_incoming_when_different_service_and_maximum_ringing">false</bool>
+    <bool name="simple_cache_enable_im_memory">false</bool>
+    <bool name="tty_enabled">false</bool>
+    <bool name="use_simple_vibration_pattern">false</bool>
+    <bool name="use_speaker_when_docked">true</bool>
+</resources>

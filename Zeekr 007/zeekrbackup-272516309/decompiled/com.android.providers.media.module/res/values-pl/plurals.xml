@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">Zezwolić aplikacji ^1 na usunięcie ^2 pliku audio?</item>
+        <item quantity="one">Zezwolić aplikacji ^1 na usunięcie tego pliku audio?</item>
+        <item quantity="few">Zezwolić aplikacji ^1 na usunięcie ^2 plików audio?</item>
+        <item quantity="many">Zezwolić aplikacji ^1 na usunięcie ^2 plików audio?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">Zezwolić aplikacji ^1 na usunięcie ^2 elementu?</item>
+        <item quantity="one">Zezwolić aplikacji ^1 na usunięcie tego elementu?</item>
+        <item quantity="few">Zezwolić aplikacji ^1 na usunięcie ^2 elementów?</item>
+        <item quantity="many">Zezwolić aplikacji ^1 na usunięcie ^2 elementów?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">Zezwolić aplikacji ^1 na usunięcie ^2 zdjęcia?</item>
+        <item quantity="one">Zezwolić aplikacji ^1 na usunięcie tego zdjęcia?</item>
+        <item quantity="few">Zezwolić aplikacji ^1 na usunięcie ^2 zdjęć?</item>
+        <item quantity="many">Zezwolić aplikacji ^1 na usunięcie ^2 zdjęć?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">Zezwolić aplikacji ^1 na usunięcie ^2 filmu?</item>
+        <item quantity="one">Zezwolić aplikacji ^1 na usunięcie tego filmu?</item>
+        <item quantity="few">Zezwolić aplikacji ^1 na usunięcie ^2 filmów?</item>
+        <item quantity="many">Zezwolić aplikacji ^1 na usunięcie ^2 filmów?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">I ^1 dodatkowego elementu</item>
+        <item quantity="one">I ^1 dodatkowy element</item>
+        <item quantity="few">I ^1 dodatkowe elementy</item>
+        <item quantity="many">I ^1 dodatkowych elementów</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">+^1</item>
+        <item quantity="one">+^1</item>
+        <item quantity="few">+^1</item>
+        <item quantity="many">+^1</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">Usuwam ^1 pliku audio…</item>
+        <item quantity="one">Usuwam plik audio…</item>
+        <item quantity="few">Usuwam ^1 pliki audio…</item>
+        <item quantity="many">Usuwam ^1 plików audio…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">Usuwam ^1 elementu…</item>
+        <item quantity="one">Usuwam element…</item>
+        <item quantity="few">Usuwam ^1 elementy…</item>
+        <item quantity="many">Usuwam ^1 elementów…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">Usuwam ^1 zdjęcia…</item>
+        <item quantity="one">Usuwam zdjęcie…</item>
+        <item quantity="few">Usuwam ^1 zdjęcia…</item>
+        <item quantity="many">Usuwam ^1 zdjęć…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">Usuwam ^1 filmu…</item>
+        <item quantity="one">Usuwam film…</item>
+        <item quantity="few">Usuwam ^1 filmy…</item>
+        <item quantity="many">Usuwam ^1 filmów…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">Przenoszę ^1 pliku audio do kosza…</item>
+        <item quantity="one">Przenoszę plik audio do kosza…</item>
+        <item quantity="few">Przenoszę ^1 pliki audio do kosza…</item>
+        <item quantity="many">Przenoszę ^1 plików audio do kosza…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">Przenoszę ^1 elementu do kosza…</item>
+        <item quantity="one">Przenoszę element do kosza…</item>
+        <item quantity="few">Przenoszę ^1 elementy do kosza…</item>
+        <item quantity="many">Przenoszę ^1 elementów do kosza…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">Przenoszę ^1 zdjęcia do kosza…</item>
+        <item quantity="one">Przenoszę zdjęcie do kosza…</item>
+        <item quantity="few">Przenoszę ^1 zdjęcia do kosza…</item>
+        <item quantity="many">Przenoszę ^1 zdjęć do kosza…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">Przenoszę ^1 filmu do kosza…</item>
+        <item quantity="one">Przenoszę film do kosza…</item>
+        <item quantity="few">Przenoszę ^1 filmy do kosza…</item>
+        <item quantity="many">Przenoszę ^1 filmów do kosza…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">Przenoszę ^1 pliku audio z kosza…</item>
+        <item quantity="one">Przenoszę plik audio z kosza…</item>
+        <item quantity="few">Przenoszę ^1 pliki audio z kosza…</item>
+        <item quantity="many">Przenoszę ^1 plików audio z kosza…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">Przenoszę ^1 elementu z kosza…</item>
+        <item quantity="one">Przenoszę element z kosza…</item>
+        <item quantity="few">Przenoszę ^1 elementy z kosza…</item>
+        <item quantity="many">Przenoszę ^1 elementów z kosza…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">Przenoszę ^1 zdjęcia z kosza…</item>
+        <item quantity="one">Przenoszę zdjęcie z kosza…</item>
+        <item quantity="few">Przenoszę ^1 zdjęcia z kosza…</item>
+        <item quantity="many">Przenoszę ^1 zdjęć z kosza…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">Przenoszę ^1 filmu z kosza…</item>
+        <item quantity="one">Przenoszę film z kosza…</item>
+        <item quantity="few">Przenoszę ^1 filmy z kosza…</item>
+        <item quantity="many">Przenoszę ^1 filmów z kosza…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">Modyfikuję ^1 pliku audio…</item>
+        <item quantity="one">Modyfikuję plik audio…</item>
+        <item quantity="few">Modyfikuję ^1 pliki audio…</item>
+        <item quantity="many">Modyfikuję ^1 plików audio…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">Modyfikuję ^1 elementu…</item>
+        <item quantity="one">Modyfikuję element…</item>
+        <item quantity="few">Modyfikuję ^1 elementy…</item>
+        <item quantity="many">Modyfikuję ^1 elementów…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">Modyfikuję ^1 zdjęcia…</item>
+        <item quantity="one">Modyfikuję zdjęcie…</item>
+        <item quantity="few">Modyfikuję ^1 zdjęcia…</item>
+        <item quantity="many">Modyfikuję ^1 zdjęć…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">Modyfikuję ^1 filmu…</item>
+        <item quantity="one">Modyfikuję film…</item>
+        <item quantity="few">Modyfikuję ^1 filmy…</item>
+        <item quantity="many">Modyfikuję ^1 filmów…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">Zezwolić aplikacji ^1 na przeniesienie ^2 pliku audio do kosza?</item>
+        <item quantity="one">Zezwolić aplikacji ^1 na przeniesienie tego pliku audio do kosza?</item>
+        <item quantity="few">Zezwolić aplikacji ^1 na przeniesienie ^2 plików audio do kosza?</item>
+        <item quantity="many">Zezwolić aplikacji ^1 na przeniesienie ^2 plików audio do kosza?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">Zezwolić aplikacji ^1 na przeniesienie ^2 elementu do kosza?</item>
+        <item quantity="one">Zezwolić aplikacji ^1 na przeniesienie tego elementu do kosza?</item>
+        <item quantity="few">Zezwolić aplikacji ^1 na przeniesienie ^2 elementów do kosza?</item>
+        <item quantity="many">Zezwolić aplikacji ^1 na przeniesienie ^2 elementów do kosza?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">Zezwolić aplikacji ^1 na przeniesienie ^2 zdjęcia do kosza?</item>
+        <item quantity="one">Zezwolić aplikacji ^1 na przeniesienie tego zdjęcia do kosza?</item>
+        <item quantity="few">Zezwolić aplikacji ^1 na przeniesienie ^2 zdjęć do kosza?</item>
+        <item quantity="many">Zezwolić aplikacji ^1 na przeniesienie ^2 zdjęć do kosza?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">Zezwolić aplikacji ^1 na przeniesienie ^2 filmu do kosza?</item>
+        <item quantity="one">Zezwolić aplikacji ^1 na przeniesienie tego filmu do kosza?</item>
+        <item quantity="few">Zezwolić aplikacji ^1 na przeniesienie ^2 filmów do kosza?</item>
+        <item quantity="many">Zezwolić aplikacji ^1 na przeniesienie ^2 filmów do kosza?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">Zezwolić aplikacji ^1 na przeniesienie ^2 pliku audio z kosza?</item>
+        <item quantity="one">Zezwolić aplikacji ^1 na przeniesienie tego pliku audio z kosza?</item>
+        <item quantity="few">Zezwolić aplikacji ^1 na przeniesienie ^2 plików audio z kosza?</item>
+        <item quantity="many">Zezwolić aplikacji ^1 na przeniesienie ^2 plików audio z kosza?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">Zezwolić aplikacji ^1 na przeniesienie ^2 elementu z kosza?</item>
+        <item quantity="one">Zezwolić aplikacji ^1 na przeniesienie tego elementu z kosza?</item>
+        <item quantity="few">Zezwolić aplikacji ^1 na przeniesienie ^2 elementów z kosza?</item>
+        <item quantity="many">Zezwolić aplikacji ^1 na przeniesienie ^2 elementów z kosza?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">Zezwolić aplikacji ^1 na przeniesienie ^2 zdjęcia z kosza?</item>
+        <item quantity="one">Zezwolić aplikacji ^1 na przeniesienie tego zdjęcia z kosza?</item>
+        <item quantity="few">Zezwolić aplikacji ^1 na przeniesienie ^2 zdjęć z kosza?</item>
+        <item quantity="many">Zezwolić aplikacji ^1 na przeniesienie ^2 zdjęć z kosza?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">Zezwolić aplikacji ^1 na przeniesienie ^2 filmu z kosza?</item>
+        <item quantity="one">Zezwolić aplikacji ^1 na przeniesienie tego filmu z kosza?</item>
+        <item quantity="few">Zezwolić aplikacji ^1 na przeniesienie ^2 filmów z kosza?</item>
+        <item quantity="many">Zezwolić aplikacji ^1 na przeniesienie ^2 filmów z kosza?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">Zezwolić aplikacji ^1 na zmodyfikowanie ^2 pliku audio?</item>
+        <item quantity="one">Zezwolić aplikacji ^1 na zmodyfikowanie tego pliku audio?</item>
+        <item quantity="few">Zezwolić aplikacji ^1 na zmodyfikowanie ^2 plików audio?</item>
+        <item quantity="many">Zezwolić aplikacji ^1 na zmodyfikowanie ^2 plików audio?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">Zezwolić aplikacji ^1 na zmodyfikowanie ^2 elementu?</item>
+        <item quantity="one">Zezwolić aplikacji ^1 na zmodyfikowanie tego elementu?</item>
+        <item quantity="few">Zezwolić aplikacji ^1 na zmodyfikowanie ^2 elementów?</item>
+        <item quantity="many">Zezwolić aplikacji ^1 na zmodyfikowanie ^2 elementów?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">Zezwolić aplikacji ^1 na zmodyfikowanie ^2 zdjęcia?</item>
+        <item quantity="one">Zezwolić aplikacji ^1 na zmodyfikowanie tego zdjęcia?</item>
+        <item quantity="few">Zezwolić aplikacji ^1 na zmodyfikowanie ^2 zdjęć?</item>
+        <item quantity="many">Zezwolić aplikacji ^1 na zmodyfikowanie ^2 zdjęć?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">Zezwolić aplikacji ^1 na zmodyfikowanie ^2 filmu?</item>
+        <item quantity="one">Zezwolić aplikacji ^1 na zmodyfikowanie tego filmu?</item>
+        <item quantity="few">Zezwolić aplikacji ^1 na zmodyfikowanie ^2 filmów?</item>
+        <item quantity="many">Zezwolić aplikacji ^1 na zmodyfikowanie ^2 filmów?</item>
+    </plurals>
+</resources>

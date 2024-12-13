@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">[%d ñéŵ ñöţîƒîçåţîöñš one two three]</item>
+        <item quantity="one">[%d ñéŵ ñöţîƒîçåţîöñ one two three]</item>
+    </plurals>
+    <plurals name="num_categories_selected">
+        <item quantity="other">[»%d« šéļéçţéð one two]</item>
+        <item quantity="zero">[»%d« šéļéçţéð one two]</item>
+        <item quantity="one">[»%d« šéļéçţéð one two]</item>
+        <item quantity="two">[»%d« šéļéçţéð one two]</item>
+        <item quantity="few">[»%d« šéļéçţéð one two]</item>
+        <item quantity="many">[»%d« šéļéçţéð one two]</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">[»%1$d« ðéVîçéš çöññéçţéð one two three]</item>
+        <item quantity="one">[»%1$d« ðéVîçé çöññéçţéð one two three]</item>
+    </plurals>
+</resources>

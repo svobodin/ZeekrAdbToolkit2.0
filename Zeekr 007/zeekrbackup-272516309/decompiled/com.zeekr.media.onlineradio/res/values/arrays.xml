@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gps_beijing">
+        <item>116.42699</item>
+        <item>39.90388</item>
+    </string-array>
+    <string-array name="program_tab">
+        <item>@string/data_yesterday</item>
+        <item>@string/data_today</item>
+        <item>@string/data_tomorrow</item>
+    </string-array>
+    <string-array name="radio_tab">
+        <item>@string/national_radio_txt</item>
+        <item>@string/local_radio_txt</item>
+        <item>@string/classified_radio_txt</item>
+        <item>@string/favorites_txt</item>
+    </string-array>
+</resources>

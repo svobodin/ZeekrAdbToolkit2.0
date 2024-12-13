@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="additional_permissions_decor_title">Додаткові дозволи</string>
+    <string name="app_permissions_decor_title">Дозволи додатка</string>
+    <string name="current_permission_template">%1$s з %2$s</string>
+    <string name="grant_dialog_button_deny_dont_ask_again">Відмовити й більше не запитувати</string>
+    <string name="grant_dialog_how_to_change">Можна змінити згодом у меню \"Налаштування\" > \"Додатки\"</string>
+    <string name="manage_permissions_decor_title">Дозволи додатка</string>
+    <string name="permission_apps_decor_title">%1$s: дозволи</string>
+    <string name="preference_show_system_apps">Показати системні додатки</string>
+    <string name="system_apps_decor_title">%1$s: дозволи</string>
+</resources>

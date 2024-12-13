@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_back_preview">[PL_758740]_Rear camera preview</string>
+    <string name="accessibility_falsh_mode_off">[PL_758739]_Flash off</string>
+    <string name="accessibility_falsh_mode_torch">[PL_758744]_Flash always on</string>
+    <string name="accessibility_front_preview">[PL_758742]_Front camera preview</string>
+    <string name="accessibility_stop_sharing_to_source">[PL_801992]_Stop sharing camera</string>
+    <string name="app_name_for_libdmsdpcamera">[PL_743921]_Multi-Device Camera</string>
+    <string name="capsule_dialog_content">[PL_806450]_The camera is connected to %s.</string>
+    <string name="capsule_dialog_negative_btn">[PL_806454]_Disconnect</string>
+    <string name="lens_wide">[PL_743919]_Wide angle</string>
+    <string name="notification_content_text">"[PL_806458]_%s would like to access this device's camera. Unlock to start sharing."</string>
+    <string name="notification_content_theme">[PL_806459]_Multi-device management</string>
+    <string name="notification_content_title">[PL_806452]_Device connection</string>
+    <string name="permission_dialog_content">"[PL_806457]_Allow %s to access this device's camera?"</string>
+    <string name="permission_dialog_hint">[PL_806451]_This is used to share the camera with another device.</string>
+    <string name="permission_dialog_negative_btn">[PL_806456]_Deny</string>
+    <string name="res_allow">[PL_732537]_Allow</string>
+    <string name="res_cancel">[PL_743923]_Cancel</string>
+    <string name="res_ok">[PL_743918]_OK</string>
+    <string name="res_reject">[PL_732539]_Deny (%ss)</string>
+    <string name="res_stop_use_camera">[PL_743920]_Stop using the camera?</string>
+    <string name="res_toast">[PL_743922]_%s has stopped using the camera.</string>
+    <string name="sink_back_to_desktop">[PL_806453]_Back to home screen</string>
+    <string name="sink_stop_sharing">[PL_806455]_Stop sharing</string>
+    <string name="sink_stop_sharing_or_not">[PL_801993]_Stop sharing the camera with %1$s?</string>
+    <string name="source_connection_service_exception">[PL_801995]_Device disconnected. Please reconnect.</string>
+    <string name="source_sharing_status_text">[PL_801994]_Sharing with %1$s</string>
+    <string name="source_stop_sharing_tip">[PL_801990]_%1$s has stopped using the camera.</string>
+</resources>

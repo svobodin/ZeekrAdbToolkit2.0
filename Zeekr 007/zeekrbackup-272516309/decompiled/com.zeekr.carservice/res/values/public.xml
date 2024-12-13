@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="integer" name="eas_day_night" id="0x7f010000" />
+    <public type="layout" name="activity_main" id="0x7f020000" />
+    <public type="mipmap" name="ic_launcher" id="0x7f030000" />
+    <public type="mipmap" name="ic_launcher_round" id="0x7f030001" />
+    <public type="string" name="app_name" id="0x7f040000" />
+    <public type="xml" name="service_config_zeekr_device" id="0x7f050000" />
+    <public type="xml" name="service_config_zeekr_havc" id="0x7f050001" />
+    <public type="xml" name="service_config_zeekr_policy" id="0x7f050002" />
+    <public type="xml" name="service_config_zeekr_vehicle" id="0x7f050003" />
+</resources>

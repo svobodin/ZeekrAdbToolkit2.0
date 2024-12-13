@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="additional_permissions_decor_title">ಹೆಚ್ಚುವರಿ ಅನುಮತಿಗಳು</string>
+    <string name="app_permissions_decor_title">ಅಪ್ಲಿಕೇಶನ್ ಅನುಮತಿಗಳು</string>
+    <string name="current_permission_template">%1$s / %2$s</string>
+    <string name="grant_dialog_button_deny_dont_ask_again">ನಿರಾಕರಿಸಿ ಹಾಗೂ ಮತ್ತೊಮ್ಮೆ ಕೇಳಬೇಡ</string>
+    <string name="grant_dialog_how_to_change">ನೀವು ಇದನ್ನು ನಂತರದಲ್ಲಿ ಸೆಟ್ಟಿಂಗ್‍‍ಗಳು > ಅಪ್ಲಿಕೇಶನ್‍‍ಗಳಲ್ಲಿ ಬದಲಾಯಿಸಬಹುದು</string>
+    <string name="manage_permissions_decor_title">ಅಪ್ಲಿಕೇಶನ್ ಅನುಮತಿಗಳು</string>
+    <string name="permission_apps_decor_title">%1$s ಅನುಮತಿಗಳು</string>
+    <string name="preference_show_system_apps">ಸಿಸ್ಟಂ ಅಪ್ಲಿಕೇಶನ್‌‌ಗಳನ್ನು ತೋರಿಸು</string>
+    <string name="system_apps_decor_title">%1$s ಅನುಮತಿಗಳು</string>
+</resources>

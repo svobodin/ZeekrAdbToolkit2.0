@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fəaliyyət Genişlənməsi</string>
+    <string name="message_not_supported">Heç bir tətbiq bunu edə bilmir</string>
+    <string name="pip_not_supported">Şəkildə Şəkil bu cihazda dəstəklənmir</string>
+    <string name="stub_name">Yoxdur</string>
+</resources>

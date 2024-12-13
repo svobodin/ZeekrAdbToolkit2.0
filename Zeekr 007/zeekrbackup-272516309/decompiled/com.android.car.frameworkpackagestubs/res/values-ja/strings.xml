@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">アクティビティ スタブ</string>
+    <string name="message_not_supported">この操作を実行できるアプリはありません</string>
+    <string name="pip_not_supported">ピクチャー イン ピクチャーはこのデバイスではご利用いただけません</string>
+    <string name="stub_name">なし</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Trình quản lý mạng</string>
+    <string name="connected">Đã kết nối</string>
+    <string name="notification_channel_description_connected">Thông báo hiển thị khi thiết bị đã xác thực thành công và kết nối với mạng của trang xác thực</string>
+    <string name="notification_channel_description_network_venue_info">Thông báo hiển thị để cho biết mạng này có trang thông tin về địa điểm</string>
+    <string name="notification_channel_name_connected">Xác thực qua trang xác thực</string>
+    <string name="notification_channel_name_network_venue_info">Thông tin về địa điểm trong mạng</string>
+    <string name="tap_for_info">Đã kết nối/Nhấn để xem trang web</string>
+</resources>

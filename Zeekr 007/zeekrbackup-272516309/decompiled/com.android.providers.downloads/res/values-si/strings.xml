@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">බාගැනීමේ කළමනාකරු</string>
+    <string name="button_cancel_download">අවලංගු කරන්න</string>
+    <string name="button_queue_for_wifi">පෝලිම</string>
+    <string name="button_start_now">දැන් අරඹන්න</string>
+    <string name="download_error">අසාර්ථකයි</string>
+    <string name="download_no_application_title">ගොනුව විවෘත කළ නොහැකි විය</string>
+    <string name="download_queued">පෙළ ගසන ලදි</string>
+    <string name="download_remaining">%s ඉතිරියි</string>
+    <string name="download_running">ක්‍රියාවේ පවතී</string>
+    <string name="download_running_percent">වෙමින් පවතී, %s</string>
+    <string name="download_unknown_title">&lt;නම් නොකළ></string>
+    <string name="notification_download_complete">බාගැනීම සම්පූර්ණයි.</string>
+    <string name="notification_download_failed">බාගැනීම අසාර්ථකයි.</string>
+    <string name="notification_need_wifi_for_size">බාගැනීමේ ප්‍රමාණයට Wi-Fi අවශ්‍යවේ.</string>
+    <string name="notification_paused_in_background">පසුබිමේ නවතා ඇත.</string>
+    <string name="permdesc_accessAllDownloads">පද්ධතියේ ඕනෑම යෙදුමකින් ආරම්භ කරන ලද සියලු බාගැනීම් දර්ශනය කිරීමට සහ වෙනස් කිරීමට යෙදුමට අවසර දෙන්න.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">යෙදුමට ගොනු බාගැනීමේ හැඹිලියට බාගැනීමට අවසර දෙන්න, එය බාගැනීමේ කළමනාකරුට තවත් ඉඩ අවශ්‍ය වූ විට ස්වයංක්‍රීයව මැකිය නොහැක.</string>
+    <string name="permdesc_downloadCompletedIntent">සම්පුර්ණ වූ බාගැනීම් පිලිබඳ දැනුම්දීම් යැවීමට යෙදුමට අවසර දෙන්න. කරදරකාරී යෙදුම් වලට මෙය යොදාගනිමින් ගොනු බාගත කරන වෙනත් යෙදුම් අමාරුවේ දැමිය හැක.</string>
+    <string name="permdesc_downloadManager">යෙදුම් හට මෙය භාවිතා කර බාගැනීම් කළමනාකරු ප්‍රවේශ කර ගොනු බාගැනීමට අවසර දෙන්න. කරදරකාරී යෙදුම් හට මෙය භාවිතා කර බාගැනීම් වලට බාධා පමුණුවා පෞද්ගලික තොරතුරු ප්‍රවේශ කිරීමට යොදාගත හැක.</string>
+    <string name="permdesc_downloadManagerAdvanced">යෙදුම් හට මෙය භාවිතා කර බාගැනීම් කළමනාකරුගේ උසස් විශේෂාංග ප්‍රවේශ කර ගොනු බාගැනීමට අවසර දෙන්න. කරදරකාරී යෙදුම් හට මෙය භාවිතා කර බාගැනීම් වලට බාධා පමුණුවා පෞද්ගලික තොරතුරු ප්‍රවේශ කිරීමට යොදාගත හැක.</string>
+    <string name="permdesc_downloadWithoutNotification">පරිශීලකයාට කිසිඳු දැනුම්දීමක් කිරීමකින් තොරව බාගැනීම් කළමනාකරු හරහා ගොනු බාගත කරගැනීමට යෙදුමට අවසර දෙන්න.</string>
+    <string name="permlab_accessAllDownloads">සියලු පද්ධති බාගැනීම් ප්‍රවේශ කරන්න</string>
+    <string name="permlab_downloadCacheNonPurgeable">බාගැනීම් හැඹිලියේ ඉඩ වෙන් කරගන්න</string>
+    <string name="permlab_downloadCompletedIntent">බාගැනීමේ දැනුම්දීම් යවන්න.</string>
+    <string name="permlab_downloadManager">බාගැනීම් කළමනාකරු ප්‍රවේශ කරන්න.</string>
+    <string name="permlab_downloadManagerAdvanced">උසස් බාගැනීම් කළමනාකරු විශේෂාංග.</string>
+    <string name="permlab_downloadWithoutNotification">දැනුම්දීමකින් තොරව ගොනු බාගන්න</string>
+    <string name="root_downloads">බාගැනීම්</string>
+    <string name="storage_description">බාගැනීම්</string>
+    <string name="wifi_recommended_body">"මෙම %1$s  බාගැනීම දැන් ආරම්භ කිරීමෙන් ඔබගේ බැටරි ආයු කාලය අඩුවේ සහ/හෝ ඔබගේ ජංගම දත්ත සම්බන්ධතාවය භාවිතය අධික වේ, එය ඔබගේ දත්ත සැලසුමට අනුව විශාල ගෙවීමක් සිදුවිය හැක.
+
+ ඔබ මීළඟට WiFi ජාලයකට සම්බන්ධ වූ පසු බාගැනීම ආරම්භ කිරීමට පහත %2$s ස්පර්ශ කරන්න."</string>
+    <string name="wifi_recommended_title">පසුව බාගැනීමට පෝලිමේ තබන්නද?</string>
+    <string name="wifi_required_body">"මෙම %1$s  බාගැනීම සිදු කිරීමට ඔබ Wi-Fi භාවිතා කළ යුතුය. 
+
+ඔබ මීළඟට WiFi ජාලයකට සම්බන්ධ වූ පසු බාගැනීම ආරම්භ කිරීමට පහත %2$s  ස්පර්ශ කරන්න."</string>
+    <string name="wifi_required_title">ක්‍රියාකරු ජාලයට බාගැනීම විශාල වැඩිය</string>
+</resources>

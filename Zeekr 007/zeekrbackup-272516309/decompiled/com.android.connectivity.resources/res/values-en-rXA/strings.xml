@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">[Šýšţéḿ ÇöññéçţîVîţý Ŕéšöûŕçéš one two three four]</string>
+    <string name="mobile_no_internet">[Ḿöɓîļé ñéţŵöŕķ ĥåš ñö îñţéŕñéţ åççéšš one two three four five]</string>
+    <string name="network_available_sign_in">[Šîĝñ îñ ţö ñéţŵöŕķ one two three]</string>
+    <string name="network_available_sign_in_detailed">[%1$s]</string>
+    <string name="network_partial_connectivity">[%1$s ĥåš ļîḿîţéð çöññéçţîVîţý one two three]</string>
+    <string name="network_partial_connectivity_detailed">[Ţåþ ţö çöññéçţ åñýŵåý one two three]</string>
+    <string name="network_switch_metered">[Šŵîţçĥéð ţö %1$s one two]</string>
+    <string name="network_switch_metered_detail">[ÐéVîçé ûšéš %1$s ŵĥéñ %2$s ĥåš ñö îñţéŕñéţ åççéšš. Çĥåŕĝéš ḿåý åþþļý. one two three four five six seven]</string>
+    <string name="network_switch_metered_toast">[Šŵîţçĥéð ƒŕöḿ %1$s ţö %2$s one two three]</string>
+    <string name="network_switch_type_name_unknown">[åñ ûñķñöŵñ ñéţŵöŕķ ţýþé one two three]</string>
+    <string name="other_networks_no_internet">[Ñéţŵöŕķ ĥåš ñö îñţéŕñéţ åççéšš one two three four]</string>
+    <string name="private_dns_broken_detailed">[ÞŕîVåţé ÐÑŠ šéŕVéŕ çåññöţ ɓé åççéššéð one two three four five]</string>
+    <string name="wifi_available_sign_in">[Šîĝñ îñ ţö Ŵî-Fî ñéţŵöŕķ one two three]</string>
+    <string name="wifi_no_internet">[%1$s ĥåš ñö îñţéŕñéţ åççéšš one two three]</string>
+    <string name="wifi_no_internet_detailed">[Ţåþ ƒöŕ öþţîöñš one two three]</string>
+</resources>

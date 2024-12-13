@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">సిస్టమ్ కనెక్టివిటీ రిసోర్స్‌లు</string>
+    <string name="mobile_no_internet">మొబైల్ నెట్‌వర్క్‌కు ఇంటర్నెట్ యాక్సెస్ లేదు</string>
+    <string name="network_available_sign_in">నెట్‌వర్క్‌కి సైన్ ఇన్ చేయండి</string>
+    <string name="network_partial_connectivity">%1$s పరిమిత కనెక్టివిటీని కలిగి ఉంది</string>
+    <string name="network_partial_connectivity_detailed">ఏదేమైనా కనెక్ట్ చేయడానికి నొక్కండి</string>
+    <string name="network_switch_metered">%1$sకి మార్చబడింది</string>
+    <string name="network_switch_metered_detail">పరికరం %2$sకి ఇంటర్నెట్ యాక్సెస్ లేనప్పుడు %1$sని ఉపయోగిస్తుంది. ఛార్జీలు వర్తించవచ్చు.</string>
+    <string name="network_switch_metered_toast">%1$s నుండి %2$sకి మార్చబడింది</string>
+    <string name="network_switch_type_name_unknown">తెలియని నెట్‌వర్క్ రకం</string>
+    <string name="other_networks_no_internet">నెట్‌వర్క్‌కు ఇంటర్నెట్ యాక్సెస్ లేదు</string>
+    <string name="private_dns_broken_detailed">ప్రైవేట్ DNS సర్వర్‌ను యాక్సెస్ చేయడం సాధ్యపడదు</string>
+    <string name="wifi_available_sign_in">Wi-Fi నెట్‌వర్క్‌కి సైన్ ఇన్ చేయండి</string>
+    <string name="wifi_no_internet">%1$sకి ఇంటర్నెట్ యాక్సెస్ లేదు</string>
+    <string name="wifi_no_internet_detailed">ఎంపికల కోసం నొక్కండి</string>
+</resources>

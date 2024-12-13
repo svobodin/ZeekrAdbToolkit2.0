@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="config_mobile_hotspot_provision_check_period">24</integer>
+    <integer name="config_tether_offload_poll_interval">5000</integer>
+    <integer name="config_tether_usb_functions">0</integer>
+    <integer name="delay_to_show_no_upstream_after_no_backhaul">-1</integer>
+</resources>

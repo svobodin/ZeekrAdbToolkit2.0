@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">Programu za kamera</item>
+        <item quantity="one">Programu ya kamera</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">Programu za barua pepe</item>
+        <item quantity="one">Programu ya barua pepe</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">Programu za simu</item>
+        <item quantity="one">Programu ya simu</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">Majaribio %d</item>
+        <item quantity="one">Jaribio %d</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">Programu %d</item>
+        <item quantity="one">Programu %d</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">Angalau programu %d</item>
+        <item quantity="one">Angalau programu %d</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">Arifa %d mpya</item>
+        <item quantity="one">Arifa %d mpya</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">Vifaa %1$d vimeunganishwa</item>
+        <item quantity="one">Kifaa %1$d kimeunganishwa</item>
+    </plurals>
+</resources>

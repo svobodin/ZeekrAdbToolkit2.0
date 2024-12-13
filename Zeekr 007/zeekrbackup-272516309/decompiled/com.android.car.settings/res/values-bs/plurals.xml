@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">Aplikacije za kameru</item>
+        <item quantity="one">Aplikacije za kameru</item>
+        <item quantity="few">Aplikacije za kameru</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">Aplikacije klijenta za e-poštu</item>
+        <item quantity="one">Aplikacije klijenta za e-poštu</item>
+        <item quantity="few">Aplikacije klijenta za e-poštu</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">Aplikacije za telefon</item>
+        <item quantity="one">Aplikacije za telefon</item>
+        <item quantity="few">Aplikacije za telefon</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d pokušaja</item>
+        <item quantity="one">%d pokušaj</item>
+        <item quantity="few">%d pokušaja</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d aplikacija</item>
+        <item quantity="one">%d aplikacija</item>
+        <item quantity="few">%d aplikacije</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">Minimalno %d aplikacija</item>
+        <item quantity="one">Minimalno %d aplikacija</item>
+        <item quantity="few">Minimalno %d aplikacije</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obavještenja</item>
+        <item quantity="one">%d novo obavještenje</item>
+        <item quantity="few">%d nova obavještenja</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">Povezano je %1$d uređaja</item>
+        <item quantity="one">Povezan je %1$d uređaj</item>
+        <item quantity="few">Povezana su %1$duređaja</item>
+    </plurals>
+</resources>

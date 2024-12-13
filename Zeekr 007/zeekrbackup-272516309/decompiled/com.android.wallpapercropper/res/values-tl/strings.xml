@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crop_wallpaper">I-crop ang wallpaper</string>
+    <string name="wallpaper_instructions">Itakda ang wallpaper</string>
+    <string name="wallpaper_load_fail">Hindi ma-load ang larawan bilang wallpaper</string>
+</resources>

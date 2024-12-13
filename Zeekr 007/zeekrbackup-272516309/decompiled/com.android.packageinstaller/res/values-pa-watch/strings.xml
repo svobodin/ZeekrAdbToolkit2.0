@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="generic_cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="generic_yes">ਹਾਂ</string>
+    <string name="current_permission_template">%1$s / %2$s</string>
+    <string name="grant_dialog_button_deny_dont_ask_again">ਅਸਵੀਕਾਰ ਕਰੋ, ਦੁਬਾਰਾ ਨਾ ਪੁੱਛੋ</string>
+    <string name="preference_show_system_apps">ਸਿਸਟਮ ਐਪਸ ਦਿਖਾਓ</string>
+    <string name="permission_summary_enforced_by_policy">ਬਦਲਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ</string>
+</resources>

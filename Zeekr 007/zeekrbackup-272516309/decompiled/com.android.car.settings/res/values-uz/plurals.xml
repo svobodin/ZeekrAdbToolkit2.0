@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">Kamera uchun ilovalar</item>
+        <item quantity="one">Kamera uchun ilova</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">Email uchun ilovalar</item>
+        <item quantity="one">Email uchun ilova</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">Telefon uchun ilovalar</item>
+        <item quantity="one">Telefon uchun ilova</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d ta urinish</item>
+        <item quantity="one">%d ta urinish</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d ta ilova</item>
+        <item quantity="one">%d ta ilova</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">Kamida %d ta ilova</item>
+        <item quantity="one">Kamida %d ta ilova</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d ta yangi bildirishnoma</item>
+        <item quantity="one">%d ta yangi bildirishnoma</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d ta qurilma ulangan</item>
+        <item quantity="one">%1$d ta qurilma ulangan</item>
+    </plurals>
+</resources>

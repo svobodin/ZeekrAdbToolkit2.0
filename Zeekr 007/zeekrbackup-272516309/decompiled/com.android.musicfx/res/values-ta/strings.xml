@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">பேஸ் பூஸ்ட்</string>
+    <string name="ci_extreme">FX பூஸ்டர்</string>
+    <string name="classical">கிளாசிக்கல்</string>
+    <string name="dance">நடனம்</string>
+    <string name="eq_dialog_title">ஈக்குவலைசர்</string>
+    <string name="flat">ஏற்றத்தாழ்வற்ற இசை</string>
+    <string name="folk">நாட்டுப்புற இசை</string>
+    <string name="headset_plug">இந்த எஃபெக்ட்டுகளுக்கு ஹெட்ஃபோன்களைச் செருகவும்.</string>
+    <string name="heavy_metal">ஹெவி மெட்டல்</string>
+    <string name="hip_hop">ஹிப் ஹாப்</string>
+    <string name="jazz">ஜாஸ்</string>
+    <string name="no_effects">எஃபெக்ட்டுகள் கிடைக்கவில்லை.</string>
+    <string name="normal">இயல்பு</string>
+    <string name="picker_title">எஃபெக்ட் கட்டுப்பாட்டுப் பலகம்</string>
+    <string name="pop">பாப்</string>
+    <string name="rock">ராக்</string>
+    <string name="setup">அமைவு</string>
+    <string name="user">பயனர்</string>
+    <string name="virtualizer_strength">சரவுண்ட் சவுண்ட்</string>
+</resources>

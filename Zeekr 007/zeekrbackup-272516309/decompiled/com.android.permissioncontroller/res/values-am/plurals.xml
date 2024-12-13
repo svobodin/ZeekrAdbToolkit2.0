@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">%1$d ተጨማሪ</item>
+        <item quantity="one">%1$d ተጨማሪ</item>
+    </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">%1$d መተግበሪያዎች ለጥቂት ወሮች ስራ ላይ አልዋሉም። ለመገምገም መታ ያድርጉ</item>
+        <item quantity="one">%1$d መተግበሪያዎች ለጥቂት ወሮች ስራ ላይ አልዋሉም። ለመገምገም መታ ያድርጉ</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">%1$d አንዳንድ መተግበሪያዎች ለጥቂት ወሮች ስራ ላይ አልዋሉም</item>
+        <item quantity="one">%1$d መተግበሪያዎች ለጥቂት ወሮች ስራ ላይ አልዋሉም</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s ቀኖች</item>
+        <item quantity="one">%s ቀኖች</item>
+    </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">%s ቀናት</item>
+        <item quantity="one">%s ቀናት</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">%s ሰዓታት</item>
+        <item quantity="one">%s ሰዓታት</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">%s ደቂቃዎች</item>
+        <item quantity="one">%s ደቂቃዎች</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">%s ሰከንዶች</item>
+        <item quantity="one">%s ሰከንዶች</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s ሰዓቶች</item>
+        <item quantity="one">%s ሰዓቶች</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%sደቂቃዎች</item>
+        <item quantity="one">%s ደቂቃዎች</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d አዲስ ማሳወቂያዎች</item>
+        <item quantity="one">%d አዲስ ማሳወቂያዎች</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s መተግበሪያዎች</item>
+        <item quantity="one">%s መተግበሪያዎች</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s መተግበሪያዎች</item>
+        <item quantity="one">%s መተግበሪያዎች</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">በ%1$d መተግበሪያዎች ስራ ላይ ውሏል</item>
+        <item quantity="one">በ%1$d መተግበሪያዎች ስራ ላይ ውሏል</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"የመጨረሻ መዳረሻ፦ %1$s
+%2$s መዳረሻዎች"</item>
+        <item quantity="one">"የመጨረሻ መዳረሻ፦ %1$s
+%2$s መዳረሻዎች"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"የመጨረሻ መዳረሻ፦ %1$s
+%2$s መዳረሻዎች (በበስተጀርባ ውስጥ %3$s)"</item>
+        <item quantity="one">"የመጨረሻ መዳረሻ፦ %1$s
+%2$s መዳረሻዎች (በበስተጀርባ ውስጥ %3$s)"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"የመጨረሻ መዳረሻ፦ %1$s
+%2$s መዳረሻዎች (በበስተጀርባ ላይ %3$s)
+የጊዜ ቆይታ፦ %3$s"</item>
+        <item quantity="one">"የመጨረሻ መዳረሻ፦ %1$s
+%2$s መዳረሻዎች (በበስተጀርባ ላይ %3$s)
+የጊዜ ቆይታ፦ %3$s"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"የመጨረሻ መዳረሻ፦ %1$s
+%2$s መዳረሻዎች
+የጊዜ ቆይታ፦ %3$s"</item>
+        <item quantity="one">"የመጨረሻ መዳረሻ፦ %1$s
+%2$s መዳረሻዎች
+የጊዜ ቆይታ፦ %3$s"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s ሰከንዶች</item>
+        <item quantity="one">%s ሰከንዶች</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">%1$d ጥቅም ላይ ያልዋሉ መተግበሪያዎች</item>
+        <item quantity="one">%1$d ጥቅም ላይ ያልዋሉ መተግበሪያዎች</item>
+    </plurals>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">კომპანიონი მოწყობილობების მენეჯერი</string>
+    <string name="chooser_title">აირჩიეთ %1$s, რომელიც უნდა მართოს &lt;strong>%2$s&lt;/strong>-მა</string>
+    <string name="confirmation_title">ნება დართეთ &lt;strong>%1$s-ს&lt;/strong>, რომ მართოს თქვენი &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_no">არ დაიშვას</string>
+    <string name="consent_yes">დაშვება</string>
+    <string name="profile_name_generic">მოწყობილობა</string>
+    <string name="profile_name_watch">საათი</string>
+    <string name="profile_summary">ეს აპი საჭიროა თქვენი %1$s-ს სამართავად. %2$s</string>
+</resources>

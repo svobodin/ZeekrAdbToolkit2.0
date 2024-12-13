@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">অনলাইনত ছাই আপ কৰক</string>
+    <string name="app_name">OsuLogin</string>
+    <string name="sign_up_failed">ছাইন আপ কৰিব পৰা নগ’ল</string>
+    <string name="status_bar_notification_info_overflow">৯৯৯+</string>
+</resources>

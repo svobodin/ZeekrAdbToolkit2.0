@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">Stelselkonnektiwiteithulpbronne</string>
+    <string name="mobile_no_internet">Selnetwerk het nie internettoegang nie</string>
+    <string name="network_available_sign_in">Meld by netwerk aan</string>
+    <string name="network_partial_connectivity">%1$s het beperkte konnektiwiteit</string>
+    <string name="network_partial_connectivity_detailed">Tik om in elk geval te koppel</string>
+    <string name="network_switch_metered">Het oorgeskakel na %1$s</string>
+    <string name="network_switch_metered_detail">Toestel gebruik %1$s wanneer %2$s geen internettoegang het nie. Heffings kan geld.</string>
+    <string name="network_switch_metered_toast">Het oorgeskakel van %1$s na %2$s</string>
+    <string name="network_switch_type_name_unknown">"'n onbekende netwerktipe"</string>
+    <string name="other_networks_no_internet">Netwerk het nie internettoegang nie</string>
+    <string name="private_dns_broken_detailed">Daar kan nie by private DNS-bediener ingegaan word nie</string>
+    <string name="wifi_available_sign_in">Meld aan by Wi-Fi-netwerk</string>
+    <string name="wifi_no_internet">%1$s het geen internettoegang nie</string>
+    <string name="wifi_no_internet_detailed">Tik vir opsies</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="disable_tether_notification_message">ለዝርዝሮች የእርስዎን አስተዳዳሪ ያነጋግሩ</string>
+    <string name="disable_tether_notification_title">እንደ ሞደም መሰካት ተሰናክሏል</string>
+    <string name="no_upstream_notification_disable_button" />
+    <string name="no_upstream_notification_message" />
+    <string name="no_upstream_notification_title" />
+    <string name="notification_channel_tethering_status">መገናኛ ነጥብ እና እንደ ሞደም የመሰካት ሁኔታ</string>
+    <string name="tethered_notification_message">ለማዋቀር መታ ያድርጉ።</string>
+    <string name="tethered_notification_title">እንደ ሞደም መሰካት ወይም መገናኛ ነጥብ ገባሪ</string>
+    <string name="upstream_roaming_notification_message" />
+    <string name="upstream_roaming_notification_title" />
+</resources>

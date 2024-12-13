@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">Засилување на басот</string>
+    <string name="ci_extreme">FX засилувач</string>
+    <string name="classical">Класична</string>
+    <string name="dance">Денс</string>
+    <string name="eq_dialog_title">Еквилајзер</string>
+    <string name="flat">Рамно</string>
+    <string name="folk">Фолк</string>
+    <string name="headset_plug">Приклучете слушалки за ефективе.</string>
+    <string name="heavy_metal">Хеви метал</string>
+    <string name="hip_hop">Хип-хоп</string>
+    <string name="jazz">Џез</string>
+    <string name="no_effects">Ефектите не се достапни.</string>
+    <string name="normal">Нормален</string>
+    <string name="picker_title">Контролна табла за музички ефекти</string>
+    <string name="pop">Поп</string>
+    <string name="rock">Рок</string>
+    <string name="setup">Поставување</string>
+    <string name="user">Корисник</string>
+    <string name="virtualizer_strength">Опкружувачки звук</string>
+</resources>

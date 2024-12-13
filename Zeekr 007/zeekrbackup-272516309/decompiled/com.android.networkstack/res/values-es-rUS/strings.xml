@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Administrador de redes</string>
+    <string name="connected">Se estableció conexión</string>
+    <string name="notification_channel_description_connected">Notificaciones que se muestran cuando el dispositivo se autenticó correctamente en una red de portal cautivo</string>
+    <string name="notification_channel_description_network_venue_info">Notificaciones que se muestran para indicar que la red tiene una página de información sobre el lugar</string>
+    <string name="notification_channel_name_connected">Autenticación de portal cautivo</string>
+    <string name="notification_channel_name_network_venue_info">Información del lugar de la red</string>
+    <string name="tap_for_info">Conectado/presiona para ver el sitio web</string>
+</resources>

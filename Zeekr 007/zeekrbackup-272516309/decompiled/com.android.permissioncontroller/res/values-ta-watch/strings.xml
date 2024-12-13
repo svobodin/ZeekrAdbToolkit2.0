@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_summary_enforced_by_policy">மாற்ற இயலாது</string>
+    <string name="grant_dialog_button_deny_dont_ask_again">நிராகரி, மீண்டும் கேட்காதே</string>
+    <string name="preference_show_system_apps">சிஸ்டம் ஆப்ஸைக் காட்டு</string>
+    <string name="generic_cancel">வேண்டாம்</string>
+    <string name="generic_yes">சரி</string>
+</resources>

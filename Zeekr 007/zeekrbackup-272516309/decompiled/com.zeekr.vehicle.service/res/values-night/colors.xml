@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="car_settings_background_color">#ff151619</color>
+    <color name="car_settings_error_color">#ffb84749</color>
+    <color name="car_settings_on_primary_color">#ff0b0c0d</color>
+    <color name="car_settings_primary_color">#ffb4b9be</color>
+    <color name="car_settings_primary_container_color">#ccd3d7dc</color>
+    <color name="car_settings_primary_inverse_color">#ffcccccc</color>
+    <color name="car_settings_primary_surface_color">#99000000</color>
+    <color name="car_settings_secondary_color">#ffc86741</color>
+    <color name="car_settings_secondary_container_color">#cc323439</color>
+    <color name="car_settings_secondary_variant_color">#ff3a3d43</color>
+    <color name="car_settings_surface_color">#66323439</color>
+    <color name="car_settings_surface_inverse_color">#ff3d3f46</color>
+    <color name="car_settings_surface_variant_color">#ff26272c</color>
+    <color name="car_settings_tertiary_color">#ff247551</color>
+    <color name="md_theme_manual_colorCardSegment">#ff3c3e47</color>
+    <color name="md_theme_manual_colorCardSegmentBackground">#ff2b2c33</color>
+    <color name="md_theme_manual_colorErrorPress">#ffcb5a5c</color>
+    <color name="md_theme_manual_colorRealPress">#ffd3d7dc</color>
+    <color name="md_theme_manual_colorRuling">#99000000</color>
+    <color name="md_theme_manual_colorSecondaryButton">#ff323439</color>
+    <color name="md_theme_manual_colorSecondaryPress">#ffe57143</color>
+    <color name="md_theme_manual_colorTertiaryPress">#ff117d4d</color>
+    <color name="md_theme_manual_colorTogglePress">#ffe57143</color>
+    <color name="md_theme_manual_sliderInverse">#ffb4b9be</color>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">শ্বেল</string>
+    <string name="bugreport_add_details_to_zip_failed">"বাগ সম্পর্কীয় অভিযোগৰ বিৱৰণ জিপ ফাইলত যোগ কৰিব পৰা নগ'ল"</string>
+    <string name="bugreport_confirm">"বাগ সম্পর্কীয় অভিযোগত ছিষ্টেমৰ বিভিন্ন লগ ফাইল থাকে, ইয়াৰ ভিতৰত আপুনি স্পর্শকাতৰ বুলি গণ্য কৰা ডেটা (যেনে এপৰ ব্য়ৱহাৰ আৰু অৱস্থান সম্পৰ্কীয় তথ্য়) অন্তর্ভুক্ত হ'ব পাৰে। কেৱল আপোনাৰ বিশ্বাসী লোক বা এপৰ সৈতেহে বাগ সম্পর্কীয় অভিযোগ শ্বেয়াৰ কৰিব।"</string>
+    <string name="bugreport_confirm_dont_repeat">পুনৰাই নেদেখুৱাব</string>
+    <string name="bugreport_finished_pending_screenshot_text">স্ক্ৰীণশ্বট নোলোৱাকৈ বাগ সম্পর্কীয় অভিযোগ শ্বেয়াৰ কৰিবলৈ ইয়াত টিপক বা স্ক্ৰীণশ্বট সম্পূৰ্ণ হোৱালৈ অপেক্ষা কৰক</string>
+    <string name="bugreport_finished_text">আপোনাৰ বাগ সম্পর্কীয় অভিযোগ শ্বেয়াৰ কৰিবৰ বাবে ইয়াত টিপক</string>
+    <string name="bugreport_finished_title">বাগ সম্পর্কীয় অভিযোগ #%d ৰেকৰ্ড কৰা হ’ল</string>
+    <string name="bugreport_in_progress_title">বাগ সম্পর্কীয় অভিযোগ #%d সৃষ্টি কৰি থকা হৈছে</string>
+    <string name="bugreport_info_action">সবিশেষ</string>
+    <string name="bugreport_info_description">বাগ সাৰাংশ</string>
+    <string name="bugreport_info_dialog_title">বাগ সম্পর্কীয় অভিযোগৰ বিৱৰণ #%d</string>
+    <string name="bugreport_info_name">ফাইলৰ নাম</string>
+    <string name="bugreport_info_title">বাগৰ শিৰোনাম</string>
+    <string name="bugreport_intent_chooser_title">বাগ সম্পর্কীয় অভিযোগ শ্বেয়াৰ কৰক</string>
+    <string name="bugreport_notification_channel">বাগ সম্পৰ্কীয় প্ৰতিবেদন</string>
+    <string name="bugreport_screenshot_action">স্ক্ৰীণশ্বট</string>
+    <string name="bugreport_screenshot_failed">"স্ক্ৰীণশ্বট ল'ব পৰা নগ'ল।"</string>
+    <string name="bugreport_screenshot_taken">"স্ক্ৰীণশ্বট সফলতাৰে লোৱা হ'ল৷"</string>
+    <string name="bugreport_storage_title">বাগ সম্পর্কীয় প্ৰতিবেদনসমূহ</string>
+    <string name="bugreport_unnamed">নামবিহীন</string>
+    <string name="bugreport_unreadable_text">"বাগ সম্পর্কীয় অভিযোগৰ ফাইলটো পঢ়িব পৰা নগ'ল"</string>
+    <string name="bugreport_updating_title">বাগ সম্পর্কীয় অভিযোগটোত বিশদ তথ্য যোগ কৰি থকা হৈছে</string>
+    <string name="bugreport_updating_wait">অনুগ্রহ কৰি অপেক্ষা কৰক…</string>
+    <string name="save">ছেভ কৰক</string>
+    <string name="status_bar_notification_info_overflow">৯৯৯+</string>
+</resources>

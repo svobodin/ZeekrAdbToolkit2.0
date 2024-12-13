@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">መገናኛ ነጥብ ያጥፉ</string>
+    <string name="no_upstream_notification_message">መሣሪያዎች ከበይነመረብ ጋር መገናኘት አይችሉም</string>
+    <string name="no_upstream_notification_title">መገናኛ ነጥቡ በይነመረብ የለውም</string>
+    <string name="upstream_roaming_notification_message">በሚያንዣብብበት ጊዜ ተጨማሪ ክፍያዎች ተፈጻሚ ሊሆኑ ይችላሉ</string>
+    <string name="upstream_roaming_notification_title">የመገናኛ ነጥብ በርቷል</string>
+    <string name="upstream_roaming_notification_continue_button">ቀጥል</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="owner_name">ડ્રાઇવર</string>
+    <string name="permlab_accessCoarseLocation">ફૉરગ્રાઉન્ડમાં ફક્ત અંદાજિત સ્થાન ઍક્સેસ કરો</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">માઇક્રોફોન ચાલુ કરો</string>
+</resources>

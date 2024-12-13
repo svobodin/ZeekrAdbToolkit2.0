@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">Aplikacionet e kamerës</item>
+        <item quantity="one">Aplikacioni i kamerës</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">Aplikacionet e klientit të email-it</item>
+        <item quantity="one">Aplikacioni i klientit të email-it</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">Aplikacionet e telefonit</item>
+        <item quantity="one">Aplikacioni i telefonit</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d përpjekje</item>
+        <item quantity="one">%d përpjekje</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d aplikacione</item>
+        <item quantity="one">%d aplikacion</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">Minimumi %d aplikacione</item>
+        <item quantity="one">Minimumi %d aplikacion</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d njoftime të reja</item>
+        <item quantity="one">%d njoftim i ri</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d pajisje të lidhura</item>
+        <item quantity="one">%1$d pajisje e lidhur</item>
+    </plurals>
+</resources>

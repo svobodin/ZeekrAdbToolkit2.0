@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">سسٹم کنیکٹوٹی کے وسائل</string>
+    <string name="mobile_no_internet">موبائل نیٹ ورک کو انٹرنیٹ تک رسائی حاصل نہیں ہے</string>
+    <string name="network_available_sign_in">نیٹ ورک میں سائن ان کریں</string>
+    <string name="network_partial_connectivity">%1$s کی کنیکٹوٹی محدود ہے</string>
+    <string name="network_partial_connectivity_detailed">بہر حال منسلک کرنے کے لیے تھپتھپائیں</string>
+    <string name="network_switch_metered">%1$s پر سوئچ ہو گیا</string>
+    <string name="network_switch_metered_detail">جب %2$s کو انٹرنیٹ تک رسائی نہیں ہوتی ہے تو آلہ %1$s کا استعمال کرتا ہے۔ چارجز لاگو ہو سکتے ہیں۔</string>
+    <string name="network_switch_metered_toast">%1$s سے %2$s پر سوئچ ہو گیا</string>
+    <string name="network_switch_type_name_unknown">نامعلوم نیٹ ورک کی قسم</string>
+    <string name="other_networks_no_internet">نیٹ ورک کو انٹرنیٹ تک رسائی حاصل نہیں ہے</string>
+    <string name="private_dns_broken_detailed">‏نجی DNS سرور تک رسائی حاصل نہیں کی جا سکی</string>
+    <string name="wifi_available_sign_in">‏Wi-Fi نیٹ ورک میں سائن ان کریں</string>
+    <string name="wifi_no_internet">%1$s کو انٹرنیٹ تک رسائی حاصل نہیں ہے</string>
+    <string name="wifi_no_internet_detailed">اختیارات کیلئے تھپتھپائیں</string>
+</resources>

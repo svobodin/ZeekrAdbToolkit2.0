@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">సహచర పరికర మేనేజర్</string>
+    <string name="chooser_title">&lt;strong>%2$s&lt;/strong> ద్వారా మేనేజ్ చేయబడటానికి ఒక %1$sను ఎంచుకోండి</string>
+    <string name="confirmation_title">మీ &lt;strong>%2$s&lt;/strong>ను మేనేజ్ చేయడానికి &lt;strong>%1$s&lt;/strong>ను అనుమతించండి;</string>
+    <string name="consent_no">అనుమతించవద్దు</string>
+    <string name="consent_yes">అనుమతించు</string>
+    <string name="profile_name_generic">పరికరం</string>
+    <string name="profile_name_watch">వాచ్</string>
+    <string name="profile_summary">మీ %1$sను మేనేజ్ చేయడానికి ఈ యాప్ అవసరం. %2$s</string>
+</resources>

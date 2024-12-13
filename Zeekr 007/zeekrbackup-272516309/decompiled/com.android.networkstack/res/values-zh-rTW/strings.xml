@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">網路管理工具</string>
+    <string name="connected">已連線</string>
+    <string name="notification_channel_description_connected">當裝置成功通過網頁認證入口網路驗證時，系統就會顯示這類通知</string>
+    <string name="notification_channel_description_network_venue_info">當網路有驗證資訊頁面時，系統就會顯示這類通知</string>
+    <string name="notification_channel_name_connected">網頁認證入口驗證</string>
+    <string name="notification_channel_name_network_venue_info">網路驗證資訊</string>
+    <string name="tap_for_info">已連線/輕觸即可查看網站</string>
+</resources>

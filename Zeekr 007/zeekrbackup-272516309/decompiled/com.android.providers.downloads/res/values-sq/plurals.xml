@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_summary_active">
+        <item quantity="other">%d skedarë po shkarkohen</item>
+        <item quantity="one">1 skedar po shkarkohet</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">%d skedarë në pritje</item>
+        <item quantity="one">1 skedar në pritje</item>
+    </plurals>
+</resources>

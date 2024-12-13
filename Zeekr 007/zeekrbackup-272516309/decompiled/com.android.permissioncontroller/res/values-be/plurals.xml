@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">яшчэ %1$d</item>
+        <item quantity="one">яшчэ %1$d</item>
+        <item quantity="few">яшчэ %1$d</item>
+        <item quantity="many">яшчэ %1$d</item>
+    </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">%1$d праграмы не выкарыстоўваліся некалькі месяцаў. Націсніце, каб праглядзець</item>
+        <item quantity="one">%1$d праграма не выкарыстоўвалася некалькі месяцаў. Націсніце, каб праглядзець</item>
+        <item quantity="few">%1$d праграмы не выкарыстоўваліся некалькі месяцаў. Націсніце, каб праглядзець</item>
+        <item quantity="many">%1$d праграм не выкарыстоўваліся некалькі месяцаў. Націсніце, каб праглядзець</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">%1$d праграмы не выкарыстоўваліся некалькі месяцаў</item>
+        <item quantity="one">%1$d праграма не выкарыстоўвалася некалькі месяцаў</item>
+        <item quantity="few">%1$d праграмы не выкарыстоўваліся некалькі месяцаў</item>
+        <item quantity="many">%1$d праграм не выкарыстоўваліся некалькі месяцаў</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s дня</item>
+        <item quantity="one">%s дзень</item>
+        <item quantity="few">%s дні</item>
+        <item quantity="many">%s дзён</item>
+    </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">%s дня</item>
+        <item quantity="one">%s дзень</item>
+        <item quantity="few">%s дні</item>
+        <item quantity="many">%s дзён</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">%s гадзіны</item>
+        <item quantity="one">%s гадзіна</item>
+        <item quantity="few">%s гадзіны</item>
+        <item quantity="many">%s гадзін</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">%s хв</item>
+        <item quantity="one">%s хв</item>
+        <item quantity="few">%s хв</item>
+        <item quantity="many">%s хв</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">%s с</item>
+        <item quantity="one">%s с</item>
+        <item quantity="few">%s с</item>
+        <item quantity="many">%s с</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s гадзіны</item>
+        <item quantity="one">%s гадзіна</item>
+        <item quantity="few">%s гадзіны</item>
+        <item quantity="many">%s гадзін</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s хвіліны</item>
+        <item quantity="one">%s хвіліна</item>
+        <item quantity="few">%s хвіліны</item>
+        <item quantity="many">%s хвілін</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d новага апавяшчэння</item>
+        <item quantity="one">%d новае апавяшчэнне</item>
+        <item quantity="few">%d новыя апавяшчэнні</item>
+        <item quantity="many">%d новых апавяшчэнняў</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s праграмы</item>
+        <item quantity="one">%s праграма</item>
+        <item quantity="few">%s праграмы</item>
+        <item quantity="many">%s праграм</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s праграмы</item>
+        <item quantity="one">%s праграма</item>
+        <item quantity="few">%s праграмы</item>
+        <item quantity="many">%s праграм</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">Выкарыстоўваецца %1$d праграмы</item>
+        <item quantity="one">Выкарыстоўваецца %1$d праграмай</item>
+        <item quantity="few">Выкарыстоўваецца %1$d праграмамі</item>
+        <item quantity="many">Выкарыстоўваецца %1$d праграмамі</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"Апошні доступ: %1$s
+%2$s доступу"</item>
+        <item quantity="one">"Апошні доступ: %1$s
+%2$s доступ"</item>
+        <item quantity="few">"Апошні доступ: %1$s
+%2$s доступы"</item>
+        <item quantity="many">"Апошні доступ: %1$s
+%2$s доступаў"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"Апошні доступ: %1$s
+%2$s доступу (у фонавым рэжыме: %3$s)"</item>
+        <item quantity="one">"Апошні доступ: %1$s
+%2$s доступ (у фонавым рэжыме: %3$s)"</item>
+        <item quantity="few">"Апошні доступ: %1$s
+%2$s доступы (у фонавым рэжыме: %3$s)"</item>
+        <item quantity="many">"Апошні доступ: %1$s
+%2$s доступаў (у фонавым рэжыме: %3$s)"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"Апошні доступ: %1$s
+%2$s доступу (у фонавым рэжыме: %3$s)
+Працягласць: %3$s"</item>
+        <item quantity="one">"Апошні доступ: %1$s
+%2$s доступ (у фонавым рэжыме: %3$s)
+Працягласць: %3$s"</item>
+        <item quantity="few">"Апошні доступ: %1$s
+%2$s доступы (у фонавым рэжыме: %3$s)
+Працягласць: %3$s"</item>
+        <item quantity="many">"Апошні доступ: %1$s
+%2$s доступаў (у фонавым рэжыме: %3$s)
+Працягласць: %3$s"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"Апошні доступ: %1$s
+%2$s доступу
+Працягласць: %3$s"</item>
+        <item quantity="one">"Апошні доступ: %1$s
+%2$s доступ
+Працягласць: %3$s"</item>
+        <item quantity="few">"Апошні доступ: %1$s
+%2$s доступы
+Працягласць: %3$s"</item>
+        <item quantity="many">"Апошні доступ: %1$s
+%2$s доступаў
+Працягласць: %3$s"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s секунды</item>
+        <item quantity="one">%s секунда</item>
+        <item quantity="few">%s секунды</item>
+        <item quantity="many">%s секунд</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">%1$d праграмы не выкарыстоўваецца</item>
+        <item quantity="one">%1$d праграма не выкарыстоўваецца</item>
+        <item quantity="few">%1$d праграмы не выкарыстоўваюцца</item>
+        <item quantity="many">%1$d праграм не выкарыстоўваюцца</item>
+    </plurals>
+</resources>

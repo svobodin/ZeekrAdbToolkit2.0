@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pogovorno okno aplikacije za SIM</string>
+    <string name="install_carrier_app_defer_action">Ne zdaj</string>
+    <string name="install_carrier_app_description">Če želite, da bo nova kartica SIM pravilno delovala, morate namestiti aplikac. operaterja %1$s</string>
+    <string name="install_carrier_app_description_default">Če želite, da bo nova kartica SIM pravilno delovala, morate namestiti aplikacijo operaterja</string>
+    <string name="install_carrier_app_download_action">Prenos aplikacije</string>
+    <string name="install_carrier_app_title">Aktivirajte mobilno storitev</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Nazaj</string>
+    <string name="suw_more_button_label">Več</string>
+    <string name="suw_next_button_label">Naprej</string>
+</resources>

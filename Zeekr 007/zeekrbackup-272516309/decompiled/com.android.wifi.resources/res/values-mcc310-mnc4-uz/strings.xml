@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s : Verizon qamrovidan tashqarida Verizon Wi-Fi Access xizmatiga ulana olmaysiz.</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s : Verizon Wi-Fi Access xizmatiga obuna boʻlmagansiz. 800-922-0204 raqamiga telefon qiling.</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s : Verizon Wi-Fi Access hisobingiz bilan muammo bor. 800-922-0204 raqamiga telefon qiling.</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s : Allaqachon Verizon Wi-Fi Access xizmatiga ulangansiz.</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s : Verizon Wi-Fi Access xizmatiga ulanishda muammo chiqdi. 800-922-0204 raqamiga telefon qiling.</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s : Verizon Wi-Fi Access hisobingiz bilan muammo bor. 800-922-0204 raqamiga telefon qiling.</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s : Verizon Wi-Fi Access siz turgan joyda ishlamaydi. Keyinroq qayta urining yoki boshqa joydan urining.</string>
+</resources>

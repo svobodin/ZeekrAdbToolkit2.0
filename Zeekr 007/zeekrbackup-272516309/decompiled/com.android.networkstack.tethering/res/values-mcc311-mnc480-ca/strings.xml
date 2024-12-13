@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Desactiva la compartició de xarxa</string>
+    <string name="no_upstream_notification_message">No es poden connectar els dispositius</string>
+    <string name="no_upstream_notification_title">La compartició de xarxa no té accés a Internet</string>
+    <string name="upstream_roaming_notification_message">"És possible que s'apliquin costos addicionals en itinerància"</string>
+    <string name="upstream_roaming_notification_title">"S'ha activat el punt d'accés Wi‑Fi o la compartició de xarxa"</string>
+</resources>

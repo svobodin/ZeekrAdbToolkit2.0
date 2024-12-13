@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="network_switch_type_name">
+        <item>мобилни подаци</item>
+        <item>WiFi</item>
+        <item>Bluetooth</item>
+        <item>Етернет</item>
+        <item>VPN</item>
+    </string-array>
+</resources>

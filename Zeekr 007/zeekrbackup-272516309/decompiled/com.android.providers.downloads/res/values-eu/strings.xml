@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Deskargen kudeatzailea</string>
+    <string name="button_cancel_download">Utzi</string>
+    <string name="button_queue_for_wifi">Ezarri ilaran</string>
+    <string name="button_start_now">Hasi</string>
+    <string name="download_error">Ezin izan da deskargatu</string>
+    <string name="download_no_application_title">Ezin da fitxategia ireki</string>
+    <string name="download_queued">Ilaran ezarri da</string>
+    <string name="download_remaining">Falta den denbora: %s</string>
+    <string name="download_running">Abian</string>
+    <string name="download_running_percent">Abian, %s</string>
+    <string name="download_unknown_title">&lt;Izengabea></string>
+    <string name="notification_download_complete">Osatu da deskarga.</string>
+    <string name="notification_download_failed">Ezin izan da deskargatu.</string>
+    <string name="notification_need_wifi_for_size">Wi-Fi konexioa behar da.</string>
+    <string name="notification_paused_in_background">Atzeko planoan pausatuta</string>
+    <string name="permdesc_accessAllDownloads">Aplikazioek sisteman hasitako deskarga guztiak ikusteko eta aldatzeko baimena ematen die aplikazioei.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Fitxategiak deskarga-cachera deskargatzeko baimena ematen die aplikazioei (ezin izango dira automatikoki ezabatu deskargen kudeatzaileak tokia behar duenean).</string>
+    <string name="permdesc_downloadCompletedIntent">Osatutako deskargei buruzko jakinarazpenak bidaltzeko baimena ematen die aplikazioei. Asmo txarreko aplikazioek fitxategiak deskargatzen dituzten beste aplikazioak nahasteko erabil dezakete hori.</string>
+    <string name="permdesc_downloadManager">Deskargen kudeatzailea atzitzea eta fitxategiak deskargatzeko hori erabiltzeko baimena ematen die aplikazioei. Asmo txarreko aplikazioek deskargak eteteko eta informazio pribatua atzitzeko erabil dezakete hori.</string>
+    <string name="permdesc_downloadManagerAdvanced">Deskargen kudeatzailearen eginbide aurreratuak atzitzeko baimena ematen die aplikazioei. Asmo txarreko aplikazioek deskargak eteteko eta informazio pribatua atzitzeko erabil dezakete hori.</string>
+    <string name="permdesc_downloadWithoutNotification">Fitxategiak deskargen kudeatzailearen bidez baina erabiltzaileari jakinarazi gabe deskargatzeko baimena ematen die aplikazioei.</string>
+    <string name="permlab_accessAllDownloads">Atzitu sistemaren deskarga guztiak</string>
+    <string name="permlab_downloadCacheNonPurgeable">Erreserbatu memoria deskarga-cachean</string>
+    <string name="permlab_downloadCompletedIntent">Bidali deskargen jakinarazpenak.</string>
+    <string name="permlab_downloadManager">Atzitu deskargen kudeatzailea.</string>
+    <string name="permlab_downloadManagerAdvanced">Deskargen kudeatzailearen eginbide aurreratuak.</string>
+    <string name="permlab_downloadWithoutNotification">Deskargatu fitxategiak jakinarazi gabe</string>
+    <string name="root_downloads">Deskargak</string>
+    <string name="storage_description">Deskargak</string>
+    <string name="wifi_recommended_body">"%1$s -ko deskarga hau hasten baduzu, baliteke bateriak gutxiago irautea edota datu-konexioa gehiegi erabiltzea eta, horren ondorioz, operadoreak gastu gehigarriak kobratzea, darabilzun datu-planaren arabera.
+
+ wifi-sare batera konektatzen zaren hurrengo aldian deskargari berrekiteko, ukitu %2$s."</string>
+    <string name="wifi_recommended_title">Ilaran ezarri geroago deskargatzeko?</string>
+    <string name="wifi_required_body">"Wi-Fi konexioa erabili behar duzu %1$s -ko deskarga hau osatzeko. 
+
+wifi-sare batera konektatzen zaren hurrengo aldian deskargari berrekiteko, ukitu %2$s ."</string>
+    <string name="wifi_required_title">Deskarga handiegia da operadorearen sarerako</string>
+</resources>

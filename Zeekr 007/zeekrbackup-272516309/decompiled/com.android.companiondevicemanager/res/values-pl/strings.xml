@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Menedżer urządzeń towarzyszących</string>
+    <string name="chooser_title">Wybierz profil %1$s, którym ma zarządzać aplikacja &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Zezwól na zarządzanie urządzeniem &lt;strong>%2$s&lt;/strong> przez aplikację &lt;strong>%1$s&lt;/strong></string>
+    <string name="consent_no">Nie zezwalaj</string>
+    <string name="consent_yes">Zezwól</string>
+    <string name="profile_name_generic">urządzenie</string>
+    <string name="profile_name_watch">zegarek</string>
+    <string name="profile_summary">Ta aplikacja jest niezbędna do zarządzania profilem %1$s. %2$s</string>
+</resources>

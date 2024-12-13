@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">Vēl %1$d</item>
+        <item quantity="zero">Vēl %1$d</item>
+        <item quantity="one">Vēl %1$d</item>
+    </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">%1$d lietotnes nav izmantotas vairākus mēnešus. Pieskarieties, lai tās skatītu.</item>
+        <item quantity="zero">%1$d lietotnes nav izmantotas vairākus mēnešus. Pieskarieties, lai tās skatītu.</item>
+        <item quantity="one">%1$d lietotne nav izmantota vairākus mēnešus. Pieskarieties, lai tās skatītu.</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">%1$d lietotnes nav izmantotas vairākus mēnešus.</item>
+        <item quantity="zero">%1$d lietotnes nav izmantotas vairākus mēnešus.</item>
+        <item quantity="one">%1$d lietotne nav izmantota vairākus mēnešus.</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s dienas</item>
+        <item quantity="zero">%s dienu</item>
+        <item quantity="one">%s diena</item>
+    </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">%s dienas</item>
+        <item quantity="zero">%s dienu</item>
+        <item quantity="one">%s diena</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">%s stundas</item>
+        <item quantity="zero">%s stundu</item>
+        <item quantity="one">%s stunda</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">%s minūtes</item>
+        <item quantity="zero">%s minūtes</item>
+        <item quantity="one">%s minūte</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">%s sekundes</item>
+        <item quantity="zero">%s sekunžu</item>
+        <item quantity="one">%s sekunde</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s stundas</item>
+        <item quantity="zero">%s stundu</item>
+        <item quantity="one">%s stunda</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s minūtes</item>
+        <item quantity="zero">%s minūšu</item>
+        <item quantity="one">%s minūte</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d jauni paziņojumi</item>
+        <item quantity="zero">%d jaunu paziņojumu</item>
+        <item quantity="one">%d jauns paziņojums</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s lietotnes</item>
+        <item quantity="zero">%s lietotnes</item>
+        <item quantity="one">%s lietotne</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s lietotnes</item>
+        <item quantity="zero">%s lietotņu</item>
+        <item quantity="one">%s lietotne</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">Izmantoja %1$d lietotnes</item>
+        <item quantity="zero">Izmantoja %1$d lietotnes</item>
+        <item quantity="one">Izmantoja %1$d lietotne</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"Pēdējā piekļuve: %1$s
+%2$s piekļuves gadījumi"</item>
+        <item quantity="zero">"Pēdējā piekļuve: %1$s
+%2$s piekļuves gadījumi"</item>
+        <item quantity="one">"Pēdējā piekļuve: %1$s
+%2$s piekļuves gadījums"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"Pēdējā piekļuve: %1$s
+%2$s piekļuves gadījumi (%3$s fonā)"</item>
+        <item quantity="zero">"Pēdējā piekļuve: %1$s
+%2$s piekļuves gadījumi (%3$s fonā)"</item>
+        <item quantity="one">"Pēdējā piekļuve: %1$s
+%2$s piekļuves gadījums (%3$s fonā)"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"Pēdējā piekļuve: %1$s
+%2$s piekļuves gadījumi (%3$s fonā)
+Ilgums: %3$s"</item>
+        <item quantity="zero">"Pēdējā piekļuve: %1$s
+%2$s piekļuves gadījumi (%3$s fonā)
+Ilgums: %3$s"</item>
+        <item quantity="one">"Pēdējā piekļuve: %1$s
+%2$s piekļuves gadījums (%3$s fonā)
+Ilgums: %3$s"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"Pēdējā piekļuve: %1$s
+%2$s piekļuves gadījumi
+Ilgums: %3$s"</item>
+        <item quantity="zero">"Pēdējā piekļuve: %1$s
+%2$s piekļuves gadījumi
+Ilgums: %3$s"</item>
+        <item quantity="one">"Pēdējā piekļuve: %1$s
+%2$s piekļuves gadījums
+Ilgums: %3$s"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s sekundes</item>
+        <item quantity="zero">%s sekunžu</item>
+        <item quantity="one">%s sekunde</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">%1$d neizmantotas lietotnes</item>
+        <item quantity="zero">%1$d neizmantotu lietotņu</item>
+        <item quantity="one">%1$d neizmantota lietotne</item>
+    </plurals>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">"ਕਿਰਪਾ ਕਰਕੇ ਆਪਣਾ ਪਾਸਵਰਡ ਦਾਖਲ ਕਰੋ ਅਤੇ ਪਰਿਵਰਤਨਸ਼ੀਲ ਸਿਸਟਮ ਅੱਪਡੇਟ 'ਤੇ ਜਾਰੀ ਰੱਖੋ"</string>
+    <string name="notification_action_cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="notification_action_discard">ਬਰਖਾਸਤ ਕਰੋ</string>
+    <string name="notification_action_reboot_to_dynsystem">ਮੁੜ-ਸ਼ੁਰੂ ਕਰੋ</string>
+    <string name="notification_action_reboot_to_origin">ਮੁੜ-ਸ਼ੁਰੂ ਕਰੋ</string>
+    <string name="notification_dynsystem_in_use">ਫ਼ਿਲਹਾਲ ਪਰਿਵਰਤਨਸ਼ੀਲ ਸਿਸਟਮ ਚੱਲ ਰਿਹਾ ਹੈ। ਮੂਲ Android ਵਰਜਨ ਵਰਤਣ ਲਈ ਮੁੜ-ਸ਼ੁਰੂ ਕਰੋ।</string>
+    <string name="notification_image_validation_failed">ਇਮੇਜ ਪ੍ਰਮਾਣਿਕਤਾ ਅਸਫਲ ਰਹੀ। ਸਥਾਪਨਾ ਨੂੰ ਰੱਦ ਕਰੋ।</string>
+    <string name="notification_install_completed">ਪਰਿਵਰਤਨਸ਼ੀਲ ਸਿਸਟਮ ਤਿਆਰ ਹੈ। ਇਸ ਦੀ ਵਰਤੋਂ ਸ਼ੁਰੂ ਕਰਨ ਲਈ, ਆਪਣਾ ਡੀਵਾਈਸ ਮੁੜ-ਸ਼ੁਰੂ ਕਰੋ।</string>
+    <string name="notification_install_failed">ਸਥਾਪਤ ਕਰਨਾ ਅਸਫਲ ਰਿਹਾ</string>
+    <string name="notification_install_inprogress">ਸਥਾਪਨਾ ਜਾਰੀ ਹੈ</string>
+    <string name="toast_dynsystem_discarded">ਪਰਿਵਰਤਨਸ਼ੀਲ ਸਿਸਟਮ ਰੱਦ ਕੀਤਾ ਗਿਆ</string>
+    <string name="toast_failed_to_disable_dynsystem">ਪਰਿਵਰਤਨਸ਼ੀਲ ਸਿਸਟਮ ਨੂੰ ਬੰਦ ਕਰਨਾ ਅਸਫਲ ਰਿਹਾ</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">ਪਰਿਵਰਤਨਸ਼ੀਲ ਸਿਸਟਮ ਮੁੜ-ਸ਼ੁਰੂ ਜਾਂ ਲੋਡ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ</string>
+</resources>

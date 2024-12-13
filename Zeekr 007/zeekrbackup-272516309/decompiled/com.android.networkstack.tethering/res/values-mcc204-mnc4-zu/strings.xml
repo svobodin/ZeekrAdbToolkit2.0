@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Vala i-hotspot</string>
+    <string name="no_upstream_notification_message">Amadivayisi awakwazi ukuxhuma ku-inthanethi</string>
+    <string name="no_upstream_notification_title">I-Hotspot ayina-inthanethi</string>
+    <string name="upstream_roaming_notification_message">Kungaba nezinkokhelo ezengeziwe uma uzula</string>
+    <string name="upstream_roaming_notification_title">I-Hotspot ivuliwe</string>
+    <string name="upstream_roaming_notification_continue_button">Qhubeka</string>
+</resources>

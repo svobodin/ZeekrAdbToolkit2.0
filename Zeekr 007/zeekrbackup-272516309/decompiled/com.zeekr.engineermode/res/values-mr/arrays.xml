@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>सिंत मार्टेन</item>
+        <item>कॅरिबियन नेदरलँड्स</item>
+        <item>कुरॅको</item>
+        <item>दक्षिण सुदान</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>ऑस्ट्रेलियन मध्य - NT</item>
+        <item>ऑस्ट्रेलियन मध्य - SA</item>
+        <item>ऑस्ट्रेलियन पूर्वीय - QLD</item>
+        <item>ऑस्ट्रेलियन पूर्वीय - NSW</item>
+        <item>माउंटन मानक - डॉसन क्रीक</item>
+        <item>मध्य मानक - सास्काचेवान</item>
+        <item>पूर्वीय मानक - अ‍ॅटिकोकन</item>
+        <item>अटलांटिक मानक - क्वेबेक</item>
+        <item>हवाई-अल्युशन - हवाई</item>
+        <item>हवाई-अल्युशन - अलास्का</item>
+        <item>पॅसिफिक मानक - मेट्‍लाकाट्‍ला</item>
+        <item>माउंटन मानक - ऍरिझोना</item>
+        <item>पॅसिफिक - बाजा कॅलिफोर्निया</item>
+        <item>माउंटन - चिहुआहुआ</item>
+        <item>मध्‍य - तमाउलिपस</item>
+        <item>माउंटन - सोनोरा</item>
+        <item>पूर्व आफ्रिका वेळ</item>
+        <item>अटलांटिक प्रमाणवेळ</item>
+        <item>अटलांटिक प्रमाणवेळ</item>
+        <item>पूर्व युरोपियन वेळ</item>
+        <item>कलिनिनग्राड वेळ</item>
+        <item>ऍमेझॉन - रोन्‍डोनिया</item>
+        <item>ब्रासिलिया - पॅरा</item>
+    </string-array>
+</resources>

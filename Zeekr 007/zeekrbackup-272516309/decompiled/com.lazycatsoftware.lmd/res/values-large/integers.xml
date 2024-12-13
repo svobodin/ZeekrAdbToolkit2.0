@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="columnLandscapeDefault">6</integer>
+    <integer name="columnLandscapeExtended">3</integer>
+    <integer name="columnLandscapeText">3</integer>
+    <integer name="columnPortraitDefault">4</integer>
+    <integer name="columnPortraitExtended">2</integer>
+    <integer name="columnPortraitText">2</integer>
+</resources>

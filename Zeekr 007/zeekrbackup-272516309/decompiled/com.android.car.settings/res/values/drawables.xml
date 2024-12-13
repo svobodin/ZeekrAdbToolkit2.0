@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="car_ui_activity_background">@color/car_ui_activity_background_color</item>
+    <item type="drawable" name="car_ui_icon_search_nav_icon">@drawable/car_ui_icon_arrow_back</item>
+    <item type="drawable" name="car_ui_ime_wide_screen_background">#ff000000</item>
+    <item type="drawable" name="car_ui_ime_wide_screen_content_area_background">#ff000000</item>
+    <item type="drawable" name="car_ui_ime_wide_screen_input_area_background">#ff000000</item>
+    <item type="drawable" name="car_ui_ime_wide_screen_input_area_tint_color">#fff5f5f5</item>
+    <item type="drawable" name="car_ui_ime_wide_screen_input_area_tint_error_color">#ffff0000</item>
+    <item type="drawable" name="car_ui_ime_wide_screen_no_content_background">#cc000000</item>
+    <item type="drawable" name="car_ui_preference_icon_chevron_disabled">@android:color/transparent</item>
+    <item type="drawable" name="car_ui_preference_icon_chevron_enabled">@drawable/car_ui_icon_chevron</item>
+    <item type="drawable" name="car_ui_toolbar_background">#e0000000</item>
+    <item type="drawable" name="car_ui_toolbar_search_close_icon">@drawable/car_ui_icon_close</item>
+    <item type="drawable" name="car_ui_toolbar_search_search_icon">@drawable/car_ui_icon_search</item>
+    <item type="drawable" name="material_ic_keyboard_arrow_next_black_24dp">@drawable/material_ic_keyboard_arrow_right_black_24dp</item>
+    <item type="drawable" name="material_ic_keyboard_arrow_previous_black_24dp">@drawable/material_ic_keyboard_arrow_left_black_24dp</item>
+    <item type="drawable" name="notification_template_icon_bg">#3333b5e5</item>
+    <item type="drawable" name="notification_template_icon_low_bg">#0cffffff</item>
+</resources>

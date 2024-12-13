@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_missing_private_key">Unatakiwa uwe na ufunguo wa faragha ili usakinishe cheti</string>
+    <string name="action_missing_user_cert">Unatakiwa uwe na cheti ili usakinishe ufunguo wa faragha</string>
+    <string name="app_name">Kisakinishaji Cheti</string>
+    <string name="ca_cert_is_added">Cheti cha CA kimesakinishwa</string>
+    <string name="ca_certificate">Cheti cha CA</string>
+    <string name="cert_missing_error">Haikuweza kusakinisha kwa sababu faili ya cheti haikupatikana.</string>
+    <string name="cert_not_saved">Cheti hakijasakinishwa.</string>
+    <string name="cert_read_error">Haikuweza kusakinisha kwa sababu faili ya cheti haikuweza kusomwa.</string>
+    <string name="cert_temp_error">Hitilafu ya muda. Tafadhali jaribu tena baadaye.</string>
+    <string name="cert_too_large_error">Haikuweza kusakinisha kwa sababu cheti ni kikubwa mno.</string>
+    <string name="certificate">Cheti</string>
+    <string name="certificate_capabilities_warning">Kidokezo: Huenda mtoaji wa cheti hiki akakagua data yote inayoingia na kutoka kwenye kifaa hiki.</string>
+    <string name="certificate_name">Jina la cheti</string>
+    <string name="credential_info">Furushi lina:</string>
+    <string name="credential_password">Chapisha nenosiri ili kudondoa vyeti.</string>
+    <string name="credential_usage_label">Matumizi ya kitambulisho:</string>
+    <string name="done_label">NIMEMALIZA</string>
+    <string name="extracting_pkcs12">Zinatolewa...</string>
+    <string name="install_done">Kitambulisho cha %1$s kimeongezwa kwenye mitandao iliyohifadhiwa ya Wi-Fi.</string>
+    <string name="install_done_title">Kitambulisho kimesakinishwa</string>
+    <string name="invalid_cert">Cheti ni batili.</string>
+    <string name="invalid_certificate_close_button">Funga</string>
+    <string name="invalid_certificate_message">Faili hii haiwezi kutumika kama %1$s</string>
+    <string name="invalid_certificate_title">Imeshindwa kutumia faili hii</string>
+    <string name="n_cacrts">Vyeti vya %d CA</string>
+    <string name="name_char_error">Chapisha jina ambalo lina herufi na nambari tu.</string>
+    <string name="name_credential_dialog_title">Kipe cheti hiki jina</string>
+    <string name="name_empty_error">Chapa jina.</string>
+    <string name="no_cert_to_saved">Hakuna cheti cha kusakinisha.</string>
+    <string name="one_cacrt">Cheti kimoja cha CA</string>
+    <string name="one_usercrt">cheti cha mtumiaji mmoja</string>
+    <string name="one_userkey">ufunguo wa mtumiaji mmoja</string>
+    <string name="only_primary_user_allowed">Mmiliki wa kifaa hiki tu ndiye awezaye kusakinisha vyeti.</string>
+    <string name="p12_description">Vyeti katika hifadhi-vitufe ya PKCS12.</string>
+    <string name="password_empty_error">Chapa nenosiri.</string>
+    <string name="password_error">Chapa nenosiri sahihi.</string>
+    <string name="pick_file_title">Chagua cheti</string>
+    <string name="pkcs12_file_password_dialog_title">Chopoa kutoka kwa %s</string>
+    <string name="pkcs12_password_dialog_title">Chopoa cheti</string>
+    <string name="redirect_ca_certificate_close_button">Funga</string>
+    <string name="redirect_ca_certificate_title">Sakinisha vyeti vya CA katika Mipangilio</string>
+    <string name="redirect_ca_certificate_with_app_info_message">Ni sharti usakinishe cheti hiki kutoka %1$s katika Mipangilio. Sakinisha vyeti vya CA kutoka mashirika unayoamini pekee.</string>
+    <string name="select_certificate_usage_title">Chagua aina ya cheti</string>
+    <string name="unable_to_save_cert">Haikuweza kuhifadhi cheti. Hifadhi ya hati haijawezeshwa au haijaanzilishwa vizuri.</string>
+    <string name="user_cert_is_added">Cheti cha mtumiaji kimesakinishwa</string>
+    <string name="user_certificate">Cheti cha mtumiaji wa programu na VPN</string>
+    <string name="userkey_type">Algoriti:</string>
+    <string name="wifi_cancel_label">Ghairi</string>
+    <string name="wifi_cert_is_added">Cheti cha Wi-Fi kimesakinishwa</string>
+    <string name="wifi_certificate">Cheti cha Wi-Fi</string>
+    <string name="wifi_config_text">"Jina: %1$s
+FQDN: %2$s
+Ubia wa Mashirika ya Watoa Huduma: %3$s
+Eneo: %4$s
+Mbinu ya uthibitishaji: EAP-%5$s
+"</string>
+    <string name="wifi_detail_label">Maelezo</string>
+    <string name="wifi_detail_title">Maelezo ya %s</string>
+    <string name="wifi_dismiss_label">Ondoa</string>
+    <string name="wifi_install_label">Sakinisha</string>
+    <string name="wifi_installer_detail">Sakinisha kitambulisho cha Wi-Fi ili uunganishe kwenye mitandao inayopatikana kupitia %1$s.</string>
+    <string name="wifi_installer_download_error">Faili iliyopakuliwa ina matatizo na haiwezi kusakinishwa. Hakikisha kuwa ulipakua faili hiyo kutoka chanzo sahihi.</string>
+    <string name="wifi_installer_fail">Haiwezi kusakinisha kitambulisho cha Wi-Fi. Jaribu kupakua faili tena.</string>
+    <string name="wifi_installer_fail_no_wifi">Washa Wi-Fi kisha ujaribu tena.</string>
+    <string name="wifi_installer_fail_no_wifi_title">Usakinishaji umeghairiwa</string>
+    <string name="wifi_installer_fail_title">Haiwezi kusakinisha</string>
+    <string name="wifi_installing_label">Inasakinisha</string>
+    <string name="wifi_no_config">Hamna</string>
+    <string name="wifi_sim_config_text">"SIM: %s
+"</string>
+    <string name="wifi_title">Wasifu wa Wi-Fi</string>
+    <string name="wifi_tls_config_text">"Cheti cha kiteja:
+%1$s
+Msimbo: %2$s
+"</string>
+    <string name="wifi_trust_config_text">"Cheti unachokiamini:
+%s
+"</string>
+    <string name="wifi_ttls_config_text">"Jina la mtumiaji: %s
+"</string>
+</resources>

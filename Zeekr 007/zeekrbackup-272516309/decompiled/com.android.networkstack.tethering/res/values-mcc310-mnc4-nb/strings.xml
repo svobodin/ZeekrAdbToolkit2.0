@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Slå av internettdeling</string>
+    <string name="no_upstream_notification_message">Enhetene kan ikke koble til</string>
+    <string name="no_upstream_notification_title">Internettdeling har ikke internettilgang</string>
+    <string name="upstream_roaming_notification_message">Ytterligere kostnader kan påløpe under roaming</string>
+    <string name="upstream_roaming_notification_title">Wi-Fi-sone eller internettdeling er på</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SuwCardTitle" parent="@style/SuwBaseCardTitle">
+        <item name="android:maxLines">6</item>
+    </style>
+</resources>

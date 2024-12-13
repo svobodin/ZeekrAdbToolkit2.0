@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">کیمرا ایپس</item>
+        <item quantity="one">کیمرا ایپ</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">ای میل کلائنٹ ایپس</item>
+        <item quantity="one">ای میل کلائنٹ ایپ</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">فون ایپس</item>
+        <item quantity="one">فون ایپ</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d کوششیں</item>
+        <item quantity="one">%d کوشش</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d ایپس</item>
+        <item quantity="one">%d ایپ</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">کم از کم %d ایپس</item>
+        <item quantity="one">کم از کم %d ایپ</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d نئی اطلاعات</item>
+        <item quantity="one">%d نئی اطلاع</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">‏%1$d آلات منسلک ہیں</item>
+        <item quantity="one">‏%1$d آلہ منسلک ہے</item>
+    </plurals>
+</resources>

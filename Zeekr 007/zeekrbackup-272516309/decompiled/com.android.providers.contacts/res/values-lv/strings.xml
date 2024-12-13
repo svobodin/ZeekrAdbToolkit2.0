@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Kontaktpersonu krātuve</string>
+    <string name="debug_dump_database_message">Jūs gatavojaties 1) iekšējā atmiņā izveidot savas datu bāzes kopiju, ietverot visu kontaktpersonu informāciju un visu zvanu žurnālu, un 2) nosūtīt to pa e-pastu. Dzēsiet kopiju, tiklīdz tā būs veiksmīgi kopēta no ierīces vai tiks saņemts attiecīgais e-pasta ziņojums.</string>
+    <string name="debug_dump_delete_button">Dzēst tūlīt</string>
+    <string name="debug_dump_email_body">Pielikumā ir pievienota mana kontaktpersonu datu bāze ar informāciju par visām manām kontaktpersonām. Rīkojieties uzmanīgi.</string>
+    <string name="debug_dump_email_sender_picker">Izvēlieties programmu, kuru izmantot faila nosūtīšanai</string>
+    <string name="debug_dump_email_subject">Pievienota kontaktpersonu datu bāze</string>
+    <string name="debug_dump_start_button">Sākt</string>
+    <string name="debug_dump_title">Kontaktpersonu datu bāzes kopēšana</string>
+    <string name="default_directory">Kontaktpersonas</string>
+    <string name="local_invisible_directory">Cits</string>
+    <string name="provider_label">Kontaktpersonas</string>
+    <string name="sharedUserLabel">Android Core Apps</string>
+    <string name="upgrade_out_of_memory_notification_text">Pieskarieties, lai pabeigtu jaunināšanu.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Lai jauninātu kontaktpersonas, nepieciešams vairāk vietas atmiņā.</string>
+    <string name="upgrade_out_of_memory_notification_title">Notiek kontaktpersonu krātuves jaunināšana</string>
+    <string name="voicemail_from_column">"Balss pasta ziņojums no "</string>
+</resources>

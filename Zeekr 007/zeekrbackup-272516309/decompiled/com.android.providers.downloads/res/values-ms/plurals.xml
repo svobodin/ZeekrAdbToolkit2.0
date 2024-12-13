@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_summary_active">
+        <item quantity="other">%d fail sedang dimuat turun</item>
+        <item quantity="one">1 fail sedang dimuat turun</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">%d fail sedang menunggu</item>
+        <item quantity="one">1 fail sedang menunggu</item>
+    </plurals>
+</resources>

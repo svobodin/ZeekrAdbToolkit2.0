@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Гадаад сан</string>
+    <string name="root_documents">Документүүд</string>
+    <string name="root_internal_storage">Дотоод сан</string>
+    <string name="storage_description">Дотоод сан</string>
+</resources>

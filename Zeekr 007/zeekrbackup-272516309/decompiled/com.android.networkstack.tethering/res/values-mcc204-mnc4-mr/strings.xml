@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">हॉटस्पॉट बंद करा</string>
+    <string name="no_upstream_notification_message">डिव्हाइस इंटरनेटला कनेक्ट करू शकत नाहीत</string>
+    <string name="no_upstream_notification_title">हॉटस्पॉटला इंटरनेट नाही</string>
+    <string name="upstream_roaming_notification_message">रोमिंगदरम्यान अतिरिक्त शुल्क लागू होऊ शकतात</string>
+    <string name="upstream_roaming_notification_title">हॉटस्पॉट सुरू आहे</string>
+    <string name="upstream_roaming_notification_continue_button">सुरू ठेवा</string>
+</resources>

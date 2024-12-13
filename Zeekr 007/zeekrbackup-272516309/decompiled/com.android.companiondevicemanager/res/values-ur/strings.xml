@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ساتھی آلہ مینیجر</string>
+    <string name="chooser_title">‏&lt;strong>%2$s&lt;/strong> کے ذریعے نظم کئے جانے کیلئے %1$s کو منتخب کریں</string>
+    <string name="confirmation_title">‏اپنے &lt;strong>%2$s&lt;/strong> کا نظم کرنے کے لیے ‎&lt;strong>%1$s&lt;/strong> کو اجازت دیں</string>
+    <string name="consent_no">اجازت نہ دیں</string>
+    <string name="consent_yes">اجازت دیں</string>
+    <string name="profile_name_generic">آلہ</string>
+    <string name="profile_name_watch">دیکھیں</string>
+    <string name="profile_summary">اس ایپ کو آپ کے %1$s کا نظم کرنے کی ضرورت ہے۔ %2$s</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_summary_active">
+        <item quantity="other">%d ficheiros a serem transferidos</item>
+        <item quantity="one">1 ficheiro a ser transferido</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">%d ficheiros em espera</item>
+        <item quantity="one">1 ficheiro em espera</item>
+    </plurals>
+</resources>

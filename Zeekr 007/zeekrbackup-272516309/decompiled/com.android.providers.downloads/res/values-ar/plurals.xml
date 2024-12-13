@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_summary_active">
+        <item quantity="other">جارٍ تنزيل %d ملف</item>
+        <item quantity="zero">جارٍ تنزيل %d ملف</item>
+        <item quantity="one">جارٍ تنزيل ملف واحد</item>
+        <item quantity="two">جارٍ تنزيل ملفين (%d)</item>
+        <item quantity="few">جارٍ تنزيل %d ملفات</item>
+        <item quantity="many">جارٍ تنزيل %d ملفًا</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">%d ملف في وضع الانتظار</item>
+        <item quantity="zero">%d ملف في وضع الانتظار</item>
+        <item quantity="one">ملف واحد في وضع الانتظار</item>
+        <item quantity="two">ملفان (%d) في وضع الانتظار</item>
+        <item quantity="few">%d ملفات في وضع الانتظار</item>
+        <item quantity="many">%d ملفًا في وضع الانتظار</item>
+    </plurals>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">تخزين جهات الاتصال</string>
+    <string name="debug_dump_database_message">أنت على وشك 1) إنشاء نسخة من قاعدة بياناتك التي تتضمن جميع المعلومات المرتبطة بجهات الاتصال وجميع سجلات المكالمات إلى وحدة التخزين الداخلية و2) إرسالها بالبريد الإلكتروني. تذكر حذف النسخة بمجرد إتمام نسخها من الجهاز أو تلقي الرسالة الإلكترونية.</string>
+    <string name="debug_dump_delete_button">الحذف الآن</string>
+    <string name="debug_dump_email_body">قاعدة بيانات جهات اتصالي والتي تحتوي على جميع المعلومات ذات الصلة بجهات الاتصال مرفقة. يرجى التعامل معها بحرص.</string>
+    <string name="debug_dump_email_sender_picker">اختر أحد البرامج لإرسال الملف</string>
+    <string name="debug_dump_email_subject">قاعدة بيانات جهات الاتصال مرفقة</string>
+    <string name="debug_dump_start_button">البداية</string>
+    <string name="debug_dump_title">نسخ قاعدة بيانات جهات الاتصال</string>
+    <string name="default_directory">جهات الاتصال</string>
+    <string name="local_invisible_directory">غير ذلك</string>
+    <string name="provider_label">جهات الاتصال</string>
+    <string name="sharedUserLabel">‏تطبيقات Android المركزية</string>
+    <string name="upgrade_out_of_memory_notification_text">انقر لإكمال الترقية.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">تتطلب ترقية جهات الاتصال مزيدًا من الذاكرة.</string>
+    <string name="upgrade_out_of_memory_notification_title">ترقية وحدة التخزين لجهات الاتصال</string>
+    <string name="voicemail_from_column">"بريد صوتي من "</string>
+</resources>

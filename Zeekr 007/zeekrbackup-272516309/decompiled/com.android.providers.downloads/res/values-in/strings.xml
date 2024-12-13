@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Pengelola Download</string>
+    <string name="button_cancel_download">Batal</string>
+    <string name="button_queue_for_wifi">Antrean</string>
+    <string name="button_start_now">Mulai sekarang</string>
+    <string name="download_error">Gagal</string>
+    <string name="download_no_application_title">Tidak dapat membuka file</string>
+    <string name="download_queued">Diantrekan</string>
+    <string name="download_remaining">%s lagi</string>
+    <string name="download_running">Dalam proses</string>
+    <string name="download_running_percent">Dalam proses, %s</string>
+    <string name="download_unknown_title">&lt;Tanpa judul></string>
+    <string name="notification_download_complete">Download selesai.</string>
+    <string name="notification_download_failed">Download gagal.</string>
+    <string name="notification_need_wifi_for_size">Ukuran download memerlukan Wi-Fi.</string>
+    <string name="notification_paused_in_background">Dijeda di latar belakang.</string>
+    <string name="permdesc_accessAllDownloads">Mengizinkan apl melihat dan memodifikasi semua download yang dimulai oleh apl apa pun pada sistem.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Mengizinkan apl mendownload file ke cache download yang tidak dapat dihapus secara otomatis saat pengelola download memerlukan lebih banyak ruang.</string>
+    <string name="permdesc_downloadCompletedIntent">Mengizinkan aplikasi mengirim pemberitahuan tentang download yang telah diselesaikan. Aplikasi berbahaya dapat menggunakan ini untuk mengacaukan aplikasi lain yang mendownload file.</string>
+    <string name="permdesc_downloadManager">Mengizinkan aplikasi mengakses pengelola download dan menggunakannya untuk mendownload file. Aplikasi berbahaya dapat menggunakan ini untuk mengganggu download dan mengakses informasi pribadi.</string>
+    <string name="permdesc_downloadManagerAdvanced">Mengizinkan aplikasi mengakses fungsi lanjutan pengelola download. Aplikasi berbahaya dapat menggunakan ini untuk mengganggu download dan mengakses informasi pribadi.</string>
+    <string name="permdesc_downloadWithoutNotification">Mengizinkan apl mendownload file melalui pengelola download tanpa menampilkan pemberitahuan apa pun kepada pengguna.</string>
+    <string name="permlab_accessAllDownloads">Akses semua download sistem</string>
+    <string name="permlab_downloadCacheNonPurgeable">Ruang penyimpanan dalam cache download</string>
+    <string name="permlab_downloadCompletedIntent">Kirim pemberitahuan download.</string>
+    <string name="permlab_downloadManager">Akses pengelola download.</string>
+    <string name="permlab_downloadManagerAdvanced">Fungsi pengelola download lanjutan</string>
+    <string name="permlab_downloadWithoutNotification">download file tanpa pemberitahuan</string>
+    <string name="root_downloads">Download</string>
+    <string name="storage_description">Download</string>
+    <string name="wifi_recommended_body">"Memulai download %1$s  ini sekarang dapat mempersingkat masa pakai baterai Anda dan/atau menyebabkan penggunaan berlebih dari sambungan data seluler, yang dapat berakibat dikenai tagihan oleh operator ponsel, tergantung paket data Anda.
+
+ Sentuh %2$s untuk memulai download ini saat Anda terhubung lagi ke jaringan Wi-Fi."</string>
+    <string name="wifi_recommended_title">Antrekan untuk didownload nanti?</string>
+    <string name="wifi_required_body">"Anda harus menggunakan Wi-Fi untuk menyelesaikan download %1$s  ini. 
+
+Sentuh %2$s  untuk memulai download ini saat Anda terhubung lagi ke jaringan Wi-Fi."</string>
+    <string name="wifi_required_title">Download terlalu besar untuk jaringan operator</string>
+</resources>

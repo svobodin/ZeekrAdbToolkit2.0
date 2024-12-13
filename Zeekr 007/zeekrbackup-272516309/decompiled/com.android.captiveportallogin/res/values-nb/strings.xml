@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Logg på nettverk</string>
+    <string name="action_bar_title">Logg på %1$s</string>
+    <string name="action_do_not_use_network">Ikke bruk dette nettverket</string>
+    <string name="action_use_network">Bruk dette nettverket som det er</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">Varsler viser fremdriften til filnedlastinger</string>
+    <string name="channel_description_downloads">Varsler viser fullførte eller avbrutte nedlastinger</string>
+    <string name="channel_name_download_progress">Nedlastingsfremdrift</string>
+    <string name="channel_name_downloads">Nedlastinger</string>
+    <string name="custom_scheme_example">Det er for eksempel mulig at påloggingssiden krever en spesifikk app for autentisering</string>
+    <string name="custom_scheme_warning">Nettverket du prøver å koble til, ber om å åpne en annen app.</string>
+    <string name="download_completed">Nedlastingen er fullført</string>
+    <string name="downloading_paramfile">Laster ned %1$s</string>
+    <string name="error_continue_via_browser">Fortsett likevel via nettleseren</string>
+    <string name="error_downloading_paramfile">Kunne ikke laste ned %1$s</string>
+    <string name="no_bypass_error_vpnwarning">I tillegg er det ikke mulig å omgå denne feilen fordi enheten for øyeblikket kjører et VPN.</string>
+    <string name="ok">OK</string>
+    <string name="page_info">Sideinformasjon</string>
+    <string name="page_info_address">Adresse:</string>
+    <string name="ssl_error_date_invalid">Dette sertifikatet har en ugyldig dato.</string>
+    <string name="ssl_error_example">Det er for eksempel mulig at påloggingssiden kanskje ikke tilhører organisasjonen som vises.</string>
+    <string name="ssl_error_expired">Sertifikatet er utløpt.</string>
+    <string name="ssl_error_invalid">Dette sertifikatet er ugyldig.</string>
+    <string name="ssl_error_mismatch">Navnet på nettstedet samsvarer ikke med navnet på sertifikatet.</string>
+    <string name="ssl_error_not_yet_valid">Sertifikatet er ikke gyldig ennå.</string>
+    <string name="ssl_error_unknown">Ukjent sertifikatfeil.</string>
+    <string name="ssl_error_untrusted">Sertifikatet er ikke fra en pålitelig myndighet.</string>
+    <string name="ssl_error_view_certificate">Vis sertifikatet</string>
+    <string name="ssl_error_warning">Nettverket du prøver å logge på, har sikkerhetsproblemer.</string>
+    <string name="ssl_security_warning_title">Sikkerhetsadvarsel</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

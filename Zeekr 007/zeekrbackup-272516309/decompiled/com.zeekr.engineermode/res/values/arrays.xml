@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="android_choose">
+        <item>模块设置</item>
+        <item>全局设置</item>
+    </string-array>
+    <string-array name="backup_country_codes">
+        <item>SX</item>
+        <item>BQ</item>
+        <item>CW</item>
+        <item>SS</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Sint Maarten</item>
+        <item>Caribbean Netherlands</item>
+        <item>Curaçao</item>
+        <item>South Sudan</item>
+    </string-array>
+    <string-array name="bt_89072">
+        <item>打开</item>
+        <item>关闭</item>
+    </string-array>
+    <string-array name="camera_option">
+        <item>点击选择</item>
+        <item>ADCU 360</item>
+        <item>PAS3 360</item>
+        <item>ADCU DVR/RVMC</item>
+        <item>DVR</item>
+        <item>RVMC</item>
+        <item>DMC</item>
+        <item>OMC 1</item>
+        <item>OMC 2</item>
+    </string-array>
+    <string-array name="engineermode_item_name">
+        <item>Log 设置</item>
+        <item>ADB</item>
+        <item>WiFi</item>
+        <item>软件信息</item>
+        <item>OTA升级</item>
+        <item>启动模式</item>
+        <item>car信息查询</item>
+        <item>Audio Dump</item>
+        <item>Camera 模块</item>
+        <item>心跳模块</item>
+    </string-array>
+    <string-array name="fm_am_info_engineer">
+        <item>Frequency</item>
+        <item>WBAM</item>
+        <item>USN</item>
+        <item>Quality</item>
+        <item>Level</item>
+    </string-array>
+    <string-array name="log_choose">
+        <item>安卓</item>
+        <item>QNX</item>
+        <item>VIP</item>
+        <item>转储日志</item>
+        <item>清除日志</item>
+        <item>恢复默认等级</item>
+    </string-array>
+    <string-array name="log_qnx_mould_name">
+        <item>QNX_exlap</item>
+        <item>QNX_Dimming</item>
+        <item>QNX_settingservices</item>
+        <item>QNX_sceneengine</item>
+        <item>QNX_priowatchdog</item>
+        <item>QNX_tskmanager</item>
+        <item>QNX_message sender</item>
+        <item>QNX_pm_application_core</item>
+        <item>QNX_CommonDebug</item>
+        <item>QNX_guestmonitor</item>
+        <item>QNX_procman_test</item>
+        <item>QNX_system_record</item>
+        <item>QNX_LoadCount</item>
+        <item>QNX_ecd_fdbus</item>
+        <item>QNX_AudioController</item>
+        <item>QNX_swc</item>
+        <item>QNX_fusamanager</item>
+        <item>QNX_adasmanager</item>
+        <item>QNX_AudioControlLayer</item>
+        <item>QNX_AclTester</item>
+    </string-array>
+    <string-array name="log_qnx_mould_name_code">
+        <item>procman</item>
+        <item>test1</item>
+        <item>PPSService</item>
+        <item>earlytt</item>
+        <item>cluster</item>
+        <item>hud</item>
+        <item>serialmanager</item>
+        <item>odigateway</item>
+        <item>systemstate</item>
+        <item>alertmanager</item>
+        <item>chimemanager</item>
+        <item>diags</item>
+        <item>infotainment</item>
+        <item>otautil</item>
+        <item>instrument_panel_settings</item>
+        <item>persistent_storage</item>
+        <item>state_of_health</item>
+        <item>ecd</item>
+        <item>animation</item>
+        <item>decode1</item>
+        <item>decode2</item>
+        <item>decode3</item>
+        <item>camera</item>
+        <item>test_camera</item>
+        <item>diagnosticsmanager</item>
+        <item>persistenceservices</item>
+        <item>persistencemanager</item>
+        <item>persistenceshell</item>
+        <item>systemmanager</item>
+        <item>traceserver</item>
+        <item>layermanager</item>
+        <item>layermanagertool</item>
+        <item>imageviewer</item>
+        <item>hwconfig</item>
+        <item>hwconfigtool</item>
+        <item>lcdtesttool</item>
+        <item>PITS</item>
+        <item>Mcorelogger</item>
+        <item>ota_installer</item>
+        <item>RB_UA</item>
+        <item>onlineservices</item>
+        <item>rearviewcam</item>
+        <item>exlap</item>
+        <item>Dimming</item>
+        <item>settingservices</item>
+        <item>priowatchdog</item>
+        <item>tskmanager</item>
+        <item>message sender</item>
+        <item>PowerManager</item>
+        <item>CommonDebug</item>
+        <item>guestmonitor</item>
+        <item>procman test</item>
+    </string-array>
+    <string-array name="log_vip_mould_name">
+        <item>VIP_SYSTEM</item>
+        <item>VIP_ODI</item>
+        <item>VIP_HISIP</item>
+        <item>VIP_POWERSEQ</item>
+        <item>VIP_ADC</item>
+        <item>VIP_POWERMODE</item>
+        <item>VIP_SETTINGSERVICE</item>
+        <item>VIP_AudioAmp</item>
+        <item>VIP_DVRSERVICE</item>
+        <item>VIP_CONFIGURE</item>
+        <item>VIP_SCENEENGINE</item>
+        <item>VIP_CARCONFIG</item>
+        <item>VIP_FLEXRAY</item>
+    </string-array>
+    <string-array name="qnx_choose">
+        <item>模块设置</item>
+        <item>全局设置</item>
+    </string-array>
+    <string-array name="soft_info_engineer">
+        <item>Ap Version</item>
+        <item>HW PN</item>
+        <item>Production Data</item>
+        <item>Serial Number</item>
+        <item>VIN</item>
+        <item>BoardID</item>
+        <item>VIP Version</item>
+        <item>GP Version</item>
+        <item>Customer Version</item>
+    </string-array>
+    <string-array name="str_info_engineer">
+        <item>Fast boot during STR duration:</item>
+        <item>Normal startup after STR timeout:</item>
+        <item>Normal startup after receiving the bus signal and meeting the Stop STR condition:</item>
+        <item>Reset from Error mode:</item>
+    </string-array>
+    <string-array name="timezone_rename_ids">
+        <item>Australia/Darwin</item>
+        <item>Australia/Adelaide</item>
+        <item>Australia/Brisbane</item>
+        <item>Australia/Sydney</item>
+        <item>America/Dawson_Creek</item>
+        <item>America/Regina</item>
+        <item>America/Atikokan</item>
+        <item>America/Blanc-Sablon</item>
+        <item>Pacific/Honolulu</item>
+        <item>America/Adak</item>
+        <item>America/Metlakatla</item>
+        <item>America/Phoenix</item>
+        <item>America/Tijuana</item>
+        <item>America/Ojinaga</item>
+        <item>America/Matamoros</item>
+        <item>America/Hermosillo</item>
+        <item>Africa/Juba</item>
+        <item>America/Kralendijk</item>
+        <item>America/Lower_Princes</item>
+        <item>Europe/Minsk</item>
+        <item>Europe/Kaliningrad</item>
+        <item>America/Porto_Velho</item>
+        <item>America/Belem</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Australian Central - NT</item>
+        <item>Australian Central - SA</item>
+        <item>Australian Eastern - QLD</item>
+        <item>Australian Eastern - NSW</item>
+        <item>Mountain Standard - Dawson Creek</item>
+        <item>Central Standard - Saskatchewan</item>
+        <item>Eastern Standard - Atikokan</item>
+        <item>Atlantic Standard - Quebec</item>
+        <item>Hawaii-Aleutian - Hawaii</item>
+        <item>Hawaii-Aleutian - Alaska</item>
+        <item>Pacific Standard - Metlakatla</item>
+        <item>Mountain Standard - Arizona</item>
+        <item>Pacific - Baja California</item>
+        <item>Mountain - Chihuahua</item>
+        <item>Central - Tamaulipas</item>
+        <item>Mountain - Sonora</item>
+        <item>East Africa Time</item>
+        <item>Atlantic Standard Time</item>
+        <item>Atlantic Standard Time</item>
+        <item>Eastern European Time</item>
+        <item>Kaliningrad Time</item>
+        <item>Amazon - Rondônia</item>
+        <item>Brasilia - Pará</item>
+    </string-array>
+    <string-array name="vehicle_delay_setting">
+        <item>转向多模式延时</item>
+        <item>智能启停</item>
+        <item>无线充电</item>
+        <item>HUD开关</item>
+        <item>HUD高度</item>
+        <item>方向盘加热</item>
+        <item>前向辅助系统</item>
+        <item>侧后辅助系统</item>
+        <item>车道辅助系统</item>
+        <item>交通标志信息</item>
+        <item>专家模式_ESP设置</item>
+        <item>专家模式_驱动模式设置</item>
+    </string-array>
+    <string-array name="vip_choose">
+        <item>模块设置</item>
+        <item>全局设置</item>
+    </string-array>
+    <string-array name="wifi_bt_info_engineer">
+        <item>WIFI firmware version</item>
+        <item>WIFI MAC address</item>
+        <item>IP address</item>
+        <item>Connected AP Mac address</item>
+        <item>Connected device list MAC address</item>
+    </string-array>
+</resources>

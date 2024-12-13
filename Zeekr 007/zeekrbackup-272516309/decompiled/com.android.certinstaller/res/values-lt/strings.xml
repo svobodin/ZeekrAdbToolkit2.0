@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_missing_private_key">Norint įdiegti sertifikatą būtinas privatus raktas</string>
+    <string name="action_missing_user_cert">Norint įdiegti privatų raktą būtinas sertifikatas</string>
+    <string name="app_name">Sertifikato diegimo programa</string>
+    <string name="ca_cert_is_added">CA sertifikatas įdiegtas</string>
+    <string name="ca_certificate">CA sertifikatas</string>
+    <string name="cert_missing_error">Nepavyko įdiegti, nes nepavyko rasti sertifikato failo.</string>
+    <string name="cert_not_saved">Sertifikatas neįdiegtas.</string>
+    <string name="cert_read_error">Nepavyko įdiegti, nes nepavyko nuskaityti sertifikato failo.</string>
+    <string name="cert_temp_error">Laikina klaida. Vėliau bandykite dar kartą.</string>
+    <string name="cert_too_large_error">Nepavyko įdiegti, nes sertifikatas per didelis.</string>
+    <string name="certificate">Sertifikatas</string>
+    <string name="certificate_capabilities_warning">Pastaba: šio sertifikato išdavėjas gali tikrinti visą srautą į įrenginį ir iš jo.</string>
+    <string name="certificate_name">Sertifikato pavadinimas</string>
+    <string name="credential_info">Pakete yra:</string>
+    <string name="credential_password">Įveskite slaptažodį, kad išarchyvuotumėte sertifikatus.</string>
+    <string name="credential_usage_label">Kredencialų naudojimas:</string>
+    <string name="done_label">ATLIKTA</string>
+    <string name="extracting_pkcs12">Išarchyvuojama...</string>
+    <string name="install_done">„%1$s“ prisijungimo duomenys pridėti prie „Wi-Fi“ išsaugotų tinklų.</string>
+    <string name="install_done_title">Prisijungimo duomenys įdiegti</string>
+    <string name="invalid_cert">Sertifikatas negalioja.</string>
+    <string name="invalid_certificate_close_button">Uždaryti</string>
+    <string name="invalid_certificate_message">Šio failo negalima naudoti kaip: %1$s</string>
+    <string name="invalid_certificate_title">Šio failo naudoti negalima</string>
+    <string name="n_cacrts">%d CA sertifikatai</string>
+    <string name="name_char_error">Įveskite pavadinimą, sudarytą tik iš raidžių ir skaičių.</string>
+    <string name="name_credential_dialog_title">Suteikite šiam sertifikatui pavadinimą</string>
+    <string name="name_empty_error">Įveskite pavadinimą.</string>
+    <string name="no_cert_to_saved">Nėra diegiamo sertifikato.</string>
+    <string name="one_cacrt">vienas CA sertifikatas</string>
+    <string name="one_usercrt">vieno naudotojo sertifikatas</string>
+    <string name="one_userkey">vieno naudotojo raktas</string>
+    <string name="only_primary_user_allowed">Tik įrenginio savininkas gali įdiegti sertifikatus.</string>
+    <string name="p12_description">Sertifikatai PKCS12 raktų saugykloje.</string>
+    <string name="password_empty_error">Įveskite slaptažodį.</string>
+    <string name="password_error">Įveskite teisingą slaptažodį.</string>
+    <string name="pick_file_title">Pasirinkite sertifikatą</string>
+    <string name="pkcs12_file_password_dialog_title">Ištrauka iš %s</string>
+    <string name="pkcs12_password_dialog_title">Išskleisti sertifikatą</string>
+    <string name="redirect_ca_certificate_close_button">Uždaryti</string>
+    <string name="redirect_ca_certificate_title">CA sertifikatus diegimas skiltyje „Nustatymai“</string>
+    <string name="redirect_ca_certificate_with_app_info_message">Šis „%1$s“ sertifikatas turi būti įdiegtas skiltyje „Nustatymai“. CA sertifikatus įdiekite tik iš patikimų organizacijų.</string>
+    <string name="select_certificate_usage_title">Pasirinkite sertifikato tipą</string>
+    <string name="unable_to_save_cert">Nepavyko išsaugoti sertifikato. Prisijungimo duomenų saugykla neįgalinta arba netinkamai inicijuota.</string>
+    <string name="user_cert_is_added">Naudotojo sertifikatas įdiegtas</string>
+    <string name="user_certificate">VPN ir programos naudotojo sertifikatas</string>
+    <string name="userkey_type">Algoritmas:</string>
+    <string name="wifi_cancel_label">Atšaukti</string>
+    <string name="wifi_cert_is_added">„Wi‑Fi“ sertifikatas įdiegtas</string>
+    <string name="wifi_certificate">„Wi‑Fi“ sertifikatas</string>
+    <string name="wifi_config_text">"Pavadinimas: %1$s
+FQDN: %2$s
+Tarptinklinio ryšio konsorciumai: %3$s
+Sritis: %4$s
+Autentifikavimo metodas: EAP-%5$s
+"</string>
+    <string name="wifi_detail_label">Išsami informacija</string>
+    <string name="wifi_detail_title">Išsami %s informacija</string>
+    <string name="wifi_dismiss_label">Atsisakyti</string>
+    <string name="wifi_install_label">Įdiegti</string>
+    <string name="wifi_installer_detail">Įdiekite „Wi-Fi“ prisijungimo duomenis, kad prisijungtumėte prie tinklų, pasiekiamų per „%1$s“.</string>
+    <string name="wifi_installer_download_error">Kilo problemų dėl atsisiųsto failo ir jo negalima įdiegti. Įsitikinkite, kad failą atsisiuntėte iš tinkamo šaltinio.</string>
+    <string name="wifi_installer_fail">Nepavyko įdiegti „Wi-Fi“ prisijungimo duomenų. Pabandykite atsisiųsti failą iš naujo.</string>
+    <string name="wifi_installer_fail_no_wifi">Įjunkite „Wi-Fi“ ryšį ir bandykite dar kartą.</string>
+    <string name="wifi_installer_fail_no_wifi_title">Diegimo procesas atšauktas</string>
+    <string name="wifi_installer_fail_title">Nepavyko įdiegti</string>
+    <string name="wifi_installing_label">Diegiama</string>
+    <string name="wifi_no_config">Nėra</string>
+    <string name="wifi_sim_config_text">"SIM: %s
+"</string>
+    <string name="wifi_title">„Wi-Fi“ profilis</string>
+    <string name="wifi_tls_config_text">"Kliento sertifikatas:
+%1$s
+Raktas: %2$s
+"</string>
+    <string name="wifi_trust_config_text">"Patikimumo sertifikatas:
+%s
+"</string>
+    <string name="wifi_ttls_config_text">"Naudotojo vardas: %s
+"</string>
+</resources>

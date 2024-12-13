@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">"Hotspot'u deaktiv edin"</string>
+    <string name="no_upstream_notification_message">Cihazlar internetə qoşula bilmir</string>
+    <string name="no_upstream_notification_title">Hotspotun internetə girişi yoxdur</string>
+    <string name="upstream_roaming_notification_message">Rouminq zamanı əlavə ödənişlər tətbiq edilə bilər</string>
+    <string name="upstream_roaming_notification_title">Hotspot aktivdir</string>
+    <string name="upstream_roaming_notification_continue_button">Davam edin</string>
+</resources>

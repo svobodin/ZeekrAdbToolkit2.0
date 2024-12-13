@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="disable_tether_notification_message">詳情請洽你的管理員</string>
+    <string name="disable_tether_notification_title">網路共用已停用</string>
+    <string name="no_upstream_notification_disable_button" />
+    <string name="no_upstream_notification_message" />
+    <string name="no_upstream_notification_title" />
+    <string name="notification_channel_tethering_status">無線基地台與網路共用狀態</string>
+    <string name="tethered_notification_message">輕觸即可進行設定。</string>
+    <string name="tethered_notification_title">網路共用或無線基地台已啟用</string>
+    <string name="upstream_roaming_notification_message" />
+    <string name="upstream_roaming_notification_title" />
+</resources>

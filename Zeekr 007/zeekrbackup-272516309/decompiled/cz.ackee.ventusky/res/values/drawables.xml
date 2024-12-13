@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="common_google_signin_btn_icon_dark">false</item>
+    <item type="drawable" name="common_google_signin_btn_icon_dark_focused">false</item>
+    <item type="drawable" name="common_google_signin_btn_icon_dark_normal">false</item>
+    <item type="drawable" name="common_google_signin_btn_icon_disabled">false</item>
+    <item type="drawable" name="common_google_signin_btn_icon_light">false</item>
+    <item type="drawable" name="common_google_signin_btn_icon_light_focused">false</item>
+    <item type="drawable" name="common_google_signin_btn_icon_light_normal">false</item>
+    <item type="drawable" name="common_google_signin_btn_text_dark">false</item>
+    <item type="drawable" name="common_google_signin_btn_text_dark_focused">false</item>
+    <item type="drawable" name="common_google_signin_btn_text_dark_normal">false</item>
+    <item type="drawable" name="common_google_signin_btn_text_disabled">false</item>
+    <item type="drawable" name="common_google_signin_btn_text_light">false</item>
+    <item type="drawable" name="common_google_signin_btn_text_light_focused">false</item>
+    <item type="drawable" name="common_google_signin_btn_text_light_normal">false</item>
+    <item type="drawable" name="material_ic_keyboard_arrow_next_black_24dp">@drawable/material_ic_keyboard_arrow_right_black_24dp</item>
+    <item type="drawable" name="material_ic_keyboard_arrow_previous_black_24dp">@drawable/material_ic_keyboard_arrow_left_black_24dp</item>
+    <item type="drawable" name="notification_template_icon_bg">#3333b5e5</item>
+    <item type="drawable" name="notification_template_icon_low_bg">#0cffffff</item>
+</resources>

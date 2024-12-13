@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">カメラアプリ</item>
+        <item quantity="one">カメラアプリ</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">メール クライアント アプリ</item>
+        <item quantity="one">メール クライアント アプリ</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">電話アプリ</item>
+        <item quantity="one">電話アプリ</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">入力回数: %d 回</item>
+        <item quantity="one">入力回数: %d 回</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d 個のアプリ</item>
+        <item quantity="one">%d 個のアプリ</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">アプリ %d 個以上</item>
+        <item quantity="one">アプリ %d 個以上</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d 件の新しい通知</item>
+        <item quantity="one">%d 件の新しい通知</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d 台のデバイスが接続されています</item>
+        <item quantity="one">%1$d 台のデバイスが接続されています</item>
+    </plurals>
+</resources>

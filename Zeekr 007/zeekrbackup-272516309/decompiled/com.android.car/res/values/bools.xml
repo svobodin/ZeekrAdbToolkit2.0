@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="audioPersistMasterMuteState">true</bool>
+    <bool name="audioUseCarVolumeGroupMuting">true</bool>
+    <bool name="audioUseDynamicRouting">true</bool>
+    <bool name="audioUseHalDuckingSignals">true</bool>
+    <bool name="config_callButtonEndsOngoingCall">false</bool>
+    <bool name="config_hspa_data_distinguishable">false</bool>
+    <bool name="config_materialPreferenceIconSpaceReserved">false</bool>
+    <bool name="config_mediaSourceIndependentPlayback">false</bool>
+    <bool name="config_preventTemplatedAppsFromShowingDialog">true</bool>
+    <bool name="config_projectionAccessPointTethering">false</bool>
+    <bool name="config_showMin3G">false</bool>
+    <bool name="config_stableLocalOnlyHotspotConfig">false</bool>
+    <bool name="config_switchGuestUserBeforeGoingSleep">true</bool>
+    <bool name="config_wifiAdjustmentForSuspend">false</bool>
+    <bool name="displayOffMuteLockAllAudio">true</bool>
+    <bool name="enableActivityBlockingForSafety">true</bool>
+    <bool name="enableAutoConnecting">true</bool>
+    <bool name="enableLongPressBluetoothVoiceRecognition">true</bool>
+    <bool name="enablePassengerSupport">false</bool>
+    <bool name="enableProfileUserAssignmentForMultiDisplay">false</bool>
+    <bool name="fastPairAutomaticAcceptance">false</bool>
+    <bool name="is_tablet">false</bool>
+    <bool name="mtrl_btn_textappearance_all_caps">true</bool>
+    <bool name="settingslib_config_allow_divider">false</bool>
+    <bool name="settingslib_config_icon_space_reserved">false</bool>
+    <bool name="simple_cache_enable_im_memory">false</bool>
+    <bool name="useDefaultBluetoothConnectionPolicy">true</bool>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Activity Stub</string>
+    <string name="message_not_supported">No application can handle this action</string>
+    <string name="pip_not_supported">Picture-in-picture is not supported on this device</string>
+    <string name="stub_name">None</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Deaktiver hotspot</string>
+    <string name="no_upstream_notification_message">Enheder kan ikke oprette forbindelse til internettet</string>
+    <string name="no_upstream_notification_title">Hotspottet har intet internet</string>
+    <string name="upstream_roaming_notification_message">Der opkræves muligvis yderligere gebyrer ved roaming</string>
+    <string name="upstream_roaming_notification_title">Hotspottet er aktiveret</string>
+    <string name="upstream_roaming_notification_continue_button">Fortsæt</string>
+</resources>

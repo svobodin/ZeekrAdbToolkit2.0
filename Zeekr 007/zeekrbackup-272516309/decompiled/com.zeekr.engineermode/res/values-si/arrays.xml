@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>සින්ට් මාර්ටන්</item>
+        <item>කැරිබියානු නෙදර්ලන්තය</item>
+        <item>කියුරැකො</item>
+        <item>දකුණු සුඩානය</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>මධ්‍යම ඕස්ට්‍රේලියානු - NT</item>
+        <item>මධ්‍යම ඕස්ට්‍රේලියානු - SA</item>
+        <item>පෙරදිග ඕස්ට්‍රේලියානු - QLD</item>
+        <item>පෙරදිග ඕස්ට්‍රේලියානු - NSW</item>
+        <item>සම්මත කඳුකර - ඩෝසන් ක්‍රීක්</item>
+        <item>සම්මත මධ්‍යම - සස්කචෙවාන්</item>
+        <item>සම්මත පෙරදිග - ඇටිකොකාන්</item>
+        <item>සම්මත අත්ලාන්තික් - ක්යුබෙක්</item>
+        <item>හවායි-අලෙවුතියන් - හවායි</item>
+        <item>හවායි-අලෙවුතියන් - ඇලස්කාව</item>
+        <item>සම්මත පැසිෆික් - මෙට්ලකට්ලා</item>
+        <item>සම්මත කඳුකර - ඇරිසෝනා</item>
+        <item>පැසිෆික් - බාජා කැලිෆෝනියා</item>
+        <item>කඳුකර - චිහුආහුආ</item>
+        <item>මධ්‍යම - ටමවුලිපාස්</item>
+        <item>කඳුකරය - සොනෝරා</item>
+        <item>නැගෙනහිර අප්‍රිකානු වේලාව</item>
+        <item>සම්මත අත්ලාන්තික් වේලාව</item>
+        <item>සම්මත අත්ලාන්තික් වේලාව</item>
+        <item>නැගෙනහිර යුරෝපා වේලාව</item>
+        <item>කලිනින්ග්‍රාඩ් වේලාව</item>
+        <item>ඇමේසන් - රොන්ඩොනියා</item>
+        <item>බ්‍රසිලියා - පාරා</item>
+    </string-array>
+</resources>

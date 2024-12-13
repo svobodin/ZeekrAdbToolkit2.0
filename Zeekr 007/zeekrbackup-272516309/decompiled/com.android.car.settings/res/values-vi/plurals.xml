@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">Ứng dụng máy ảnh</item>
+        <item quantity="one">Ứng dụng máy ảnh</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">Ứng dụng email khách</item>
+        <item quantity="one">Ứng dụng email khách</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">Ứng dụng điện thoại</item>
+        <item quantity="one">Ứng dụng điện thoại</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d lần thử</item>
+        <item quantity="one">%d lần thử</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d ứng dụng</item>
+        <item quantity="one">%d ứng dụng</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">Tối thiểu %d ứng dụng</item>
+        <item quantity="one">Tối thiểu %d ứng dụng</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d thông báo mới</item>
+        <item quantity="one">%d thông báo mới</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d thiết bị đã kết nối</item>
+        <item quantity="one">%1$d thiết bị đã kết nối</item>
+    </plurals>
+</resources>

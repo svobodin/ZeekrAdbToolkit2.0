@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s : Ekki er hægt að tengjast Verizon Wi-Fi Access utan þjónustusvæðis Verizon.</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s : Þú ert ekki áskrifandi að Verizon Wi-Fi Access. Hringdu í okkur í síma 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s : Vandamál kom upp í tengslum við Verizon Wi-Fi Access reikninginn þinn. Hringdu í okkur í síma 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s : Þú ert nú þegar tengd(ur) við Verizon Wi-Fi Access.</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s : Vandamál kom upp við að tengja þig við Verizon Wi-Fi Access. Hringdu í okkur í síma 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s : Vandamál kom upp í tengslum við Verizon Wi-Fi Access reikninginn þinn. Hringdu í okkur í síma 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s : Verizon Wi-Fi Access er ekki í boði þar sem þú ert. Reyndu aftur síðar eða á öðrum stað.</string>
+</resources>

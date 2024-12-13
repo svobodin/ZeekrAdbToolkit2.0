@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Kidhibiti cha Vifaa Visaidizi</string>
+    <string name="chooser_title">Chagua %1$s ili idhibitiwe na &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Ruhusu &lt;strong>%1$s&lt;/strong> idhibiti &lt;strong>%2$s&lt;/strong> yako</string>
+    <string name="consent_no">Usiruhusu</string>
+    <string name="consent_yes">Ruhusu</string>
+    <string name="profile_name_generic">kifaa</string>
+    <string name="profile_name_watch">saa</string>
+    <string name="profile_summary">Programu hii inahitajika ili udhibiti wasifu wako wa %1$s. %2$s</string>
+</resources>

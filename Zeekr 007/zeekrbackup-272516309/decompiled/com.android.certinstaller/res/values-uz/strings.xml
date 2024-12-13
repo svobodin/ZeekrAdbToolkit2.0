@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_missing_private_key">Sertifikatni o‘rnatish uchun shaxsiy kalit talab etiladi</string>
+    <string name="action_missing_user_cert">Shaxsiy kalitni o‘rnatish uchun sertifikat talab etiladi</string>
+    <string name="app_name">Sertifikat o‘rnatgichi</string>
+    <string name="ca_cert_is_added">SM sertifikati oʻrnatildi</string>
+    <string name="ca_certificate">Sertifikatlash markazi sertifikati</string>
+    <string name="cert_missing_error">O‘rnatib bo‘lmadi, chunki sertifikat fayli topilmadi.</string>
+    <string name="cert_not_saved">Sertifikat o‘rnatilmadi.</string>
+    <string name="cert_read_error">O‘rnatib bo‘lmadi, chunki sertifikat faylini o‘qib bo‘lmadi.</string>
+    <string name="cert_temp_error">Vaqtinchalik xato Keyinroq qayta urining.</string>
+    <string name="cert_too_large_error">O‘rnatib bo‘lmadi, chunki sertifikat hajmi juda katta.</string>
+    <string name="certificate">Sertifikat</string>
+    <string name="certificate_capabilities_warning">Eslatma: mazkur sertifikat noshiri bu qurilmaga kirish va chiqish trafigini nazorat qilishi mumkin.</string>
+    <string name="certificate_name">Sertifikat nomi</string>
+    <string name="credential_info">Paket tarkibi:</string>
+    <string name="credential_password">Sertifikatlarni chiqarib olish uchun parolni kiriting.</string>
+    <string name="credential_usage_label">Foydalanish:</string>
+    <string name="done_label">TAYYOR</string>
+    <string name="extracting_pkcs12">Chiqarib olinmoqda...</string>
+    <string name="install_done">%1$s hisobi ma’lumotlari saqlangan Wi-Fi tarmoqlariga qo‘shildi.</string>
+    <string name="install_done_title">O‘rnatish tugallandi</string>
+    <string name="invalid_cert">Sertifikatdan foydalanib bo‘lmaydi.</string>
+    <string name="invalid_certificate_close_button">Yopish</string>
+    <string name="invalid_certificate_message">Bu fayldan %1$s sifatida foydalanish imkonsiz</string>
+    <string name="invalid_certificate_title">Bu fayldan foydalanish imkonsiz</string>
+    <string name="n_cacrts">%d CA sertifikatlari</string>
+    <string name="name_char_error">Nom faqat harf va belgilardan iborat bo‘lishi lozim.</string>
+    <string name="name_credential_dialog_title">Bu sertifikatni nomlang</string>
+    <string name="name_empty_error">Nomini kiriting.</string>
+    <string name="no_cert_to_saved">O‘rnatish uchun sertifikat yo‘q.</string>
+    <string name="one_cacrt">sertifikatlashtirish markazining bitta sertifikati</string>
+    <string name="one_usercrt">bitta foydalanuvchi sertifikati</string>
+    <string name="one_userkey">bitta foydalanuvchi kaliti</string>
+    <string name="only_primary_user_allowed">Sertifikatlarni faqat ushbu qurilma egasi o‘rnata oladi.</string>
+    <string name="p12_description">PKCS12 kalitlar omborxonasidagi sertifikatlar</string>
+    <string name="password_empty_error">Parolni kiriting.</string>
+    <string name="password_error">Parolni to‘g‘ri kiriting.</string>
+    <string name="pick_file_title">Sertifikatni tanlang</string>
+    <string name="pkcs12_file_password_dialog_title">%sdan ajratish</string>
+    <string name="pkcs12_password_dialog_title">Ajratish sertifikati</string>
+    <string name="redirect_ca_certificate_close_button">Yopish</string>
+    <string name="redirect_ca_certificate_title">SM sertifikatlarini Sozlamalardan oʻrnating</string>
+    <string name="redirect_ca_certificate_with_app_info_message">%1$s ilovasi yuborgan bu sertifikat Sozlamalar orqali oʻrnatilishi lozim. Faqatgina ishonchli tashkilotlarning SM sertifikatlarini oʻrnating.</string>
+    <string name="select_certificate_usage_title">Sertifikat turini tanlang</string>
+    <string name="unable_to_save_cert">Sertifikatni saqlab bo‘lmadi. Hisob ma’lumotlari ombori yoqilmagan yoki to‘g‘ri ishga tushirilmagan.</string>
+    <string name="user_cert_is_added">Foydalanuvchi sertifikati oʻrnatildi</string>
+    <string name="user_certificate">VPN va ilova foydalanuvchisi sertifikati</string>
+    <string name="userkey_type">Algoritm:</string>
+    <string name="wifi_cancel_label">Bekor qilish</string>
+    <string name="wifi_cert_is_added">Wi‑Fi sertifikati oʻrnatildi</string>
+    <string name="wifi_certificate">Wi‑Fi sertifikati</string>
+    <string name="wifi_config_text">"Nomi: %1$s
+FQDN: %2$s
+Roaming Consortiums: %3$s
+Realm: %4$s
+Tasdiqlash uslubi: EAP-%5$s
+"</string>
+    <string name="wifi_detail_label">Tafsilotlar</string>
+    <string name="wifi_detail_title">%s haqida batafsil ma’lumot</string>
+    <string name="wifi_dismiss_label">Yopish</string>
+    <string name="wifi_install_label">O‘rnatish</string>
+    <string name="wifi_installer_detail">%1$s orqali mavjud Wi-Fi tarmoqlariga ulanish uchun sertifikatni o‘rnating.</string>
+    <string name="wifi_installer_download_error">Yuklab olingan faylda muammo mavjud, shuning uchun uni o‘rnatib bo‘lmaydi. Fayl yuklab olingan manba to‘g‘ri ekanligiga ishonch hosil qiling.</string>
+    <string name="wifi_installer_fail">Wi-Fi tarmog‘iga ulanish sertifikatini o‘rnatib bo‘lmadi. Faylni qaytadan yuklab oling.</string>
+    <string name="wifi_installer_fail_no_wifi">Wi-Fi aloqasini yoqing va qaytadan urining.</string>
+    <string name="wifi_installer_fail_no_wifi_title">O‘rnatish bekor qilindi</string>
+    <string name="wifi_installer_fail_title">O‘rnatib bo‘lmaydi</string>
+    <string name="wifi_installing_label">O‘rnatilmoqda</string>
+    <string name="wifi_no_config">Hech qanday</string>
+    <string name="wifi_sim_config_text">"SIM: %s
+"</string>
+    <string name="wifi_title">Wi-Fi Profili</string>
+    <string name="wifi_tls_config_text">"Mijoz sertifikati:
+%1$s
+Key: %2$s
+"</string>
+    <string name="wifi_trust_config_text">"Ishonch sertifikati:
+%s
+"</string>
+    <string name="wifi_ttls_config_text">"Foydalanuvchi nomi: %s
+"</string>
+</resources>

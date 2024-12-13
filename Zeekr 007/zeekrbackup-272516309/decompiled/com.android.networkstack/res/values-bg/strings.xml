@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Мрежови мениджър</string>
+    <string name="connected">Установена е връзка</string>
+    <string name="notification_channel_description_connected">Известия, които се показват, когато устройството е успешно удостоверено в мрежа с портал за удостоверяване</string>
+    <string name="notification_channel_description_network_venue_info">Известия, показвани, за да укажат, че има страница с информация за мястото, където е реализирана мрежата</string>
+    <string name="notification_channel_name_connected">Удостоверяване в портал за целта</string>
+    <string name="notification_channel_name_network_venue_info">Информация за мястото на мрежата</string>
+    <string name="tap_for_info">Установена е връзка/докоснете за преглед на сайта</string>
+</resources>

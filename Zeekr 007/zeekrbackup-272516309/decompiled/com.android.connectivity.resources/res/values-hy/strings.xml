@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">System Connectivity Resources</string>
+    <string name="mobile_no_internet">Բջջային ցանցը չի ապահովում ինտերնետ կապ</string>
+    <string name="network_available_sign_in">Մուտք գործեք ցանց</string>
+    <string name="network_partial_connectivity">%1$s ցանցի կապը սահմանափակ է</string>
+    <string name="network_partial_connectivity_detailed">Հպեք՝ միանալու համար</string>
+    <string name="network_switch_metered">Անցել է %1$s ցանցի</string>
+    <string name="network_switch_metered_detail">Երբ %2$s ցանցում ինտերնետ կապ չի լինում, սարքն անցնում է %1$s ցանցի: Նման դեպքում կարող են վճարներ գանձվել:</string>
+    <string name="network_switch_metered_toast">%1$s ցանցից անցել է %2$s ցանցի</string>
+    <string name="network_switch_type_name_unknown">ցանցի անհայտ տեսակ</string>
+    <string name="other_networks_no_internet">Ցանցը միացված չէ ինտերնետին</string>
+    <string name="private_dns_broken_detailed">Մասնավոր DNS սերվերն անհասանելի է</string>
+    <string name="wifi_available_sign_in">Մուտք գործեք Wi-Fi ցանց</string>
+    <string name="wifi_no_internet">%1$s ցանցը չունի մուտք ինտերնետին</string>
+    <string name="wifi_no_internet_detailed">Հպեք՝ ընտրանքները տեսնելու համար</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sim App Dialog</string>
+    <string name="install_carrier_app_defer_action">以后再说</string>
+    <string name="install_carrier_app_description">您需要安装%1$s应用，新 SIM 卡才能正常运行</string>
+    <string name="install_carrier_app_description_default">您需要安装运营商应用，新 SIM 卡才能正常运行</string>
+    <string name="install_carrier_app_download_action">下载应用</string>
+    <string name="install_carrier_app_title">激活移动网络服务</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">返回</string>
+    <string name="suw_more_button_label">更多</string>
+    <string name="suw_next_button_label">下一步</string>
+</resources>

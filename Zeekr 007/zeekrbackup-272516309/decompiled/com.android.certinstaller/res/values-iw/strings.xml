@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_missing_private_key">נדרש מפתח פרטי כדי להתקין אישור</string>
+    <string name="action_missing_user_cert">נדרש אישור כדי להתקין מפתח פרטי</string>
+    <string name="app_name">מתקין אישורים</string>
+    <string name="ca_cert_is_added">‏הותקן אישור CA</string>
+    <string name="ca_certificate">‏אישור CA</string>
+    <string name="cert_missing_error">לא ניתן להתקין מפני שקובץ האישור לא נמצא.</string>
+    <string name="cert_not_saved">האישור לא מותקן.</string>
+    <string name="cert_read_error">לא ניתן להתקין מפני שקובץ האישור לא נמצא.</string>
+    <string name="cert_temp_error">שגיאה זמנית. יש לנסות מאוחר יותר.</string>
+    <string name="cert_too_large_error">לא ניתן להתקין מפני שהאישור גדול מדי.</string>
+    <string name="certificate">אישור</string>
+    <string name="certificate_capabilities_warning">הערה: המנפיק של האישור הזה עשוי לבדוק את כל התנועה אל המכשיר וממנו.</string>
+    <string name="certificate_name">שם אישור</string>
+    <string name="credential_info">החבילה מכילה:</string>
+    <string name="credential_password">יש להזין את הסיסמה כדי לחלץ את האישורים.</string>
+    <string name="credential_usage_label">שימוש בפרטי הכניסה:</string>
+    <string name="done_label">סיום</string>
+    <string name="extracting_pkcs12">מתבצע חילוץ...</string>
+    <string name="install_done">‏פרטי הכניסה של %1$s נוספו אל רשתות ה-Wi-Fi השמורות.</string>
+    <string name="install_done_title">פרטי כניסה הותקנו</string>
+    <string name="invalid_cert">האישור אינו חוקי.</string>
+    <string name="invalid_certificate_close_button">סגירה</string>
+    <string name="invalid_certificate_message">לא ניתן להשתמש בקובץ הזה בתור %1$s</string>
+    <string name="invalid_certificate_title">לא ניתן להשתמש בקובץ הזה</string>
+    <string name="n_cacrts">‏אישורי CA‏ %d</string>
+    <string name="name_char_error">יש להקליד שם שמכיל רק אותיות ומספרים.</string>
+    <string name="name_credential_dialog_title">מה שם האישור הזה?</string>
+    <string name="name_empty_error">יש להקליד שם.</string>
+    <string name="no_cert_to_saved">אין אישור להתקנה.</string>
+    <string name="one_cacrt">‏אישור CA אחד</string>
+    <string name="one_usercrt">אישור למשתמש אחד</string>
+    <string name="one_userkey">מקש משתמש אחד</string>
+    <string name="only_primary_user_allowed">רק לבעלים של המכשיר הזה יש אפשרות להתקין אישורים.</string>
+    <string name="p12_description">‏אישורים במאגר המפתחות PKCS12.</string>
+    <string name="password_empty_error">יש להקליד את הסיסמה.</string>
+    <string name="password_error">יש להקליד את הסיסמה הנכונה.</string>
+    <string name="pick_file_title">בחירת אישור</string>
+    <string name="pkcs12_file_password_dialog_title">‏חילוץ מתוך %s</string>
+    <string name="pkcs12_password_dialog_title">חילוץ אישור</string>
+    <string name="redirect_ca_certificate_close_button">סגירה</string>
+    <string name="redirect_ca_certificate_title">"‏התקנת אישורי CA ב'הגדרות'"</string>
+    <string name="redirect_ca_certificate_with_app_info_message">‏את האישור הזה מהאפליקציה %1$s חובה להתקין בהגדרות. יש להתקין אישורי CA רק מארגונים מהימנים.</string>
+    <string name="select_certificate_usage_title">יש לבחור את סוג האישור</string>
+    <string name="unable_to_save_cert">לא ניתן לשמור את האישור. אחסון האישורים לא הופעל או שלא אותחל כראוי.</string>
+    <string name="user_cert_is_added">הותקן אישור משתמש</string>
+    <string name="user_certificate">‏אישור משתמש לאפליקציה ול-VPN</string>
+    <string name="userkey_type">אלגוריתם:</string>
+    <string name="wifi_cancel_label">ביטול</string>
+    <string name="wifi_cert_is_added">‏הותקן אישור Wi-Fi</string>
+    <string name="wifi_certificate">‏אישור Wi-Fi</string>
+    <string name="wifi_config_text">"‏שם: %1$s
+FQDN: %2$s
+קונסורציומים לנדידה: %3$s
+תחום: %4$s
+שיטת אישור: EAP-%5$s
+"</string>
+    <string name="wifi_detail_label">פרטים</string>
+    <string name="wifi_detail_title">‏פרטים עבור %s</string>
+    <string name="wifi_dismiss_label">סגירה</string>
+    <string name="wifi_install_label">התקנה</string>
+    <string name="wifi_installer_detail">‏יש להתקין פרטי כניסה של Wi-Fi כדי להתחבר לרשתות שזמינות דרך %1$s.</string>
+    <string name="wifi_installer_download_error">יש בעיות בקובץ שהורדת ולא ניתן להתקין אותו. כדאי לוודא שהורדת את הקובץ מהמקור הנכון.</string>
+    <string name="wifi_installer_fail">‏לא ניתן להתקין פרטי כניסה של Wi-Fi. יש לנסות שוב להוריד את הקובץ.</string>
+    <string name="wifi_installer_fail_no_wifi">‏אפשר להפעיל את ה-Wi-Fi ולנסות שוב.</string>
+    <string name="wifi_installer_fail_no_wifi_title">ההתקנה בוטלה</string>
+    <string name="wifi_installer_fail_title">לא ניתן להתקין</string>
+    <string name="wifi_installing_label">בתהליך התקנה</string>
+    <string name="wifi_no_config">ללא</string>
+    <string name="wifi_sim_config_text">"‏SIM:‏ %s
+"</string>
+    <string name="wifi_title">‏פרופיל Wi-Fi</string>
+    <string name="wifi_tls_config_text">"‏אישור לקוח:
+%1$s
+מפתח: %2$s
+"</string>
+    <string name="wifi_trust_config_text">"‏תעודת אמון:
+%s
+"</string>
+    <string name="wifi_ttls_config_text">"‏שם משתמש: %s
+"</string>
+</resources>

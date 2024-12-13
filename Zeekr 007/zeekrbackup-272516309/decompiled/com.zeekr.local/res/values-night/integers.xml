@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="bluetooth_icon_shape_gradient_angle">90</integer>
+</resources>

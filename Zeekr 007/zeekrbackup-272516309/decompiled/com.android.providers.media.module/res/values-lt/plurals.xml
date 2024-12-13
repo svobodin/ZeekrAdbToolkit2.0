@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">Leisti „^1“ ištrinti ^2 garso failų?</item>
+        <item quantity="one">Leisti „^1“ ištrinti ^2 garso failą?</item>
+        <item quantity="few">Leisti „^1“ ištrinti ^2 garso failus?</item>
+        <item quantity="many">Leisti „^1“ ištrinti ^2 garso failo?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">Leisti programai „^1“ ištrinti ^2 elementų?</item>
+        <item quantity="one">Leisti programai „^1“ ištrinti ^2 elementą?</item>
+        <item quantity="few">Leisti programai „^1“ ištrinti ^2 elementus?</item>
+        <item quantity="many">Leisti programai „^1“ ištrinti ^2 elemento?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">Leisti programai „^1“ ištrinti ^2 nuotraukų?</item>
+        <item quantity="one">Leisti programai „^1“ ištrinti ^2 nuotrauką?</item>
+        <item quantity="few">Leisti programai „^1“ ištrinti ^2 nuotraukas?</item>
+        <item quantity="many">Leisti programai „^1“ ištrinti ^2 nuotraukos?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">Leisti programai „^1“ ištrinti ^2 vaizdo įrašų?</item>
+        <item quantity="one">Leisti programai „^1“ ištrinti ^2 vaizdo įrašą?</item>
+        <item quantity="few">Leisti programai „^1“ ištrinti ^2 vaizdo įrašus?</item>
+        <item quantity="many">Leisti programai „^1“ ištrinti ^2 vaizdo įrašo?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">Dar ^1 papildomų elementų</item>
+        <item quantity="one">Dar ^1 papildomas elementas</item>
+        <item quantity="few">Dar ^1 papildomi elementai</item>
+        <item quantity="many">Dar ^1 papildomo elemento</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">Dar ^1</item>
+        <item quantity="one">Dar ^1</item>
+        <item quantity="few">Dar ^1</item>
+        <item quantity="many">Dar ^1</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">Ištrinama ^1 garso failų…</item>
+        <item quantity="one">Ištrinamas ^1 garso failas…</item>
+        <item quantity="few">Ištrinami ^1 garso failai…</item>
+        <item quantity="many">Ištrinama ^1 garso failo…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">Ištrinama ^1 elementų…</item>
+        <item quantity="one">Ištrinamas ^1 elementas…</item>
+        <item quantity="few">Ištrinami ^1 elementai…</item>
+        <item quantity="many">Ištrinama ^1 elemento…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">Ištrinama ^1 nuotraukų…</item>
+        <item quantity="one">Ištrinama ^1 nuotrauka…</item>
+        <item quantity="few">Ištrinamos ^1 nuotraukos…</item>
+        <item quantity="many">Ištrinama ^1 nuotraukos…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">Ištrinama ^1 vaizdo įrašų…</item>
+        <item quantity="one">Ištrinamas ^1 vaizdo įrašas…</item>
+        <item quantity="few">Ištrinami ^1 vaizdo įrašai…</item>
+        <item quantity="many">Ištrinama ^1 vaizdo įrašo…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">Perkeliama ^1 garso failų į šiukšliadėžę…</item>
+        <item quantity="one">Perkeliamas ^1 garso failas į šiukšliadėžę…</item>
+        <item quantity="few">Perkeliami ^1 garso failai į šiukšliadėžę…</item>
+        <item quantity="many">Perkeliama ^1 garso failo į šiukšliadėžę…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">Perkeliama ^1 elementų į šiukšliadėžę…</item>
+        <item quantity="one">Perkeliamas ^1 elementas į šiukšliadėžę…</item>
+        <item quantity="few">Perkeliami ^1 elementai į šiukšliadėžę…</item>
+        <item quantity="many">Perkeliama ^1 elemento į šiukšliadėžę…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">Perkeliama ^1 nuotraukų į šiukšliadėžę…</item>
+        <item quantity="one">Perkeliama ^1 nuotrauka į šiukšliadėžę…</item>
+        <item quantity="few">Perkeliamos ^1 nuotraukos į šiukšliadėžę…</item>
+        <item quantity="many">Perkeliama ^1 nuotraukos į šiukšliadėžę…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">Perkeliama ^1 vaizdo įrašų į šiukšliadėžę…</item>
+        <item quantity="one">Perkeliamas ^1 vaizdo įrašas į šiukšliadėžę…</item>
+        <item quantity="few">Perkeliami ^1 vaizdo įrašai į šiukšliadėžę…</item>
+        <item quantity="many">Perkeliama ^1 vaizdo įrašo į šiukšliadėžę…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">Perkeliama ^1 garso failų iš šiukšliadėžės…</item>
+        <item quantity="one">Perkeliamas ^1 garso failas iš šiukšliadėžės…</item>
+        <item quantity="few">Perkeliami ^1 garso failai iš šiukšliadėžės…</item>
+        <item quantity="many">Perkeliama ^1 garso failo iš šiukšliadėžės…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">Perkeliama ^1 elementų iš šiukšliadėžės…</item>
+        <item quantity="one">Perkeliamas ^1 elementas iš šiukšliadėžės…</item>
+        <item quantity="few">Perkeliami ^1 elementai iš šiukšliadėžės…</item>
+        <item quantity="many">Perkeliama ^1 elemento iš šiukšliadėžės…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">Perkeliama ^1 nuotraukų iš šiukšliadėžės…</item>
+        <item quantity="one">Perkeliama ^1 nuotrauka iš šiukšliadėžės…</item>
+        <item quantity="few">Perkeliamos ^1 nuotraukos iš šiukšliadėžės…</item>
+        <item quantity="many">Perkeliama ^1 nuotraukos iš šiukšliadėžės…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">Perkeliama ^1 vaizdo įrašų iš šiukšliadėžės…</item>
+        <item quantity="one">Perkeliamas ^1 vaizdo įrašas iš šiukšliadėžės…</item>
+        <item quantity="few">Perkeliami ^1 vaizdo įrašai iš šiukšliadėžės…</item>
+        <item quantity="many">Perkeliama ^1 vaizdo įrašo iš šiukšliadėžės…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">Keičiama ^1 garso failų…</item>
+        <item quantity="one">Keičiamas ^1 garso failas…</item>
+        <item quantity="few">Keičiami ^1 garso failai…</item>
+        <item quantity="many">Keičiama ^1 garso failo…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">Keičiama ^1 elementų…</item>
+        <item quantity="one">Keičiamas ^1 elementas…</item>
+        <item quantity="few">Keičiami ^1 elementai…</item>
+        <item quantity="many">Keičiama ^1 elemento…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">Keičiama ^1 nuotraukų…</item>
+        <item quantity="one">Keičiama ^1 nuotrauka…</item>
+        <item quantity="few">Keičiamos ^1 nuotraukos…</item>
+        <item quantity="many">Keičiama ^1 nuotraukos…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">Keičiama ^1 vaizdo įrašų…</item>
+        <item quantity="one">Keičiamas ^1 vaizdo įrašas…</item>
+        <item quantity="few">Keičiami ^1 vaizdo įrašai…</item>
+        <item quantity="many">Keičiama ^1 vaizdo įrašo…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">Leisti programai „^1“ perkelti ^2 garso failų į šiukšliadėžę?</item>
+        <item quantity="one">Leisti programai „^1“ perkelti ^2 garso failą į šiukšliadėžę?</item>
+        <item quantity="few">Leisti programai „^1“ perkelti ^2 garso failus į šiukšliadėžę?</item>
+        <item quantity="many">Leisti programai „^1“ perkelti ^2 garso failo į šiukšliadėžę?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">Leisti programai „^1“ perkelti ^2 elementų į šiukšliadėžę?</item>
+        <item quantity="one">Leisti programai „^1“ perkelti ^2 elementą į šiukšliadėžę?</item>
+        <item quantity="few">Leisti programai „^1“ perkelti ^2 elementus į šiukšliadėžę?</item>
+        <item quantity="many">Leisti programai „^1“ perkelti ^2 elemento į šiukšliadėžę?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">Leisti programai „^1“ perkelti ^2 nuotraukų į šiukšliadėžę?</item>
+        <item quantity="one">Leisti programai „^1“ perkelti ^2 nuotrauką į šiukšliadėžę?</item>
+        <item quantity="few">Leisti programai „^1“ perkelti ^2 nuotraukas į šiukšliadėžę?</item>
+        <item quantity="many">Leisti programai „^1“ perkelti ^2 nuotraukos į šiukšliadėžę?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">Leisti programai „^1“ perkelti ^2 vaizdo įrašų į šiukšliadėžę?</item>
+        <item quantity="one">Leisti programai „^1“ perkelti ^2 vaizdo įrašą į šiukšliadėžę?</item>
+        <item quantity="few">Leisti programai „^1“ perkelti ^2 vaizdo įrašus į šiukšliadėžę?</item>
+        <item quantity="many">Leisti programai „^1“ perkelti ^2 vaizdo įrašo į šiukšliadėžę?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">Leisti programai „^1“ perkelti ^2 garso failų iš šiukšliadėžės?</item>
+        <item quantity="one">Leisti programai „^1“ perkelti ^2 garso failą iš šiukšliadėžės?</item>
+        <item quantity="few">Leisti programai „^1“ perkelti ^2 garso failus iš šiukšliadėžės?</item>
+        <item quantity="many">Leisti programai „^1“ perkelti ^2 garso failo iš šiukšliadėžės?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">Leisti programai „^1“ perkelti ^2 elementų iš šiukšliadėžės?</item>
+        <item quantity="one">Leisti programai „^1“ perkelti ^2 elementą iš šiukšliadėžės?</item>
+        <item quantity="few">Leisti programai „^1“ perkelti ^2 elementus iš šiukšliadėžės?</item>
+        <item quantity="many">Leisti programai „^1“ perkelti ^2 elemento iš šiukšliadėžės?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">Leisti programai „^1“ perkelti ^2 nuotraukų iš šiukšliadėžės?</item>
+        <item quantity="one">Leisti programai „^1“ perkelti ^2 nuotrauką iš šiukšliadėžės?</item>
+        <item quantity="few">Leisti programai „^1“ perkelti ^2 nuotraukas iš šiukšliadėžės?</item>
+        <item quantity="many">Leisti programai „^1“ perkelti ^2 nuotraukos iš šiukšliadėžės?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">Leisti programai „^1“ perkelti ^2 vaizdo įrašų iš šiukšliadėžės?</item>
+        <item quantity="one">Leisti programai „^1“ perkelti ^2 vaizdo įrašą iš šiukšliadėžės?</item>
+        <item quantity="few">Leisti programai „^1“ perkelti ^2 vaizdo įrašus iš šiukšliadėžės?</item>
+        <item quantity="many">Leisti programai „^1“ perkelti ^2 vaizdo įrašo iš šiukšliadėžės?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">Leisti programai „^1“ keisti ^2 garso failų?</item>
+        <item quantity="one">Leisti programai „^1“ keisti ^2 garso failą?</item>
+        <item quantity="few">Leisti programai „^1“ keisti ^2 garso failus?</item>
+        <item quantity="many">Leisti programai „^1“ keisti ^2 garso failo?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">Leisti programai „^1“ keisti ^2 elementų?</item>
+        <item quantity="one">Leisti programai „^1“ keisti ^2 elementą?</item>
+        <item quantity="few">Leisti programai „^1“ keisti ^2 elementus?</item>
+        <item quantity="many">Leisti programai „^1“ keisti ^2 elemento?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">Leisti programai „^1“ keisti ^2 nuotraukų?</item>
+        <item quantity="one">Leisti programai „^1“ keisti ^2 nuotrauką?</item>
+        <item quantity="few">Leisti programai „^1“ keisti ^2 nuotraukas?</item>
+        <item quantity="many">Leisti programai „^1“ keisti ^2 nuotraukos?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">Leisti programai „^1“ keisti ^2 vaizdo įrašų?</item>
+        <item quantity="one">Leisti programai „^1“ keisti ^2 vaizdo įrašą?</item>
+        <item quantity="few">Leisti programai „^1“ keisti ^2 vaizdo įrašus?</item>
+        <item quantity="many">Leisti programai „^1“ keisti ^2 vaizdo įrašo?</item>
+    </plurals>
+</resources>

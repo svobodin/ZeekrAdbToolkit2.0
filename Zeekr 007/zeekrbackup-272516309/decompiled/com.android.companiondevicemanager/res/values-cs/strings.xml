@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Správce doprovodných zařízení</string>
+    <string name="chooser_title">Vyberte zařízení %1$s, které chcete spravovat pomocí aplikace &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Povolit aplikaci &lt;strong>%1$s&lt;/strong> spravovat &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_no">Nepovolovat</string>
+    <string name="consent_yes">Povolit</string>
+    <string name="profile_name_generic">zařízení</string>
+    <string name="profile_name_watch">hodinky</string>
+    <string name="profile_summary">Tato aplikace je nutná pro správu profilu %1$s. %2$s</string>
+</resources>

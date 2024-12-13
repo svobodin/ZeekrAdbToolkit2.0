@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Çaktivizo zonën e qasjes për internet</string>
+    <string name="no_upstream_notification_message">Pajisjet nuk mund të lidhen me internetin</string>
+    <string name="no_upstream_notification_title">Zona e qasjes për internet nuk ka internet</string>
+    <string name="upstream_roaming_notification_message">Mund të zbatohen tarifime shtesë kur je në roaming</string>
+    <string name="upstream_roaming_notification_title">Zona e qasjes për internet është aktive</string>
+    <string name="upstream_roaming_notification_continue_button">Vazhdo</string>
+</resources>

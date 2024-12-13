@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CLUSTER_KEY_LONG_PRESS_CONTINUE_INTERVAL">def_aptiv_config_cluster_key_long_press_continue_interval</string>
+    <string name="CLUSTER_KEY_LONG_PRESS_INTERVAL">def_aptiv_config_cluster_key_long_press_interval</string>
+    <string name="HUT_COMBINE_KEY_LONG_PRESS_INTERVAL">def_aptiv_config_hut_combine_key_long_press_interval</string>
+    <string name="HUT_KEY_LONG_PRESS_CONTINUE_INTERVAL">def_aptiv_config_hut_key_long_press_continue_interval</string>
+    <string name="HUT_KEY_LONG_PRESS_INTERVAL">def_aptiv_config_hut_key_long_press_interval</string>
+    <string name="app_name">AptivCarService</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

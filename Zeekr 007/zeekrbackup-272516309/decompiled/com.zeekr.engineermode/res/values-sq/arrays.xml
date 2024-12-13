@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>Sint Marten</item>
+        <item>Karaibet holandeze</item>
+        <item>Kurasao</item>
+        <item>Sudani i Jugut</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Ora e Australisë qendrore - Territori verior</item>
+        <item>Ora e Australisë qendrore - Australia e Jugut</item>
+        <item>Ora e Australisë Lindore - Kuinsland</item>
+        <item>Ora e Australisë Lindore - Uellsi i Ri i Jugut</item>
+        <item>Ora standarde malore - Doson Krik</item>
+        <item>Ora standarde qendrore - Saskaçevan</item>
+        <item>Ora standarde lindore - Atikokan</item>
+        <item>Ora standarde e Atlantikut - Kebek</item>
+        <item>Ora e Ishujve Havai-Aleutian - Havai</item>
+        <item>Ora e Ishujve Havai-Aleutian - Alaskë</item>
+        <item>Ora standarde e Paqësorit - Metlakatla</item>
+        <item>Ora standarde malore - Arizonë</item>
+        <item>Ora e Paqësorit - Kalifornia e Poshtme</item>
+        <item>Ora malore - Çiuaua</item>
+        <item>Ora qendrore - Tamaulipas</item>
+        <item>Ora malore - Sonora</item>
+        <item>Ora e Afrikës Lindore</item>
+        <item>Ora standarde e Atlantikut</item>
+        <item>Ora standarde e Atlantikut</item>
+        <item>Ora e Evropës Lindore</item>
+        <item>Ora e Kaliningradit</item>
+        <item>Amazona - Rondonia</item>
+        <item>Brazilia - Para</item>
+    </string-array>
+</resources>

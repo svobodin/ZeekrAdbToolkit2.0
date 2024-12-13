@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Companion Device Manager</string>
+    <string name="chooser_title">Изберете %1$s со којшто ќе управува &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Дозволете &lt;strong>%1$s&lt;/strong> да управува со вашиот &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_no">Не дозволувај</string>
+    <string name="consent_yes">Дозволи</string>
+    <string name="profile_name_generic">уред</string>
+    <string name="profile_name_watch">часовник</string>
+    <string name="profile_summary">Апликацијава е потребна за управување со вашиот %1$s. %2$s</string>
+</resources>

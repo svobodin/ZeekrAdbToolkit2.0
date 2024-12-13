@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Menaxheri i shkarkimeve</string>
+    <string name="button_cancel_download">Anulo</string>
+    <string name="button_queue_for_wifi">Vendos në radhë</string>
+    <string name="button_start_now">Fillo tani</string>
+    <string name="download_error">Pa sukses</string>
+    <string name="download_no_application_title">Skedari nuk mund të hapet</string>
+    <string name="download_queued">Në radhë</string>
+    <string name="download_remaining">%s të mbetura</string>
+    <string name="download_running">Në proces</string>
+    <string name="download_running_percent">Në proces, %s</string>
+    <string name="download_unknown_title">&lt;Pa titull></string>
+    <string name="notification_download_complete">Shkarkimi përfundoi.</string>
+    <string name="notification_download_failed">Shkarkimi nuk ishte i suksesshëm.</string>
+    <string name="notification_need_wifi_for_size">Madhësia e shkarkimit kërkon lidhje Wi-Fi.</string>
+    <string name="notification_paused_in_background">U ndërpre në sfond.</string>
+    <string name="permdesc_accessAllDownloads">E lejon aplikacionin të shikojë dhe të modifikojë të gjitha shkarkimet e iniciuara nga ndonjë aplikacion në sistem.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">E lejon aplikacionin të shkarkojë skedarë në memorien e përkohshme të shkarkimeve, e cila nuk mund të fshihet automatikisht kur menaxheri i shkarkimeve kërkon më shumë hapësirë.</string>
+    <string name="permdesc_downloadCompletedIntent">E lejon aplikacionin të dërgojë njoftime për shkarkimet e përfunduara. Aplikacionet keqdashëse mund ta përdorin këtë për të çorientuar aplikacionet e tjera që shkarkojnë skedarë.</string>
+    <string name="permdesc_downloadManager">"E lejon aplikacionin të qaset te menaxheri i shkarkimeve dhe ta përdorë për të shkarkuar skedarë. Aplikacionet keqdashëse mund ta përdorin këtë për të dëmtuar shkarkimet dhe për t'u qasur në informacione private."</string>
+    <string name="permdesc_downloadManagerAdvanced">"E lejon aplikacionin të qaset te funksionet e përparuara të menaxherit të shkarkimeve. Aplikacionet keqdashëse mund ta përdorin këtë për të dëmtuar shkarkimet dhe për t'u qasur në informacione private."</string>
+    <string name="permdesc_downloadWithoutNotification">E lejon aplikacionin të shkarkojë skedarë nëpërmjet menaxherit të shkarkimeve pa i treguar asnjë njoftim përdoruesit.</string>
+    <string name="permlab_accessAllDownloads">Merr qasje te të gjitha shkarkimet e sistemit</string>
+    <string name="permlab_downloadCacheNonPurgeable">Rezervo hapësirë në memorien e përkohshme të shkarkimeve</string>
+    <string name="permlab_downloadCompletedIntent">Dërgo njoftime për shkarkimet.</string>
+    <string name="permlab_downloadManager">Merr qasje në menaxherin e shkarkimit.</string>
+    <string name="permlab_downloadManagerAdvanced">Funksionet e përparuara të menaxherit të shkarkimeve.</string>
+    <string name="permlab_downloadWithoutNotification">shkarko skedarët pa njoftim</string>
+    <string name="root_downloads">Shkarkimet</string>
+    <string name="storage_description">Shkarkimet</string>
+    <string name="wifi_recommended_body">"Nisja e këtij shkarkimi %1$s  tani mund të shkurtojë jetëgjatësinë e baterisë dhe/ose të shkaktojë përdorim të tepërt të lidhjes tënde të të dhënave celulare, gjë që mund të sjellë tarifa nga operatori yt celular në varësi të planit tënd të të dhënave.
+
+ Prek %2$s për ta nisur këtë shkarkim herën tjetër kur të jesh i lidhur me një rrjet Wi-Fi."</string>
+    <string name="wifi_recommended_title">"Të vendoset në radhë për t'u shkarkuar më vonë?"</string>
+    <string name="wifi_required_body">"Duhet të përdorësh Wi-Fi për të përfunduar këtë shkarkim %1$s . 
+
+Prek %2$s  për ta nisur këtë shkarkim herën tjetër kur të jesh i lidhur me një rrjet Wi-Fi."</string>
+    <string name="wifi_required_title">Shkarkimi është tepër i madh për rrjetin e operatorit</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ଏକ୍ସଟର୍ନଲ୍‌ ଷ୍ଟୋରେଜ୍‌</string>
+    <string name="root_documents">ଡକ୍ୟୁମେଣ୍ଟ</string>
+    <string name="root_internal_storage">ଇଣ୍ଟର୍ନଲ୍‌ ଷ୍ଟୋରେଜ୍‌</string>
+    <string name="storage_description">ଲୋକାଲ୍‍ ଷ୍ଟୋରେଜ୍‍</string>
+</resources>

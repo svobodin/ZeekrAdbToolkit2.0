@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>Svätý Martin (hol.)</item>
+        <item>Karibské Holandsko</item>
+        <item>Curaçao</item>
+        <item>Južný Sudán</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Stredoaustrálsky čas – NT</item>
+        <item>Stredoaustrálsky čas – SA</item>
+        <item>Východoaustrálsky čas – QLD</item>
+        <item>Východoaustrálsky čas – NSW</item>
+        <item>Horský štandardný – Dawson Creek</item>
+        <item>Centrálny štandardný – Saskatch.</item>
+        <item>Východný štandardný – Atikokan</item>
+        <item>Atlantický štandardný – Quebec</item>
+        <item>Havajsko-aleutský čas – Havaj</item>
+        <item>Havajsko-aleutský čas – Aljaška</item>
+        <item>Tichom. štandardný – Metlakatla</item>
+        <item>Horský štandardný čas – Arizona</item>
+        <item>Tichomorský č. – Baja California</item>
+        <item>Horský čas – Chihuahua</item>
+        <item>Centrálny čas – Tamaulipas</item>
+        <item>Horský čas – Sonora</item>
+        <item>Východoafrický čas</item>
+        <item>Atlantický štandardný čas</item>
+        <item>Atlantický štandardný čas</item>
+        <item>Východoeurópsky čas</item>
+        <item>Kaliningradský čas</item>
+        <item>Amazónia – Rondônia</item>
+        <item>Brazília – Pará</item>
+    </string-array>
+</resources>

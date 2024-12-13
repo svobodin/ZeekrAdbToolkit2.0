@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>Sint Maarten</item>
+        <item>Caribe neerlandés</item>
+        <item>Curaçao</item>
+        <item>Sudán do Sur</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Hora do centro de Australia: NT</item>
+        <item>Hora do centro de Australia: SA</item>
+        <item>Oriental australiana: QLD</item>
+        <item>Oriental australiana: NSW</item>
+        <item>Estándar Montañas: Dawson Creek</item>
+        <item>Estándar Central: Saskatchewan</item>
+        <item>Estándar Oriental: Atikokan</item>
+        <item>Estándar do Atlántico: Quebec</item>
+        <item>Hawai-Aleutiano: Hawai</item>
+        <item>Hawai-Aleutiano: Alasca</item>
+        <item>Estándar do Pacífico: Metlakatla</item>
+        <item>Estándar das Montañas: Arizona</item>
+        <item>Pacífico: Baja California</item>
+        <item>Montañas: Chihuahua</item>
+        <item>Central: Tamaulipas</item>
+        <item>Montañas: Sonora</item>
+        <item>Hora de África Oriental</item>
+        <item>Hora estándar do Atlántico</item>
+        <item>Hora estándar do Atlántico</item>
+        <item>Hora de Europa Oriental</item>
+        <item>Hora de Kaliningrado</item>
+        <item>Amazonas: Rondonia</item>
+        <item>Brasilia: Pará</item>
+    </string-array>
+</resources>

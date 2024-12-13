@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Išjungti viešosios interneto prieigos tašką</string>
+    <string name="no_upstream_notification_message">Įrenginiams nepavyksta prisijungti prie interneto</string>
+    <string name="no_upstream_notification_title">Nėra viešosios interneto prieigos taško interneto ryšio</string>
+    <string name="upstream_roaming_notification_message">Veikiant tarptinkliniam ryšiui gali būti taikomi papildomi mokesčiai</string>
+    <string name="upstream_roaming_notification_title">Viešosios interneto prieigos taškas įjungtas</string>
+    <string name="upstream_roaming_notification_continue_button">Tęsti</string>
+</resources>

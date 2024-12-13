@@ -1,0 +1,1769 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cache_size">
+        <item>Auto</item>
+        <item>10 Mb</item>
+        <item>50 Mb</item>
+        <item>100 Mb</item>
+        <item>200 Mb</item>
+    </string-array>
+    <integer-array name="cache_size_value">
+        <item>0</item>
+        <item>10</item>
+        <item>50</item>
+        <item>100</item>
+        <item>200</item>
+    </integer-array>
+    <array name="cast_expanded_controller_buttons">
+        <item>@id/cast_button_type_closed_caption</item>
+        <item>@id/cast_button_type_rewind_30_seconds</item>
+        <item>@id/cast_button_type_forward_30_seconds</item>
+        <item>@id/cast_button_type_mute_toggle</item>
+    </array>
+    <array name="cast_expanded_controller_default_control_buttons">
+        <item>@id/cast_button_type_closed_caption</item>
+        <item>@id/cast_button_type_skip_previous</item>
+        <item>@id/cast_button_type_skip_next</item>
+        <item>@id/cast_button_type_mute_toggle</item>
+    </array>
+    <array name="cast_mini_controller_default_control_buttons">
+        <item>@id/cast_button_type_empty</item>
+        <item>@id/cast_button_type_empty</item>
+        <item>@id/cast_button_type_play_pause_toggle</item>
+    </array>
+    <string-array name="filter_123movie_country">
+        <item>asia</item>
+        <item>china</item>
+        <item>euro</item>
+        <item>france</item>
+        <item>hongkong</item>
+        <item>india</item>
+        <item>international</item>
+        <item>japan</item>
+        <item>korea</item>
+        <item>taiwan</item>
+        <item>thailand</item>
+        <item>uk</item>
+        <item>usa</item>
+    </string-array>
+    <string-array name="filter_123movie_genre">
+        <item>action</item>
+        <item>adventure</item>
+        <item>animation</item>
+        <item>biography</item>
+        <item>comedy</item>
+        <item>costume</item>
+        <item>crime</item>
+        <item>documentary</item>
+        <item>drama</item>
+        <item>family</item>
+        <item>fantasy</item>
+        <item>history</item>
+        <item>horror</item>
+        <item>kungfu</item>
+        <item>musical</item>
+        <item>mystery</item>
+        <item>mythological</item>
+        <item>psychological</item>
+        <item>romance</item>
+        <item>sci-fi</item>
+        <item>sitcom</item>
+        <item>sport</item>
+        <item>thriller</item>
+        <item>war</item>
+    </string-array>
+    <string-array name="filter_123movie_quality">
+        <item>hd</item>
+        <item>sd</item>
+        <item>cam</item>
+    </string-array>
+    <string-array name="filter_123movie_year">
+        <item>2017</item>
+        <item>2016</item>
+        <item>2015</item>
+        <item>2014</item>
+        <item>2013</item>
+        <item>2012</item>
+    </string-array>
+    <string-array name="filter_bigfilms_country">
+        <item>4|Австралия</item>
+        <item>5|Австрия</item>
+        <item>15|Аргентина</item>
+        <item>18|Афганистан</item>
+        <item>19|Багамские острова</item>
+        <item>23|Беларусь</item>
+        <item>25|Бельгия</item>
+        <item>28|Болгария</item>
+        <item>33|Бразилия</item>
+        <item>194|Великобритания</item>
+        <item>40|Венгрия</item>
+        <item>54|Германия</item>
+        <item>58|Гонконг</item>
+        <item>61|Греция</item>
+        <item>62|Грузия</item>
+        <item>64|Дания</item>
+        <item>69|Египет</item>
+        <item>73|Израиль</item>
+        <item>74|Индия</item>
+        <item>75|Индонезия</item>
+        <item>79|Ирландия</item>
+        <item>80|Исландия</item>
+        <item>81|Испания</item>
+        <item>82|Италия</item>
+        <item>85|Казахстан</item>
+        <item>86|Камбоджа</item>
+        <item>88|Канада</item>
+        <item>94|Китай</item>
+        <item>96|Колумбия</item>
+        <item>100|Корея Южная</item>
+        <item>105|Латвия</item>
+        <item>109|Ливан</item>
+        <item>107|Ливия</item>
+        <item>111|Литва</item>
+        <item>112|Люксембург</item>
+        <item>119|Малайзия</item>
+        <item>123|Мальта</item>
+        <item>124|Марокко</item>
+        <item>127|Мексика</item>
+        <item>140|Новая Зеландия</item>
+        <item>145|Норвегия</item>
+        <item>146|Объединенные Арабские Эмираты</item>
+        <item>163|Перу</item>
+        <item>165|Польша</item>
+        <item>166|Португалия</item>
+        <item>170|Россия</item>
+        <item>172|Румыния</item>
+        <item>189|Сингапур</item>
+        <item>192|Словакия</item>
+        <item>251|СССР</item>
+        <item>195|США</item>
+        <item>202|Таиланд</item>
+        <item>203|Тайвань</item>
+        <item>213|Турция</item>
+        <item>216|Украина</item>
+        <item>218|Уругвай</item>
+        <item>222|Финляндия</item>
+        <item>224|Франция</item>
+        <item>232|Чехословакия</item>
+        <item>233|Чили</item>
+        <item>234|Швейцария</item>
+        <item>235|Швеция</item>
+        <item>237|Шри-Ланка</item>
+        <item>243|Эстония</item>
+        <item>245|Южная Африка</item>
+        <item>250|Япония</item>
+    </string-array>
+    <string-array name="filter_bigfilms_genre">
+        <item>28|3D</item>
+        <item>23|Биография</item>
+        <item>2|Боевик</item>
+        <item>7|Вестерн</item>
+        <item>25|Военный</item>
+        <item>6|Детектив</item>
+        <item>9|Детский</item>
+        <item>10|Документальный</item>
+        <item>1|Драма</item>
+        <item>21|Исторический</item>
+        <item>3|Комедия</item>
+        <item>11|Криминал</item>
+        <item>12|Мелодрама</item>
+        <item>29|Музыкальный</item>
+        <item>15|Мультфильм</item>
+        <item>22|Научно-популярный</item>
+        <item>8|TV-шоу</item>
+        <item>17|Приключения</item>
+        <item>16|Семейный</item>
+        <item>5|Триллер</item>
+        <item>4|Ужасы</item>
+        <item>14|Фантастика</item>
+        <item>13|Фэнтези</item>
+    </string-array>
+    <string-array name="filter_country_zonefilm">
+        <item>ssha|США</item>
+        <item>rossiia|Россия</item>
+        <item>frantciia|Франция</item>
+        <item>velikobritaniia|Великобритания</item>
+        <item>italiia|Италия</item>
+        <item>germaniia|Германия</item>
+        <item>kanada|Канада</item>
+        <item>indiia|Индия</item>
+        <item>iaponiia|Япония</item>
+        <item>ispaniia|Испания</item>
+        <item>gonkong|Гонконг</item>
+        <item>koreia-iuzhnaia|Корея Южная</item>
+        <item>kitai|Китай</item>
+        <item>avstraliia|Австралия</item>
+        <item>belgiia|Бельгия</item>
+        <item>shvetciia|Швеция</item>
+        <item>polsha|Польша</item>
+        <item>daniia|Дания</item>
+        <item>meksika|Мексика</item>
+        <item>chekhiia|Чехия</item>
+        <item>niderlandy|Нидерланды</item>
+        <item>ukraina|Украина</item>
+        <item>irlandiia|Ирландия</item>
+        <item>norvegiia|Норвегия</item>
+        <item>shveitcariia|Швейцария</item>
+        <item>argentina|Аргентина</item>
+        <item>vengriia|Венгрия</item>
+        <item>avstriia|Австрия</item>
+        <item>serbiia|Сербия</item>
+        <item>tailand|Таиланд</item>
+    </string-array>
+    <string-array name="filter_filmix_country">
+        <item>53|Австралия</item>
+        <item>72|Австрия</item>
+        <item>73|Азербайджан</item>
+        <item>74|Албания</item>
+        <item>75|Алжир</item>
+        <item>76|Англия</item>
+        <item>31|Ангола</item>
+        <item>30|Андорра</item>
+        <item>21|Аргентина</item>
+        <item>78|Армения</item>
+        <item>79|Афганистан</item>
+        <item>80|Багамы</item>
+        <item>32|Бангладеш</item>
+        <item>81|Барбадос</item>
+        <item>82|Бахрейн</item>
+        <item>35|Беларусь</item>
+        <item>83|Белиз</item>
+        <item>36|Бельгия</item>
+        <item>84|Бенин</item>
+        <item>66|Болгария</item>
+        <item>22|Боливия</item>
+        <item>85|Босния и Герцеговина</item>
+        <item>86|Ботсвана</item>
+        <item>19|Бразилия</item>
+        <item>90|Бутан</item>
+        <item>91|Вануату</item>
+        <item>13|Великобритания</item>
+        <item>37|Венгрия</item>
+        <item>93|Венесуэла</item>
+        <item>95|Вьетнам</item>
+        <item>97|Гаити</item>
+        <item>100|Гана</item>
+        <item>101|Гватемала</item>
+        <item>3|Германия</item>
+        <item>9|Голландия</item>
+        <item>104|Гондурас</item>
+        <item>105|Гонконг</item>
+        <item>62|Греция</item>
+        <item>55|Грузия</item>
+        <item>65|Дания</item>
+        <item>108|Доминика</item>
+        <item>109|Доминиканская Республика</item>
+        <item>110|ДР Конго</item>
+        <item>111|Евросоюз</item>
+        <item>23|Египет</item>
+        <item>112|Замбия</item>
+        <item>113|Зимбабве</item>
+        <item>18|Израиль</item>
+        <item>54|Индия</item>
+        <item>114|Индонезия</item>
+        <item>59|Иордания</item>
+        <item>38|Ирак</item>
+        <item>39|Иран</item>
+        <item>115|Ирландия</item>
+        <item>69|Исландия</item>
+        <item>27|Испания</item>
+        <item>7|Италия</item>
+        <item>116|Йемен</item>
+        <item>14|Казахстан</item>
+        <item>118|Камбоджа</item>
+        <item>119|Камерун</item>
+        <item>28|Канада</item>
+        <item>120|Катар</item>
+        <item>121|Кения</item>
+        <item>122|Кипр</item>
+        <item>123|Киргизия</item>
+        <item>10|Китай</item>
+        <item>56|КНР</item>
+        <item>125|Колумбия</item>
+        <item>12|Корея</item>
+        <item>178|Корея Северная</item>
+        <item>25|Корея Южная</item>
+        <item>127|Косово</item>
+        <item>128|Коста-Рика</item>
+        <item>48|Куба</item>
+        <item>130|Кувейт</item>
+        <item>131|Лаос</item>
+        <item>16|Латвия</item>
+        <item>133|Либерия</item>
+        <item>60|Ливан</item>
+        <item>134|Ливия</item>
+        <item>20|Литва</item>
+        <item>135|Лихтенштейн</item>
+        <item>136|Люксембург</item>
+        <item>139|Мадагаскар</item>
+        <item>140|Макао</item>
+        <item>141|Македония</item>
+        <item>58|Малайзия</item>
+        <item>145|Мальта</item>
+        <item>146|Марокко</item>
+        <item>57|Мексика</item>
+        <item>149|Мозамбик</item>
+        <item>150|Молдавия</item>
+        <item>151|Монако</item>
+        <item>29|Монголия</item>
+        <item>153|Намибия</item>
+        <item>155|Непал</item>
+        <item>157|Нигерия</item>
+        <item>158|Нидерланды</item>
+        <item>71|Новая Зеландия</item>
+        <item>51|Норвегия</item>
+        <item>160|Объединённые Арабские Эмираты</item>
+        <item>162|Остров Мэн</item>
+        <item>163|Пакистан</item>
+        <item>164|Палау</item>
+        <item>165|Панама</item>
+        <item>167|Парагвай</item>
+        <item>168|Перу</item>
+        <item>41|Польша</item>
+        <item>40|Португалия</item>
+        <item>70|Пуэрто Рико</item>
+        <item>169|Пуэрто-Рико</item>
+        <item>6|Россия</item>
+        <item>171|Руанда</item>
+        <item>24|Румыния</item>
+        <item>172|Сальвадор</item>
+        <item>176|Саудовская Аравия</item>
+        <item>180|Сенегал</item>
+        <item>68|Сербия</item>
+        <item>61|Сингапур</item>
+        <item>184|Сирия</item>
+        <item>43|Словакия</item>
+        <item>42|Словения</item>
+        <item>186|Сомали</item>
+        <item>64|СССР</item>
+        <item>187|Судан</item>
+        <item>2|США</item>
+        <item>190|Таджикистан</item>
+        <item>63|Таиланд</item>
+        <item>191|Тайвань</item>
+        <item>192|Танзания</item>
+        <item>197|Тунис</item>
+        <item>26|Турция</item>
+        <item>199|Уганда</item>
+        <item>200|Узбекистан</item>
+        <item>34|Украина</item>
+        <item>201|Уругвай</item>
+        <item>205|Филиппины</item>
+        <item>44|Финляндия</item>
+        <item>8|Франция</item>
+        <item>45|Хорватия</item>
+        <item>46|Черногория</item>
+        <item>47|Чехия</item>
+        <item>217|Чехословакия</item>
+        <item>208|Чили</item>
+        <item>49|Швейцария</item>
+        <item>50|Швеция</item>
+        <item>209|Шотландия</item>
+        <item>210|Шри-Ланка</item>
+        <item>211|Эквадор</item>
+        <item>15|Эстония</item>
+        <item>214|Эфиопия</item>
+        <item>52|ЮАР</item>
+        <item>218|Югославия</item>
+        <item>215|Южно-Африканская Республика</item>
+        <item>216|Ямайка</item>
+        <item>11|Япония</item>
+        <item>996|Зарубежные</item>
+    </string-array>
+    <string-array name="filter_filmix_genre">
+        <item>anime|Аниме</item>
+        <item>biografia|Биография</item>
+        <item>boeviki|Боевики</item>
+        <item>vestern|Вестерн</item>
+        <item>voenniy|Военный</item>
+        <item>detektiv|Детектив</item>
+        <item>detskij|Детский</item>
+        <item>for_adults|Для взрослых</item>
+        <item>dokumentalenye|Документальные</item>
+        <item>dramy|Драмы</item>
+        <item>istoricheskij|Исторический</item>
+        <item>komedii|Комедии</item>
+        <item>korotkometragka|Короткометражка</item>
+        <item>kriminal|Криминал</item>
+        <item>melodramy|Мелодрамы</item>
+        <item>mistika|Мистика</item>
+        <item>music|Музыка</item>
+        <item>muzkl|Мюзикл</item>
+        <item>novosti|Новости</item>
+        <item>original|Оригинал</item>
+        <item>otechestvennye|Отечественные</item>
+        <item>tv|Передачи с ТВ</item>
+        <item>priklucheniya|Приключения</item>
+        <item>real_tv|Реальное ТВ</item>
+        <item>semejnyj|Семейный</item>
+        <item>sport|Спорт</item>
+        <item>talk_show|Ток-шоу</item>
+        <item>trillery|Триллеры</item>
+        <item>uzhasy|Ужасы</item>
+        <item>fantastika|Фантастика</item>
+        <item>film_noir|Фильм-нуар</item>
+        <item>fjuntezi|Фэнтези</item>
+    </string-array>
+    <string-array name="filter_filmix_genre_incategory">
+        <item>21|Аниме</item>
+        <item>76|Биография</item>
+        <item>3|Боевики</item>
+        <item>81|Вестерн</item>
+        <item>20|Военный</item>
+        <item>18|Детектив</item>
+        <item>84|Детский</item>
+        <item>100|Для взрослых</item>
+        <item>15|Документальные</item>
+        <item>102|Дорамы</item>
+        <item>1|Драмы</item>
+        <item>95|Игра</item>
+        <item>75|Исторический</item>
+        <item>6|Комедия</item>
+        <item>80|Короткометражка</item>
+        <item>71|Криминал</item>
+        <item>12|Мелодрама</item>
+        <item>5|Мистика</item>
+        <item>96|Музыка</item>
+        <item>72|Мюзикл</item>
+        <item>103|Новости</item>
+        <item>83|Оригинал</item>
+        <item>79|Отечественные</item>
+        <item>16|Передачи с ТВ</item>
+        <item>74|Приключения</item>
+        <item>99|Реальное ТВ</item>
+        <item>73|Семейный</item>
+        <item>101|Ситком</item>
+        <item>77|Спорт</item>
+        <item>98|Ток-шоу</item>
+        <item>8|Триллеры</item>
+        <item>2|Ужасы</item>
+        <item>13|Фантастика</item>
+        <item>97|Фильм-нуар</item>
+        <item>4|Фэнтези</item>
+    </string-array>
+    <string-array name="filter_filmix_quality">
+        <item>720|HD</item>
+        <item>1080|Full HD</item>
+        <item>2160|4K</item>
+    </string-array>
+    <string-array name="filter_filmix_year">
+        <item>2024</item>
+        <item>2023</item>
+        <item>2022</item>
+        <item>2021</item>
+        <item>2020</item>
+        <item>2019</item>
+        <item>2018</item>
+        <item>2017</item>
+        <item>2016</item>
+        <item>2015</item>
+        <item>2014</item>
+        <item>2013</item>
+        <item>2012</item>
+        <item>2011</item>
+        <item>2010</item>
+        <item>2009</item>
+        <item>2008</item>
+        <item>2007</item>
+        <item>2006</item>
+        <item>2005</item>
+        <item>2004</item>
+        <item>2003</item>
+        <item>2002</item>
+        <item>2001</item>
+        <item>2000</item>
+        <item>1999</item>
+        <item>1998</item>
+        <item>1997</item>
+        <item>1996</item>
+        <item>1995</item>
+        <item>1994</item>
+        <item>1993</item>
+        <item>1992</item>
+        <item>1991</item>
+        <item>1990</item>
+        <item>1989</item>
+        <item>1988</item>
+        <item>1987</item>
+        <item>1986</item>
+        <item>1985</item>
+        <item>1984</item>
+        <item>1983</item>
+        <item>1982</item>
+        <item>1981</item>
+        <item>1980</item>
+        <item>1979</item>
+        <item>1978</item>
+        <item>1977</item>
+        <item>1976</item>
+        <item>1975</item>
+        <item>1974</item>
+        <item>1973</item>
+        <item>1972</item>
+        <item>1971</item>
+        <item>1970</item>
+        <item>1969</item>
+        <item>1968</item>
+        <item>1967</item>
+        <item>1966</item>
+        <item>1965</item>
+        <item>1964</item>
+        <item>1963</item>
+        <item>1962</item>
+        <item>1961</item>
+        <item>1960</item>
+        <item>1959</item>
+        <item>1958</item>
+        <item>1957</item>
+        <item>1956</item>
+        <item>1955</item>
+        <item>1954</item>
+        <item>1953</item>
+        <item>1952</item>
+        <item>1951</item>
+        <item>1950</item>
+        <item>1949</item>
+        <item>1948</item>
+        <item>1947</item>
+        <item>1946</item>
+        <item>1945</item>
+        <item>1944</item>
+        <item>1943</item>
+        <item>1942</item>
+        <item>1941</item>
+        <item>1940</item>
+        <item>1939</item>
+        <item>1938</item>
+        <item>1937</item>
+        <item>1936</item>
+        <item>1935</item>
+        <item>1934</item>
+        <item>1933</item>
+        <item>1932</item>
+        <item>1931</item>
+        <item>1930</item>
+        <item>1929</item>
+        <item>1928</item>
+        <item>1927</item>
+        <item>1926</item>
+        <item>1925</item>
+        <item>1924</item>
+        <item>1923</item>
+        <item>1922</item>
+        <item>1921</item>
+        <item>1920</item>
+        <item>1919</item>
+        <item>1918</item>
+        <item>1917</item>
+        <item>1916</item>
+        <item>1915</item>
+        <item>1914</item>
+        <item>1913</item>
+        <item>1912</item>
+        <item>1911</item>
+        <item>1910</item>
+        <item>1909</item>
+        <item>1908</item>
+        <item>1907</item>
+        <item>1906</item>
+        <item>1905</item>
+        <item>1904</item>
+        <item>1903</item>
+        <item>1902</item>
+    </string-array>
+    <string-array name="filter_genre_zonefilm">
+        <item>drama|драма</item>
+        <item>komediia|комедия</item>
+        <item>triller|триллер</item>
+        <item>melodrama|мелодрама</item>
+        <item>boevik|боевик</item>
+        <item>kriminal|криминал</item>
+        <item>uzhasy|ужасы</item>
+        <item>prikliucheniia|приключения</item>
+        <item>fantastika|фантастика</item>
+        <item>fentezi|фэнтези</item>
+        <item>detektiv|детектив</item>
+        <item>semeinyi|семейный</item>
+        <item>multfilm|мультфильм</item>
+        <item>voennyi|военный</item>
+        <item>istoriia|история</item>
+        <item>biografiia|биография</item>
+        <item>korotkometrazhka|короткометражка</item>
+        <item>dokumentalnyi|документальный</item>
+        <item>miuzikl|мюзикл</item>
+        <item>vestern|вестерн</item>
+        <item>muzyka|музыка</item>
+        <item>sport|спорт</item>
+        <item>anime|аниме</item>
+        <item>detskii|детский</item>
+        <item>film-nuar|фильм-нуар</item>
+        <item>realnoe-tv|реальное ТВ</item>
+        <item>kontcert|концерт</item>
+        <item>novosti|новости</item>
+        <item>igra|игра</item>
+        <item>tok-shou|ток-шоу</item>
+    </string-array>
+    <string-array name="filter_hdrezka_best">
+        <item>2024</item>
+        <item>2023</item>
+        <item>2022</item>
+        <item>2021</item>
+        <item>2020</item>
+        <item>2019</item>
+        <item>2018</item>
+        <item>2017</item>
+        <item>2016</item>
+        <item>2015</item>
+        <item>2014</item>
+        <item>2013</item>
+        <item>2012</item>
+        <item>2011</item>
+        <item>2010</item>
+        <item>2009</item>
+        <item>2008</item>
+        <item>2007</item>
+        <item>2006</item>
+        <item>2005</item>
+        <item>2004</item>
+        <item>2003</item>
+        <item>2002</item>
+        <item>2001</item>
+        <item>2000</item>
+        <item>1999</item>
+        <item>1998</item>
+        <item>1997</item>
+        <item>1996</item>
+        <item>1995</item>
+        <item>1994</item>
+        <item>1993</item>
+        <item>1992</item>
+        <item>1991</item>
+        <item>1990</item>
+        <item>1989</item>
+        <item>1988</item>
+        <item>1987</item>
+        <item>1986</item>
+        <item>1985</item>
+        <item>1984</item>
+        <item>1983</item>
+        <item>1982</item>
+        <item>1981</item>
+        <item>1980</item>
+        <item>1979</item>
+        <item>1978</item>
+        <item>1977</item>
+        <item>1976</item>
+        <item>1975</item>
+        <item>1974</item>
+        <item>1973</item>
+        <item>1972</item>
+        <item>1971</item>
+        <item>1970</item>
+        <item>1969</item>
+        <item>1968</item>
+        <item>1967</item>
+        <item>1966</item>
+        <item>1965</item>
+        <item>1964</item>
+        <item>1963</item>
+        <item>1962</item>
+        <item>1961</item>
+        <item>1960</item>
+        <item>1959</item>
+        <item>1958</item>
+        <item>1957</item>
+        <item>1956</item>
+        <item>1955</item>
+        <item>1954</item>
+        <item>1953</item>
+        <item>1952</item>
+        <item>1951</item>
+        <item>1950</item>
+        <item>1949</item>
+        <item>1948</item>
+        <item>1947</item>
+        <item>1946</item>
+        <item>1945</item>
+        <item>1944</item>
+        <item>1943</item>
+        <item>1942</item>
+        <item>1941</item>
+        <item>1940</item>
+        <item>1939</item>
+        <item>1938</item>
+        <item>1937</item>
+        <item>1936</item>
+        <item>1935</item>
+        <item>1934</item>
+        <item>1933</item>
+        <item>1932</item>
+        <item>1931</item>
+        <item>1930</item>
+        <item>1929</item>
+        <item>1928</item>
+        <item>1927</item>
+        <item>1926</item>
+        <item>1925</item>
+        <item>1924</item>
+        <item>1923</item>
+        <item>1922</item>
+        <item>1921</item>
+        <item>1920</item>
+        <item>1919</item>
+        <item>1918</item>
+        <item>1917</item>
+        <item>1916</item>
+        <item>1915</item>
+    </string-array>
+    <string-array name="filter_kinobase_countries">
+        <item>aus|Австралия</item>
+        <item>aut|Австрия</item>
+        <item>aze|Азербайджан</item>
+        <item>alb|Албания</item>
+        <item>arg|Аргентина</item>
+        <item>arm|Армения</item>
+        <item>afg|Афганистан</item>
+        <item>bah|Багамы</item>
+        <item>ban|Бангладеш</item>
+        <item>blr|Беларусь</item>
+        <item>bel|Бельгия</item>
+        <item>bg|Болгария</item>
+        <item>bol|Боливия</item>
+        <item>boh|Босния и Герцеговина</item>
+        <item>bra|Бразилия</item>
+        <item>gbr|Великобритания</item>
+        <item>hun|Венгрия</item>
+        <item>ven|Венесуэла</item>
+        <item>vie|Вьетнам</item>
+        <item>gan|Гана</item>
+        <item>gva|Гватемала</item>
+        <item>deu|Германия</item>
+        <item>hkg|Гонконг</item>
+        <item>gre|Греция</item>
+        <item>geo|Грузия</item>
+        <item>dnk|Дания</item>
+        <item>dom|Доминикана</item>
+        <item>egp|Египет</item>
+        <item>isr|Израиль</item>
+        <item>ind|Индия</item>
+        <item>ina|Индонезия</item>
+        <item>irn|Иран</item>
+        <item>irl|Ирландия</item>
+        <item>isl|Исландия</item>
+        <item>esp|Испания</item>
+        <item>ita|Италия</item>
+        <item>kaz|Казахстан</item>
+        <item>kam|Камбоджа</item>
+        <item>can|Канада</item>
+        <item>ken|Кения</item>
+        <item>kpr|Кипр</item>
+        <item>kir|Киргизия</item>
+        <item>chn|Китай</item>
+        <item>co|Колумбия</item>
+        <item>kor|Корея Южная</item>
+        <item>kos|Косово</item>
+        <item>Kuv|Кувейт</item>
+        <item>kgz|Кыргызстан</item>
+        <item>lva|Латвия</item>
+        <item>lit|Литва</item>
+        <item>lux|Люксембург</item>
+        <item>mal|Малайзия</item>
+        <item>mex|Мексика</item>
+        <item>mol|Молдова</item>
+        <item>mon|Монголия</item>
+        <item>nep|Непал</item>
+        <item>nig|Нигерия</item>
+        <item>nld|Нидерланды</item>
+        <item>nz|Новая Зеландия</item>
+        <item>nor|Норвегия</item>
+        <item>aed|ОАЭ</item>
+        <item>pak|Пакистан</item>
+        <item>pan|Панама</item>
+        <item>par|Парагвай</item>
+        <item>per|Перу</item>
+        <item>pol|Польша</item>
+        <item>por|Португалия</item>
+        <item>pue|Пуэрто Рико</item>
+        <item>rus|Россия</item>
+        <item>ro|Румыния</item>
+        <item>sau|Саудовская Аравия</item>
+        <item>srb|Сербия</item>
+        <item>sin|Сингапур</item>
+        <item>syr|Сирия</item>
+        <item>svk|Словакия</item>
+        <item>slo|Словения</item>
+        <item>su|СССР</item>
+        <item>usa|США</item>
+        <item>tha|Таиланд</item>
+        <item>twn|Тайвань</item>
+        <item>tto|Тринидад и Тобаго</item>
+        <item>tun|Тунис</item>
+        <item>tur|Турция</item>
+        <item>uzb|Узбекистан</item>
+        <item>ukr|Украина</item>
+        <item>phi|Филиппины</item>
+        <item>fin|Финляндия</item>
+        <item>fra|Франция</item>
+        <item>hor|Хорватия</item>
+        <item>cze|Чехия</item>
+        <item>csk|Чехословакия</item>
+        <item>chi|Чили</item>
+        <item>che|Швейцария</item>
+        <item>swe|Швеция</item>
+        <item>ekv|Эквадор</item>
+        <item>eri|Эритрея</item>
+        <item>est|Эстония</item>
+        <item>eth|Эфиопия</item>
+        <item>zaf|ЮАР</item>
+        <item>yug|Югославия</item>
+        <item>jpn|Япония</item>
+    </string-array>
+    <string-array name="filter_kinobase_year">
+        <item>2024</item>
+        <item>2023</item>
+        <item>2022</item>
+        <item>2021</item>
+        <item>2020</item>
+        <item>2019</item>
+        <item>2018</item>
+        <item>2017</item>
+        <item>2016</item>
+        <item>2015</item>
+        <item>2014</item>
+        <item>2013</item>
+        <item>2012</item>
+        <item>2011</item>
+        <item>2010</item>
+        <item>2009</item>
+        <item>2008</item>
+        <item>2007</item>
+        <item>2006</item>
+        <item>2005</item>
+        <item>2004</item>
+        <item>2003</item>
+        <item>2002</item>
+        <item>2001</item>
+        <item>2000</item>
+        <item>1999</item>
+        <item>1998</item>
+        <item>1997</item>
+        <item>1996</item>
+        <item>1995</item>
+        <item>1994</item>
+        <item>1993</item>
+        <item>1992</item>
+        <item>1991</item>
+        <item>1990</item>
+        <item>1989</item>
+        <item>1988</item>
+        <item>1987</item>
+        <item>1986</item>
+        <item>1985</item>
+        <item>1984</item>
+        <item>1983</item>
+        <item>1982</item>
+        <item>1981</item>
+        <item>1980</item>
+        <item>1979</item>
+        <item>1978</item>
+        <item>1977</item>
+        <item>1976</item>
+        <item>1975</item>
+        <item>1974</item>
+        <item>1973</item>
+        <item>1972</item>
+        <item>1971</item>
+        <item>1970</item>
+        <item>1969</item>
+        <item>1968</item>
+        <item>1967</item>
+        <item>1966</item>
+        <item>1965</item>
+        <item>1964</item>
+        <item>1963</item>
+        <item>1962</item>
+        <item>1961</item>
+        <item>1960</item>
+        <item>1959</item>
+        <item>1958</item>
+        <item>1957</item>
+        <item>1956</item>
+        <item>1955</item>
+        <item>1954</item>
+        <item>1953</item>
+        <item>1952</item>
+        <item>1951</item>
+        <item>1950</item>
+        <item>1949</item>
+        <item>1948</item>
+        <item>1947</item>
+        <item>1946</item>
+        <item>1945</item>
+        <item>1944</item>
+        <item>1943</item>
+        <item>1942</item>
+        <item>1941</item>
+        <item>1940</item>
+        <item>1939</item>
+        <item>1938</item>
+        <item>1937</item>
+        <item>1936</item>
+        <item>1935</item>
+        <item>1934</item>
+        <item>1933</item>
+        <item>1932</item>
+        <item>1931</item>
+        <item>1930</item>
+        <item>1929</item>
+        <item>1928</item>
+        <item>1927</item>
+        <item>1926</item>
+        <item>1925</item>
+        <item>1924</item>
+    </string-array>
+    <string-array name="filter_kinokiwi_country">
+        <item>149|Австралия</item>
+        <item>151|Австрия</item>
+        <item>184|Азербайджан</item>
+        <item>217|Албания</item>
+        <item>161|Алжир</item>
+        <item>297|Англия</item>
+        <item>232|Ангола</item>
+        <item>296|Андорра</item>
+        <item>350|Антигуа и Барбуда</item>
+        <item>141|Аргентина</item>
+        <item>222|Армения</item>
+        <item>183|Аруба</item>
+        <item>219|Афганистан</item>
+        <item>195|Багамские острова</item>
+        <item>253|Бангладеш</item>
+        <item>353|Барбадос</item>
+        <item>295|Бахрейн</item>
+        <item>221|Беларусь</item>
+        <item>298|Белиз</item>
+        <item>140|Бельгия</item>
+        <item>250|Бенин</item>
+        <item>340|Бермудские острова</item>
+        <item>337|Бирма</item>
+        <item>174|Болгария</item>
+        <item>204|Боливия</item>
+        <item>193|Босния и Герцеговина</item>
+        <item>179|Ботсвана</item>
+        <item>157|Бразилия</item>
+        <item>343|Бруней</item>
+        <item>236|Буркина-Фасо</item>
+        <item>278|Бурунди</item>
+        <item>169|Бутан</item>
+        <item>124|Великобритания</item>
+        <item>143|Венгрия</item>
+        <item>238|Венесуэла</item>
+        <item>209|Вьетнам</item>
+        <item>255|Габон</item>
+        <item>267|Гаити</item>
+        <item>293|Гамбия</item>
+        <item>234|Гана</item>
+        <item>262|Гваделупа</item>
+        <item>259|Гватемала</item>
+        <item>266|Гвинея</item>
+        <item>285|Гвинея-Бисау</item>
+        <item>198|ГДР</item>
+        <item>132|Германия</item>
+        <item>211|Гондурас</item>
+        <item>129|Гонконг</item>
+        <item>325|Гренада</item>
+        <item>277|Гренландия</item>
+        <item>186|Греция</item>
+        <item>173|Грузия</item>
+        <item>134|Дания</item>
+        <item>239|Демократическая Республика Конго</item>
+        <item>212|Доминиканская Республика</item>
+        <item>223|Египет</item>
+        <item>289|Заир</item>
+        <item>194|Замбия</item>
+        <item>162|Западная Германия</item>
+        <item>333|Западной Сахаре</item>
+        <item>272|Зимбабве</item>
+        <item>159|Израиль</item>
+        <item>152|Индия</item>
+        <item>210|Индонезия</item>
+        <item>224|Иордания</item>
+        <item>243|Ирак</item>
+        <item>165|Иран</item>
+        <item>131|Ирландия</item>
+        <item>171|Исландия</item>
+        <item>130|Испания</item>
+        <item>135|Италия</item>
+        <item>286|Йемен</item>
+        <item>270|Кабо-Верде</item>
+        <item>187|Казахстан</item>
+        <item>260|Камбоджа</item>
+        <item>181|Камерун</item>
+        <item>126|Канада</item>
+        <item>249|Катар</item>
+        <item>264|Кения</item>
+        <item>230|Кипр</item>
+        <item>128|Китай</item>
+        <item>201|Колумбия</item>
+        <item>330|Коморы</item>
+        <item>341|Конго</item>
+        <item>269|Корея</item>
+        <item>308|Корея Южная</item>
+        <item>273|Косово</item>
+        <item>258|Коста-Рика</item>
+        <item>"271|Кот-д'Ивуар"</item>
+        <item>203|Куба</item>
+        <item>214|Кувейт</item>
+        <item>263|Кыргызстан</item>
+        <item>284|Лаос</item>
+        <item>229|Латвия</item>
+        <item>344|Лесото</item>
+        <item>215|Либерия</item>
+        <item>188|Ливан</item>
+        <item>213|Ливия</item>
+        <item>190|Литва</item>
+        <item>200|Лихтенштейн</item>
+        <item>144|Люксембург</item>
+        <item>248|Мавритания</item>
+        <item>276|Мадагаскар</item>
+        <item>182|Макао</item>
+        <item>288|Малави</item>
+        <item>218|Малайзия</item>
+        <item>235|Мали</item>
+        <item>324|Мальдивы</item>
+        <item>208|Мальта</item>
+        <item>176|Марокко</item>
+        <item>261|Мартиника</item>
+        <item>136|Мексика</item>
+        <item>283|Мозамбик</item>
+        <item>254|Молдова</item>
+        <item>216|Монако</item>
+        <item>252|Монголия</item>
+        <item>339|Мьянма</item>
+        <item>227|Намибия</item>
+        <item>207|Непал</item>
+        <item>275|Нигер</item>
+        <item>231|Нигерия</item>
+        <item>170|Нидерланды</item>
+        <item>287|Никарагуа</item>
+        <item>156|Новая Зеландия</item>
+        <item>137|Норвегия</item>
+        <item>160|Объединенные Арабские Эмираты</item>
+        <item>197|Оккупированной Палестинской Территории</item>
+        <item>281|Оман</item>
+        <item>245|Пакистан</item>
+        <item>247|Панама</item>
+        <item>279|Папуа Новая Гвинея</item>
+        <item>205|Парагвай</item>
+        <item>199|Перу</item>
+        <item>148|Польша</item>
+        <item>168|Португалия</item>
+        <item>196|Пуэрто-Рико</item>
+        <item>175|Республика Македония</item>
+        <item>313|Реюньон</item>
+        <item>139|Россия</item>
+        <item>237|Руанда</item>
+        <item>163|Румыния</item>
+        <item>268|Сальвадор</item>
+        <item>291|Самоу</item>
+        <item>251|Саудовская Аравия</item>
+        <item>331|Свазиленд</item>
+        <item>302|Северная Корея</item>
+        <item>292|Северный Вьетнам</item>
+        <item>233|Сенегал</item>
+        <item>327|Сент-Винсент И Гренадины</item>
+        <item>326|Сент-Люсия</item>
+        <item>164|Сербия</item>
+        <item>345|Сербия и Черногория</item>
+        <item>191|Сингапур</item>
+        <item>256|Сирия</item>
+        <item>189|Словакия</item>
+        <item>202|Словения</item>
+        <item>347|Соломоновы Острова</item>
+        <item>294|Сомали</item>
+        <item>153|СССР</item>
+        <item>300|Судан</item>
+        <item>241|Суринам</item>
+        <item>125|США</item>
+        <item>301|Сьерра-Леоне</item>
+        <item>228|Таджикистан</item>
+        <item>158|Таиланд</item>
+        <item>172|Тайвань</item>
+        <item>274|Танзания</item>
+        <item>244|Того</item>
+        <item>329|Тонга</item>
+        <item>265|Тринидад и Тобаго</item>
+        <item>328|Тувалу</item>
+        <item>146|Тунис</item>
+        <item>280|Туркменистан</item>
+        <item>336|Турция</item>
+        <item>299|Уганда</item>
+        <item>220|Узбекистан</item>
+        <item>177|Украина</item>
+        <item>167|Уругвай</item>
+        <item>332|Фарерские Острова</item>
+        <item>338|Фиджи</item>
+        <item>206|Филиппины</item>
+        <item>155|Финляндия</item>
+        <item>123|Франция</item>
+        <item>192|Хорватия</item>
+        <item>342|Центрально-Африканская Республика</item>
+        <item>226|Чад</item>
+        <item>346|Черногория</item>
+        <item>150|Чехия</item>
+        <item>145|Чехословакия</item>
+        <item>138|Чили</item>
+        <item>147|Швейцария</item>
+        <item>154|Швеция</item>
+        <item>257|Шри-Ланка</item>
+        <item>225|Эквадор</item>
+        <item>178|Эстония</item>
+        <item>246|Эфиопия</item>
+        <item>166|Югославии</item>
+        <item>122|Южная Африка</item>
+        <item>142|Южная Корея</item>
+        <item>240|Ямайка</item>
+        <item>133|Япония</item>
+    </string-array>
+    <string-array name="filter_kinokiwi_genre">
+        <item>265|Мультфильм</item>
+        <item>253|Биография</item>
+        <item>259|Криминал</item>
+        <item>252|Документальный</item>
+        <item>249|Драма</item>
+        <item>269|Эротика</item>
+        <item>267|Вестерн</item>
+        <item>264|Исторический</item>
+        <item>258|Комедия</item>
+        <item>260|романтика</item>
+        <item>268|Мюзикл</item>
+        <item>273|Короткометражный</item>
+        <item>256|Мистика</item>
+        <item>262|Музыка</item>
+        <item>248|Боевик</item>
+        <item>266|Приключения</item>
+        <item>257|Фантастика</item>
+        <item>251|Военный</item>
+        <item>263|Семейный</item>
+        <item>255|Ужас</item>
+        <item>254|Спорт</item>
+        <item>250|Триллер</item>
+        <item>261|Фэнтези</item>
+    </string-array>
+    <string-array name="filter_kinokong_genre_films">
+        <item>boevik|Боевики</item>
+        <item>vestern|Вестерн</item>
+        <item>voennyy|Военный</item>
+        <item>detektiv|Детектив</item>
+        <item>drama|Драма</item>
+        <item>istoricheskiy|Исторические</item>
+        <item>komedian|Комедия</item>
+        <item>kriminal|Криминал</item>
+        <item>melodrama|Мелодрама</item>
+        <item>otechestvennyy|Русские</item>
+        <item>priklyucheniya|Приключения</item>
+        <item>semeynyy|Семейный</item>
+        <item>triller|Триллер</item>
+        <item>uzhasy|Ужасы</item>
+        <item>fantastika|Фантастика</item>
+        <item>fentezi|Фэнтези</item>
+        <item>2014|2014</item>
+        <item>2015|2015</item>
+        <item>2016|2016</item>
+        <item>f2017|2017</item>
+        <item>720-hd|Фильмы HD720 онлайн</item>
+        <item>mobiles|Моб. видео</item>
+        <item>treiler|Скоро в кино</item>
+    </string-array>
+    <string-array name="filter_kinokong_genre_serial">
+        <item>boeviki|Боевик</item>
+        <item>melodrami|Мелодрамы</item>
+        <item>voennie|Военный</item>
+        <item>detektivi|Детектив</item>
+        <item>drami|Драма</item>
+        <item>istoricheskie|Исторические</item>
+        <item>komedii|Комедии</item>
+        <item>kriminali|Криминал</item>
+        <item>priklychenia|Приключения</item>
+        <item>trilleri|Триллеры</item>
+        <item>yzhasi|Ужасы</item>
+        <item>fantas|Фантастика</item>
+        <item>serialmob|Мобильные сериалы</item>
+    </string-array>
+    <string-array name="filter_myhit_country">
+        <item>fo|Россия</item>
+        <item>fq|СССР</item>
+        <item>f3|США</item>
+        <item>f2z|Индия</item>
+        <item>fj|Франция</item>
+        <item>fn|Япония</item>
+        <item>fx|Китай</item>
+        <item>fe|Великобритания</item>
+        <item>f4|Испания</item>
+        <item>fv|Италия</item>
+        <item>f7|Канада</item>
+        <item>f1i|Швеция</item>
+        <item>ff|Дания</item>
+        <item>f1|Германия</item>
+        <item>f2f|Корея</item>
+        <item>f93|Южная Корея</item>
+        <item>f2b|Мексика</item>
+        <item>f31|Украина</item>
+        <item>f16|Турция</item>
+        <item>f27|Польша</item>
+    </string-array>
+    <string-array name="filter_myhit_genre">
+        <item>ab|Боевик</item>
+        <item>az|Вестерн</item>
+        <item>at|Военный</item>
+        <item>aj|Детектив</item>
+        <item>a2|Детский</item>
+        <item>ag|Документальный</item>
+        <item>ad|Драма</item>
+        <item>aq|Исторический</item>
+        <item>a6|Комедия</item>
+        <item>af|Криминал</item>
+        <item>al|Мелодрама</item>
+        <item>ak|Мистика</item>
+        <item>a8|Музыка</item>
+        <item>a9|Мультфильм</item>
+        <item>ac|Мюзикл</item>
+        <item>a1|Приключения</item>
+        <item>a1b|Психологический</item>
+        <item>a2k|Разное</item>
+        <item>a18|Романтический</item>
+        <item>a3|Семейный</item>
+        <item>ap|Спорт</item>
+        <item>ai|Триллер</item>
+        <item>ah|Ужасы</item>
+        <item>aa|Фантастика</item>
+        <item>a7|Фэнтези</item>
+    </string-array>
+    <string-array name="filter_myhit_year">
+        <item>i1k3|2019</item>
+        <item>i1k2|2018</item>
+        <item>i1k1|2017</item>
+        <item>i1k0|2016</item>
+        <item>i1jz|2015</item>
+        <item>i1jy|2014</item>
+        <item>i1jx|2013</item>
+        <item>i1jw|2012</item>
+        <item>i1jv|2011</item>
+        <item>i1ju|2010</item>
+        <item>i1jt|2009</item>
+        <item>i1js|2008</item>
+        <item>i1jr|2007</item>
+        <item>i1jq|2006</item>
+        <item>i1jp|2005</item>
+        <item>i1jo|2004</item>
+        <item>i1jn|2003</item>
+        <item>i1jm|2002</item>
+        <item>i1jl|2001</item>
+        <item>i1jk|2000</item>
+        <item>i1jj|1999</item>
+        <item>i1ji|1998</item>
+        <item>i1jh|1997</item>
+        <item>i1jg|1996</item>
+        <item>i1jf|1995</item>
+        <item>i1je|1994</item>
+        <item>i1jd|1993</item>
+        <item>i1jc|1992</item>
+        <item>i1jb|1991</item>
+        <item>i1ja|1990</item>
+        <item>i1j9|1989</item>
+        <item>i1j8|1988</item>
+        <item>i1j7|1987</item>
+        <item>i1j6|1986</item>
+        <item>i1j5|1985</item>
+        <item>i1j4|1984</item>
+        <item>i1j3|1983</item>
+        <item>i1j2|1982</item>
+        <item>i1j1|1981</item>
+        <item>i1j0|1980</item>
+        <item>i1iz|1979</item>
+        <item>i1iy|1978</item>
+        <item>i1ix|1977</item>
+        <item>i1iw|1976</item>
+        <item>i1iv|1975</item>
+        <item>i1iu|1974</item>
+        <item>i1it|1973</item>
+        <item>i1is|1972</item>
+        <item>i1ir|1971</item>
+        <item>i1iq|1970</item>
+        <item>i1ip|1969</item>
+        <item>i1io|1968</item>
+        <item>i1in|1967</item>
+        <item>i1im|1966</item>
+        <item>i1il|1965</item>
+        <item>i1ik|1964</item>
+        <item>i1ij|1963</item>
+        <item>i1ii|1962</item>
+        <item>i1ih|1961</item>
+        <item>i1ig|1960</item>
+        <item>i1if|1959</item>
+        <item>i1ie|1958</item>
+        <item>i1id|1957</item>
+        <item>i1ic|1956</item>
+        <item>i1ib|1955</item>
+        <item>i1ia|1954</item>
+        <item>i1i9|1953</item>
+        <item>i1i8|1952</item>
+        <item>i1i7|1951</item>
+        <item>i1i6|1950</item>
+        <item>i1i5|1949</item>
+        <item>i1i4|1948</item>
+        <item>i1i3|1947</item>
+    </string-array>
+    <string-array name="filter_rating_ten">
+        <item>1-2</item>
+        <item>2-3</item>
+        <item>3-4</item>
+        <item>4-5</item>
+        <item>5-6</item>
+        <item>6-7</item>
+        <item>7-8</item>
+        <item>8-9</item>
+        <item>9-10</item>
+    </string-array>
+    <string-array name="filter_rating_zonefilm">
+        <item>9|от 9</item>
+        <item>8|от 8</item>
+        <item>7|от 7</item>
+        <item>6|от 6</item>
+        <item>5|от 5</item>
+        <item>4|от 4</item>
+        <item>3|от 3</item>
+        <item>2|от 2</item>
+        <item>1|от 1</item>
+    </string-array>
+    <string-array name="filter_studio_zonefilm">
+        <item>netflix|Netflix</item>
+        <item>warner_bros|Warner Bros</item>
+        <item>universal|Universal</item>
+        <item>sony|Sony</item>
+        <item>disney|Disney</item>
+        <item>marvel|Marvel</item>
+        <item>dc|DC</item>
+        <item>pixar|Pixar</item>
+        <item>amazon|Amazon Prime</item>
+        <item>paramount|Paramount</item>
+    </string-array>
+    <string-array name="filter_torentino_country">
+        <item>сша|США</item>
+        <item>франция|Франция</item>
+        <item>великобритания|Великобритания</item>
+        <item>ссср|СССР</item>
+        <item>россия|Россия</item>
+        <item>япония|Япония</item>
+        <item>италия|Италия</item>
+        <item>индия|Индия</item>
+        <item>канада|Канада</item>
+        <item>германия|Германия</item>
+        <item>испания|Испания</item>
+        <item>гонконг|Гонконг</item>
+        <item>корея южная|Корея Южная</item>
+        <item>австралия|Австралия</item>
+        <item>швеция|Швеция</item>
+        <item>германия (фрг)|Германия (ФРГ)</item>
+        <item>бельгия|Бельгия</item>
+        <item>польша|Польша</item>
+        <item>нидерланды|Нидерланды</item>
+        <item>дания|Дания</item>
+        <item>китай|Китай</item>
+        <item>украина|Украина</item>
+        <item>бразилия|Бразилия</item>
+        <item>мексика|Мексика</item>
+        <item>аргентина|Аргентина</item>
+        <item>норвегия|Норвегия</item>
+        <item>швейцария|Швейцария</item>
+        <item>турция|Турция</item>
+        <item>тайвань|Тайвань</item>
+        <item>австрия|Австрия</item>
+    </string-array>
+    <string-array name="filter_torentino_genre">
+        <item>драма</item>
+        <item>комедия</item>
+        <item>мелодрама</item>
+        <item>триллер</item>
+        <item>боевик</item>
+        <item>криминал</item>
+        <item>мультфильм</item>
+        <item>ужасы</item>
+        <item>приключения</item>
+        <item>короткометражка</item>
+        <item>документальный</item>
+        <item>семейный</item>
+        <item>детектив</item>
+        <item>фантастика</item>
+        <item>фэнтези</item>
+        <item>тв шоу</item>
+        <item>военный</item>
+        <item>история</item>
+        <item>биография</item>
+        <item>музыка</item>
+        <item>мюзикл</item>
+        <item>аниме</item>
+        <item>вестерн</item>
+        <item>спорт</item>
+        <item>детский</item>
+        <item>реальное тв</item>
+        <item>фильм-нуар</item>
+        <item>концерт</item>
+        <item>новости</item>
+        <item>ток-шоу</item>
+        <item>игра</item>
+    </string-array>
+    <string-array name="filter_torentino_quality">
+        <item>hq|Высокое</item>
+        <item>hd|Хорошее</item>
+        <item>low|Низкое</item>
+    </string-array>
+    <string-array name="filter_torentino_rating">
+        <item>1|от 1</item>
+        <item>2|от 2</item>
+        <item>3|от 3</item>
+        <item>4|от 4</item>
+        <item>5|от 5</item>
+        <item>6|от 6</item>
+        <item>7|от 7</item>
+        <item>8|от 8</item>
+        <item>9|от 9</item>
+    </string-array>
+    <string-array name="filter_treetv_country">
+        <item>our|Наше</item>
+        <item>foreign|Зарубежное</item>
+    </string-array>
+    <string-array name="filter_treetv_genres">
+        <item>552|Арт-Хаус</item>
+        <item>569|Биографические</item>
+        <item>567|Боевики</item>
+        <item>568|Вестерны</item>
+        <item>566|Военные</item>
+        <item>565|Детективы</item>
+        <item>564|Детские</item>
+        <item>563|Для взрослых</item>
+        <item>8422|Документальные</item>
+        <item>561|Драмы</item>
+        <item>560|Исторические</item>
+        <item>562|Катастрофы</item>
+        <item>559|Комедии</item>
+        <item>36274|Короткометражки</item>
+        <item>557|Криминал</item>
+        <item>556|Мелодрамы</item>
+        <item>550|Мистика</item>
+        <item>555|Музыкальные</item>
+        <item>553|Мюзиклы</item>
+        <item>551|Приключения</item>
+        <item>56042|Реалити-шоу</item>
+        <item>67033|Романтические</item>
+        <item>549|Семейные</item>
+        <item>637|Сказки</item>
+        <item>56545|Скетч-шоу</item>
+        <item>548|Спортивные</item>
+        <item>56549|Стендап</item>
+        <item>56043|Ток-шоу</item>
+        <item>547|Триллеры</item>
+        <item>546|Ужасы</item>
+        <item>545|Фантастика</item>
+        <item>66788|Фильм-нуар</item>
+        <item>537|Фэнтези</item>
+    </string-array>
+    <string-array name="filter_treetv_quality">
+        <item>HD|HD</item>
+        <item>HQ|HQ</item>
+        <item>SQ|SQ</item>
+    </string-array>
+    <string-array name="filter_treetv_year">
+        <item>2000</item>
+        <item>2001</item>
+        <item>2002</item>
+        <item>2003</item>
+        <item>2004</item>
+        <item>2005</item>
+        <item>2006</item>
+        <item>2007</item>
+        <item>2008</item>
+        <item>2009</item>
+        <item>2010</item>
+        <item>2011</item>
+        <item>2012</item>
+        <item>2013</item>
+        <item>2014</item>
+        <item>2015</item>
+        <item>2016</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2020</item>
+        <item>2021</item>
+        <item>2022</item>
+        <item>2023</item>
+    </string-array>
+    <string-array name="filter_year_zonefilm">
+        <item>2024</item>
+        <item>2023</item>
+        <item>2022</item>
+        <item>2021</item>
+        <item>2020</item>
+        <item>2019</item>
+        <item>2018</item>
+        <item>2017</item>
+        <item>2016</item>
+        <item>2015</item>
+        <item>2014</item>
+        <item>2013</item>
+        <item>2012</item>
+        <item>2011</item>
+        <item>2010</item>
+        <item>2000s|2000-е</item>
+        <item>90s|90-е</item>
+        <item>80s|80-е</item>
+        <item>70s|70-е</item>
+        <item>60s|60-е</item>
+        <item>50s|50-е</item>
+        <item>40s|40-е</item>
+        <item>old|до 40-х</item>
+    </string-array>
+    <string-array name="filter_zona_country">
+        <item>/filter/country-ssha|США</item>
+        <item>/filter/country-rossiia|Россия</item>
+        <item>/filter/country-frantciia|Франция</item>
+        <item>/filter/country-velikobritaniia|Великобритания</item>
+        <item>/filter/country-italiia|Италия</item>
+        <item>/filter/country-germaniia|Германия</item>
+        <item>/filter/country-indiia|Индия</item>
+        <item>/filter/country-kanada|Канада</item>
+        <item>/filter/country-iaponiia|Япония</item>
+        <item>/filter/country-ispaniia|Испания</item>
+        <item>/filter/country-gonkong|Гонконг</item>
+        <item>/filter/country-koreia-iuzhnaia|Корея Южная</item>
+        <item>/filter/country-avstraliia|Австралия</item>
+        <item>/filter/country-kitai|Китай</item>
+        <item>/filter/country-belgiia|Бельгия</item>
+        <item>/filter/country-polsha|Польша</item>
+        <item>/filter/country-shvetciia|Швеция</item>
+        <item>/filter/country-daniia|Дания</item>
+        <item>/filter/country-chekhiia|Чехия</item>
+        <item>/filter/country-niderlandy|Нидерланды</item>
+        <item>/filter/country-ukraina|Украина</item>
+        <item>/filter/country-irlandiia|Ирландия</item>
+        <item>/filter/country-norvegiia|Норвегия</item>
+        <item>/filter/country-meksika|Мексика</item>
+        <item>/filter/country-shveitcariia|Швейцария</item>
+        <item>/filter/country-serbiia|Сербия</item>
+        <item>/filter/country-argentina|Аргентина</item>
+        <item>/filter/country-vengriia|Венгрия</item>
+        <item>/filter/country-tailand|Таиланд</item>
+        <item>/filter/country-avstriia|Австрия</item>
+    </string-array>
+    <string-array name="filter_zona_genre">
+        <item>/filter/genre-drama|драма</item>
+        <item>/filter/genre-komediia|комедия</item>
+        <item>/filter/genre-triller|триллер</item>
+        <item>/filter/genre-melodrama|мелодрама</item>
+        <item>/filter/genre-boevik|боевик</item>
+        <item>/filter/genre-kriminal|криминал</item>
+        <item>/filter/genre-uzhasy|ужасы</item>
+        <item>/filter/genre-prikliucheniia|приключения</item>
+        <item>/filter/genre-fantastika|фантастика</item>
+        <item>/filter/genre-detektiv|детектив</item>
+        <item>/filter/genre-fentezi|фэнтези</item>
+        <item>/filter/genre-semeinyi|семейный</item>
+        <item>/filter/genre-voennyi|военный</item>
+        <item>/filter/genre-multfilm|мультфильм</item>
+        <item>/filter/genre-istoriia|история</item>
+        <item>/filter/genre-biografiia|биография</item>
+        <item>/filter/genre-miuzikl|мюзикл</item>
+        <item>/filter/genre-vestern|вестерн</item>
+        <item>/filter/genre-muzyka|музыка</item>
+        <item>/filter/genre-sport|спорт</item>
+        <item>/filter/genre-dokumentalnyi|документальный</item>
+        <item>/filter/genre-anime|аниме</item>
+        <item>/filter/genre-korotkometrazhka|короткометражка</item>
+        <item>/filter/genre-film-nuar|фильм-нуар</item>
+        <item>/filter/genre-detskii|детский</item>
+        <item>/filter/genre-realnoe-tv|реальное ТВ</item>
+        <item>/filter/genre-novosti|новости</item>
+        <item>/filter/genre-kontcert|концерт</item>
+        <item>/filter/genre-tok-shou|ток-шоу</item>
+    </string-array>
+    <string-array name="filter_zona_rating">
+        <item>/filter/rating-9|от 9</item>
+        <item>/filter/rating-8|от 8</item>
+        <item>/filter/rating-7|от 7</item>
+        <item>/filter/rating-6|от 6</item>
+        <item>/filter/rating-5|от 5</item>
+        <item>/filter/rating-4|от 4</item>
+        <item>/filter/rating-3|от 3</item>
+        <item>/filter/rating-2|от 2</item>
+        <item>/filter/rating-1|от 1</item>
+    </string-array>
+    <string-array name="filter_zona_year">
+        <item>/filter/year-2022|2022</item>
+        <item>/filter/year-2021|2021</item>
+        <item>/filter/year-2020|2020</item>
+        <item>/filter/year-2019|2019</item>
+        <item>/filter/year-2018|2018</item>
+        <item>/filter/year-2017|2017</item>
+        <item>/filter/year-2016|2016</item>
+        <item>/filter/year-2015|2015</item>
+        <item>/filter/year-2014|2014</item>
+        <item>/filter/year-2013|2013</item>
+        <item>/filter/year-2012|2012</item>
+        <item>/filter/year-2011|2011</item>
+        <item>/filter/year-2010|2010</item>
+        <item>/filter/year-2010s|2010-е</item>
+        <item>/filter/year-90s|90-е</item>
+        <item>/filter/year-80s|80-е</item>
+        <item>/filter/year-70s|70-е</item>
+        <item>/filter/year-60s|60-е</item>
+        <item>/filter/year-50s|50-е</item>
+        <item>/filter/year-40s|40-е</item>
+        <item>/filter/year-old|до 40-х</item>
+    </string-array>
+    <string-array name="orders_filmix">
+        <item>date|по дате</item>
+        <item>year|по годам</item>
+        <item>rating|по популярности</item>
+        <item>news_read|по посещаемости</item>
+        <item>imdb|по рейтингу Imdb</item>
+    </string-array>
+    <string-array name="orders_hdrezka">
+        <item>last|По дате добавления</item>
+        <item>popular|По популярности</item>
+        <item>soon|В ожидании</item>
+        <item>watching|Сейчас смотрят</item>
+    </string-array>
+    <string-array name="orders_kinobase">
+        <item>|Новинки</item>
+        <item>viewed_day|Популярные за сутки</item>
+        <item>viewed_week|Популярные за неделю</item>
+        <item>viewed_month|Популярные за месяц</item>
+        <item>viewed_all|Популярные за все время</item>
+        <item>rating|Рейтинг пользователей</item>
+        <item>kp_rating|Рейтинг Кинопоиск</item>
+        <item>imdb_rating|Рейтинг IMDb</item>
+    </string-array>
+    <string-array name="orders_kinokiwi">
+        <item>upload_date|Новые</item>
+        <item>rating|Imdb рейтинг</item>
+        <item>user_rating|рейтинг пользователя</item>
+        <item>year|год</item>
+    </string-array>
+    <string-array name="orders_kinokong">
+        <item>date|по дате обновления</item>
+        <item>rating|по рейтингу</item>
+        <item>news_read|по посещаемости</item>
+        <item>comm_num|по комментариям</item>
+    </string-array>
+    <string-array name="orders_kinorium">
+        <item>ratings|По популярности</item>
+        <item>sort_date|По дате добавления</item>
+        <item>imdb|По рейтингу IMDB</item>
+        <item>rt|По рейтингу критиков</item>
+    </string-array>
+    <string-array name="orders_kinosha">
+        <item>date|по дате</item>
+        <item>date_fn|по премьере</item>
+        <item>rating_imdb|по IMDB</item>
+        <item>rating_kinopoisk|по Кинопоиск</item>
+        <item>rateval|рейтинг пользователя</item>
+    </string-array>
+    <string-array name="orders_kinovod">
+        <item>|Новинки</item>
+        <item>year|Год</item>
+        <item>viewed_day|Популярные за сутки</item>
+        <item>viewed_week|Популярные за неделю</item>
+        <item>viewed_month|Популярные за месяц</item>
+        <item>viewed_all|Популярные за все время</item>
+        <item>rating|Рейтинг пользователей</item>
+        <item>kp_rating|Рейтинг Кинопоиск</item>
+        <item>imdb_rating|Рейтинг IMDb</item>
+    </string-array>
+    <string-array name="orders_myhit">
+        <item>19|По дате добавления</item>
+        <item>7|По популярности</item>
+        <item>15|По рейтингу</item>
+        <item>25|По бюджету</item>
+        <item>27|По кассовым сборам</item>
+        <item>21|По дате релиза</item>
+    </string-array>
+    <string-array name="orders_torrentino">
+        <item>date|дате выхода</item>
+        <item>popularity|по популярности</item>
+        <item>rating|по рейтингу</item>
+    </string-array>
+    <string-array name="orders_treetv">
+        <item>new|по дате обновления</item>
+        <item>view|по просмотрам</item>
+        <item>rate|по рейтингу</item>
+    </string-array>
+    <string-array name="orders_zombie">
+        <item>release|по дате выхода</item>
+        <item>imdb|по рейтингу IMDB</item>
+        <item>kinopoisk|по рейтингу Кинопоиска</item>
+    </string-array>
+    <string-array name="orders_zona">
+        <item>|по популярности</item>
+        <item>/filter/sort-rating|по рейтингу</item>
+        <item>/filter/sort-date|по дате выхода</item>
+    </string-array>
+    <string-array name="orders_zonefilm">
+        <item>|По популярности</item>
+        <item>date|По дате добавления</item>
+        <item>rating|По рейтингу</item>
+    </string-array>
+    <string-array name="set_density">
+        <item>@string/off</item>
+        <item>1.0 LDPI</item>
+        <item>1.1</item>
+        <item>1.2</item>
+        <item>1.3</item>
+        <item>1.4</item>
+        <item>1.5 HDPI</item>
+        <item>1.6</item>
+        <item>1.7</item>
+        <item>1.8</item>
+        <item>1.9</item>
+        <item>2.0 XHDPI</item>
+        <item>2.1</item>
+        <item>2.2</item>
+        <item>2.3</item>
+        <item>2.4</item>
+        <item>2.5</item>
+        <item>3.0 XXHDPI</item>
+    </string-array>
+    <string-array name="set_density_value">
+        <item>0</item>
+        <item>1.0</item>
+        <item>1.1</item>
+        <item>1.2</item>
+        <item>1.3</item>
+        <item>1.4</item>
+        <item>1.5</item>
+        <item>1.6</item>
+        <item>1.7</item>
+        <item>1.8</item>
+        <item>1.9</item>
+        <item>2.0</item>
+        <item>2.1</item>
+        <item>2.2</item>
+        <item>2.3</item>
+        <item>2.4</item>
+        <item>2.5</item>
+        <item>3.0</item>
+    </string-array>
+    <string-array name="set_language">
+        <item>Auto</item>
+        <item>English</item>
+        <item>Русский</item>
+        <item>Українська</item>
+        <item>Lietuviškai</item>
+    </string-array>
+    <string-array name="set_language_values">
+        <item></item>
+        <item>en</item>
+        <item>ru</item>
+        <item>uk</item>
+        <item>lt</item>
+    </string-array>
+</resources>

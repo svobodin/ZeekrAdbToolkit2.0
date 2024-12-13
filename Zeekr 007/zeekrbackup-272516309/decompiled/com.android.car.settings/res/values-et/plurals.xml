@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">Kaamerarakendused</item>
+        <item quantity="one">Kaamerarakendus</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">E-posti kliendi rakendused</item>
+        <item quantity="one">E-posti kliendi rakendus</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">Telefonirakendused</item>
+        <item quantity="one">Telefonirakendus</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d katset</item>
+        <item quantity="one">%d katse</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d rakendust</item>
+        <item quantity="one">%d rakendus</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">Vähemalt %d rakendust</item>
+        <item quantity="one">Vähemalt %d rakendus</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d uut märguannet</item>
+        <item quantity="one">%d uus märguanne</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d seadet on ühendatud</item>
+        <item quantity="one">%1$d seade on ühendatud</item>
+    </plurals>
+</resources>

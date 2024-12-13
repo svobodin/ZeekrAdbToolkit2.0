@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Companion Device Manager</string>
+    <string name="chooser_title">Jūsų %1$s, kurį valdys &lt;strong>%2$s&lt;/strong> (pasirinkite)</string>
+    <string name="confirmation_title">Leisti &lt;strong>%1$s&lt;/strong> tvarkyti &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_no">Neleisti</string>
+    <string name="consent_yes">Leisti</string>
+    <string name="profile_name_generic">įrenginys</string>
+    <string name="profile_name_watch">laikrodį</string>
+    <string name="profile_summary">Ši programa reikalinga norint tvarkyti jūsų %1$s. %2$s</string>
+</resources>

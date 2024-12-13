@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="additional_permissions_decor_title">その他の権限</string>
+    <string name="app_permissions_decor_title">アプリの権限</string>
+    <string name="current_permission_template">%1$s/%2$s</string>
+    <string name="grant_dialog_button_deny_dont_ask_again">許可しない（次回から表示しない）</string>
+    <string name="grant_dialog_how_to_change">これは後から[設定]>[アプリ]で変更できます</string>
+    <string name="manage_permissions_decor_title">アプリの権限</string>
+    <string name="permission_apps_decor_title">%1$sの権限</string>
+    <string name="preference_show_system_apps">システムアプリの表示</string>
+    <string name="system_apps_decor_title">%1$sの権限</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">"ਨੈੱਟਵਰਕ 'ਤੇ ਸਾਈਨ-ਇਨ ਕਰੋ"</string>
+    <string name="action_bar_title">"%1$s 'ਤੇ ਸਾਈਨ-ਇਨ ਕਰੋ"</string>
+    <string name="action_do_not_use_network">ਇਹ ਨੈੱਟਵਰਕ ਨਾ ਵਰਤੋ</string>
+    <string name="action_use_network">ਇਸ ਨੈੱਟਵਰਕ ਨੂੰ ਉਵੇਂ ਵਰਤੋ ਜਿਵੇਂ ਇਹ ਹੈ</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">ਫ਼ਾਈਲ ਡਾਊਨਲੋਡਾਂ ਦੀ ਪ੍ਰਗਤੀ ਦਿਖਾਉਣ ਵਾਲੀਆਂ ਸੂਚਨਾਵਾਂ</string>
+    <string name="channel_description_downloads">ਪੂਰੇ ਹੋਏ ਜਾਂ ਰੱਦ ਕੀਤੇ ਡਾਊਨਲੋਡਾਂ ਨੂੰ ਦਿਖਾਉਣ ਵਾਲੀਆਂ ਸੂਚਨਾਵਾਂ</string>
+    <string name="channel_name_download_progress">ਡਾਊਨਲੋਡ ਦੀ ਪ੍ਰਗਤੀ</string>
+    <string name="channel_name_downloads">ਡਾਊਨਲੋਡ</string>
+    <string name="custom_scheme_example">ਉਦਾਹਰਨ ਲਈ, ਲੌਗ-ਇਨ ਪੰਨੇ ਨੂੰ ਪ੍ਰਮਾਣੀਕਰਨ ਲਈ ਕਿਸੇ ਖਾਸ ਐਪਲੀਕੇਸ਼ਨ ਦੀ ਲੋੜ ਹੋ ਸਕਦੀ ਹੈ</string>
+    <string name="custom_scheme_warning">ਜਿਸ ਨੈੱਟਵਰਕ ਵਿੱਚ ਤੁਸੀਂ ਸ਼ਾਮਲ ਹੋਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਹੋ ਉਹ ਦੂਜੀ ਐਪਲੀਕੇਸ਼ਨ ਨੂੰ ਖੋਲ੍ਹਣ ਦੀ ਬੇਨਤੀ ਕਰ ਰਿਹਾ ਹੈ।</string>
+    <string name="download_completed">ਡਾਊਨਲੋਡ ਮੁਕੰਮਲ ਹੋਇਆ</string>
+    <string name="downloading_paramfile">%1$s ਨੂੰ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ</string>
+    <string name="error_continue_via_browser">ਬ੍ਰਾਊਜ਼ਰ ਰਾਹੀਂ ਫਿਰ ਵੀ ਜਾਰੀ ਰੱਖੋ</string>
+    <string name="error_downloading_paramfile">%1$s ਨੂੰ ਡਾਊਨਲੋਡ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ</string>
+    <string name="no_bypass_error_vpnwarning">"ਵਧੀਕ ਤੌਰ 'ਤੇ, ਇਸ ਗੜਬੜ ਨੂੰ ਅਣਡਿੱਠ ਕਰਨਾ ਸੰਭਵ ਨਹੀਂ ਕਿਉਂਕਿ ਇਹ ਡੀਵਾਈਸ ਇੱਕ VPN ਚਲਾ ਰਿਹਾ ਹੈ।"</string>
+    <string name="ok">ਠੀਕ ਹੈ</string>
+    <string name="page_info">ਪੰਨੇ ਦੀ ਜਾਣਕਾਰੀ</string>
+    <string name="page_info_address">ਪਤਾ:</string>
+    <string name="ssl_error_date_invalid">ਇਸ ਪ੍ਰਮਾਣ-ਪੱਤਰ ਦੀ ਤਾਰੀਖ ਅਵੈਧ ਹੈ।</string>
+    <string name="ssl_error_example">ਉਦਾਹਰਣ ਵੱਜੋਂ, ਲੌਗ-ਇਨ ਪੰਨਾ ਦਿਖਾਈ ਗਈ ਸੰਸਥਾ ਨਾਲ ਸੰਬੰਧਿਤ ਨਹੀਂ ਹੋ ਸਕਦਾ ਹੈ।</string>
+    <string name="ssl_error_expired">ਇਸ ਪ੍ਰਮਾਣ-ਪੱਤਰ ਦੀ ਮਿਆਦ ਸਮਾਪਤ ਹੋ ਗਈ ਹੈ।</string>
+    <string name="ssl_error_invalid">ਇਹ ਪ੍ਰਮਾਣ-ਪੱਤਰ ਅਵੈਧ ਹੈ।</string>
+    <string name="ssl_error_mismatch">"ਸਾਈਟ ਦਾ ਨਾਮ ਪ੍ਰਮਾਣ-ਪੱਤਰ 'ਤੇ ਦਿੱਤੇ ਨਾਮ ਨਾਲ ਮੇਲ ਨਹੀਂ ਖਾਂਦਾ ਹੈ।"</string>
+    <string name="ssl_error_not_yet_valid">ਇਹ ਪ੍ਰਮਾਣ-ਪੱਤਰ ਹਾਲੇ ਵੈਧ ਨਹੀਂ ਹੈ।</string>
+    <string name="ssl_error_unknown">ਅਗਿਆਤ ਪ੍ਰਮਾਣ-ਪੱਤਰ ਗੜਬੜ।</string>
+    <string name="ssl_error_untrusted">ਇਹ ਪ੍ਰਮਾਣ-ਪੱਤਰ ਕਿਸੇ ਭਰੋਸੇਯੋਗ ਅਥਾਰਿਟੀ ਦਾ ਨਹੀਂ ਹੈ।</string>
+    <string name="ssl_error_view_certificate">ਪ੍ਰਮਾਣ-ਪੱਤਰ ਦੇਖੋ</string>
+    <string name="ssl_error_warning">ਤੁਹਾਡੇ ਦੁਆਰਾ ਸ਼ਾਮਿਲ ਹੋਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕੀਤੇ ਜਾ ਰਹੇ ਨੈੱਟਵਰਕ ਵਿੱਚ ਸੁਰੱਖਿਆ ਸੰਬੰਧੀ ਸਮੱਸਿਆਵਾਂ ਹਨ।</string>
+    <string name="ssl_security_warning_title">ਸੁਰੱਖਿਆ ਚਿਤਾਵਨੀ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

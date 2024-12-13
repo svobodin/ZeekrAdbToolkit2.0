@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>Sint-Marten</item>
+        <item>Karib deng. Niderlandiya hududi</item>
+        <item>Kyurasao</item>
+        <item>Janubiy Sudan</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Mark. Avstraliya – Shim. hudud</item>
+        <item>Mark. Avstraliya – Jan. Avstra.</item>
+        <item>Sharqiy Avstraliya – Kvinslend</item>
+        <item>Sharq. Avstra. – Yangi Jan. Uels</item>
+        <item>Tog‘ mintaqasi – Doson ko‘rfazi</item>
+        <item>Markaziy mintaqa – Saskachevan</item>
+        <item>Sharqiy mintaqa – Atikokan</item>
+        <item>Atlantika mintaqasi – Kvebek</item>
+        <item>Gavayi-Aleut orollari – Gavayi</item>
+        <item>Gavayi-Aleut orollari – Alyaska</item>
+        <item>Tinch okeani mint. – Metlakatla</item>
+        <item>Tog‘ mintaqasi – Arizona</item>
+        <item>Tinch okeani – Quyi Kaliforniya</item>
+        <item>Tog‘ – Chixuaxua</item>
+        <item>Markaziy – Tamaulipas</item>
+        <item>Tog‘ – Sonora</item>
+        <item>Sharqiy Afrika vaqti</item>
+        <item>Atlantika vaqt mintaqasi</item>
+        <item>Atlantika vaqt mintaqasi</item>
+        <item>Sharqiy Yevropa vaqti</item>
+        <item>Kaliningrad vaqti</item>
+        <item>Amazonka – Rondoniya</item>
+        <item>Brazilia – Para</item>
+    </string-array>
+</resources>

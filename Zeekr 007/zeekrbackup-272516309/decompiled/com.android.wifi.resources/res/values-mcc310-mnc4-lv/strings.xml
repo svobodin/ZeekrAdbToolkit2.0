@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s: lai izveidotu savienojumu ar pakalpojumu Verizon Wi-Fi Access, ir jābūt Verizon pārklājuma zonā.</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s: jums nav Verizon Wi-Fi Access abonementa. Lūdzu, zvaniet mums uz numuru 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s: radusies problēma ar jūsu Verizon Wi-Fi Access kontu. Lūdzu, zvaniet mums uz numuru 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s: savienojums ar Verizon Wi-Fi Access jau ir izveidots.</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s: veidojot savienojumu ar pakalpojumu Verizon Wi-Fi Access, radās problēma. Lūdzu, zvaniet mums uz numuru 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s: radusies problēma ar jūsu Verizon Wi-Fi Access kontu. Lūdzu, zvaniet mums uz numuru 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s: jūsu atrašanās vietā pakalpojums Verizon Wi-Fi Access nav pieejams. Vēlāk mēģiniet vēlreiz, vai arī mēģiniet izveidot savienojumu no citas atrašanās vietas.</string>
+</resources>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">Izinkan ^1 untuk menghapus ^2 file audio?</item>
+        <item quantity="one">Izinkan ^1 untuk menghapus file audio ini?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">Izinkan ^1 untuk menghapus ^2 item?</item>
+        <item quantity="one">Izinkan ^1 untuk menghapus item ini?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">Izinkan ^1 untuk menghapus ^2 foto?</item>
+        <item quantity="one">Izinkan ^1 untuk menghapus foto ini?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">Izinkan ^1 untuk menghapus ^2 video?</item>
+        <item quantity="one">Izinkan ^1 untuk menghapus video ini?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">Plus ^1 item tambahan</item>
+        <item quantity="one">Plus ^1 item tambahan</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">+^1</item>
+        <item quantity="one">+^1</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">Menghapus ^1 file audio …</item>
+        <item quantity="one">Menghapus file audio …</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">Menghapus ^1 item …</item>
+        <item quantity="one">Menghapus item …</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">Menghapus ^1 foto …</item>
+        <item quantity="one">Menghapus foto …</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">Menghapus ^1 video …</item>
+        <item quantity="one">Menghapus video …</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">Memindahkan ^1 file audio ke sampah …</item>
+        <item quantity="one">Memindahkan file audio ke sampah …</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">Memindahkan ^1 item ke sampah …</item>
+        <item quantity="one">Memindahkan item ke sampah …</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">Memindahkan ^1 foto ke sampah …</item>
+        <item quantity="one">Memindahkan foto ke sampah …</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">Memindahkan ^1 video ke sampah …</item>
+        <item quantity="one">Memindahkan video ke sampah …</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">Memindahkan ^1 file audio dari sampah …</item>
+        <item quantity="one">Memindahkan file audio dari sampah …</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">Memindahkan ^1 item dari sampah …</item>
+        <item quantity="one">Memindahkan item dari sampah …</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">Memindahkan ^1 foto dari sampah …</item>
+        <item quantity="one">Memindahkan foto dari sampah …</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">Memindahkan ^1 video dari sampah …</item>
+        <item quantity="one">Memindahkan video dari sampah …</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">Mengubah ^1 file audio …</item>
+        <item quantity="one">Mengubah file audio …</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">Mengubah ^1 item …</item>
+        <item quantity="one">Mengubah item …</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">Mengubah ^1 foto …</item>
+        <item quantity="one">Mengubah foto …</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">Mengubah ^1 video …</item>
+        <item quantity="one">Mengubah video …</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">Izinkan ^1 untuk memindahkan ^2 file audio ke sampah?</item>
+        <item quantity="one">Izinkan ^1 untuk memindahkan file audio ini ke sampah?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">Izinkan ^1 untuk memindahkan ^2 item ke sampah?</item>
+        <item quantity="one">Izinkan ^1 untuk memindahkan item ini ke sampah?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">Izinkan ^1 untuk memindahkan ^2 foto ke sampah?</item>
+        <item quantity="one">Izinkan ^1 untuk memindahkan foto ini ke sampah?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">Izinkan ^1 untuk memindahkan ^2 video ke sampah?</item>
+        <item quantity="one">Izinkan ^1 untuk memindahkan video ini ke sampah?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">Izinkan ^1 untuk mengeluarkan ^2 file audio dari sampah?</item>
+        <item quantity="one">Izinkan ^1 untuk mengeluarkan file audio ini dari sampah?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">Izinkan ^1 untuk mengeluarkan ^2 item dari sampah?</item>
+        <item quantity="one">Izinkan ^1 untuk mengeluarkan item ini dari sampah?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">Izinkan ^1 untuk mengeluarkan ^2 foto dari sampah?</item>
+        <item quantity="one">Izinkan ^1 untuk mengeluarkan foto ini dari sampah?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">Izinkan ^1 untuk mengeluarkan ^2 video dari sampah?</item>
+        <item quantity="one">Izinkan ^1 untuk mengeluarkan video ini dari sampah?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">Izinkan ^1 untuk mengubah ^2 file audio?</item>
+        <item quantity="one">Izinkan ^1 untuk mengubah file audio ini?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">Izinkan ^1 untuk mengubah ^2 item?</item>
+        <item quantity="one">Izinkan ^1 untuk mengubah item ini?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">Izinkan ^1 untuk mengubah ^2 foto?</item>
+        <item quantity="one">Izinkan ^1 untuk mengubah foto ini?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">Izinkan ^1 untuk mengubah ^2 video?</item>
+        <item quantity="one">Izinkan ^1 untuk mengubah video ini?</item>
+    </plurals>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dialógové okno aplikácie SIM karty</string>
+    <string name="install_carrier_app_defer_action">Teraz nie</string>
+    <string name="install_carrier_app_description">Musíte nainštalovať aplikáciu %1$s, aby nová SIM karta fungovala správne</string>
+    <string name="install_carrier_app_description_default">Musíte nainštalovať aplikáciu operátora, aby nová SIM karta fungovala správne</string>
+    <string name="install_carrier_app_download_action">Stiahnuť aplikáciu</string>
+    <string name="install_carrier_app_title">Aktivujte mobilnú službu</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Späť</string>
+    <string name="suw_more_button_label">Viac</string>
+    <string name="suw_next_button_label">Ďalej</string>
+</resources>

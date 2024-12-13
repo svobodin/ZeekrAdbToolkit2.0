@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s : Bạn không thể kết nối với dịch vụ Truy cập Wi-Fi của Verizon từ bên ngoài khu vực phủ sóng của Verizon.</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s : Bạn chưa đăng ký dịch vụ Truy cập Wi-Fi của Verizon. Vui lòng gọi cho chúng tôi theo số 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s : Đã xảy ra sự cố với tài khoản Truy cập Wi-Fi của Verizon mà bạn có. Vui lòng gọi cho chúng tôi theo số 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s : Bạn đã kết nối với dịch vụ Truy cập Wi-Fi của Verizon.</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s : Đã xảy ra sự cố khi kết nối bạn với dịch vụ Truy cập Wi-Fi của Verizon. Vui lòng gọi cho chúng tôi theo số 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s : Đã xảy ra sự cố với tài khoản Truy cập Wi-Fi của Verizon mà bạn có. Vui lòng gọi cho chúng tôi theo số 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s : Không có dịch vụ Truy cập Wi-Fi của Verizon tại vị trí của bạn. Hãy thử lại sau hoặc thử ở một vị trí khác.</string>
+</resources>

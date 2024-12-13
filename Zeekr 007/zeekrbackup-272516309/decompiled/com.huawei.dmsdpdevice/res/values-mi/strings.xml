@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Screen_notification_text">Wetemaukati kia uru atu ai.</string>
+    <string name="Screen_notification_title">Kei te hiahia a %s ki te uru atu ki te kāmera o tēnei pūrere.</string>
+    <string name="accessibility_back_preview">Arokite kāmera o muri</string>
+    <string name="accessibility_falsh_mode_torch">Ka kā te kohiko i ngā wā katoa</string>
+    <string name="accessibility_front_preview">Arokite kāmera o mua</string>
+    <string name="accessibility_stop_sharing_to_source">Me mutu te tiritahi i te kāmera</string>
+    <string name="app_name_for_libdmsdpcamera">Kāmera Pūrere-Maha</string>
+    <string name="capsule_dialog_content">E tūhono ana te kāmera ki %s.</string>
+    <string name="capsule_dialog_negative_btn">Momotu</string>
+    <string name="lens_wide">Koki whānui</string>
+    <string name="notification_content_text">Kei te hiahia a %s ki te uru atu ki te kāmera o tēnei pūrere. Wetemaukati hei tīmata i te tiritahi.</string>
+    <string name="notification_content_theme">Whakahaerenga pūrere-maha</string>
+    <string name="notification_content_title">Tūhononga pūrere</string>
+    <string name="permission_dialog_content">Tukuna a %s kia uru ki te kāmera o tēnei pūrere?</string>
+    <string name="permission_dialog_hint">E whakamahia ana tēnei hei tiri i te kāmera ki tētahi atu pūrere.</string>
+    <string name="permission_dialog_negative_btn">Whakahē</string>
+    <string name="res_allow">Tukua</string>
+    <string name="res_cancel">Whakakore</string>
+    <string name="res_ok">ĀE</string>
+    <string name="res_reject">Whakakāhore (%s)</string>
+    <string name="res_stop_use_camera">Me whakamutu te whakamahi i te kāmera?</string>
+    <string name="res_toast">Kua mutu te whakamahi a %s i te kāmera.</string>
+    <string name="sink_back_to_desktop">Hoki ki te mata kāinga</string>
+    <string name="sink_stop_sharing">Whakamutua te tiritahi</string>
+    <string name="sink_stop_sharing_or_not">Me mutu te tiritahi i te kāmera ki a %1$s?</string>
+    <string name="source_connection_service_exception">Momotu pūrere. Me tūhono anō.</string>
+    <string name="source_sharing_status_text">Tiritahi ki %1$s</string>
+    <string name="source_stop_sharing_tip">Kua mutu te whakamahi a %1$s i te kāmera.</string>
+</resources>

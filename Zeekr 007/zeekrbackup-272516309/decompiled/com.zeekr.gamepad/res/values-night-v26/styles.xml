@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="commonButtonStyle">
+        <item name="android:textSize">@dimen/px32</item>
+        <item name="android:textColor">@color/color_0b0c0d</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/bg_common_button</item>
+        <item name="android:layout_width">@dimen/px408</item>
+        <item name="android:layout_height">@dimen/px103</item>
+        <item name="android:defaultFocusHighlightEnabled">false</item>
+    </style>
+    <style name="commonButtonStyleDialog">
+        <item name="android:textSize">@dimen/px24</item>
+        <item name="android:textColor">@color/color_0b0c0d</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/bg_common_button</item>
+        <item name="android:layout_width">@dimen/px408</item>
+        <item name="android:layout_height">@dimen/px64</item>
+        <item name="android:stateListAnimator">@null</item>
+        <item name="android:defaultFocusHighlightEnabled">false</item>
+    </style>
+    <style name="commonButtonStyleUnable">
+        <item name="android:textSize">@dimen/px32</item>
+        <item name="android:textColor">#ff0b0c0d</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/bg_common_button_unable</item>
+        <item name="android:layout_width">@dimen/px400</item>
+        <item name="android:layout_height">@dimen/px96</item>
+        <item name="android:defaultFocusHighlightEnabled">false</item>
+    </style>
+    <style name="commonButtonStyleUnableDialog">
+        <item name="android:textSize">@dimen/px24</item>
+        <item name="android:textColor">@color/color_b4b9be</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/bg_dialog_common_button_unable</item>
+        <item name="android:layout_width">@dimen/px408</item>
+        <item name="android:layout_height">@dimen/px64</item>
+        <item name="android:stateListAnimator">@null</item>
+        <item name="android:defaultFocusHighlightEnabled">false</item>
+    </style>
+</resources>

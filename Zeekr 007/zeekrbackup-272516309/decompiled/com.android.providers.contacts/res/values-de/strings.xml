@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Kontakte-Speicher</string>
+    <string name="debug_dump_database_message">Du 1) erstellst eine Kopie deiner Datenbank, die alle Kontaktinformationen und Anruflisteneinträge auf dem internen Speicher enthält, und 2) sendest diese Kopie per E-Mail. Denke daran, die Kopie so schnell wie möglich zu löschen, nachdem du sie vom Gerät kopiert hast oder die E-Mail empfangen wurde.</string>
+    <string name="debug_dump_delete_button">Jetzt löschen</string>
+    <string name="debug_dump_email_body">Anbei meine Kontaktdatenbank mit allen Informationen zu meinen Kontakten. Bitte vertraulich behandeln!</string>
+    <string name="debug_dump_email_sender_picker">Programm zum Senden der Datei auswählen</string>
+    <string name="debug_dump_email_subject">Kontaktdatenbank angehängt</string>
+    <string name="debug_dump_start_button">Starten</string>
+    <string name="debug_dump_title">Kontaktdatenbank kopieren</string>
+    <string name="default_directory">Kontakte</string>
+    <string name="local_invisible_directory">Sonstige</string>
+    <string name="provider_label">Kontakte</string>
+    <string name="sharedUserLabel">Android Core Apps</string>
+    <string name="upgrade_out_of_memory_notification_text">Zum Abschließen der Aktualisierung tippen.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Kontakte-Upgrade erfordert mehr Speicher.</string>
+    <string name="upgrade_out_of_memory_notification_title">Speicher für Kontakte wird aktualisiert...</string>
+    <string name="voicemail_from_column">"Mailboxnachricht von "</string>
+</resources>

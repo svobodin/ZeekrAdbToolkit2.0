@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">Sistem Bağlantı Resursları</string>
+    <string name="mobile_no_internet">Mobil şəbəkənin internetə girişi yoxdur</string>
+    <string name="network_available_sign_in">Şəbəkəyə daxil olun</string>
+    <string name="network_partial_connectivity">%1$s bağlantını məhdudlaşdırdı</string>
+    <string name="network_partial_connectivity_detailed">İstənilən halda klikləyin</string>
+    <string name="network_switch_metered">%1$s şəbəkə növünə keçirildi</string>
+    <string name="network_switch_metered_detail">%2$s şəbəkəsinin internetə girişi olmadıqda, cihaz %1$s şəbəkəsini istifadə edir. Xidmət haqqı tutula bilər.</string>
+    <string name="network_switch_metered_toast">%1$s şəbəkəsindən %2$s şəbəkəsinə keçirildi</string>
+    <string name="network_switch_type_name_unknown">naməlum şəbəkə növü</string>
+    <string name="other_networks_no_internet">Şəbəkənin internetə girişi yoxdur</string>
+    <string name="private_dns_broken_detailed">Özəl DNS serverinə giriş mümkün deyil</string>
+    <string name="wifi_available_sign_in">Wi-Fi şəbəkəsinə daxil ol</string>
+    <string name="wifi_no_internet">%1$s üçün internet girişi əlçatan deyil</string>
+    <string name="wifi_no_internet_detailed">Seçimlər üçün tıklayın</string>
+</resources>

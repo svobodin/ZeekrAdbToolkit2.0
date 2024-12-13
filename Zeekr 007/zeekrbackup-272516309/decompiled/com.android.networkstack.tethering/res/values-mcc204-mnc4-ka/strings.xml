@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">გამორთეთ უსადენო ქსელი</string>
+    <string name="no_upstream_notification_message">მოწყობილობები ვერ უკავშირდება ინტერნეტს</string>
+    <string name="no_upstream_notification_title">უსადენო ქსელს არ აქვს ინტერნეტზე წვდომა</string>
+    <string name="upstream_roaming_notification_message">როუმინგის გამოყენებისას შეიძლება ჩამოგეჭრათ დამატებითი საფასური</string>
+    <string name="upstream_roaming_notification_title">უსადენო ქსელი ჩართულია</string>
+    <string name="upstream_roaming_notification_continue_button">გაგრძელება</string>
+</resources>

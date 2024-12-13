@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">"Hotspot'u kapat"</string>
+    <string name="no_upstream_notification_message">Cihazlar internete bağlanamıyor</string>
+    <string name="no_upstream_notification_title">"Hotspot'un internet bağlantısı yok"</string>
+    <string name="upstream_roaming_notification_message">Dolaşım sırasında ek ücretler uygulanabilir</string>
+    <string name="upstream_roaming_notification_title">Hotspot açık</string>
+    <string name="upstream_roaming_notification_continue_button">Devam</string>
+</resources>

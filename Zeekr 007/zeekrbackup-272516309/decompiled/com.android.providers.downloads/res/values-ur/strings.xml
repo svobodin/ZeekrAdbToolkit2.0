@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ڈاؤن لوڈ مینیجر</string>
+    <string name="button_cancel_download">منسوخ کریں</string>
+    <string name="button_queue_for_wifi">قطار</string>
+    <string name="button_start_now">ابھی شروع کریں</string>
+    <string name="download_error">ناکام</string>
+    <string name="download_no_application_title">فائل نہيں کھول سکتے ہیں</string>
+    <string name="download_queued">قطار بند</string>
+    <string name="download_remaining">%s باقی</string>
+    <string name="download_running">پیشرفت میں ہے</string>
+    <string name="download_running_percent">جاری، %s</string>
+    <string name="download_unknown_title">‏‎>‎بلا عنوان‎&lt;‎</string>
+    <string name="notification_download_complete">ڈاؤن لوڈ مکمل ہو گیا۔</string>
+    <string name="notification_download_failed">ڈاؤن لوڈ ناکام ہو گیا۔</string>
+    <string name="notification_need_wifi_for_size">‏ڈاؤنلوڈ کیلئے Wi-Fi درکار ہے۔</string>
+    <string name="notification_paused_in_background">پس منظر میں موقوف ہوگیا۔</string>
+    <string name="permdesc_accessAllDownloads">ایپ کو سسٹم پر کسی بھی ایپ کے ذریعے شروع کیے گئے سبھی ڈاؤن لوڈز کو دیکھنے اور ان میں ترمیم کرنے کی اجازت دیتا ہے۔</string>
+    <string name="permdesc_downloadCacheNonPurgeable">ایپ کو ڈاؤن لوڈ کیش میں فائلیں ڈاؤن لوڈ کرنے کی اجازت دیتا ہے، جسے ڈاؤن لوڈ مینیجر کو مزید جگہ درکار ہونے پر خود کار طور پر حذف نہیں کیا جا سکتا ہے۔</string>
+    <string name="permdesc_downloadCompletedIntent">ایپ کو مکمل ڈاؤن لوڈز کے بارے میں اطلاعات بھیجنے کی اجازت دیتا ہے۔ نقصان دہ ایپس فائلیں ڈاؤن لوڈ کرنے والی دیگر ایپس کو الجھانے کیلئے اس کا استعمال کر سکتی ہیں۔</string>
+    <string name="permdesc_downloadManager">ایپ کو ڈاؤن لوڈ مینیجر تک رسائی حاصل کرنے اور فائلیں ڈاؤن لوڈ کرنے کیلئے اسے استعمال کرنے کی اجازت دیتا ہے۔ نقصان دہ ایپس ڈاؤن لوڈز کو معطل کرنے اور نجی معلومات تک رسائی حاصل کرنے کیلئے اس کا استعمال کر سکتی ہیں۔</string>
+    <string name="permdesc_downloadManagerAdvanced">ایپ کو ڈاؤن لوڈ مینیجر کے جدید فنکشنز تک رسائی کی اجازت دیتا ہے۔ نقصان دہ ایپس ڈاؤن لوڈز کو معطل کرنے اور نجی معلومات تک رسائی حاصل کرنے کیلئے اس کا استعمال کر سکتی ہیں۔</string>
+    <string name="permdesc_downloadWithoutNotification">صارف کو کوئی اطلاع دکھائے بغیر ایپ کو ڈاؤن لوڈ مینیجر کے ذریعے فائلیں ڈاؤن لوڈ کرنے کی اجازت دیتا ہے۔</string>
+    <string name="permlab_accessAllDownloads">سسٹم کے سبھی ڈاؤن لوڈز تک رسائی حاصل کریں</string>
+    <string name="permlab_downloadCacheNonPurgeable">ڈاؤن لوڈ کیش میں جگہ محفوظ کریں</string>
+    <string name="permlab_downloadCompletedIntent">ڈاؤن لوڈ اطلاعات بھیجیں۔</string>
+    <string name="permlab_downloadManager">ڈاؤن لوڈ مینیجر تک رسائی حاصل کریں۔</string>
+    <string name="permlab_downloadManagerAdvanced">ڈاؤن لوڈ مینیجر کے جدید فنکشنز۔</string>
+    <string name="permlab_downloadWithoutNotification">بغیر اطلاع کے فائلیں ڈاؤن لوڈ کریں</string>
+    <string name="root_downloads">ڈاؤن لوڈز</string>
+    <string name="storage_description">ڈاؤن لوڈز</string>
+    <string name="wifi_recommended_body">"‏اس %1$s  کے ڈاؤن لوڈ کو شروع کرنے سے آپکی بیٹری کی مدت میں کمی آسکتی ہے اور/یا اس سے آپ کے موبائل ڈیٹا کنکشن کا بہت زیادہ استعمال ہو سکتا ہے جسکی وجہ سے آپکا موبائل آپریٹر آپکے ڈیٹا پلان کے مطابق چارجز عائد کرسکتا ہے۔
+
+ اگلی بار کسی Wi-Fi نیٹ ورک سے مربوط ہونے پر یہ ڈاؤن لوڈ شروع کرنے کیلئے %2$s کو ٹچ کریں۔"</string>
+    <string name="wifi_recommended_title">بعد میں ڈاؤن لوڈ کرنے کیلئے قطار میں شامل ہوں؟</string>
+    <string name="wifi_required_body">"‏اس %1$s  ڈاؤن لوڈ کو مکمل کرنے کیلئے آپ کیلئے Wi-Fi استعمال کرنا ضروری ہے۔ 
+
+%2$s  کو ٹچ کریں تاکہ اگلی بار جب آپ کسی Wi-Fi نیٹ ورک سے مربوط ہوں تو یہ ڈاؤن لوڈ شروع کر سکیں۔"</string>
+    <string name="wifi_required_title">آپریٹر نیٹ ورک کیلئے ڈاؤن لوڈ کافی بڑا ہے</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Nonaktifkan tethering</string>
+    <string name="no_upstream_notification_message">Perangkat tidak dapat terhubung</string>
+    <string name="no_upstream_notification_title">Tidak ada koneksi internet di tethering</string>
+    <string name="upstream_roaming_notification_message">Biaya tambahan mungkin berlaku saat roaming</string>
+    <string name="upstream_roaming_notification_title">Hotspot atau tethering aktif</string>
+</resources>

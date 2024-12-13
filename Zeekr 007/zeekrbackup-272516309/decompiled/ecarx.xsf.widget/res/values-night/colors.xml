@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="back_ground">#ff28282e</color>
+    <color name="color_background">#ff000000</color>
+    <color name="color_black_white">#ffffffff</color>
+    <color name="color_list_bg">#ff000000</color>
+    <color name="color_tip_title">#ffffffff</color>
+    <color name="color_white_black">#ff000000</color>
+    <color name="control_end">#ff000000</color>
+    <color name="control_start">#00ebeced</color>
+    <color name="foreground_recommend_color">#b3000000</color>
+    <color name="half_per_black">#80ffffff</color>
+    <color name="line_color">#4dd9d9d9</color>
+    <color name="list_divider">#ffb2b4b5</color>
+    <color name="list_item_text_color">#ff1ef1c6</color>
+    <color name="music_name_author">#ff1ef1c6</color>
+    <color name="negative_btn_color">#ff3e4043</color>
+    <color name="negative_stroke_color">#ff636466</color>
+    <color name="negative_text_color">#ffcccccc</color>
+    <color name="positive_btn_color">#ff1ef1c6</color>
+    <color name="progress_bg">#1affffff</color>
+    <color name="radio_type_color">#ffb7b7b7</color>
+    <color name="round_bg">#ff3d3d44</color>
+    <color name="selected_music_text_color">#ffffffff</color>
+    <color name="source_text_color">#ff727378</color>
+    <color name="soure_selected_color_background">#ff3d3d44</color>
+    <color name="title_text">#ffffffff</color>
+    <color name="unselected_music_text_color">#ff999999</color>
+    <color name="window_color_white_black">#ff28282e</color>
+</resources>

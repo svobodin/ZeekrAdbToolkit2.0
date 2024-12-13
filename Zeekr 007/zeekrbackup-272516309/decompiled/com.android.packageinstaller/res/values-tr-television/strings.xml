@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="additional_permissions_decor_title">Ek izinler</string>
+    <string name="app_permissions_decor_title">Uygulama izinleri</string>
+    <string name="current_permission_template">%1$s / %2$s</string>
+    <string name="grant_dialog_button_deny_dont_ask_again">Reddet ve bir daha sorma</string>
+    <string name="grant_dialog_how_to_change">"Bu ayarı daha sonra Ayarlar > Uygulamalar'dan değiştirebilirsiniz"</string>
+    <string name="manage_permissions_decor_title">Uygulama izinleri</string>
+    <string name="permission_apps_decor_title">%1$s izinleri</string>
+    <string name="preference_show_system_apps">Sistem uygulamalarını göster</string>
+    <string name="system_apps_decor_title">%1$s izinleri</string>
+</resources>

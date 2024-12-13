@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>سینت مارتن</item>
+        <item>کارائیب هلند</item>
+        <item>کوراسائو</item>
+        <item>سودان جنوبی</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>‏‫استرالیای مرکزی - NT</item>
+        <item>‏‫استرالیای مرکزی - SA</item>
+        <item>‏استرالیای شرقی - QLD</item>
+        <item>‏استرالیای شرقی - NSW</item>
+        <item>استاندارد کوهستان - داوسون کریک</item>
+        <item>استاندارد مرکزی - ساسکاچوان</item>
+        <item>استاندارد شرقی - آتیکوکان</item>
+        <item>استاندارد اقیانوس اطلس - کبک</item>
+        <item>هاوایی-آلوشن - هاوایی</item>
+        <item>هاوایی-آلوشن- آلاسکا</item>
+        <item>استاندارد اقیانوس آرام-متلاکاتلا</item>
+        <item>استاندارد کوهستان - آریزونا</item>
+        <item>اقیانوس آرام - باجا کالیفرنیا</item>
+        <item>کوهستان - چیواوا</item>
+        <item>مرکزی - تامائولیپاس</item>
+        <item>کوهستان - سونورا</item>
+        <item>زمان آفریقای شرقی</item>
+        <item>وقت عادی اقیانوس اطلس</item>
+        <item>وقت عادی اقیانوس اطلس</item>
+        <item>زمان اروپای شرقی</item>
+        <item>زمان کالینینگراد</item>
+        <item>آمازون - روندونیا</item>
+        <item>برازیلیا - پارا</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Manager de dispozitiv Companion</string>
+    <string name="chooser_title">Alegeți un profil %1$s pe care să îl gestioneze &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Permiteți ca &lt;strong>%1$s&lt;/strong> să vă gestioneze dispozitivul &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_no">Nu permiteți</string>
+    <string name="consent_yes">Permiteți</string>
+    <string name="profile_name_generic">dispozitiv</string>
+    <string name="profile_name_watch">ceas</string>
+    <string name="profile_summary">Această aplicație este necesară pentru a gestiona %1$s. %2$s</string>
+</resources>

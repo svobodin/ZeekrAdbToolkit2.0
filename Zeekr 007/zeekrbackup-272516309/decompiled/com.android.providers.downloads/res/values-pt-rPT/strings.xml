@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Gestor de transferências</string>
+    <string name="button_cancel_download">Cancelar</string>
+    <string name="button_queue_for_wifi">Fila</string>
+    <string name="button_start_now">Começar agora</string>
+    <string name="download_error">Sem êxito</string>
+    <string name="download_no_application_title">Não é possível abrir o ficheiro</string>
+    <string name="download_queued">Em fila</string>
+    <string name="download_remaining">Faltam %s</string>
+    <string name="download_running">Em curso</string>
+    <string name="download_running_percent">Em curso, %s</string>
+    <string name="download_unknown_title">&lt;Sem nome></string>
+    <string name="notification_download_complete">Transferência concluída.</string>
+    <string name="notification_download_failed">Falha na transferência.</string>
+    <string name="notification_need_wifi_for_size">Tam. transf. exige Wi-Fi</string>
+    <string name="notification_paused_in_background">Interrompida em 2º plano</string>
+    <string name="permdesc_accessAllDownloads">Permite que a aplicação veja e modifique todas as transferências iniciadas por qualquer aplicação no sistema.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Permite que a app transfira ficheiros p/ cache transf., os quais não podem ser automaticamente eliminados quando o gestor transf. necessitar de mais espaço.</string>
+    <string name="permdesc_downloadCompletedIntent">Permite que a aplicação envie notificações acerca de transferências concluídas. As aplicações maliciosas podem utilizar esta permissão para confundir outras aplicações que transfiram ficheiros.</string>
+    <string name="permdesc_downloadManager">Permite que a aplicação aceda ao gestor de transferências e o utilize para transferir ficheiros. As aplicações maliciosas podem utilizar esta permissão para interromper transferências e aceder a informações privadas.</string>
+    <string name="permdesc_downloadManagerAdvanced">Permite que a aplicação aceda às funções avançadas do gestor de transferências. As aplicações maliciosas podem utilizar esta permissão para interromper transferências e aceder a informações privadas.</string>
+    <string name="permdesc_downloadWithoutNotification">Permite que a aplicação transfira ficheiros através do gestor de transferências, sem apresentar qualquer notificação ao utilizador.</string>
+    <string name="permlab_accessAllDownloads">Aceder a todas as transferências do sistema</string>
+    <string name="permlab_downloadCacheNonPurgeable">Reservar espaço na cache de transferência</string>
+    <string name="permlab_downloadCompletedIntent">Enviar notificações de transferências.</string>
+    <string name="permlab_downloadManager">Aceder ao gestor de transferências.</string>
+    <string name="permlab_downloadManagerAdvanced">Funções avançadas do gestor de transferências</string>
+    <string name="permlab_downloadWithoutNotification">transferir ficheiros sem notificação</string>
+    <string name="root_downloads">Transferências</string>
+    <string name="storage_description">Transferências</string>
+    <string name="wifi_recommended_body">"Iniciar esta transferência de %1$s  poderá reduzir a duração da bateria e/ou resultar numa utilização excessiva da ligação móvel de dados, o que pode levar a uma cobrança por parte do operador móvel, dependendo do seu plano de dados.
+
+ Toque em %2$s para iniciar a transferência da próxima vez que estiver ligado a uma rede Wi-Fi."</string>
+    <string name="wifi_recommended_title">Colocar em fila para transferir mais tarde?</string>
+    <string name="wifi_required_body">"Deve utilizar uma rede Wi-Fi para concluir esta transferência de %1$s . 
+
+Toque em %2$s  para iniciar a transferência da próxima vez que estiver ligado a uma rede Wi-Fi."</string>
+    <string name="wifi_required_title">Transf. demasiado grande para a rede do operador</string>
+</resources>

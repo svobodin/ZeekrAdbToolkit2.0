@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Isključi povezivanje putem mobitela</string>
+    <string name="no_upstream_notification_message">Uređaji se ne mogu povezati</string>
+    <string name="no_upstream_notification_title">Povezivanje putem mobitela nema internet</string>
+    <string name="upstream_roaming_notification_message">Mogu nastati dodatni troškovi u romingu</string>
+    <string name="upstream_roaming_notification_title">Pristupna tačka ili povezivanje putem mobitela je uključeno</string>
+</resources>

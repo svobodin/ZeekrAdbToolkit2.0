@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">सिस्टम कनेक्टिविटी के संसाधन</string>
+    <string name="mobile_no_internet">मोबाइल नेटवर्क पर इंटरनेट ऐक्सेस नहीं है</string>
+    <string name="network_available_sign_in">नेटवर्क में साइन इन करें</string>
+    <string name="network_partial_connectivity">%1$s की कनेक्टिविटी सीमित है</string>
+    <string name="network_partial_connectivity_detailed">फिर भी कनेक्ट करने के लिए टैप करें</string>
+    <string name="network_switch_metered">%1$s पर ले जाया गया</string>
+    <string name="network_switch_metered_detail">%2$s में इंटरनेट की सुविधा नहीं होने पर डिवाइस %1$s का इस्तेमाल करता है. इसके लिए शुल्क लिया जा सकता है.</string>
+    <string name="network_switch_metered_toast">%1$s से %2$s पर ले जाया गया</string>
+    <string name="network_switch_type_name_unknown">अज्ञात नेटवर्क टाइप</string>
+    <string name="other_networks_no_internet">इस नेटवर्क पर इंटरनेट ऐक्सेस नहीं है</string>
+    <string name="private_dns_broken_detailed">निजी डीएनएस सर्वर को ऐक्सेस नहीं किया जा सकता</string>
+    <string name="wifi_available_sign_in">"वाई-फ़ाई  नेटवर्क में साइन इन करें"</string>
+    <string name="wifi_no_internet">%1$s का इंटरनेट नहीं चल रहा है</string>
+    <string name="wifi_no_internet_detailed">विकल्पों के लिए टैप करें</string>
+</resources>

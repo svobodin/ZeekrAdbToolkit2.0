@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Downloadadministrator</string>
+    <string name="button_cancel_download">Annuller</string>
+    <string name="button_queue_for_wifi">Kø</string>
+    <string name="button_start_now">Begynd nu</string>
+    <string name="download_error">Mislykkedes</string>
+    <string name="download_no_application_title">Filen kan ikke åbnes</string>
+    <string name="download_queued">I kø</string>
+    <string name="download_remaining">%s tilbage</string>
+    <string name="download_running">I gang</string>
+    <string name="download_running_percent">I gang, %s</string>
+    <string name="download_unknown_title">&lt;Uden titel></string>
+    <string name="notification_download_complete">Downloaden er fuldført.</string>
+    <string name="notification_download_failed">Downloaden mislykkedes.</string>
+    <string name="notification_need_wifi_for_size">Downloaden kræver Wi-Fi.</string>
+    <string name="notification_paused_in_background">Standset i baggrunden.</string>
+    <string name="permdesc_accessAllDownloads">Tillader, at appen kan se og ændre alle downloads, der igangsættes af en app i systemet.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Tillader, at appen kan downloade filer til downloadcachen, som ikke automatisk kan slettes, når downloadadministratoren har brug for mere plads.</string>
+    <string name="permdesc_downloadCompletedIntent">Tillader, at appen kan sende meddelelser om fuldførte downloads. Ondsindede apps kan bruge dette til at forvirre andre apps, der downloader filer.</string>
+    <string name="permdesc_downloadManager">Tillader, at appen kan få adgang til downloadadministratoren og til at bruge den til at downloade filer. Ondsindede apps kan bruge dette til at afbryde downloads og få adgang til personlige oplysninger.</string>
+    <string name="permdesc_downloadManagerAdvanced">Tillader, at appen kan få adgang til downloadadministrators avancerede funktioner. Ondsindede apps kan bruge dette til at afbryde downloads og få adgang til personlige oplysninger.</string>
+    <string name="permdesc_downloadWithoutNotification">Tillader, at appen kan downloade filer via downloadadministratoren, uden at brugeren får besked.</string>
+    <string name="permlab_accessAllDownloads">Adgang til alle systemdownloads</string>
+    <string name="permlab_downloadCacheNonPurgeable">Reserver plads i downloadcache</string>
+    <string name="permlab_downloadCompletedIntent">Send notifikationer om downloads.</string>
+    <string name="permlab_downloadManager">Få adgang til downloadadministrator.</string>
+    <string name="permlab_downloadManagerAdvanced">Avancerede funktioner for downloadadministrator.</string>
+    <string name="permlab_downloadWithoutNotification">downloade filer uden notifikation</string>
+    <string name="root_downloads">Downloads</string>
+    <string name="storage_description">Downloads</string>
+    <string name="wifi_recommended_body">"Hvis downloaden på %1$s  startes nu, kan batteriets levetid forkortes og/eller medføre overdreven brug af din mobildata, som kan koste ekstra hos dit mobilselskab afhængigt af dit dataabonnement.
+
+ Tryk på %2$s for at starte downloaden ved næste forbindelse til Wi-Fi."</string>
+    <string name="wifi_recommended_title">I kø til senere download?</string>
+    <string name="wifi_required_body">"Du skal bruge Wi-Fi for at fuldføre denne download på %1$s . 
+
+Tryk på %2$s  for at starte denne download, næste gang du får forbindelse til et Wi-Fi-netværk."</string>
+    <string name="wifi_required_title">Downloadfilen er for stor til mobilnetværk</string>
+</resources>

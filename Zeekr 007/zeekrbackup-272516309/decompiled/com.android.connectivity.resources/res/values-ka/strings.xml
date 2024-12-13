@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">სისტემის კავშირის რესურსები</string>
+    <string name="mobile_no_internet">მობილურ ქსელს არ აქვს ინტერნეტზე წვდომა</string>
+    <string name="network_available_sign_in">ქსელში შესვლა</string>
+    <string name="network_partial_connectivity">%1$s-ის კავშირები შეზღუდულია</string>
+    <string name="network_partial_connectivity_detailed">შეეხეთ, თუ მაინც გსურთ დაკავშირება</string>
+    <string name="network_switch_metered">ახლა გამოიყენება %1$s</string>
+    <string name="network_switch_metered_detail">თუ %2$s ინტერნეტთან კავშირს დაკარგავს, მოწყობილობის მიერ %1$s იქნება გამოყენებული, რამაც შეიძლება დამატებითი ხარჯები გამოიწვიოს.</string>
+    <string name="network_switch_metered_toast">ახლა გამოიყენება %1$s (გამოიყენებოდა %2$s)</string>
+    <string name="network_switch_type_name_unknown">უცნობი ტიპის ქსელი</string>
+    <string name="other_networks_no_internet">ქსელს არ აქვს ინტერნეტზე წვდომა</string>
+    <string name="private_dns_broken_detailed">პირად DNS სერვერზე წვდომა შეუძლებელია</string>
+    <string name="wifi_available_sign_in">Wi-Fi ქსელთან დაკავშირება</string>
+    <string name="wifi_no_internet">%1$s-ს არ აქვს ინტერნეტზე წვდომა</string>
+    <string name="wifi_no_internet_detailed">შეეხეთ ვარიანტების სანახავად</string>
+</resources>

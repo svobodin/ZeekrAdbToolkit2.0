@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>Синт-Мартен</item>
+        <item>Кариб Нидерландысы</item>
+        <item>Кюрасао</item>
+        <item>Оңтүстік Судан</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Австралиялық Орталық – СТ</item>
+        <item>Австралиялық орталық – ОА</item>
+        <item>Австралиялық Шығыс – Куинсленд</item>
+        <item>Австр-қ Шығыс – Жаңа Оңт. Уэльс</item>
+        <item>Тау стандарты – Доусон шығанағы</item>
+        <item>Тау стандарты – Саскачеван</item>
+        <item>Шығыс стандарты – Атикокан</item>
+        <item>Атлант стандарты – Квебек</item>
+        <item>Гавайи-алеуттық – Гавайи</item>
+        <item>Гавайи-алеуттық – Аляска</item>
+        <item>Тынық мұхит станд. – Метлакатла</item>
+        <item>Тау стандарты – Аризона</item>
+        <item>Тынық мұхит – Баия Калифорния</item>
+        <item>Тау – Чихуахуа</item>
+        <item>Орталық – Тамаулипас</item>
+        <item>Тау – Сонора</item>
+        <item>Шығыс Африка уақыты</item>
+        <item>Атлант стандартты уақыты</item>
+        <item>Атлант стандартты уақыты</item>
+        <item>Шығыс Еуропа уақыты</item>
+        <item>Калининград уақыты</item>
+        <item>Амазонка – Рондония</item>
+        <item>Бразилия – Пара</item>
+    </string-array>
+</resources>

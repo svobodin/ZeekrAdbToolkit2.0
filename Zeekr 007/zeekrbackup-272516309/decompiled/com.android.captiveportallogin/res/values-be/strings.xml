@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Увайсці ў сетку</string>
+    <string name="action_bar_title">Увайсці ў %1$s</string>
+    <string name="action_do_not_use_network">Не выкарыстоўваць гэту сетку</string>
+    <string name="action_use_network">Выкарыстоўваць гэтую сетку як ёсць</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">Апавяшчэнні пра ход спампоўкі файлаў</string>
+    <string name="channel_description_downloads">Апавяшчэнні пра выкананыя ці скасаваныя спампоўкі</string>
+    <string name="channel_name_download_progress">Ход спампоўкі</string>
+    <string name="channel_name_downloads">Спампоўкі</string>
+    <string name="custom_scheme_example">Напрыклад, на старонцы ўваходу можа патрабавацца пэўная праграма для аўтэнтыфікацыі</string>
+    <string name="custom_scheme_warning">Сетка, да якой вы спрабуеце далучыцца, запытвае адкрыццё іншай праграмы.</string>
+    <string name="download_completed">Спампоўка завершана</string>
+    <string name="downloading_paramfile">Спампоўка %1$s</string>
+    <string name="error_continue_via_browser">Усё роўна працягнуць праз браўзер</string>
+    <string name="error_downloading_paramfile">Не ўдалося спампаваць %1$s</string>
+    <string name="no_bypass_error_vpnwarning">Акрамя таго, немагчыма абысці гэту памылку, таму што прылада падключана да VPN.</string>
+    <string name="ok">ОК</string>
+    <string name="page_info">Інфармацыя пра старонку</string>
+    <string name="page_info_address">Адрас:</string>
+    <string name="ssl_error_date_invalid">Гэты сертыфікат мае несапраўдную дату.</string>
+    <string name="ssl_error_example">Напрыклад, старонка ўваходу можа не належаць указанай арганізацыі.</string>
+    <string name="ssl_error_expired">Тэрмін дзеяння сертыфіката мінуў.</string>
+    <string name="ssl_error_invalid">Гэты сертыфікат несапраўдны.</string>
+    <string name="ssl_error_mismatch">Назва сайта не адпавядае назве ў сертыфікаце.</string>
+    <string name="ssl_error_not_yet_valid">Гэты сертыфікат яшчэ не дзейнічае.</string>
+    <string name="ssl_error_unknown">Невядомая памылка сертыфіката.</string>
+    <string name="ssl_error_untrusted">Гэты сертыфікат не выдадзены давераным цэнтрам.</string>
+    <string name="ssl_error_view_certificate">Прагледзець сертыфікат</string>
+    <string name="ssl_error_warning">У сеткі, да якой вы спрабуеце далучыцца, ёсць праблемы з бяспекай.</string>
+    <string name="ssl_security_warning_title">Папярэджанне сістэмы бяспекі</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

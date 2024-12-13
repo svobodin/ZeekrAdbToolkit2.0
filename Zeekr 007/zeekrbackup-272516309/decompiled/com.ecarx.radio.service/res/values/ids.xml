@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="activity_test_radio" />
+    <item type="id" name="btnSetfreq" />
+    <item type="id" name="txt_band" />
+    <item type="id" name="txt_carousel" />
+    <item type="id" name="txt_fav_list" />
+    <item type="id" name="txt_fre" />
+    <item type="id" name="txt_fre_list" />
+    <item type="id" name="txt_name" />
+    <item type="id" name="txt_status" />
+</resources>

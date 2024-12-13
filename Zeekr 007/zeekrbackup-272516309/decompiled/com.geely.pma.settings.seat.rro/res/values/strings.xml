@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">zc_Settings_rro</string>
+    <string name="common_module_driving">驾驶2</string>
+    <string name="common_module_lighting">灯光2</string>
+    <string name="common_module_vehicle">车辆2</string>
+    <string name="lighting_low_beam_adjust_text">1近光灯调节2</string>
+    <string name="lighting_title">1外灯1</string>
+    <string name="lighting_title_text">1组合大灯2</string>
+</resources>

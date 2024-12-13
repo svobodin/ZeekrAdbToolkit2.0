@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">አጃቢ የመሣሪያ አስተዳዳሪ</string>
+    <string name="chooser_title">በ&lt;strong>%2$s&lt;/strong> የሚተዳደር %1$s ይምረጡ</string>
+    <string name="confirmation_title">&lt;strong>%1$s&lt;/strong> የእርስዎን %2$s - &lt;strong>&lt;/strong> እንዲያስተዳደር ይፍቀዱ</string>
+    <string name="consent_no">አትፍቀድ</string>
+    <string name="consent_yes">ፍቀድ</string>
+    <string name="profile_name_generic">መሣሪያ</string>
+    <string name="profile_name_watch">ሰዓት</string>
+    <string name="profile_summary">የእርስዎን %1$s ለማስተዳደር ይህ መተግበሪያ ያስፈልጋል %2$s</string>
+</resources>

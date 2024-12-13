@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">Моля, въведете паролата си и продължете към функцията за динамични актуализации на системата</string>
+    <string name="notification_action_cancel">Отказ</string>
+    <string name="notification_action_discard">Отхвърляне</string>
+    <string name="notification_action_reboot_to_dynsystem">Рестартиране</string>
+    <string name="notification_action_reboot_to_origin">Рестартиране</string>
+    <string name="notification_dynsystem_in_use">Понастоящем се изпълнява динамична система. Рестартирайте, за да използвате оригиналната версия на Android.</string>
+    <string name="notification_image_validation_failed">Проверката на изображението не бе успешна. Прекратяване на инсталирането.</string>
+    <string name="notification_install_completed">Динамичната система е готова. Рестартирайте устройството си, за да я използвате.</string>
+    <string name="notification_install_failed">Инсталирането не бе успешно</string>
+    <string name="notification_install_inprogress">Инсталиране – в ход</string>
+    <string name="toast_dynsystem_discarded">Динамичната система е отхвърлена</string>
+    <string name="toast_failed_to_disable_dynsystem">Деактивирането на динамичната система не бе успешно</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Динамичната система не може да се рестартира или зареди</string>
+</resources>

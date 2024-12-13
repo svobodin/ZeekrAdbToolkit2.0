@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_assistant">ज़रूरत के हिसाब से सूचनाएं पाने की Android की सुविधा</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="tc_notif_code_copied_to_clipboard">कोड कॉपी किया गया</string>
+    <string name="tc_notif_copy_code_desc">“%1$s“ कॉपी करें</string>
+</resources>

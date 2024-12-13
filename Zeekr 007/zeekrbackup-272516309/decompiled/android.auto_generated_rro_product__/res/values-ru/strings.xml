@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="owner_name">Водитель</string>
+    <string name="permlab_accessCoarseLocation">Доступ к приблизительному местоположению только в активном режиме</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">Включить микрофон</string>
+</resources>

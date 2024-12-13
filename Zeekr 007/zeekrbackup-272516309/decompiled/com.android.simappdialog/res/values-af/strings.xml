@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SIM-programdialoog</string>
+    <string name="install_carrier_app_defer_action">Nie nou nie</string>
+    <string name="install_carrier_app_description">Jy sal die %1$s-program moet installeer om jou nuwe SIM behoorlik te laat werk</string>
+    <string name="install_carrier_app_description_default">Jy sal die diensverskafferprogram moet installeer om jou nuwe SIM behoorlik te laat werk</string>
+    <string name="install_carrier_app_download_action">Laai program af</string>
+    <string name="install_carrier_app_title">Aktiveer mobiele diens</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Terug</string>
+    <string name="suw_more_button_label">Meer</string>
+    <string name="suw_next_button_label">Volgende</string>
+</resources>

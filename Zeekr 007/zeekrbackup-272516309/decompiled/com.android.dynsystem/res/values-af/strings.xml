@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">Voer asseblief jou wagwoord in en gaan voort na Dinamiese Steselopdaterings</string>
+    <string name="notification_action_cancel">Kanselleer</string>
+    <string name="notification_action_discard">Gooi weg</string>
+    <string name="notification_action_reboot_to_dynsystem">Herbegin</string>
+    <string name="notification_action_reboot_to_origin">Herbegin</string>
+    <string name="notification_dynsystem_in_use">"Laat loop tans 'n dinamiese stelsel. Herbegin om die oorspronklike Android-weergawe te gebruik."</string>
+    <string name="notification_image_validation_failed">Kon nie beeldafskrif bekragtig nie. Staak installering.</string>
+    <string name="notification_install_completed">Dinamiese stelsel is gereed. Herbegin jou toestel om dit te begin gebruik.</string>
+    <string name="notification_install_failed">Kon nie installeer nie</string>
+    <string name="notification_install_inprogress">Installeer tans</string>
+    <string name="toast_dynsystem_discarded">Het dinamiese stelsel weggegooi</string>
+    <string name="toast_failed_to_disable_dynsystem">Kon nie dinamiese stelsel deaktiveer nie</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Kan nie dinamiese stelsel herbegin of laai nie</string>
+</resources>

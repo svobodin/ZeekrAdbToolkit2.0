@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">低音強化</string>
+    <string name="ci_extreme">FX 輔助器</string>
+    <string name="classical">古典音樂</string>
+    <string name="dance">舞曲</string>
+    <string name="eq_dialog_title">等化器</string>
+    <string name="flat">平淡</string>
+    <string name="folk">民謠</string>
+    <string name="headset_plug">插入耳機即可體驗這些效果。</string>
+    <string name="heavy_metal">重金屬樂</string>
+    <string name="hip_hop">Hip Hop</string>
+    <string name="jazz">爵士樂</string>
+    <string name="no_effects">無法使用效果。</string>
+    <string name="normal">正常</string>
+    <string name="picker_title">音樂效果控制台</string>
+    <string name="pop">流行音樂</string>
+    <string name="rock">搖滾音樂</string>
+    <string name="setup">設定</string>
+    <string name="user">使用者</string>
+    <string name="virtualizer_strength">環迴立體聲</string>
+</resources>

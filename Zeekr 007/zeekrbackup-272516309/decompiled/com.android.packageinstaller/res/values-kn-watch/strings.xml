@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="generic_cancel">ರದ್ದುಮಾಡಿ</string>
+    <string name="generic_yes">ಹೌದು</string>
+    <string name="current_permission_template">%1$s / %2$s</string>
+    <string name="grant_dialog_button_deny_dont_ask_again">ನಿರಾಕರಿಸಿ, ಮತ್ತೆ ಕೇಳಬೇಡಿ</string>
+    <string name="preference_show_system_apps">ಸಿಸ್ಟಂ ಅಪ್ಲಿಕೇಶನ್‌‌ಗಳನ್ನು ತೋರಿಸು</string>
+    <string name="permission_summary_enforced_by_policy">ಬದಲಾಯಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ</string>
+</resources>

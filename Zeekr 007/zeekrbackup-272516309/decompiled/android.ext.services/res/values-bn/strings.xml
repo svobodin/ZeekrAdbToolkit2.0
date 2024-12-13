@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_assistant">Android অ্যাডাপ্টিভ বিজ্ঞপ্তি</string>
+    <string name="status_bar_notification_info_overflow">৯৯৯+</string>
+    <string name="tc_notif_code_copied_to_clipboard">কোড কপি করা হয়েছে</string>
+    <string name="tc_notif_copy_code_desc">“%1$s“ কপি করুন</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="recent_empty_txt_size">18.0sp</dimen>
+    <dimen name="scenario_card_close_icon_height">24.0dip</dimen>
+    <dimen name="scenario_card_close_icon_margin_end">22.0dip</dimen>
+    <dimen name="scenario_card_close_icon_margin_top">18.0dip</dimen>
+    <dimen name="scenario_card_close_icon_width">24.0dip</dimen>
+    <dimen name="scenario_card_height">260.0dip</dimen>
+    <dimen name="scenario_card_icon_height">24.0dip</dimen>
+    <dimen name="scenario_card_icon_margin_left">30.0dip</dimen>
+    <dimen name="scenario_card_icon_width">24.0dip</dimen>
+    <dimen name="scenario_card_main_notify_margin_start">30.0dip</dimen>
+    <dimen name="scenario_card_main_notify_margin_top">80.0dip</dimen>
+    <dimen name="scenario_card_main_notify_text_size">22.0sp</dimen>
+    <dimen name="scenario_card_menu_height">128.0dip</dimen>
+    <dimen name="scenario_card_menu_icon_height">38.0dip</dimen>
+    <dimen name="scenario_card_menu_icon_width">38.0dip</dimen>
+    <dimen name="scenario_card_menu_list_padding_horizontal">30.0dip</dimen>
+    <dimen name="scenario_card_menu_list_padding_top">89.0dip</dimen>
+    <dimen name="scenario_card_menu_text_margin_top">12.0dip</dimen>
+    <dimen name="scenario_card_menu_text_size">24.0sp</dimen>
+    <dimen name="scenario_card_notify_btn_height">48.0dip</dimen>
+    <dimen name="scenario_card_notify_btn_margin_bottom">48.0dip</dimen>
+    <dimen name="scenario_card_notify_btn_margin_start">30.0dip</dimen>
+    <dimen name="scenario_card_notify_btn_padding">24.0dip</dimen>
+    <dimen name="scenario_card_notify_btn_text_size">24.0sp</dimen>
+    <dimen name="scenario_card_notify_btn_width">146.0dip</dimen>
+    <dimen name="scenario_card_subtitle_notify_margin_start">8.0dip</dimen>
+    <dimen name="scenario_card_subtitle_notify_text_size">20.0sp</dimen>
+    <dimen name="scenario_card_title_margin_left">12.0dip</dimen>
+    <dimen name="scenario_card_title_margin_top">17.0dip</dimen>
+    <dimen name="scenario_card_title_text_size">22.0sp</dimen>
+    <dimen name="scenario_card_width">500.0dip</dimen>
+    <dimen name="screen_height">1080.0dip</dimen>
+</resources>

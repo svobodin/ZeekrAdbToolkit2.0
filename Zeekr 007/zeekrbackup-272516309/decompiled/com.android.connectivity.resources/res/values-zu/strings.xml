@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">Izinsiza Zokuxhumeka Zesistimu</string>
+    <string name="mobile_no_internet">Inethiwekhi yeselula ayinakho ukufinyelela kwe-inthanethi</string>
+    <string name="network_available_sign_in">Ngena ngemvume kunethiwekhi</string>
+    <string name="network_partial_connectivity">I-%1$s inokuxhumeka okukhawulelwe</string>
+    <string name="network_partial_connectivity_detailed">Thepha ukuze uxhume noma kunjalo</string>
+    <string name="network_switch_metered">Kushintshelwe ku-%1$s</string>
+    <string name="network_switch_metered_detail">Idivayisi isebenzisa i-%1$s uma i-%2$s inganakho ukufinyelela kwe-inthanethi. Kungasebenza izindleko.</string>
+    <string name="network_switch_metered_toast">Kushintshelewe kusuka ku-%1$s kuya ku-%2$s</string>
+    <string name="network_switch_type_name_unknown">uhlobo olungaziwa lwenethiwekhi</string>
+    <string name="other_networks_no_internet">Inethiwekhi ayinakho ukufinyelela kwenethiwekhi</string>
+    <string name="private_dns_broken_detailed">Iseva eyimfihlo ye-DNS ayikwazi ukufinyelelwa</string>
+    <string name="wifi_available_sign_in">Ngena ngemvume kunethiwekhi ye-Wi-Fi</string>
+    <string name="wifi_no_internet">I-%1$s ayinakho ukufinyelela kwe-inthanethi</string>
+    <string name="wifi_no_internet_detailed">Thepha ukuze uthole izinketho</string>
+</resources>

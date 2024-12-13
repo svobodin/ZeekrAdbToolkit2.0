@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="owner_name">ယာဉ်မောင်းသူ</string>
+    <string name="permlab_accessCoarseLocation">မျက်နှာစာတွင်သာ ခန့်မှန်းခြေ တည်နေရာ အသုံးပြုခြင်း</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">မိုက်ခရိုဖုန်း ဖွင့်ရန်</string>
+</resources>

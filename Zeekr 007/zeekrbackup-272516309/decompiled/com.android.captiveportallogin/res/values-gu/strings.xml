@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">નેટવર્ક પર સાઇન ઇન કરો</string>
+    <string name="action_bar_title">%1$sમાં સઇન ઇન કરો</string>
+    <string name="action_do_not_use_network">આ નેટવર્કનો ઉપયોગ કરશો નહીં</string>
+    <string name="action_use_network">આ નેટવર્કનો જેમનો તેમ ઉપયોગ કરો</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">ફાઇલ ડાઉનલોડ થવાની પ્રગતિ બતાવતા નોટિફિકેશન</string>
+    <string name="channel_description_downloads">ડાઉનલોડ પૂર્ણ થયા કે રદ થયા તે બતાવતા નોટિફિકેશન</string>
+    <string name="channel_name_download_progress">ડાઉનલોડની પ્રગતિ</string>
+    <string name="channel_name_downloads">ડાઉનલોડ કરેલા</string>
+    <string name="custom_scheme_example">ઉદાહરણ તરીકે, પ્રમાણીકરણ માટે લૉગ ઇન પેજને કોઈ ખાસ ઍપ્લિકેશનની જરૂર પડી પણ શકે છે</string>
+    <string name="custom_scheme_warning">તમે જેની સાથે જોડાવાનો પ્રયાસ કરી રહ્યાં છો તે નેટવર્ક અન્ય ઍપ્લિકેશન ખોલવાની વિનંતી કરી રહ્યું છે.</string>
+    <string name="download_completed">ડાઉનલોડ પૂર્ણ થયું</string>
+    <string name="downloading_paramfile">%1$sને ડાઉનલોડ કરી રહ્યાં છીએ</string>
+    <string name="error_continue_via_browser">તો પણ બ્રાઉઝર મારફતે ચાલુ રાખો</string>
+    <string name="error_downloading_paramfile">%1$sને ડાઉનલોડ કરી શક્યાં નહી</string>
+    <string name="no_bypass_error_vpnwarning">વૈકલ્પિક રીતે, આ ભૂલને બાયપાસ કરવાનું શક્ય નથી કારણ કે ડિવાઇસમાં હાલમાં VPN ચાલી રહ્યું છે.</string>
+    <string name="ok">ઓકે</string>
+    <string name="page_info">પેજ વિશે માહિતી</string>
+    <string name="page_info_address">સરનામું:</string>
+    <string name="ssl_error_date_invalid">આ પ્રમાણપત્રમાં અમાન્ય તારીખ છે.</string>
+    <string name="ssl_error_example">ઉદાહરણ તરીકે, લોગિન પૃષ્ઠ દર્શાવેલ સંસ્થાનું હોઈ શકતું નથી.</string>
+    <string name="ssl_error_expired">આ પ્રમાણપત્રની સમયસીમા સમાપ્ત થઈ ગઈ છે.</string>
+    <string name="ssl_error_invalid">આ પ્રમાણપત્ર અમાન્ય છે.</string>
+    <string name="ssl_error_mismatch">સાઇટનું નામ એ પ્રમાણપત્ર પર રહેલાં નામ સાથે મેળ ખાતું નથી.</string>
+    <string name="ssl_error_not_yet_valid">આ પ્રમાણપત્ર હજુ માન્ય નથી.</string>
+    <string name="ssl_error_unknown">પ્રમાણપત્રમાં અજાણી ભૂલ.</string>
+    <string name="ssl_error_untrusted">આ પ્રમાણપત્ર વિશ્વસનીય સત્તાધિકારી તરફથી મળ્યું નથી.</string>
+    <string name="ssl_error_view_certificate">પ્રમાણપત્ર જુઓ</string>
+    <string name="ssl_error_warning">તમે જોડાવાનો પ્રયાસ કરી રહ્યાં છો તે નેટવર્કમાં સુરક્ષા સમસ્યાઓ છે.</string>
+    <string name="ssl_security_warning_title">સુરક્ષા વિશે ચેતવણી</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

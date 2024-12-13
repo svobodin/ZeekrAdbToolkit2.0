@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">^2 件の音声ファイルの削除を ^1 に許可しますか？</item>
+        <item quantity="one">この音声ファイルの削除を ^1 に許可しますか？</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">^2 件のアイテムの削除を ^1 に許可しますか？</item>
+        <item quantity="one">このアイテムの削除を ^1 に許可しますか？</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">^2 枚の写真の削除を ^1 に許可しますか？</item>
+        <item quantity="one">この写真の削除を ^1 に許可しますか？</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">^2 本の動画の削除を ^1 に許可しますか？</item>
+        <item quantity="one">この動画の削除を ^1 に許可しますか？</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">他 ^1 件の項目</item>
+        <item quantity="one">他 ^1 件の項目</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">他 ^1 件</item>
+        <item quantity="one">他 ^1 件</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">^1 件の音声ファイルを削除しています…</item>
+        <item quantity="one">音声ファイルを削除しています…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">^1 件のアイテムを削除しています…</item>
+        <item quantity="one">アイテムを削除しています…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">^1 枚の写真を削除しています…</item>
+        <item quantity="one">写真を削除しています…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">^1 本の動画を削除しています…</item>
+        <item quantity="one">動画を削除しています…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">^1 件の音声ファイルをゴミ箱に移動しています…</item>
+        <item quantity="one">音声ファイルをゴミ箱に移動しています…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">^1 件のアイテムをゴミ箱に移動しています…</item>
+        <item quantity="one">アイテムをゴミ箱に移動しています…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">^1 枚の写真をゴミ箱に移動しています…</item>
+        <item quantity="one">写真をゴミ箱に移動しています…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">^1 本の動画をゴミ箱に移動しています…</item>
+        <item quantity="one">動画をゴミ箱に移動しています…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">^1 件の音声ファイルをゴミ箱から移動しています…</item>
+        <item quantity="one">音声ファイルをゴミ箱から移動しています…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">^1 件のアイテムをゴミ箱から移動しています…</item>
+        <item quantity="one">アイテムをゴミ箱から移動しています…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">^1 枚の写真をゴミ箱から移動しています…</item>
+        <item quantity="one">写真をゴミ箱から移動しています…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">^1 本の動画をゴミ箱から移動しています…</item>
+        <item quantity="one">動画をゴミ箱から移動しています…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">^1 件の音声ファイルを変更しています…</item>
+        <item quantity="one">音声ファイルを変更しています…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">^1 件のアイテムを変更しています…</item>
+        <item quantity="one">アイテムを変更しています…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">^1 枚の写真を変更しています…</item>
+        <item quantity="one">写真を変更しています…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">^1 本の動画を変更しています…</item>
+        <item quantity="one">動画を変更しています…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">^2 件の音声ファイルをゴミ箱に移動することを ^1 に許可しますか？</item>
+        <item quantity="one">この音声ファイルをゴミ箱に移動することを ^1 に許可しますか？</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">^2 件のアイテムをゴミ箱に移動することを ^1 に許可しますか？</item>
+        <item quantity="one">このアイテムをゴミ箱に移動することを ^1 に許可しますか？</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">^2 枚の写真をゴミ箱に移動することを ^1 に許可しますか？</item>
+        <item quantity="one">この写真をゴミ箱に移動することを ^1 に許可しますか？</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">^2 本の動画をゴミ箱に移動することを ^1 に許可しますか？</item>
+        <item quantity="one">この動画をゴミ箱に移動することを ^1 に許可しますか？</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">^2 件の音声ファイルをゴミ箱から移動することを ^1 に許可しますか？</item>
+        <item quantity="one">この音声ファイルをゴミ箱から移動することを ^1 に許可しますか？</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">^2 件のアイテムをゴミ箱から移動することを ^1 に許可しますか？</item>
+        <item quantity="one">このアイテムをゴミ箱から移動することを ^1 に許可しますか？</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">^2 枚の写真をゴミ箱から移動することを ^1 に許可しますか？</item>
+        <item quantity="one">この写真をゴミ箱から移動することを ^1 に許可しますか？</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">^2 本の動画をゴミ箱から移動することを ^1 に許可しますか？</item>
+        <item quantity="one">この動画をゴミ箱から移動することを ^1 に許可しますか？</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">^2 件の音声ファイルの変更を ^1 に許可しますか？</item>
+        <item quantity="one">この音声ファイルの変更を ^1 に許可しますか？</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">^2 件のアイテムの変更を ^1 に許可しますか？</item>
+        <item quantity="one">このアイテムの変更を ^1 に許可しますか？</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">^2 枚の写真の変更を ^1 に許可しますか？</item>
+        <item quantity="one">この写真の変更を ^1 に許可しますか？</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">^2 本の動画の変更を ^1 に許可しますか？</item>
+        <item quantity="one">この動画の変更を ^1 に許可しますか？</item>
+    </plurals>
+</resources>

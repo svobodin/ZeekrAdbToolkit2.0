@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="coexistence_hwShare_parameter">
+        <item>60</item>
+        <item>600</item>
+        <item>20</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="coexistence_p2p_limit_parameter">
+        <item>60</item>
+        <item>3125</item>
+        <item>100</item>
+    </integer-array>
+    <integer-array name="coexistence_wifiShare_parameter">
+        <item>60</item>
+        <item>1200</item>
+        <item>20</item>
+        <item>1</item>
+    </integer-array>
+    <integer-array name="nearby_business_id_list">
+        <item>19</item>
+        <item>20</item>
+    </integer-array>
+    <string-array name="nearby_package_white_list">
+        <item>com.huawei.hicar</item>
+        <item>com.huawei.dmsdp</item>
+    </string-array>
+</resources>

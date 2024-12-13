@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Prijava na mrežu</string>
+    <string name="action_bar_title">Prijava na %1$s</string>
+    <string name="action_do_not_use_network">Ne koristi ovu mrežu</string>
+    <string name="action_use_network">Koristi ovu mrežu kakva jeste</string>
+    <string name="app_name">Prijava na zaštitnom portalu</string>
+    <string name="channel_description_download_progress">Obavještenja koja pokazuju napredak preuzimanja fajla</string>
+    <string name="channel_description_downloads">Obavještenja koja pokazuju završena ili otkazana preuzimanja</string>
+    <string name="channel_name_download_progress">Napredak preuzimanja</string>
+    <string name="channel_name_downloads">Preuzimanja</string>
+    <string name="custom_scheme_example">Naprimjer, stranica za prijavu može zahtijevati određenu aplikaciju za autentifikaciju</string>
+    <string name="custom_scheme_warning">Mreža kojoj pokušavate pristupiti zahtijeva da otvorite drugu aplikaciju.</string>
+    <string name="download_completed">Preuzimanje je završeno</string>
+    <string name="downloading_paramfile">Preuzimanje fajla %s</string>
+    <string name="error_continue_via_browser">Ipak nastavi preko preglednika</string>
+    <string name="error_downloading_paramfile">Preuzimanje fajla %1$s nije uspjelo</string>
+    <string name="no_bypass_error_vpnwarning">Osim toga, ovu grešku nije moguće zaobići jer uređaj trenutno radi na VPN-u.</string>
+    <string name="ok">Uredu</string>
+    <string name="page_info">Informacije o stranici</string>
+    <string name="page_info_address">Adresa:</string>
+    <string name="ssl_error_date_invalid">Ova potvrda sadrži nevažeći datum.</string>
+    <string name="ssl_error_example">Naprimjer, stranica za prijavu možda ne pripada prikazanoj organizaciji.</string>
+    <string name="ssl_error_expired">Ova potvrda je istekla.</string>
+    <string name="ssl_error_invalid">Ova potvrda je nevažeća.</string>
+    <string name="ssl_error_mismatch">Naziv web lokacije se ne podudara s nazivom na potvrdi.</string>
+    <string name="ssl_error_not_yet_valid">Ova potvrda još uvijek nije važeća.</string>
+    <string name="ssl_error_unknown">Nepoznata greška potvrde.</string>
+    <string name="ssl_error_untrusted">Ova potvrda ne potiče iz pouzdanog izvora.</string>
+    <string name="ssl_error_view_certificate">Prikaži potvrdu</string>
+    <string name="ssl_error_warning">Mreža kojoj pokušavate pristupiti ima sigurnosnih problema.</string>
+    <string name="ssl_security_warning_title">Sigurnosno upozorenje</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

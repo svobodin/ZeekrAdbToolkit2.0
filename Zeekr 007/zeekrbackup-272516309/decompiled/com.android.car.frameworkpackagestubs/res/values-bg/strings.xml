@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Модул на активността</string>
+    <string name="message_not_supported">Действ. не може да се обраб. от никое прил.</string>
+    <string name="pip_not_supported">Функцията „Картина в картината“ не се поддържа на това устройство</string>
+    <string name="stub_name">Без</string>
+</resources>

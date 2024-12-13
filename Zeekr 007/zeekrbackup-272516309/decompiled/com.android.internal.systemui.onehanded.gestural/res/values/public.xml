@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="dimen" name="navigation_bar_gesture_larger_height" id="0x7f010000" />
+    <public type="string" name="one_handed_mode_title" id="0x7f020000" />
+</resources>

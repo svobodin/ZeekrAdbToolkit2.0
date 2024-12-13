@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">Ještě %1$d</item>
+        <item quantity="one">Ještě %1$d</item>
+        <item quantity="few">Ještě %1$d</item>
+        <item quantity="many">Ještě %1$d</item>
+    </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">%1$d aplikací nebylo několik měsíců použito. Klepnutím to zkontrolujete</item>
+        <item quantity="one">%1$d aplikace nebyla několik měsíců použita. Klepnutím to zkontrolujete</item>
+        <item quantity="few">%1$d aplikace nebyly několik měsíců použity. Klepnutím to zkontrolujete</item>
+        <item quantity="many">%1$d aplikace nebylo několik měsíců použito. Klepnutím to zkontrolujete</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">%1$d aplikací nebylo několik měsíců použito</item>
+        <item quantity="one">%1$d aplikace nebyla několik měsíců použita</item>
+        <item quantity="few">%1$d aplikace nebyly několik měsíců použity</item>
+        <item quantity="many">%1$d aplikace nebylo několik měsíců použito</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s dnů</item>
+        <item quantity="one">1 den</item>
+        <item quantity="few">%s dny</item>
+        <item quantity="many">%s dne</item>
+    </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">%s dní</item>
+        <item quantity="one">1 den</item>
+        <item quantity="few">%s dny</item>
+        <item quantity="many">%s dne</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">%s hodin</item>
+        <item quantity="one">1 hodina</item>
+        <item quantity="few">%s hodiny</item>
+        <item quantity="many">%s hodiny</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">%s min</item>
+        <item quantity="one">1 min</item>
+        <item quantity="few">%s min</item>
+        <item quantity="many">%s min</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">%s s</item>
+        <item quantity="one">1 s</item>
+        <item quantity="few">%s s</item>
+        <item quantity="many">%s s</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s hodin</item>
+        <item quantity="one">1 hodina</item>
+        <item quantity="few">%s hodiny</item>
+        <item quantity="many">%s hodiny</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s minut</item>
+        <item quantity="one">1 minuta</item>
+        <item quantity="few">%s minuty</item>
+        <item quantity="many">%s minuty</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nových oznámení</item>
+        <item quantity="one">%d nové oznámení</item>
+        <item quantity="few">%d nová oznámení</item>
+        <item quantity="many">%d nového oznámení</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s aplikací</item>
+        <item quantity="one">1 aplikace</item>
+        <item quantity="few">%s aplikace</item>
+        <item quantity="many">%s aplikace</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s aplikací</item>
+        <item quantity="one">1 aplikace</item>
+        <item quantity="few">%s aplikace</item>
+        <item quantity="many">%s aplikace</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">Využíváno %1$d aplikacemi</item>
+        <item quantity="one">Využíváno 1 aplikací</item>
+        <item quantity="few">Využíváno %1$d aplikacemi</item>
+        <item quantity="many">Využíváno %1$d aplikacemi</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"Poslední přístup: %1$s
+%2$s přístupů"</item>
+        <item quantity="one">"Poslední přístup: %1$s
+%2$s přístup"</item>
+        <item quantity="few">"Poslední přístup: %1$s
+%2$s přístupy"</item>
+        <item quantity="many">"Poslední přístup: %1$s
+%2$s přístupu"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"Poslední přístup: %1$s
+%2$s přístupů (%3$s na pozadí)"</item>
+        <item quantity="one">"Poslední přístup: %1$s
+%2$s přístup (%3$s na pozadí)"</item>
+        <item quantity="few">"Poslední přístup: %1$s
+%2$s přístupy (%3$s na pozadí)"</item>
+        <item quantity="many">"Poslední přístup: %1$s
+%2$s přístupu (%3$s na pozadí)"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"Poslední přístup: %1$s
+%2$s přístupů (%3$s na pozadí)
+Trvání: %3$s"</item>
+        <item quantity="one">"Poslední přístup: %1$s
+%2$s přístup (%3$s na pozadí)
+Trvání: %3$s"</item>
+        <item quantity="few">"Poslední přístup: %1$s
+%2$s přístupy (%3$s na pozadí)
+Trvání: %3$s"</item>
+        <item quantity="many">"Poslední přístup: %1$s
+%2$s přístupu (%3$s na pozadí)
+Trvání: %3$s"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"Poslední přístup: %1$s
+%2$s přístupů
+Trvání: %3$s"</item>
+        <item quantity="one">"Poslední přístup: %1$s
+%2$s přístup
+Trvání: %3$s"</item>
+        <item quantity="few">"Poslední přístup: %1$s
+%2$s přístupy
+Trvání: %3$s"</item>
+        <item quantity="many">"Poslední přístup: %1$s
+%2$s přístupu
+Trvání: %3$s"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s sekund</item>
+        <item quantity="one">1 sekunda</item>
+        <item quantity="few">%s sekundy</item>
+        <item quantity="many">%s sekundy</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">%1$d nepoužívaných aplikací</item>
+        <item quantity="one">%1$d nepoužívaná aplikace</item>
+        <item quantity="few">%1$d nepoužívané aplikace</item>
+        <item quantity="many">%1$d nepoužívané aplikace</item>
+    </plurals>
+</resources>

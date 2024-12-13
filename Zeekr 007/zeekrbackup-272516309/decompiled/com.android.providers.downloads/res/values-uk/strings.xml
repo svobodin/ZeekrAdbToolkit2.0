@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Менеджер завантажень</string>
+    <string name="button_cancel_download">Скасувати</string>
+    <string name="button_queue_for_wifi">У чергу</string>
+    <string name="button_start_now">Почати зараз</string>
+    <string name="download_error">Помилка</string>
+    <string name="download_no_application_title">Неможливо відкрити файл</string>
+    <string name="download_queued">У черзі</string>
+    <string name="download_remaining">Залишилося %s</string>
+    <string name="download_running">Виконується</string>
+    <string name="download_running_percent">Завантаження триває, %s</string>
+    <string name="download_unknown_title">&lt;Без назви></string>
+    <string name="notification_download_complete">Завантаження закінчено.</string>
+    <string name="notification_download_failed">Завантаження не виконано.</string>
+    <string name="notification_need_wifi_for_size">Для завант.потрібен Wi-Fi</string>
+    <string name="notification_paused_in_background">Призупинено у фонов.реж.</string>
+    <string name="permdesc_accessAllDownloads">Дозволяє програмі переглядати та змінювати всі завантаження, ініційовані будь-якою програмою в системі.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Дозволяє програмі завантажувати файли в кеш-пам’ять завантажень, яку неможливо автоматично видалити, якщо менеджеру завантажень потрібно більше місця.</string>
+    <string name="permdesc_downloadCompletedIntent">Дозволяє програмі надсилати сповіщення про завершені завантаження. Шкідливі програми можуть використовувати це для перешкоджання роботі інших програм, які завантажують файли.</string>
+    <string name="permdesc_downloadManager">Дозволяє програмі отримувати доступ до менеджера завантажень і використовувати його для завантаження файлів. Шкідливі програми можуть використовувати це для переривання завантажень і доступу до особистої інформації.</string>
+    <string name="permdesc_downloadManagerAdvanced">Дозволяє програмі отримувати доступ до розширених функцій менеджера завантажень. Шкідливі програми можуть використовувати це для переривання завантажень і доступу до особистої інформації.</string>
+    <string name="permdesc_downloadWithoutNotification">Дозволяє програмі завантажувати файли за допомогою менеджера завантажень без будь-якого сповіщення для користувача.</string>
+    <string name="permlab_accessAllDownloads">Отримувати доступ до всіх завантажень у системі</string>
+    <string name="permlab_downloadCacheNonPurgeable">Резервувати місце в кеші завантажень</string>
+    <string name="permlab_downloadCompletedIntent">Надсилати сповіщ. про завантаж.</string>
+    <string name="permlab_downloadManager">Доступ до менедж. завантаж.</string>
+    <string name="permlab_downloadManagerAdvanced">Розширені функції менеджера завантаж.</string>
+    <string name="permlab_downloadWithoutNotification">завантажувати файли без сповіщення</string>
+    <string name="root_downloads">Завантаження</string>
+    <string name="storage_description">Завантаження</string>
+    <string name="wifi_recommended_body">"Зараз це завантаження %1$s  може зменшити заряд акумулятора і/чи спричинити надмірне мобільне передавання даних, за що оператор може стягувати плату залежно від тарифного плану.
+
+ Виберіть %2$s, щоб завантажити, коли з’явиться з’єднання Wi-Fi."</string>
+    <string name="wifi_recommended_title">Поставити в чергу, щоб завантажити пізніше?</string>
+    <string name="wifi_required_body">"Для цього завантаження розміром %1$s  потрібне з’єднання з Wi-Fi. 
+
+Торкніться опції %2$s , щоб виконати це завантаження під час наступного з’єднання з мережею Wi-Fi."</string>
+    <string name="wifi_required_title">Завантаження завелике для мережі оператора</string>
+</resources>

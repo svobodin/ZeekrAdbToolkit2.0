@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">مدیر دستگاه مرتبط</string>
+    <string name="chooser_title">‏انتخاب %1$s برای مدیریت کردن با &lt;strong>%2$s‏&lt;/strong></string>
+    <string name="confirmation_title">‏مجاز کردن &lt;strong>%1$s&lt;/strong> برای مدیریت کردن &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_no">مجاز نبودن</string>
+    <string name="consent_yes">مجاز است</string>
+    <string name="profile_name_generic">دستگاه</string>
+    <string name="profile_name_watch">ساعت</string>
+    <string name="profile_summary">این برنامه برای مدیریت %1$s شما لازم است. %2$s</string>
+</resources>

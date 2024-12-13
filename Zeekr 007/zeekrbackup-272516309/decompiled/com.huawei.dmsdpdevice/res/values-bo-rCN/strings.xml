@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Screen_notification_text">ཟྭ་ཕྱེས་ནས་བཀོལ་ཆོག</string>
+    <string name="Screen_notification_title">%sཡིས་པར་ཆས་ལ་ལྟ་སྤྱོད་བྱེད་པར་རེ་ཞུ་བྱེད་པ།</string>
+    <string name="accessibility_back_preview">རྒྱབ་སྒྲིག་པར་ཆས་ཀྱིས་རག་ལྟ་བྱེད།</string>
+    <string name="accessibility_falsh_mode_off">འཁྱུག་འོད་གློག་ཁ་བརྒྱབ་པའི་རྣམ་པ།</string>
+    <string name="accessibility_falsh_mode_torch">འཁྱུག་འོད་གློག་རྒྱུན་དུ་གསལ་བའི་རྣམ་པ།</string>
+    <string name="accessibility_front_preview">མདུན་སྒྲིག་པར་ཆས་ཀྱིས་རག་ལྟ་བྱེད།</string>
+    <string name="accessibility_stop_sharing_to_source">བརྙན་མིག་མཉམ་སྤྱོད་མཚམས་འཇོག</string>
+    <string name="app_name_for_libdmsdpcamera">འགྱེད་ཁྱབ་རྣམ་པའི་པར་ཆས།</string>
+    <string name="capsule_dialog_content">བརྙན་མིག་%sལ་མཐུན་སྦྱོར་བྱས་ཟིན།</string>
+    <string name="capsule_dialog_negative_btn">མཚམས་གཅོད།</string>
+    <string name="lens_wide">ཡངས་སྣེ།</string>
+    <string name="notification_content_text">%s རང་གནས་ཀྱི་བརྙན་མིག་འཐེན་སྤྱོད་བྱེད་པར་རེ་ཞུ་བྱེད་པ་དང་། ཟྭ་ཕྱེས་ཚེ་མཉམ་སྤྱོད་བྱེད་ཐུབ།</string>
+    <string name="notification_content_theme">འགྱེད་ཁྱབ་རྣམ་པའི་སྒྲིག་ཆས་དོ་དམ།</string>
+    <string name="notification_content_title">སྒྲིག་ཆས་འབྲེལ་མཐུད།</string>
+    <string name="permission_dialog_content">%sལ་པར་ཆས་ལ་ལྟ་སྤྱོད་བྱ་ཆོག་པར་བྱེད་དམ།</string>
+    <string name="permission_dialog_hint">བརྙན་མིག་མཉམ་སྤྱོད་ལ་བཀོལ་བ།</string>
+    <string name="permission_dialog_negative_btn">བཀག་འགོག</string>
+    <string name="res_allow">ཆོག་པ།</string>
+    <string name="res_cancel">འདོར་བ།</string>
+    <string name="res_ok">གཏན་འཁེལ།</string>
+    <string name="res_reject">མི་ཆོག (%ss)</string>
+    <string name="res_stop_use_camera">བརྙན་མིག་བཀོལ་བ་མཇུག་རྫོགས་པར་བྱེད་དམ།</string>
+    <string name="res_toast">%s བརྙན་མིག་བཀོལ་བ་མཇུག་རྫོགས་ཟིན།</string>
+    <string name="sink_back_to_desktop">ཅོག་ངོས་སུ་ཕྱིར་ལོག</string>
+    <string name="sink_stop_sharing">མཉམ་སྤྱོད་མཚམས་འཇོག</string>
+    <string name="sink_stop_sharing_or_not">བརྙན་མིག་ %1$s ལ་མཉམ་སྤྱོད་བྱེད་པའི་མཚམས་འཇོག་རྒྱུ་ཡིན་ནམ།</string>
+    <string name="source_connection_service_exception">སྒྲིག་ཆས་མཚམས་བཅད་ཟིན། ཡང་བསྐྱར་འབྲེལ་མཐུད་བྱེད་རོགས།</string>
+    <string name="source_sharing_status_text">%1$s ལ་མཉམ་སྤྱོད་བྱེད་བཞིན་ཡོད།</string>
+    <string name="source_stop_sharing_tip">%1$sཡིས་བརྙན་མིག་འདི་བཀོལ་མཚམས་བཞག་ཟིན།</string>
+</resources>

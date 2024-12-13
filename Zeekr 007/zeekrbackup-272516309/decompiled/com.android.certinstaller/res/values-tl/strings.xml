@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_missing_private_key">Kinakailangan ng pribadong key para mag-install ng certificate</string>
+    <string name="action_missing_user_cert">Kinakailangan ng certificate para mag-install ng pribadong key</string>
+    <string name="app_name">Installer ng Certificate</string>
+    <string name="ca_cert_is_added">Na-install na ang CA certificate</string>
+    <string name="ca_certificate">CA certificate</string>
+    <string name="cert_missing_error">Hindi ma-install dahil hindi mahanap ang file ng certificate.</string>
+    <string name="cert_not_saved">Hindi naka-install ang certificate.</string>
+    <string name="cert_read_error">Hindi mai-install dahil hindi mabasa ang file ng certificate.</string>
+    <string name="cert_temp_error">Pansamantalang hindi paggana. Subukan ulit sa ibang pagkakataon.</string>
+    <string name="cert_too_large_error">Hindi ma-install dahil masyadong malaki ang certificate.</string>
+    <string name="certificate">Certificate</string>
+    <string name="certificate_capabilities_warning">Tandaan: Maaaring suriin ng nagbigay ng certificate na ito ang lahat ng trapiko papunta at mula sa device.</string>
+    <string name="certificate_name">Pangalan ng certificate</string>
+    <string name="credential_info">Naglalaman ang package ng:</string>
+    <string name="credential_password">I-type ang password upang i-extract ang mga certificate.</string>
+    <string name="credential_usage_label">Paggamit ng kredensyal:</string>
+    <string name="done_label">TAPOS NA</string>
+    <string name="extracting_pkcs12">Ine-extract…</string>
+    <string name="install_done">Naidagdag ang mga credential ng %1$s sa mga naka-save na network ng Wi-Fi.</string>
+    <string name="install_done_title">Na-install ang mga credential</string>
+    <string name="invalid_cert">Di-wasto ang certificate.</string>
+    <string name="invalid_certificate_close_button">Isara</string>
+    <string name="invalid_certificate_message">Hindi puwedeng gamitin ang file na ito bilang %1$s</string>
+    <string name="invalid_certificate_title">Hindi magagamit ang file na ito</string>
+    <string name="n_cacrts">%d Mga certificate ng CA</string>
+    <string name="name_char_error">Mag-type ng pangalan na naglalaman lamang ng mga titik at numero.</string>
+    <string name="name_credential_dialog_title">Pangalanan ang certificate na ito</string>
+    <string name="name_empty_error">Mag-type ng pangalan.</string>
+    <string name="no_cert_to_saved">Walang ii-install na certificate.</string>
+    <string name="one_cacrt">isang certficate ng CA</string>
+    <string name="one_usercrt">isang certificate ng user</string>
+    <string name="one_userkey">isang key ng user</string>
+    <string name="only_primary_user_allowed">Ang may-ari lang ng device na ito ang maaaring mag-install ng mga certificate.</string>
+    <string name="p12_description">Mga certificate sa PKCS12 keystore.</string>
+    <string name="password_empty_error">I-type ang password.</string>
+    <string name="password_error">I-type ang tamang password.</string>
+    <string name="pick_file_title">Pumili ng certificate</string>
+    <string name="pkcs12_file_password_dialog_title">I-extract mula sa %s</string>
+    <string name="pkcs12_password_dialog_title">I-extract ang certificate</string>
+    <string name="redirect_ca_certificate_close_button">Isara</string>
+    <string name="redirect_ca_certificate_title">Mag-install ng mga CA certificate sa Mga Setting</string>
+    <string name="redirect_ca_certificate_with_app_info_message">Dapat i-install sa Mga Setting ang certificate na ito na mula sa %1$s. Mag-install lang ng mga CA certificate mula sa mga organisasyong pinagkakatiwalaan mo.</string>
+    <string name="select_certificate_usage_title">Pumili ng uri ng certificate</string>
+    <string name="unable_to_save_cert">Hindi mai-save ang certificate. Hindi pinagana o maayos na nasimulan ang storage ng kredensyal.</string>
+    <string name="user_cert_is_added">Na-install na ang certificate ng user</string>
+    <string name="user_certificate">VPN at certificate ng app user</string>
+    <string name="userkey_type">Algorithm:</string>
+    <string name="wifi_cancel_label">Kanselahin</string>
+    <string name="wifi_cert_is_added">Na-install na ang certificate ng Wi-Fi</string>
+    <string name="wifi_certificate">Certificate ng Wi-Fi</string>
+    <string name="wifi_config_text">"Pangalan: %1$s
+FQDN: %2$s
+Mga Roaming Consortium: %3$s
+Realm: %4$s
+Paraan ng pagpapatotoo: EAP-%5$s
+"</string>
+    <string name="wifi_detail_label">Mga Detalye</string>
+    <string name="wifi_detail_title">Mga detalye para sa %s</string>
+    <string name="wifi_dismiss_label">I-dismiss</string>
+    <string name="wifi_install_label">I-install</string>
+    <string name="wifi_installer_detail">I-install ang mga credential ng Wi-Fi upang kumonekta sa mga network na available sa pamamagitan ng %1$s.</string>
+    <string name="wifi_installer_download_error">May problema ang mga na-download na file at hindi ma-install ang mga ito. Tiyaking na-download mo ang file mula sa tamang pinagmulan.</string>
+    <string name="wifi_installer_fail">Hindi ma-install ang mga credential ng Wi-Fi. Subukang muli ang pagda-download ng file.</string>
+    <string name="wifi_installer_fail_no_wifi">I-on ang Wi-Fi at subukang muli.</string>
+    <string name="wifi_installer_fail_no_wifi_title">Kinansela ang pag-install</string>
+    <string name="wifi_installer_fail_title">Hindi makapag-install</string>
+    <string name="wifi_installing_label">Nag-i-install</string>
+    <string name="wifi_no_config">Wala</string>
+    <string name="wifi_sim_config_text">"SIM: %s
+"</string>
+    <string name="wifi_title">Profile ng Wi-Fi</string>
+    <string name="wifi_tls_config_text">"Client certificate:
+%1$s
+Key: %2$s
+"</string>
+    <string name="wifi_trust_config_text">"Trust certificate:
+%s
+"</string>
+    <string name="wifi_ttls_config_text">"User name: %s
+"</string>
+</resources>

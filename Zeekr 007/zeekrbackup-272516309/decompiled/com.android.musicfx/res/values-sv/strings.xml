@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">Basförstärkning</string>
+    <string name="ci_extreme">Effektförstärkning</string>
+    <string name="classical">Klassiskt</string>
+    <string name="dance">Dans</string>
+    <string name="eq_dialog_title">Equalizer</string>
+    <string name="flat">Dov</string>
+    <string name="folk">Folkmusik</string>
+    <string name="headset_plug">Du måste ansluta hörlurar för att kunna höra effekterna.</string>
+    <string name="heavy_metal">Heavy metal</string>
+    <string name="hip_hop">Hiphop</string>
+    <string name="jazz">Jazz</string>
+    <string name="no_effects">Effekter är inte tillgängliga.</string>
+    <string name="normal">Normal</string>
+    <string name="picker_title">Kontrollpanel för musikeffekter</string>
+    <string name="pop">Pop</string>
+    <string name="rock">Rock</string>
+    <string name="setup">Konfigurera</string>
+    <string name="user">Användare</string>
+    <string name="virtualizer_strength">Surroundljud</string>
+</resources>

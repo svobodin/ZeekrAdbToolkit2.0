@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Tagapamahala ng Pag-download</string>
+    <string name="button_cancel_download">Kanselahin</string>
+    <string name="button_queue_for_wifi">Queue</string>
+    <string name="button_start_now">Magsimula ngayon</string>
+    <string name="download_error">Hindi matagumpay</string>
+    <string name="download_no_application_title">Hindi mabuksan ang file</string>
+    <string name="download_queued">Naka-queue</string>
+    <string name="download_remaining">%s ang natitira</string>
+    <string name="download_running">Isinasagawa</string>
+    <string name="download_running_percent">Isinasagawa, %s</string>
+    <string name="download_unknown_title">&lt;Walang pamagat></string>
+    <string name="notification_download_complete">Kumpleto na ang download.</string>
+    <string name="notification_download_failed">Hindi matagumpay ang pag-download.</string>
+    <string name="notification_need_wifi_for_size">Kailangan ng laki ng download ng Wi-Fi.</string>
+    <string name="notification_paused_in_background">Na-pause sa background.</string>
+    <string name="permdesc_accessAllDownloads">Pinapayagan ang app na tingnan at baguhin ang lahat ng download na sinimulan ng anumang app sa system.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Pinapayagan ang app na mag-download ng file sa cache ng download, na hindi awtomatikong matatanggal kapag kailangan ng download manager ng higit na puwang.</string>
+    <string name="permdesc_downloadCompletedIntent">Pinapayagan ang app na magpadala ng mga notification tungkol sa mga nakumpletong download. Maaari itong gamitin ng mga nakapanghahamak na app upang lituhin ang ibang mga app na nagda-download ng mga file.</string>
+    <string name="permdesc_downloadManager">Pinapayagan ang app na i-access ang download manager at gamitin ito upang mag-download ng mga file. Maaari itong gamitin ng mga nakapanghahamak na app upang gambalain ang mga download at mag-access ng pribadong impormasyon.</string>
+    <string name="permdesc_downloadManagerAdvanced">Pinapayagan ang app na i-access ang mga advanced na paggana ng download manager. Maaari itong gamitin ng mga nakapanghahamak na app upang gambalain ang mga download at mag-access ng pribadong impormasyon.</string>
+    <string name="permdesc_downloadWithoutNotification">Pinapayagan ang app na mag-download ng mga file sa pamamagitan ng download manager nang walang anumang notification na ipinapakita sa user.</string>
+    <string name="permlab_accessAllDownloads">I-access ang lahat ng mga pag-download ng system</string>
+    <string name="permlab_downloadCacheNonPurgeable">Maglaan ng puwang sa download cache</string>
+    <string name="permlab_downloadCompletedIntent">Magpadala ng mga notification sa pag-download.</string>
+    <string name="permlab_downloadManager">I-access ang tagapamahala ng pag-download.</string>
+    <string name="permlab_downloadManagerAdvanced">Mga advanced na pag-andar ng tagapamahala ng pag-download.</string>
+    <string name="permlab_downloadWithoutNotification">mag-download ng mga file nang walang notification</string>
+    <string name="root_downloads">Mga Download</string>
+    <string name="storage_description">Mga Download</string>
+    <string name="wifi_recommended_body">"Ang pagsisimula sa %1$s  na download na ito ngayon ay maaaring magpaikli sa buhay ng iyong baterya at/o magresulta sa labis-labis na paggamit ng iyong koneksyon ng data sa mobile, na maaaring humantong sa mga pagsingil ng iyong mobile operator depende sa iyong plan ng data.
+
+ Pindutin ang %2$s upang simulan ang download na ito sa susunod na oras nakakonekta ka sa isang Wi-Fi network."</string>
+    <string name="wifi_recommended_title">I-queue para sa pag-download sa ibang pagkakataon?</string>
+    <string name="wifi_required_body">"Dapat kang gumamit ng Wi-Fi upang kumpletuhin ang %1$s  na download na ito. 
+
+Pindutin ang %2$s  upang simulan ang download na ito sa susunod na oras na nakakonekta ka sa Wi-Fi network."</string>
+    <string name="wifi_required_title">Masyadong malaki ang download sa operator network</string>
+</resources>

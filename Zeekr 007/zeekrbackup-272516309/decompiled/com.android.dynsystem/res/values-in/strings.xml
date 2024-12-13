@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">Masukkan sandi Anda dan lanjutkan ke Dynamic System Updates</string>
+    <string name="notification_action_cancel">Batal</string>
+    <string name="notification_action_discard">Hapus</string>
+    <string name="notification_action_reboot_to_dynsystem">Mulai ulang</string>
+    <string name="notification_action_reboot_to_origin">Mulai ulang</string>
+    <string name="notification_dynsystem_in_use">Saat ini sedang menjalankan Dynamic System. Mulai ulang untuk menggunakan Android versi asli.</string>
+    <string name="notification_image_validation_failed">Validasi image gagal. Batalkan penginstalan.</string>
+    <string name="notification_install_completed">Dynamic System sudah siap. Mulai ulang perangkat untuk mulai menggunakannya.</string>
+    <string name="notification_install_failed">Penginstalan gagal</string>
+    <string name="notification_install_inprogress">Sedang diinstal</string>
+    <string name="toast_dynsystem_discarded">Dynamic System dihapus</string>
+    <string name="toast_failed_to_disable_dynsystem">Gagal menonaktifkan sistem dinamis</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Tidak dapat memulai ulang atau memuat Dynamic System</string>
+</resources>

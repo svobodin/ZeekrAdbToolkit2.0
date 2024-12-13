@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Išjungti įrenginio kaip modemo naudojimą</string>
+    <string name="no_upstream_notification_message">Nepavyko susieti įrenginių</string>
+    <string name="no_upstream_notification_title">Nėra įrenginio kaip modemo naudojimo interneto ryšio</string>
+    <string name="upstream_roaming_notification_message">Veikiant tarptinkliniam ryšiui gali būti taikomi papildomi mokesčiai</string>
+    <string name="upstream_roaming_notification_title">Įjungtas viešosios interneto prieigos taškas arba įrenginio kaip modemo naudojimas</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Activity Stub</string>
+    <string name="message_not_supported">இந்தச் செயல்பாட்டை செய்யும் ஆப்ஸ் இல்லை</string>
+    <string name="pip_not_supported">"இந்தச் சாதனத்தில் 'பிக்ச்சர்-இன்-பிக்ச்சர்' அம்சம் ஆதரிக்கப்படவில்லை"</string>
+    <string name="stub_name">எதுவுமில்லை</string>
+</resources>

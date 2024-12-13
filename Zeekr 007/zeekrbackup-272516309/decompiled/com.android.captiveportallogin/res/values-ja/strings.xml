@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">ネットワークにログイン</string>
+    <string name="action_bar_title">%1$s にログイン</string>
+    <string name="action_do_not_use_network">このネットワークを使用しない</string>
+    <string name="action_use_network">このネットワークをそのまま使用する</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">ファイルのダウンロードの進行状況を示す通知</string>
+    <string name="channel_description_downloads">ダウンロードが完了したことやキャンセルされたことを示す通知</string>
+    <string name="channel_name_download_progress">ダウンロードの進行状況</string>
+    <string name="channel_name_downloads">ダウンロード</string>
+    <string name="custom_scheme_example">たとえば、ログインページで認証用の特定のアプリが必要になることがあります</string>
+    <string name="custom_scheme_warning">接続しようとしているネットワークが、別のアプリを開くことを要求しています。</string>
+    <string name="download_completed">ダウンロードが完了しました</string>
+    <string name="downloading_paramfile">%1$s をダウンロードしています</string>
+    <string name="error_continue_via_browser">ブラウザから続行</string>
+    <string name="error_downloading_paramfile">%1$s をダウンロードできませんでした</string>
+    <string name="no_bypass_error_vpnwarning">また、デバイスで現在 VPN が実行されているため、このエラーを回避することはできません。</string>
+    <string name="ok">OK</string>
+    <string name="page_info">ページ情報</string>
+    <string name="page_info_address">メールアドレス:</string>
+    <string name="ssl_error_date_invalid">この証明書の日付は無効です。</string>
+    <string name="ssl_error_example">たとえば、ログインページが表示されている組織に属していない可能性があります。</string>
+    <string name="ssl_error_expired">この証明書は有効期限切れです。</string>
+    <string name="ssl_error_invalid">この証明書は無効です。</string>
+    <string name="ssl_error_mismatch">サイト名と証明書上の名前が一致しません。</string>
+    <string name="ssl_error_not_yet_valid">この証明書はまだ有効ではありません。</string>
+    <string name="ssl_error_unknown">不明な証明書エラーです。</string>
+    <string name="ssl_error_untrusted">この証明書は信頼できる認証機関のものではありません。</string>
+    <string name="ssl_error_view_certificate">証明書を表示</string>
+    <string name="ssl_error_warning">接続しようとしているネットワークにセキュリティの問題があります。</string>
+    <string name="ssl_security_warning_title">セキュリティに関する警告</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

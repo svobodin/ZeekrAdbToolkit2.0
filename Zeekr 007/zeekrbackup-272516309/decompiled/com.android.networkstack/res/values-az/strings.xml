@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Şəbəkə meneceri</string>
+    <string name="connected">Qoşulub</string>
+    <string name="notification_channel_description_connected">Cihaz daxili portal şəbəkəsində uğurla doğrulandıqda bildirişlər göstərilir</string>
+    <string name="notification_channel_description_network_venue_info">Şəbəkədə məkan məlumatı səhifəsi olduğunu göstərən bildirişlər</string>
+    <string name="notification_channel_name_connected">Avtorizasiya tələb edən portalda doğrulama</string>
+    <string name="notification_channel_name_network_venue_info">Şəbəkənin məkan məlumatı</string>
+    <string name="tap_for_info">Qoşulub / Veb sayta baxmaq üçün toxunun</string>
+</resources>

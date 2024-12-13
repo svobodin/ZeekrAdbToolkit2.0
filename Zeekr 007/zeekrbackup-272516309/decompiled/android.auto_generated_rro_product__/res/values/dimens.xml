@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="autofill_elevation">@android:dimen/car_icon_size</item>
+    <item type="dimen" name="autofill_save_button_bar_padding">@android:dimen/car_borderless_button_horizontal_padding</item>
+    <item type="dimen" name="autofill_save_icon_size">@android:dimen/car_large_avatar_size</item>
+    <item type="dimen" name="autofill_save_inner_padding">@android:dimen/car_icon_size</item>
+    <item type="dimen" name="autofill_save_outer_top_margin">@android:dimen/car_icon_size</item>
+    <item type="dimen" name="autofill_save_outer_top_padding">@android:dimen/car_icon_size</item>
+    <item type="dimen" name="autofill_save_scroll_view_top_margin">@android:dimen/car_keyline_1_keyline_3_diff</item>
+    <item type="dimen" name="autofill_save_title_start_padding">@android:dimen/car_keyline_1_keyline_3_diff</item>
+    <item type="dimen" name="car_disabled_alpha">0.46</item>
+    <dimen name="car_qs_header_system_icons_area_height">76.0dip</dimen>
+    <dimen name="car_radio_button_focus_ring_padding">12.0dip</dimen>
+    <dimen name="car_radio_button_focus_ring_size">69.0dip</dimen>
+    <dimen name="car_radio_button_inner_circle_size">32.0dip</dimen>
+    <dimen name="car_radio_button_outer_ring_size">45.0dip</dimen>
+    <dimen name="car_radio_button_outer_ring_stroke_width">2.0dip</dimen>
+    <dimen name="car_seekbar_horizontal_padding">24.0dip</dimen>
+    <dimen name="car_seekbar_thumb_offset">24.0dip</dimen>
+    <dimen name="car_seekbar_thumb_selected_stroke_width">8.0dip</dimen>
+    <dimen name="car_seekbar_thumb_size">68.0dip</dimen>
+    <dimen name="car_seekbar_track_height">24.0dip</dimen>
+    <dimen name="car_seekbar_track_vertical_padding">26.0dip</dimen>
+    <dimen name="car_switch_thumb_outer_radius">24.0dip</dimen>
+    <dimen name="car_switch_thumb_size">40.0dip</dimen>
+    <dimen name="car_switch_thumb_stroke_width">4.0dip</dimen>
+    <dimen name="car_switch_track_focus_ring_height">72.0dip</dimen>
+    <dimen name="car_switch_track_focus_ring_outer_radius">36.0dip</dimen>
+    <dimen name="car_switch_track_focus_ring_padding">12.0dip</dimen>
+    <dimen name="car_switch_track_focus_ring_width">112.0dip</dimen>
+    <dimen name="car_switch_track_height">48.0dip</dimen>
+    <dimen name="car_switch_track_margin_vertical">14.0dip</dimen>
+    <dimen name="car_switch_track_width">88.0dip</dimen>
+    <dimen name="config_dialogCornerRadius">16.0dip</dimen>
+    <item type="dimen" name="floating_toolbar_menu_button_side_padding">@android:dimen/car_icon_size</item>
+    <item type="dimen" name="floating_toolbar_menu_image_button_vertical_padding">@android:dimen/car_icon_size</item>
+    <item type="dimen" name="floating_toolbar_menu_image_width">@android:dimen/car_large_avatar_size</item>
+    <item type="dimen" name="floating_toolbar_text_size">@android:dimen/button_bar_layout_top_padding</item>
+    <dimen name="focus_pressed_stroke_width">4.0dip</dimen>
+    <dimen name="focus_stroke_width">8.0dip</dimen>
+    <dimen name="lock_pattern_dot_size">20.0dip</dimen>
+    <dimen name="media_notification_action_button_size">36.0dip</dimen>
+    <dimen name="media_notification_actions_padding_bottom">0.0dip</dimen>
+    <item type="dimen" name="media_notification_header_height">@android:dimen/input_extract_action_button_width</item>
+    <dimen name="navigation_bar_height">96.0dip</dimen>
+    <dimen name="navigation_bar_height_landscape">96.0dip</dimen>
+    <dimen name="notification_action_list_height">76.0dip</dimen>
+    <dimen name="notification_content_margin_bottom">24.0dip</dimen>
+    <item type="dimen" name="notification_content_margin_end">@android:dimen/kg_status_date_font_size</item>
+    <dimen name="notification_content_margin_start">24.0dip</dimen>
+    <dimen name="notification_content_margin_top">55.0dip</dimen>
+    <dimen name="notification_content_picture_margin">106.0dip</dimen>
+    <dimen name="notification_content_plus_picture_margin_end">80.0dip</dimen>
+    <dimen name="notification_expand_button_padding_top">0.0dip</dimen>
+    <item type="dimen" name="notification_header_app_name_margin_start">@android:dimen/leanback_setup_alpha_backward_in_content_end</item>
+    <dimen name="notification_header_expand_icon_size">55.0dip</dimen>
+    <dimen name="notification_header_height">58.0dip</dimen>
+    <dimen name="notification_header_icon_margin_end">10.0dip</dimen>
+    <dimen name="notification_header_icon_size">24.0dip</dimen>
+    <dimen name="notification_header_margin_bottom">0.0dip</dimen>
+    <dimen name="notification_header_padding_bottom">0.0dip</dimen>
+    <dimen name="notification_header_padding_top">0.0dip</dimen>
+    <dimen name="notification_header_separating_margin">6.0dip</dimen>
+    <dimen name="notification_progress_bar_height">25.0dip</dimen>
+    <dimen name="notification_progress_margin_top">16.0dip</dimen>
+    <item type="dimen" name="notification_right_icon_size">@android:dimen/car_radius_5</item>
+    <item type="dimen" name="notification_subtext_size">@android:dimen/media_notification_actions_padding_bottom</item>
+    <dimen name="notification_text_margin_top">0.0dip</dimen>
+    <dimen name="notification_text_size">26.0sp</dimen>
+    <dimen name="notification_title_text_size">32.0sp</dimen>
+    <dimen name="status_bar_height">76.0dip</dimen>
+    <dimen name="status_bar_height_landscape">76.0dip</dimen>
+    <dimen name="status_bar_height_portrait">76.0dip</dimen>
+    <dimen name="status_bar_icon_size">32.0dip</dimen>
+    <dimen name="status_bar_system_icon_size">32.0dip</dimen>
+</resources>

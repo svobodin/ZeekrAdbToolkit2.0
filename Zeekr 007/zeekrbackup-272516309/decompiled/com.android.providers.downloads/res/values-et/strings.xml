@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Allalaadimishaldur</string>
+    <string name="button_cancel_download">Tühista</string>
+    <string name="button_queue_for_wifi">Järjekord</string>
+    <string name="button_start_now">Alusta nüüd</string>
+    <string name="download_error">Ebaõnnestus</string>
+    <string name="download_no_application_title">Faili ei saa avada</string>
+    <string name="download_queued">Järjekorras</string>
+    <string name="download_remaining">Jäänud: %s</string>
+    <string name="download_running">Töötlemisel</string>
+    <string name="download_running_percent">Pooleli, %s</string>
+    <string name="download_unknown_title">&lt;Pealkirjata></string>
+    <string name="notification_download_complete">Allalaadimine on lõpetatud.</string>
+    <string name="notification_download_failed">Allalaadimine ebaõnnestus.</string>
+    <string name="notification_need_wifi_for_size">Allalaad. on vaja WiFit.</string>
+    <string name="notification_paused_in_background">Peatatud taustal.</string>
+    <string name="permdesc_accessAllDownloads">Võimaldab rakendusel vaadata ja muuta kõiki allalaadimisi, mille algatas süsteemis olev mis tahes rakendus.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Võimaldab rakendusel laadida faile allalaadimise vahemällu, mida allalaadimishaldur ei saa ruumi vabastamiseks automaatselt kustutada.</string>
+    <string name="permdesc_downloadCompletedIntent">Võimaldab rakendusel saata märguandeid lõpulejõudnud allalaadimiste kohta. Pahatahtlikud rakendused võivad selle abil häirida teisi rakendusi, mis faile alla laadivad.</string>
+    <string name="permdesc_downloadManager">Võimaldab rakendusel pääseda allalaadimishalduri juurde ja selle abil faile alla laadida. Pahatahtlikud rakendused saavad selle abil allalaadimisi takistada ja privaatsete andmete juurde pääseda.</string>
+    <string name="permdesc_downloadManagerAdvanced">Võimaldab rakendusel pääseda allalaadimishalduri täpsemate funktsioonide juurde. Pahatahtlikud rakendused võivad selle abil allalaadimisi takistada ja privaatsete andmete juurde pääseda.</string>
+    <string name="permdesc_downloadWithoutNotification">Võimaldab rakendusel allalaadimishalduri kaudu faile alla laadida kasutajale märguannet kuvamata.</string>
+    <string name="permlab_accessAllDownloads">Juurdepääs kõigile süsteemi allalaadimistele</string>
+    <string name="permlab_downloadCacheNonPurgeable">Reserveeri allalaadimiste vahemälus ruumi</string>
+    <string name="permlab_downloadCompletedIntent">Allalaadimisteatiste saatmine.</string>
+    <string name="permlab_downloadManager">Juurdepääs allalaadimishaldurile.</string>
+    <string name="permlab_downloadManagerAdvanced">Allalaadimishalduri täpsemad funktsioonid.</string>
+    <string name="permlab_downloadWithoutNotification">failide teatamata allalaadimine</string>
+    <string name="root_downloads">Allalaadimised</string>
+    <string name="storage_description">Allalaadimised</string>
+    <string name="wifi_recommended_body">"%1$s  allalaad. võib aku tööiga lüh. ja/või mob. andmemahtu koormata, mistõttu võib mob.operaator teilt sõltuvalt andmeplaanist tasu võtta.
+
+ Puud. valikut %2$s, et laadida see alla siis, kui olete WiFi-võrgus."</string>
+    <string name="wifi_recommended_title">Kas lisada järjekorda hilisemaks allalaadimiseks?</string>
+    <string name="wifi_required_body">"%1$s  suuruse allalaadimise jaoks tuleb kasutada WiFi-võrku.
+
+Puudutage valikut %2$s , et alustada allalaadimisega järgmine kord, kui olete WiFi-võrguga ühenduses."</string>
+    <string name="wifi_required_title">Allalaadimine operaatori võrgu jaoks on liiga suur</string>
+</resources>

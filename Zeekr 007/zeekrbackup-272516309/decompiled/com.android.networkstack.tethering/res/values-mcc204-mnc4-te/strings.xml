@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">హాట్‌స్పాట్‌ని ఆఫ్ చేయండి</string>
+    <string name="no_upstream_notification_message">పరికరాలను ఇంటర్నెట్‌కి కనెక్ట్ చేయడం సాధ్యం కాదు</string>
+    <string name="no_upstream_notification_title">హాట్‌స్పాట్‌కు ఇంటర్నెట్ యాక్సెస్ లేదు</string>
+    <string name="upstream_roaming_notification_message">రోమింగ్‌లో ఉన్నప్పుడు అదనపు ఛార్జీలు వర్తించవచ్చు</string>
+    <string name="upstream_roaming_notification_title">హాట్‌స్పాట్ ఆన్‌లో ఉంది</string>
+    <string name="upstream_roaming_notification_continue_button">కొనసాగించు</string>
+</resources>

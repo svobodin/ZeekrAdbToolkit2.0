@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ຕົວຈັດການອຸປະກອນປະກອບ</string>
+    <string name="chooser_title">ເລືອກ %1$s ເພື່ອໃຫ້ຖືກຈັດການໂດຍ &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">ອະນຸຍາດໃຫ້ &lt;strong>%1$s&lt;/strong> ຈັດການ &lt;strong>%2$s&lt;/strong> ຂອງທ່ານໄດ້</string>
+    <string name="consent_no">ບໍ່ອະນຸຍາດ</string>
+    <string name="consent_yes">ອະນຸຍາດ</string>
+    <string name="profile_name_generic">ອຸປະກອນ</string>
+    <string name="profile_name_watch">ໂມງ</string>
+    <string name="profile_summary">ຕ້ອງໃຊ້ແອັບນີ້ເພື່ອຈັດການ %1$s ຂອງທ່ານ. %2$s</string>
+</resources>

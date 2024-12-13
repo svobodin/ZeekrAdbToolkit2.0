@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_missing_private_key">प्रमाणपत्र इंस्टॉल करण्यासाठी प्रायव्हेट की ची आवश्यकता आहे</string>
+    <string name="action_missing_user_cert">प्रायव्हेट की इंस्टॉल करण्यासाठी प्रमाणपत्राची आवश्यकता आहे</string>
+    <string name="app_name">प्रमाणपत्र इंस्टॉलर</string>
+    <string name="ca_cert_is_added">CA प्रमाणपत्र इंस्टॉल केले आहे</string>
+    <string name="ca_certificate">CA प्रमाणपत्र</string>
+    <string name="cert_missing_error">प्रमाणपत्र फाइल सापडली नाही म्हणून इंस्टॉल करू शकलो नाही.</string>
+    <string name="cert_not_saved">प्रमाणपत्र इंस्टॉल केले नाही.</string>
+    <string name="cert_read_error">प्रमाणपत्र फाइल वाचली गेली नाही म्हणून इंस्टॉल करू शकलो नाही.</string>
+    <string name="cert_temp_error">तात्पुरता बिघाड. नंतर पुन्हा प्रयत्न करा.</string>
+    <string name="cert_too_large_error">प्रमाणपत्र आकार खूप मोठा असल्याने इंस्टॉल करू शकलो नाही.</string>
+    <string name="certificate">प्रमाणपत्र</string>
+    <string name="certificate_capabilities_warning">टीप: या प्रमाणपत्राचा जारीकर्ता डिव्हाइसवर आणि त्‍यावरून सर्व रहदारीचे निरीक्षण करू शकतो.</string>
+    <string name="certificate_name">प्रमाणपत्राचे नाव:</string>
+    <string name="credential_info">पॅकेजमध्‍ये हे असते:</string>
+    <string name="credential_password">प्रमाणपत्रांचा उतारा करण्यासाठी पासवर्ड टाइप करा.</string>
+    <string name="credential_usage_label">क्रिडेन्शियलचा वापर:</string>
+    <string name="done_label">पूर्ण झाले</string>
+    <string name="extracting_pkcs12">उतारा करत आहे…</string>
+    <string name="install_done">%1$s क्रेडेंशियल वाय-फाय ने सेव्ह केलेल्या नेटवर्कवर जोडले गेले आहेत.</string>
+    <string name="install_done_title">क्रेडेंशियल इंस्टॉल केले</string>
+    <string name="invalid_cert">प्रमाणपत्र अवैध आहे.</string>
+    <string name="invalid_certificate_close_button">बंद करा</string>
+    <string name="invalid_certificate_message">ही फाइल %1$s म्हणून वापरता येत नाही</string>
+    <string name="invalid_certificate_title">ही फाइल वापरू शकत नाही</string>
+    <string name="n_cacrts">%d CA प्रमाणपत्रे</string>
+    <string name="name_char_error">फक्त अक्षरे आणि संख्या असलेले नाव टाइप करा.</string>
+    <string name="name_credential_dialog_title">या प्रमाणपत्राला नाव द्या</string>
+    <string name="name_empty_error">नाव टाइप करा.</string>
+    <string name="no_cert_to_saved">स्‍थापित करण्‍यासाठी कोणतेही प्रमाणपत्र नाही.</string>
+    <string name="one_cacrt">एक CA प्रमाणपत्र</string>
+    <string name="one_usercrt">एक वापरकर्ता प्रमाणपत्र</string>
+    <string name="one_userkey">एक वापरकर्ता की</string>
+    <string name="only_primary_user_allowed">फक्त या डिव्हाइसचा मालक प्रमाणपत्रे इंस्टॉल करू शकतो.</string>
+    <string name="p12_description">PKCS12 कीस्‍टोअर मधील प्रमाणपत्रे.</string>
+    <string name="password_empty_error">पासवर्ड टाइप करा.</string>
+    <string name="password_error">योग्य पासवर्ड टाइप करा.</string>
+    <string name="pick_file_title">एक प्रमाणपत्र निवडा</string>
+    <string name="pkcs12_file_password_dialog_title">%s मधून काढा</string>
+    <string name="pkcs12_password_dialog_title">प्रमाणपत्र काढा</string>
+    <string name="redirect_ca_certificate_close_button">बंद करा</string>
+    <string name="redirect_ca_certificate_title">सेटिंग्ज मध्ये CA प्रमाणपत्रे इंस्टॉल करा</string>
+    <string name="redirect_ca_certificate_with_app_info_message">%1$s कडील हे प्रमाणपत्र सेटिंग्ज मध्ये इंस्टॉल केलेले असणे आवश्यक आहे. फक्त तुमचा विश्वास असलेल्या संस्थांकडील CA प्रमाणपत्रे इंस्टॉल करा.</string>
+    <string name="select_certificate_usage_title">प्रमाणपत्राचा प्रकार निवडा</string>
+    <string name="unable_to_save_cert">प्रमाणपत्र सेव्ह करू शकलो नाही. क्रेडेन्शियल स्टोरेज सुरू नाही किंवा योग्यरितीने सुरुवात झाली नाही.</string>
+    <string name="user_cert_is_added">वापरकर्ता प्रमाणपत्र इंस्टॉल केले आहे</string>
+    <string name="user_certificate">VPN व ॲप वापरकर्ता प्रमाणपत्र</string>
+    <string name="userkey_type">अल्गोरिदम:</string>
+    <string name="wifi_cancel_label">रद्द करा</string>
+    <string name="wifi_cert_is_added">वाय-फाय प्रमाणपत्र इंस्टॉल केले आहे</string>
+    <string name="wifi_certificate">वाय-फाय प्रमाणपत्र</string>
+    <string name="wifi_config_text">"नाव: %1$s
+FQDN: %2$s
+रोमिंग संघ: %3$s
+क्षेत्र: %4$s
+प्रमाणिकरण पद्धत: EAP-%5$s
+"</string>
+    <string name="wifi_detail_label">तपशील</string>
+    <string name="wifi_detail_title">%s साठी तपशील</string>
+    <string name="wifi_dismiss_label">डिसमिस करा</string>
+    <string name="wifi_install_label">स्‍थापित करा</string>
+    <string name="wifi_installer_detail">%1$s द्वारे उपलब्ध असलेल्या नेटवर्कशी कनेक्‍ट करण्यासाठी वाय-फाय क्रेडेंशियल इंस्टॉल करा.</string>
+    <string name="wifi_installer_download_error">डाउनलोड केलेल्या फाइलमध्‍ये समस्या आहेत आणि इंस्टॉल केली जाऊ शकत नाही. तुम्ही योग्य स्त्रोतावरून फाइल डाउनलोड केली हे सुनिश्चित करा.</string>
+    <string name="wifi_installer_fail">वाय-फाय क्रेडेंशियल इंस्टॉल करू शकत नाही. फाइल डाउनलोड करण्‍याचा पुन्हा प्रयत्न करा.</string>
+    <string name="wifi_installer_fail_no_wifi">वाय-फाय सुरू करा आणि पुन्हा प्रयत्न करा.</string>
+    <string name="wifi_installer_fail_no_wifi_title">इंस्टॉल करणे रद्द झाले</string>
+    <string name="wifi_installer_fail_title">इंस्टॉल करू शकत नाही</string>
+    <string name="wifi_installing_label">इंस्टॉल करत आहे</string>
+    <string name="wifi_no_config">काहीही नाही</string>
+    <string name="wifi_sim_config_text">"सिम: %s
+"</string>
+    <string name="wifi_title">वाय-फाय प्रोफाइल</string>
+    <string name="wifi_tls_config_text">"क्लायंट प्रमाणपत्र:
+%1$s
+की: %2$s
+"</string>
+    <string name="wifi_trust_config_text">"विश्वस्त प्रमाणपत्र:
+%s
+"</string>
+    <string name="wifi_ttls_config_text">"वापरकर्ता नाव: %s
+"</string>
+</resources>

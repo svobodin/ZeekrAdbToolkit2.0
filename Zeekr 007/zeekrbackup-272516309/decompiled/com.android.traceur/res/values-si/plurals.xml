@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">නව දැනුම්දීම් %dක්</item>
+        <item quantity="one">නව දැනුම්දීම් %dක්</item>
+    </plurals>
+    <plurals name="num_categories_selected">
+        <item quantity="other">%d තෝරන ලදි</item>
+        <item quantity="one">%d තෝරන ලදි</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">උපාංග %1$dක් සම්බන්ධ කරන ලදී</item>
+        <item quantity="one">උපාංග %1$dක් සම්බන්ධ කරන ලදී</item>
+    </plurals>
+</resources>

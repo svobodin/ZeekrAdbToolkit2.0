@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">Ange lösenordet och fortsätt till Dynamiska systemuppdateringar</string>
+    <string name="notification_action_cancel">Avbryt</string>
+    <string name="notification_action_discard">Ignorera</string>
+    <string name="notification_action_reboot_to_dynsystem">Starta om</string>
+    <string name="notification_action_reboot_to_origin">Starta om</string>
+    <string name="notification_dynsystem_in_use">Ett dynamiskt system körs. Om du vill använda den ursprungliga Android-versionen startar du om.</string>
+    <string name="notification_image_validation_failed">Valideringen av diskavbildningen misslyckades. Avbryt installationen.</string>
+    <string name="notification_install_completed">Det dynamiska systemet är klart. Om du vill använda det startar du om enheten.</string>
+    <string name="notification_install_failed">Installationen misslyckades</string>
+    <string name="notification_install_inprogress">Installation pågår</string>
+    <string name="toast_dynsystem_discarded">Det dynamiska systemet ignorerades</string>
+    <string name="toast_failed_to_disable_dynsystem">Det gick inte att inaktivera det dynamiska systemet</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Det gick inte att starta om eller läsa in det dynamiska systemet</string>
+</resources>

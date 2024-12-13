@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">系統連線資源</string>
+    <string name="mobile_no_internet">流動網絡並未連接互聯網</string>
+    <string name="network_available_sign_in">登入網絡</string>
+    <string name="network_partial_connectivity">%1$s連線受限</string>
+    <string name="network_partial_connectivity_detailed">仍要輕按以連結至此網絡</string>
+    <string name="network_switch_metered">已切換至%1$s</string>
+    <string name="network_switch_metered_detail">裝置會在 %2$s 無法連線至互聯網時使用%1$s (可能需要支付相關費用)。</string>
+    <string name="network_switch_metered_toast">已從%1$s切換至%2$s</string>
+    <string name="network_switch_type_name_unknown">不明網絡類型</string>
+    <string name="other_networks_no_internet">網絡並未連接互聯網</string>
+    <string name="private_dns_broken_detailed">無法存取私人 DNS 伺服器</string>
+    <string name="wifi_available_sign_in">登入 Wi-Fi 網絡</string>
+    <string name="wifi_no_internet">%1$s未有連接至互聯網</string>
+    <string name="wifi_no_internet_detailed">輕按即可查看選項</string>
+</resources>

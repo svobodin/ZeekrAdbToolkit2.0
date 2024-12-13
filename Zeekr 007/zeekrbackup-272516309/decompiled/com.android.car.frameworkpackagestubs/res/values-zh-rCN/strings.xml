@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Activity Stub</string>
+    <string name="message_not_supported">没有可处理此操作的应用</string>
+    <string name="pip_not_supported">此设备不支持画中画功能</string>
+    <string name="stub_name">无</string>
+</resources>

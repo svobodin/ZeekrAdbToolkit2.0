@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="owner_name">රියදුරු</string>
+    <string name="permlab_accessCoarseLocation">පෙරබිම තුළ පමණක් ආසන්න ස්ථානයට ප්‍රවේශය</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">මයික්‍රෆෝනය ක්‍රියාත්මක කරන්න</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="dmsdp_business_id_list">
+        <item>1</item>
+    </integer-array>
+    <string-array name="dmsdp_package_white_list">
+        <item>com.huawei.android.instantshare</item>
+    </string-array>
+</resources>

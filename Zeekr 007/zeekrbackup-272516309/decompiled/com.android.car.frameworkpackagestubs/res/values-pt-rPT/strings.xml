@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Esboço das atividades</string>
+    <string name="message_not_supported">Nenhuma aplicação pode efetuar esta ação.</string>
+    <string name="pip_not_supported">A funcionalidade ecrã no ecrã não é suportada neste dispositivo.</string>
+    <string name="stub_name">Nenhum</string>
+</resources>

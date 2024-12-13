@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">ניהול רשתות</string>
+    <string name="connected">המכשיר מחובר</string>
+    <string name="notification_channel_description_connected">התראות המוצגות כשהמכשיר אומת בהצלחה וחובר לרשת של פורטל שבוי</string>
+    <string name="notification_channel_description_network_venue_info">התראות המוצגות כדי לציין שלרשת יש דף מידע על מקום</string>
+    <string name="notification_channel_name_connected">אימות של פורטל שבוי</string>
+    <string name="notification_channel_name_network_venue_info">מידע על מקום הרשת</string>
+    <string name="tap_for_info">מחוברת / יש להקיש כדי להציג את האתר</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">Järjestelmän yhteysresurssit</string>
+    <string name="mobile_no_internet">Mobiiliverkko ei ole yhteydessä internetiin</string>
+    <string name="network_available_sign_in">Kirjaudu verkkoon</string>
+    <string name="network_partial_connectivity">%1$s toimii rajoitetulla yhteydellä</string>
+    <string name="network_partial_connectivity_detailed">Yhdistä napauttamalla</string>
+    <string name="network_switch_metered">%1$s otettiin käyttöön</string>
+    <string name="network_switch_metered_detail">%1$s otetaan käyttöön, kun %2$s ei voi muodostaa yhteyttä internetiin. Veloitukset ovat mahdollisia.</string>
+    <string name="network_switch_metered_toast">%1$s poistettiin käytöstä ja %2$s otettiin käyttöön.</string>
+    <string name="network_switch_type_name_unknown">tuntematon verkon tyyppi</string>
+    <string name="other_networks_no_internet">Verkko ei ole yhteydessä internetiin</string>
+    <string name="private_dns_broken_detailed">Ei pääsyä yksityiselle DNS-palvelimelle</string>
+    <string name="wifi_available_sign_in">Kirjaudu Wi-Fi-verkkoon</string>
+    <string name="wifi_no_internet">%1$s ei ole yhteydessä internetiin</string>
+    <string name="wifi_no_internet_detailed">Näytä vaihtoehdot napauttamalla.</string>
+</resources>

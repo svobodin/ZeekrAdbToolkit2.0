@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_missing_private_key">Lai instalētu sertifikātu, nepieciešama privāta atslēga</string>
+    <string name="action_missing_user_cert">Lai instalētu privāto atslēgu, nepieciešams sertifikāts</string>
+    <string name="app_name">Sertifikātu instalēšanas programma</string>
+    <string name="ca_cert_is_added">CA sertifikāts ir instalēts</string>
+    <string name="ca_certificate">CA sertifikāts</string>
+    <string name="cert_missing_error">Neizdevās instalēt, jo nevarēja atrast sertifikāta failu.</string>
+    <string name="cert_not_saved">Sertifikāts nav instalēts.</string>
+    <string name="cert_read_error">Neizdevās instalēt, jo nevarēja nolasīt sertifikāta failu.</string>
+    <string name="cert_temp_error">Radās īslaicīga kļūme. Lūdzu, vēlāk mēģiniet vēlreiz.</string>
+    <string name="cert_too_large_error">Nevarēja instalēt, jo sertifikāta izmērs ir pārāk liels.</string>
+    <string name="certificate">Sertifikāts</string>
+    <string name="certificate_capabilities_warning">Piezīme. Sertifikāta izsniedzējs var pārbaudīt visu ierīcē saņemto un nosūtīto datplūsmu.</string>
+    <string name="certificate_name">Sertifikāta nosaukums</string>
+    <string name="credential_info">Pakotnē ir ietverts:</string>
+    <string name="credential_password">Ierakstiet paroli, lai izvilktu sertifikātus.</string>
+    <string name="credential_usage_label">Akredit. datu lietojums:</string>
+    <string name="done_label">GATAVS</string>
+    <string name="extracting_pkcs12">Notiek izvilkšana...</string>
+    <string name="install_done">Lietotāja %1$s akreditācijas dati tika pievienoti saglabātajiem Wi-Fi tīkliem.</string>
+    <string name="install_done_title">Akreditācijas dati tika instalēti</string>
+    <string name="invalid_cert">Sertifikāts nav derīgs.</string>
+    <string name="invalid_certificate_close_button">Aizvērt</string>
+    <string name="invalid_certificate_message">Šo failu nevar izmantot kā: %1$s</string>
+    <string name="invalid_certificate_title">Nevar izmantot šo failu</string>
+    <string name="n_cacrts">%d CA sertifikāti</string>
+    <string name="name_char_error">Ierakstiet vārdu, kas sastāv tikai no burtiem un cipariem.</string>
+    <string name="name_credential_dialog_title">Nosaukuma piešķiršana šim sertifikātam</string>
+    <string name="name_empty_error">Ierakstiet nosaukumu.</string>
+    <string name="no_cert_to_saved">Nav instalējamu sertifikātu.</string>
+    <string name="one_cacrt">viens CA sertifikāts</string>
+    <string name="one_usercrt">viena lietotāja sertifikāts</string>
+    <string name="one_userkey">viens lietotāja taustiņš</string>
+    <string name="only_primary_user_allowed">Tikai šīs ierīces īpašnieks var instalēt sertifikātus.</string>
+    <string name="p12_description">Sertifikāti PKCS12 atslēgu krātuvē.</string>
+    <string name="password_empty_error">Ierakstiet paroli.</string>
+    <string name="password_error">Ierakstiet pareizo paroli.</string>
+    <string name="pick_file_title">Sertifikāta izvēle</string>
+    <string name="pkcs12_file_password_dialog_title">Izvilkšana no: %s</string>
+    <string name="pkcs12_password_dialog_title">Sertifikāta izgūšana</string>
+    <string name="redirect_ca_certificate_close_button">Aizvērt</string>
+    <string name="redirect_ca_certificate_title">Instalējiet CA sertifikātus sadaļā Iestatījumi</string>
+    <string name="redirect_ca_certificate_with_app_info_message">Šis sertifikāts no lietotnes %1$s ir jāinstalē sadaļā Iestatījumi. Instalējiet CA sertifikātus tikai no uzticamām organizācijām.</string>
+    <string name="select_certificate_usage_title">Izvēlieties sertifikāta veidu</string>
+    <string name="unable_to_save_cert">Sertifikātu nevarēja saglabāt. Akreditācijas datu atmiņa nav iespējota vai nav pareizi inicializēta.</string>
+    <string name="user_cert_is_added">Lietotāja sertifikāts ir instalēts</string>
+    <string name="user_certificate">VPN un lietotnes lietotāja sertifikāts</string>
+    <string name="userkey_type">Algoritms:</string>
+    <string name="wifi_cancel_label">Atcelt</string>
+    <string name="wifi_cert_is_added">Wi‑Fi sertifikāts ir instalēts</string>
+    <string name="wifi_certificate">Wi‑Fi sertifikāts</string>
+    <string name="wifi_config_text">"Nosaukums: %1$s
+FQDN: %2$s
+Viesabonēšanas konsortiji: %3$s
+Nozarojums: %4$s
+Autentifikācijas metode: EAP-%5$s
+"</string>
+    <string name="wifi_detail_label">Detalizēta informācija</string>
+    <string name="wifi_detail_title">Detalizēta informācija par: %s</string>
+    <string name="wifi_dismiss_label">Nerādīt</string>
+    <string name="wifi_install_label">Instalēt</string>
+    <string name="wifi_installer_detail">Instalējiet Wi-Fi akreditācijas datus, lai izveidotu savienojumu ar tīkliem, kas ir pieejami, izmantojot: %1$s.</string>
+    <string name="wifi_installer_download_error">Lejupielādētajā failā tika konstatētas problēmas, un to nevarēja instalēt. Pārbaudiet, vai fails tika lejupielādēts no pareizā avota.</string>
+    <string name="wifi_installer_fail">Nevar instalēt Wi-Fi akreditācijas datus. Mēģiniet lejupielādēt failu vēlreiz.</string>
+    <string name="wifi_installer_fail_no_wifi">Izslēdziet Wi-Fi savienojumu un mēģiniet vēlreiz.</string>
+    <string name="wifi_installer_fail_no_wifi_title">Instalēšana atcelta</string>
+    <string name="wifi_installer_fail_title">Nevar instalēt</string>
+    <string name="wifi_installing_label">Instalē</string>
+    <string name="wifi_no_config">Nav</string>
+    <string name="wifi_sim_config_text">"SIM: %s
+"</string>
+    <string name="wifi_title">Wi-Fi profils</string>
+    <string name="wifi_tls_config_text">"Klienta sertifikāts:
+%1$s
+Atslēga: %2$s
+"</string>
+    <string name="wifi_trust_config_text">"Uzticamības sertifikāts:
+%s
+"</string>
+    <string name="wifi_ttls_config_text">"Lietotājvārds: %s
+"</string>
+</resources>

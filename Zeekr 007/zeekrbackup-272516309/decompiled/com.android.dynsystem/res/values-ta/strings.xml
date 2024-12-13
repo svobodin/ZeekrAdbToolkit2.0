@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">Dynamic System Updatesஸுக்குத் தொடர உங்கள் கடவுச்சொல்லை உள்ளிடவும்</string>
+    <string name="notification_action_cancel">ரத்துசெய்</string>
+    <string name="notification_action_discard">நிராகரி</string>
+    <string name="notification_action_reboot_to_dynsystem">மீண்டும் தொடங்கு</string>
+    <string name="notification_action_reboot_to_origin">மீண்டும் தொடங்கு</string>
+    <string name="notification_dynsystem_in_use">Dynamic system தற்போது இயக்கத்தில் உள்ளது. அசல் Android பதிப்பைப் பயன்படுத்த மீண்டும் தொடங்கவும்.</string>
+    <string name="notification_image_validation_failed">டிஸ்க் இமேஜைச் சரிபார்க்க முடியவில்லை. நிறுவலை ரத்துசெய்யவும்.</string>
+    <string name="notification_install_completed">Dynamic system தயாராக உள்ளது. இதைப் பயன்படுத்தத் தொடங்க உங்கள் சாதனத்தை மீண்டும் தொடங்கவும்.</string>
+    <string name="notification_install_failed">நிறுவ முடியவில்லை</string>
+    <string name="notification_install_inprogress">நிறுவப்படுகிறது</string>
+    <string name="toast_dynsystem_discarded">Dynamic system நிராகரிக்கப்பட்டது</string>
+    <string name="toast_failed_to_disable_dynsystem">Dynamic systemமை முடக்க இயலவில்லை</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Dynamic systemமை மீண்டும் தொடங்கவோ ஏற்றவோ முடியவில்லை</string>
+</resources>

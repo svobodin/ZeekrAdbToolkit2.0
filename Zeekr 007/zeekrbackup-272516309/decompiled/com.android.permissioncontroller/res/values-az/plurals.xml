@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">+ %1$d</item>
+        <item quantity="one">+ %1$d</item>
+    </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">%1$d tətbiq bir neçə aydır ki, istifadə edilməyib. Nəzərdən keçirmək üçün toxunun</item>
+        <item quantity="one">%1$d tətbiq bir neçə aydır ki, istifadə edilməyib. Nəzərdən keçirmək üçün toxunun</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">%1$d tətbiq bir neçə aydır ki, istifadə edilməyib</item>
+        <item quantity="one">%1$d tətbiq bir neçə aydır ki, istifadə edilməyib</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s gün</item>
+        <item quantity="one">1 gün</item>
+    </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">%s gün</item>
+        <item quantity="one">1 gün</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">%s saat</item>
+        <item quantity="one">1 saat</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">%s dəq</item>
+        <item quantity="one">1 dəq</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">%s san</item>
+        <item quantity="one">1 san</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s saat</item>
+        <item quantity="one">1 saat</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s dəqiqə</item>
+        <item quantity="one">1 dəqiqə</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildiriş</item>
+        <item quantity="one">%d yeni bildiriş</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s tətbiq</item>
+        <item quantity="one">1 tətbiq</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s tətbiq</item>
+        <item quantity="one">1 tətbiq</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">%1$d tətbiq istifadə edir</item>
+        <item quantity="one">1 tətbiq istifadə edir</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"Son giriş: %1$s
+%2$s giriş"</item>
+        <item quantity="one">"Son giriş: %1$s
+%2$s giriş"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"Son giriş: %1$s
+%2$s giriş (arxa fonda %3$s)"</item>
+        <item quantity="one">"Son giriş: %1$s
+%2$s giriş (arxa fonda %3$s)"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"Son giriş: %1$s
+%2$s giriş (arxa fonda %3$s)
+Müddət: %3$s"</item>
+        <item quantity="one">"Son giriş: %1$s
+%2$s giriş (arxa fonda%3$s)
+Müddət: %3$s"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"Son giriş: %1$s
+%2$s giriş
+Müddət: %3$s"</item>
+        <item quantity="one">"Son giriş: %1$s
+%2$s giriş
+Müddət: %3$s"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s saniyə</item>
+        <item quantity="one">1 saniyə</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">%1$d istifadə olunmayan tətbiq</item>
+        <item quantity="one">%1$d istifadə olunmayan tətbiq</item>
+    </plurals>
+</resources>

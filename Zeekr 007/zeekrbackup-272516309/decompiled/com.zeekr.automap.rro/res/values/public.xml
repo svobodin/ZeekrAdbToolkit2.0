@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="ic_car_logo_car" id="0x7f010000" />
+    <public type="string" name="app_name" id="0x7f020000" />
+    <public type="string" name="permission_Location" id="0x7f020001" />
+    <public type="string" name="permission_audio" id="0x7f020002" />
+    <public type="string" name="permission_ignore" id="0x7f020003" />
+    <public type="string" name="permission_phone" id="0x7f020004" />
+    <public type="string" name="permission_storage" id="0x7f020005" />
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Início de sessão na rede</string>
+    <string name="action_bar_title">Iniciar sessão em %1$s</string>
+    <string name="action_do_not_use_network">Não utilizar esta rede</string>
+    <string name="action_use_network">Utilizar esta rede como está</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">Notificações que indicam o progresso das transferências de ficheiros.</string>
+    <string name="channel_description_downloads">Notificações que indicam as transferências concluídas ou canceladas.</string>
+    <string name="channel_name_download_progress">Progresso da transferência</string>
+    <string name="channel_name_downloads">Transferências</string>
+    <string name="custom_scheme_example">Por exemplo, a página de início de sessão pode exigir uma app específica para autenticação.</string>
+    <string name="custom_scheme_warning">A rede à qual pretende aceder está a solicitar a abertura de outra app.</string>
+    <string name="download_completed">Transferência concluída.</string>
+    <string name="downloading_paramfile">A transferir %1$s…</string>
+    <string name="error_continue_via_browser">Continuar mesmo assim através do navegador</string>
+    <string name="error_downloading_paramfile">Não foi possível transferir %1$s.</string>
+    <string name="no_bypass_error_vpnwarning">Além disso, não é possível ignorar este erro porque o dispositivo está atualmente a executar uma VPN.</string>
+    <string name="ok">OK</string>
+    <string name="page_info">Informações da página</string>
+    <string name="page_info_address">Endereço:</string>
+    <string name="ssl_error_date_invalid">Este certificado tem uma data inválida.</string>
+    <string name="ssl_error_example">Por exemplo, a página de início de sessão pode não pertencer à entidade apresentada.</string>
+    <string name="ssl_error_expired">Este certificado expirou.</string>
+    <string name="ssl_error_invalid">Este certificado é inválido.</string>
+    <string name="ssl_error_mismatch">O nome do site não corresponde ao nome constante no certificado.</string>
+    <string name="ssl_error_not_yet_valid">Este certificado ainda não é válido.</string>
+    <string name="ssl_error_unknown">Erro de certificado desconhecido.</string>
+    <string name="ssl_error_untrusted">Este certificado não pertence a uma autoridade fidedigna.</string>
+    <string name="ssl_error_view_certificate">Ver certificado</string>
+    <string name="ssl_error_warning">A rede à qual está a tentar aceder tem problemas de segurança.</string>
+    <string name="ssl_security_warning_title">Aviso de segurança</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

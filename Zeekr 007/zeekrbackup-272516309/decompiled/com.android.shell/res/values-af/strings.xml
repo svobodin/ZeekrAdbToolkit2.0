@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Tuisskerm</string>
+    <string name="bugreport_add_details_to_zip_failed">Kon nie foutverslagbesonderhede by ZIP-lêer voeg nie</string>
+    <string name="bugreport_confirm">Foutverslae bevat data van die stelsel se verskillende loglêers af, wat data kan insluit wat jy as sensitief beskou (soos programgebruik en liggingdata). Deel foutverslae net met programme en mense wat jy vertrou.</string>
+    <string name="bugreport_confirm_dont_repeat">Moenie weer wys nie</string>
+    <string name="bugreport_finished_pending_screenshot_text">"Tik om jou foutverslag sonder 'n skermkiekie te deel, of wag totdat die skermkiekie gereed is"</string>
+    <string name="bugreport_finished_text">Tik om jou foutverslag te deel</string>
+    <string name="bugreport_finished_title">Foutverslag #%d is vasgevang</string>
+    <string name="bugreport_in_progress_title">Foutverslag #%d word tans geskep</string>
+    <string name="bugreport_info_action">Besonderhede</string>
+    <string name="bugreport_info_description">Foutopsomming</string>
+    <string name="bugreport_info_dialog_title">Foutverslag #%d se besonderhede</string>
+    <string name="bugreport_info_name">Lêernaam</string>
+    <string name="bugreport_info_title">Fouttitel</string>
+    <string name="bugreport_intent_chooser_title">Deel foutverslag</string>
+    <string name="bugreport_notification_channel">Foutverslae</string>
+    <string name="bugreport_screenshot_action">Skermkiekie</string>
+    <string name="bugreport_screenshot_failed">Kon nie skermkiekie neem nie.</string>
+    <string name="bugreport_screenshot_taken">Skermkiekie is suksesvol geneem.</string>
+    <string name="bugreport_storage_title">Foutverslae</string>
+    <string name="bugreport_unnamed">naamloos</string>
+    <string name="bugreport_unreadable_text">Foutverslaglêer kon nie gelees word nie</string>
+    <string name="bugreport_updating_title">Voeg tans besonderhede by die foutverslag</string>
+    <string name="bugreport_updating_wait">Wag asseblief …</string>
+    <string name="save">Stoor</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಸಿಮ್ ಆ್ಯಪ್ ಡೈಲಾಗ್</string>
+    <string name="install_carrier_app_defer_action">ಈಗ ಬೇಡ</string>
+    <string name="install_carrier_app_description">ನಿಮ್ಮ ಹೊಸ ಸಿಮ್ ಸರಿಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುವ ಹಾಗೆ ಮಾಡಲು, ನೀವು %1$s ಆ್ಯಪ್ ಅನ್ನು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಬೇಕು</string>
+    <string name="install_carrier_app_description_default">ನಿಮ್ಮ ಹೊಸ ಸಿಮ್ ಸರಿಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುವ ಹಾಗೆ ಮಾಡಲು, ನೀವು ವಾಹಕ ಆ್ಯಪ್ ಅನ್ನು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಬೇಕು</string>
+    <string name="install_carrier_app_download_action">ಆ್ಯಪ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ</string>
+    <string name="install_carrier_app_title">ಮೊಬೈಲ್ ಸೇವೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">ಹಿಂದೆ</string>
+    <string name="suw_more_button_label">ಇನ್ನಷ್ಟು</string>
+    <string name="suw_next_button_label">ಮುಂದೆ</string>
+</resources>

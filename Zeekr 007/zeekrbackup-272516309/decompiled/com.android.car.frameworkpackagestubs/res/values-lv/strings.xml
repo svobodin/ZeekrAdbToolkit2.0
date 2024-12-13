@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Darbību modulis</string>
+    <string name="message_not_supported">Šo darbību nevar veikt neviena lietotne.</string>
+    <string name="pip_not_supported">Attēls attēlā netiek atbalstīts šajā ierīcē.</string>
+    <string name="stub_name">Nav</string>
+</resources>

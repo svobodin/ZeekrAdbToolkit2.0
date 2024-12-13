@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">កម្មវិធី​គ្រប់គ្រង​បណ្ដាញ</string>
+    <string name="connected">បានភ្ជាប់</string>
+    <string name="notification_channel_description_connected">ការជូនដំណឹង​បង្ហាញ នៅពេល​ឧបករណ៍​បានផ្ទៀងផ្ទាត់​បណ្ដាញ​ច្រកចូលប្រើ​ដោយជោគជ័យ</string>
+    <string name="notification_channel_description_network_venue_info">ការជូនដំណឹងបង្ហាញ​ ដើម្បី​បង្ហាញ​ថាបណ្ដាញ​មានទំព័រព័ត៌មានអំពីទីតាំង</string>
+    <string name="notification_channel_name_connected">ការផ្ទៀងផ្ទាត់ច្រកចូលប្រើបណ្ដាញ</string>
+    <string name="notification_channel_name_network_venue_info">ព័ត៌មាន​អំពីទីតាំងបណ្ដាញ</string>
+    <string name="tap_for_info">បានភ្ជាប់ / ចុច​ដើម្បីមើលគេហទំព័រ</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="lmp_base_padding">8.0dip</dimen>
+    <dimen name="lmp_base_padding_big">16.0dip</dimen>
+    <dimen name="lmp_base_padding_out">26.599976dip</dimen>
+    <dimen name="lmp_base_padding_small">2.669983dip</dimen>
+    <dimen name="lmp_base_padding_view">13.299988dip</dimen>
+    <dimen name="lmp_error_external_margin">53.329987dip</dimen>
+    <dimen name="lmp_error_icon_size">53.329987dip</dimen>
+    <dimen name="lmp_error_text_size">23.98999sp</dimen>
+    <dimen name="lmp_loading">93.32999dip</dimen>
+    <dimen name="lmp_playedsign_size">13.329987dip</dimen>
+    <dimen name="lmp_player_action_size">80.0dip</dimen>
+    <dimen name="lmp_player_progress_height">5.3299866dip</dimen>
+    <dimen name="lmp_player_progress_height_selected">9.329987dip</dimen>
+    <dimen name="lmp_player_progress_thumb">21.329987dip</dimen>
+    <dimen name="lmp_playercontent_height">42.669983dip</dimen>
+    <dimen name="lmp_playercontent_radius">5.3299866dip</dimen>
+    <dimen name="lmp_playercontent_text">24.0dip</dimen>
+    <dimen name="lmp_playercontent_width">146.66dip</dimen>
+    <dimen name="lmp_state_text">18.699982sp</dimen>
+    <dimen name="lmp_subtitle_text">26.699982sp</dimen>
+    <dimen name="lmp_title_text">44.0sp</dimen>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">[Çöḿþåñîöñ ÐéVîçé Ḿåñåĝéŕ one two three]</string>
+    <string name="chooser_title">[Çĥööšé å %1$s ţö ɓé ḿåñåĝéð ɓý &lt;strong>%2$s&lt;/strong> one two three four]</string>
+    <string name="confirmation_title">[Åļļöŵ &lt;strong>%1$s&lt;/strong> ţö ḿåñåĝé ýöûŕ &lt;strong>%2$s&lt;/strong> one two three]</string>
+    <string name="consent_no">[Ðöñ’ţ åļļöŵ one two]</string>
+    <string name="consent_yes">[Åļļöŵ one]</string>
+    <string name="profile_name_generic">[ðéVîçé one two]</string>
+    <string name="profile_name_watch">[ŵåţçĥ one]</string>
+    <string name="profile_summary">[Ţĥîš åþþ îš ñééðéð ţö ḿåñåĝé ýöûŕ %1$s. %2$s one two three four five]</string>
+</resources>

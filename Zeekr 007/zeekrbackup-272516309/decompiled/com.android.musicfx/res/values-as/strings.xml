@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">বেছ পৰিৱৰ্ধন</string>
+    <string name="ci_extreme">FX পৰিৱৰ্ধক</string>
+    <string name="classical">শাস্ত্ৰীয় সংগীত</string>
+    <string name="dance">নৃত্য</string>
+    <string name="eq_dialog_title">ইকুৱেলাইজাৰ</string>
+    <string name="flat">নিম্ন স্বৰৰ</string>
+    <string name="folk">লোকসংস্কৃতি</string>
+    <string name="headset_plug">এই ইফেক্টসমূহৰ বাবে হেডফ’ন প্লাগ ইন কৰক।</string>
+    <string name="heavy_metal">হেভী মেটেল</string>
+    <string name="hip_hop">হিপ হপ</string>
+    <string name="jazz">জেজ</string>
+    <string name="no_effects">ইফেক্ট উপলব্ধ নহয়।</string>
+    <string name="normal">সাধাৰণ</string>
+    <string name="picker_title">সংগীতৰ ইফেক্ট নিয়ন্ত্ৰণৰ পেনেল</string>
+    <string name="pop">পপ</string>
+    <string name="rock">ৰক</string>
+    <string name="setup">ছেটআপ</string>
+    <string name="user">ব্যৱহাৰকাৰী</string>
+    <string name="virtualizer_strength">ছাৰাউণ্ড ছাউণ্ড</string>
+</resources>

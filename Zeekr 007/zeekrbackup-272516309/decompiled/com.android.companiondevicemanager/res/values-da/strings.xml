@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Medfølgende enhedsadministrator</string>
+    <string name="chooser_title">Vælg den enhed (%1$s), som skal administreres af &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Tillad at &lt;strong>%1$s&lt;/strong> kan administrere: &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_no">Tillad ikke</string>
+    <string name="consent_yes">Tillad</string>
+    <string name="profile_name_generic">enhed</string>
+    <string name="profile_name_watch">ur</string>
+    <string name="profile_summary">Du skal bruge denne app for at administrere dit %1$s. %2$s</string>
+</resources>

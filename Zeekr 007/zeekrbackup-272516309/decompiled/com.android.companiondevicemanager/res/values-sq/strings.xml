@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Menaxheri i pajisjes shoqëruese</string>
+    <string name="chooser_title">Zgjidh një profil %1$s që do të menaxhohet nga &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Lejo që &lt;strong>%1$s&lt;/strong> të menaxhojë pajisjen tënde &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_no">Mos lejo</string>
+    <string name="consent_yes">Lejo</string>
+    <string name="profile_name_generic">pajisja</string>
+    <string name="profile_name_watch">ora inteligjente</string>
+    <string name="profile_summary">Ky aplikacion nevojitet për të menaxhuar profilin tënd %1$s. %2$s</string>
+</resources>

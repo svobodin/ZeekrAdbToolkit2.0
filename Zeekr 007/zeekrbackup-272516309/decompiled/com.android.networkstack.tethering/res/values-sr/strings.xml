@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="disable_tether_notification_message">Потражите детаље од администратора</string>
+    <string name="disable_tether_notification_title">Привезивање је онемогућено</string>
+    <string name="no_upstream_notification_disable_button" />
+    <string name="no_upstream_notification_message" />
+    <string name="no_upstream_notification_title" />
+    <string name="notification_channel_tethering_status">Статус хотспота и привезивања</string>
+    <string name="tethered_notification_message">Додирните да бисте подесили.</string>
+    <string name="tethered_notification_title">Привезивање или хотспот је активан</string>
+    <string name="upstream_roaming_notification_message" />
+    <string name="upstream_roaming_notification_title" />
+</resources>

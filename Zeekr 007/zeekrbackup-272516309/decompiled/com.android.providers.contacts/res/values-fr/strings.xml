@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Liste des contacts</string>
+    <string name="debug_dump_database_message">"Vous êtes sur le point de 1) faire une copie de votre base de données (qui inclut toutes les données relatives aux contacts et l'intégralité du journal d'appels) dans la mémoire de stockage interne, puis de 2) l'envoyer par e-mail. N'oubliez pas de supprimer la copie une fois qu'elle a été dupliquée ou dès que l'e-mail a été reçu."</string>
+    <string name="debug_dump_delete_button">Supprimer</string>
+    <string name="debug_dump_email_body">Veuillez trouver ci-joint ma base de données de contacts incluant toutes les coordonnées de mes contacts. Merci de la traiter avec précaution.</string>
+    <string name="debug_dump_email_sender_picker">Sélectionnez un programme pour envoyer votre fichier</string>
+    <string name="debug_dump_email_subject">Base de données de contacts ci-jointe</string>
+    <string name="debug_dump_start_button">Commencer</string>
+    <string name="debug_dump_title">Copier la base de données de contacts</string>
+    <string name="default_directory">Contacts</string>
+    <string name="local_invisible_directory">Autre</string>
+    <string name="provider_label">Contacts</string>
+    <string name="sharedUserLabel">Applications de base Android</string>
+    <string name="upgrade_out_of_memory_notification_text">Appuyez pour terminer la mise à jour.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">La mise à jour des contacts requiert plus de mémoire.</string>
+    <string name="upgrade_out_of_memory_notification_title">Mise à jour du stockage des contacts</string>
+    <string name="voicemail_from_column">"Message vocal de "</string>
+</resources>

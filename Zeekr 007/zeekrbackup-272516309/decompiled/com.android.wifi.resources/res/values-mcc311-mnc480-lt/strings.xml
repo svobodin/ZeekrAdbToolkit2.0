@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s: negalite prisijungti prie „Verizon“ „Wi-Fi“ prieigos taško būdami ne „Verizon“ aprėpties zonoje.</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s: neprenumeruojate „Verizon“ „Wi-Fi“ prieigos taško. Paskambinkite telefono numeriu 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s: iškilo su „Verizon“ „Wi-Fi“ prieigos taško paskyra susijusi problema. Paskambinkite telefono numeriu 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s: jau esate prisijungę prie „Verizon“ „Wi-Fi“ prieigos taško.</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s: prisijungiant prie „Verizon“ „Wi-Fi“ prieigos taško kilo problema. Paskambinkite telefono numeriu 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s: iškilo su „Verizon“ „Wi-Fi“ prieigos taško paskyra susijusi problema. Paskambinkite telefono numeriu 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s: „Verizon“ „Wi-Fi“ prieigos taškas nepasiekiamas iš jūsų vietovės. Vėliau bandykite dar kartą arba pabandykite iš kitos vietovės.</string>
+</resources>

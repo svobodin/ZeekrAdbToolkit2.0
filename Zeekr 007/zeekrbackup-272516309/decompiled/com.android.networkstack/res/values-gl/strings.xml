@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Xestor de redes</string>
+    <string name="connected">Dispositivo conectado á rede</string>
+    <string name="notification_channel_description_connected">Móstranse notificacións cando o dispositivo se autentica correctamente nunha rede de portal cativo.</string>
+    <string name="notification_channel_description_network_venue_info">Móstranse notificacións para indicar que a rede ten unha páxina de información sobre o lugar</string>
+    <string name="notification_channel_name_connected">Autenticación de portal cativo</string>
+    <string name="notification_channel_name_network_venue_info">Rede con información sobre o lugar</string>
+    <string name="tap_for_info">Conectado. Toca para ver o sitio web</string>
+</resources>

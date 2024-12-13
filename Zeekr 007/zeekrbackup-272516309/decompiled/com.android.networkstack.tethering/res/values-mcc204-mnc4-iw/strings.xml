@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">כיבוי הנקודה לשיתוף אינטרנט</string>
+    <string name="no_upstream_notification_message">המכשירים לא יכולים להתחבר לאינטרנט</string>
+    <string name="no_upstream_notification_title">לנקודה לשיתוף אינטרנט אין חיבור לאינטרנט</string>
+    <string name="upstream_roaming_notification_message">ייתכנו חיובים נוספים בעת נדידה</string>
+    <string name="upstream_roaming_notification_title">הנקודה לשיתוף אינטרנט פועלת</string>
+    <string name="upstream_roaming_notification_continue_button">המשך</string>
+</resources>

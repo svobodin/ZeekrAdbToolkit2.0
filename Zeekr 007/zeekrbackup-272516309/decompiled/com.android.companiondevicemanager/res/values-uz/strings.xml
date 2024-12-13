@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Companion Device Manager</string>
+    <string name="chooser_title">&lt;strong>%2$s&lt;/strong> boshqaradigan %1$s qurilmasini tanlang</string>
+    <string name="confirmation_title">&lt;strong>%2$s&lt;/strong> qurilmasini boshqarish uchun &lt;strong>%1$s&lt;/strong> ilovasiga ruxsat bering</string>
+    <string name="consent_no">Ruxsat berilmasin</string>
+    <string name="consent_yes">Ruxsat</string>
+    <string name="profile_name_generic">qurilma</string>
+    <string name="profile_name_watch">soat</string>
+    <string name="profile_summary">Bu ilova %1$s profilini boshqarish uchun kerak. %2$s</string>
+</resources>

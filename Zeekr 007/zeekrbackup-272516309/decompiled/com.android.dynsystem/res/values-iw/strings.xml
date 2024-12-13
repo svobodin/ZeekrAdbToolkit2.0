@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">יש להזין את הסיסמה ולהמשיך אל עדכוני המערכת הדינמיים</string>
+    <string name="notification_action_cancel">ביטול</string>
+    <string name="notification_action_discard">סגירה</string>
+    <string name="notification_action_reboot_to_dynsystem">הפעלה מחדש</string>
+    <string name="notification_action_reboot_to_origin">הפעלה מחדש</string>
+    <string name="notification_dynsystem_in_use">‏בשלב זה פועלת מערכת דינמית. כדי להשתמש בגרסת Android המקורית, יש לבצע הפעלה מחדש.</string>
+    <string name="notification_image_validation_failed">"האימות של קובץ האימג' נכשל. ההתקנה תבוטל."</string>
+    <string name="notification_install_completed">המערכת הדינמית מוכנה. כדי להתחיל להשתמש בה, יש להפעיל מחדש את המכשיר.</string>
+    <string name="notification_install_failed">ההתקנה נכשלה</string>
+    <string name="notification_install_inprogress">ההתקנה מתבצעת</string>
+    <string name="toast_dynsystem_discarded">המערכת הדינמית נסגרה</string>
+    <string name="toast_failed_to_disable_dynsystem">השבתת המערכת הדינמית נכשלה</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">לא ניתן להפעיל מחדש או לטעון את המערכת הדינמית</string>
+</resources>

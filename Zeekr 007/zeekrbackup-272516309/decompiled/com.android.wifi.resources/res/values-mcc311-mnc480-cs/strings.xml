@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s: K síti Verizon Wi-Fi Access se nelze připojit mimo dosah pokrytí společnosti Verizon.</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s: Síť Verizon Wi-Fi Access nemáte předplacenou. Zavolejte nám na číslo 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s: U vašeho účtu Verizon Wi-Fi Access došlo k problému. Zavolejte nám na číslo 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s: K síti Verizon Wi-Fi Access jste už připojeni.</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s: Při připojování k síti Verizon Wi-Fi Access došlo k problému. Zavolejte nám na číslo 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s: U vašeho účtu Verizon Wi-Fi Access došlo k problému. Zavolejte nám na číslo 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s: Verizon Wi-Fi Access ve vaší oblasti není k dispozici. Zkuste to později nebo z jiného místa.</string>
+</resources>

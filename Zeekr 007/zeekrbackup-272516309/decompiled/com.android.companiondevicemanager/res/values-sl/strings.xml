@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Upravitelj spremljevalnih naprav</string>
+    <string name="chooser_title">Izbira naprave %1$s, ki jo bo upravljala aplikacija &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Aplikaciji &lt;strong>%1$s&lt;/strong> dovolite upravljanje naprave &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_no">Ne dovoli</string>
+    <string name="consent_yes">Dovoli</string>
+    <string name="profile_name_generic">naprava</string>
+    <string name="profile_name_watch">ura</string>
+    <string name="profile_summary">Ta aplikacija je potrebna za upravljanje profila »%1$s«. %2$s</string>
+</resources>

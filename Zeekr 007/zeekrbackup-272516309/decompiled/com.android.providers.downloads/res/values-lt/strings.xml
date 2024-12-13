@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Atsisiuntimų tvarkytuvė</string>
+    <string name="button_cancel_download">Atšaukti</string>
+    <string name="button_queue_for_wifi">Eilė</string>
+    <string name="button_start_now">Pradėti dabar</string>
+    <string name="download_error">Nesėkminga</string>
+    <string name="download_no_application_title">Nepavyksta atidaryti failo</string>
+    <string name="download_queued">Laukia eilėje</string>
+    <string name="download_remaining">Liko: %s</string>
+    <string name="download_running">Vykdoma</string>
+    <string name="download_running_percent">Procesas vyksta, %s</string>
+    <string name="download_unknown_title">&lt;Be pavadinimo></string>
+    <string name="notification_download_complete">Atsisiuntimas baigtas.</string>
+    <string name="notification_download_failed">Atsisiuntimas nesėkmingas.</string>
+    <string name="notification_need_wifi_for_size">Did. f., reikia „Wi-Fi“.</string>
+    <string name="notification_paused_in_background">Pristabdyta fone.</string>
+    <string name="permdesc_accessAllDownloads">Leidžiama programai žiūrėti ir keisti visus atsisiuntimus, pradėtus naudojant bet kokią sistemos programą.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Leidžiama programai atsisiųsti failus į atsisiuntimo talpyklą, kurios negalima automatiškai ištrinti, kai atsisiuntimo tvarkytuvei prireikia daugiau vietos.</string>
+    <string name="permdesc_downloadCompletedIntent">Leidžiama programai siųsti pranešimus apie baigtus atsisiuntimus. Kenkėjiškos programos gali naudoti šią funkciją, kad supainiotų kitas programas, kurias naudojant siunčiami failai.</string>
+    <string name="permdesc_downloadManager">Leidžiama programai pasiekti atsisiuntimų tvarkytuvę ir naudoti ją failams atsisiųsti. Kenkėjiškos programos gali naudoti šią funkciją atsisiuntimams stabdyti ir asmeninei informacijai pasiekti.</string>
+    <string name="permdesc_downloadManagerAdvanced">Leidžiama programai pasiekti išplėstines atsisiuntimų tvarkytuvės funkcijas. Kenkėjiškos programos gali naudoti šią funkciją atsisiuntimams stabdyti ir asmeninei informacijai gauti.</string>
+    <string name="permdesc_downloadWithoutNotification">Leidžiama programai atsisiųsti failus naudojant atsisiuntimo tvarkytuvę, naudotojui nepateikus jokio pranešimo.</string>
+    <string name="permlab_accessAllDownloads">Pasiekti visus sistemos atsisiuntimus</string>
+    <string name="permlab_downloadCacheNonPurgeable">Rezervuoti vietą atsisiuntimo talpykloje</string>
+    <string name="permlab_downloadCompletedIntent">Siųsti atsisiuntimo pranešimus.</string>
+    <string name="permlab_downloadManager">Pasiekti atsisiuntimo tvarkyklę.</string>
+    <string name="permlab_downloadManagerAdvanced">Išplėstinės atsisiuntimo tvarkytuvės funkcijos.</string>
+    <string name="permlab_downloadWithoutNotification">atsisiųsti failus be pranešimo</string>
+    <string name="root_downloads">Atsisiuntimai</string>
+    <string name="storage_description">Atsisiuntimai</string>
+    <string name="wifi_recommended_body">"Siunč. šį %1$s  failą eikv. daug energ. ir (arba) mob. duom., todėl pagal naud. duom. planą gali būti taik. oper. mokesč.
+
+ Palies. %2$s, jei nor. siųsti šį failą kitą k. prisij. prie „Wi-Fi“."</string>
+    <string name="wifi_recommended_title">Įtraukti į eilę, norint vėliau atsisiųsti?</string>
+    <string name="wifi_required_body">"Jei norite baigti šį %1$s  atsisiuntimą, turite naudoti „Wi-Fi“. 
+
+Palieskite %2$s , jei norite pradėti šį atsisiuntimą kitą kartą prisijungę prie „Wi-Fi“."</string>
+    <string name="wifi_required_title">Atsisiuntimas per didelis operatoriaus tinklui</string>
+</resources>

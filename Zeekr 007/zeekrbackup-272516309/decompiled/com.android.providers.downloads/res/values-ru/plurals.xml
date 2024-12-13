@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_summary_active">
+        <item quantity="other">Скачивается %d файла</item>
+        <item quantity="one">Скачивается %d файл</item>
+        <item quantity="few">Скачивается %d файла</item>
+        <item quantity="many">Скачивается %d файлов</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">Ожидается скачивание %d файла…</item>
+        <item quantity="one">Ожидается скачивание %d файла…</item>
+        <item quantity="few">Ожидается скачивание %d файлов…</item>
+        <item quantity="many">Ожидается скачивание %d файлов…</item>
+    </plurals>
+</resources>

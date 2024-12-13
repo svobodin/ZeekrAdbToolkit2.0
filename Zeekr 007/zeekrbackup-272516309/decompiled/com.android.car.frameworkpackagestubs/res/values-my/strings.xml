@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">လုပ်ဆောင်ချက် အပိုင်း</string>
+    <string name="message_not_supported">ဤအလုပ်ကို မည်သည့်အက်ပ်မျှ မစီမံနိုင်ပါ</string>
+    <string name="pip_not_supported">"ဤစက်တွင် 'နှစ်ခုထပ်၍ကြည့်ခြင်း' သုံး၍မရပါ"</string>
+    <string name="stub_name">မရှိ</string>
+</resources>

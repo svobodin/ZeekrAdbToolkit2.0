@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">कॅमेरा ॲप्स</item>
+        <item quantity="one">कॅमेरा ॲप</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">ईमेल क्लायंट ॲप्स</item>
+        <item quantity="one">ईमेल क्लायंट ॲप</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">फोन अ‍ॅप्स</item>
+        <item quantity="one">फोन अ‍ॅप</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d प्रयत्न</item>
+        <item quantity="one">%d प्रयत्न</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d अ‍ॅप्स</item>
+        <item quantity="one">%d अ‍ॅप</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">किमान %d ॲप्स</item>
+        <item quantity="one">किमान %d ॲप</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d नवीन सूचना</item>
+        <item quantity="one">%d नवीन सूचना</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d डिव्हाइस कनेक्ट केली आहेत</item>
+        <item quantity="one">%1$d डिव्हाइस कनेक्ट केले आहे</item>
+    </plurals>
+</resources>

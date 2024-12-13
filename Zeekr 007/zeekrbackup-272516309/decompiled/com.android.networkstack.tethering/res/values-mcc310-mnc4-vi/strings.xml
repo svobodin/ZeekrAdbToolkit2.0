@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Tắt tính năng chia sẻ Internet</string>
+    <string name="no_upstream_notification_message">Các thiết bị không thể kết nối</string>
+    <string name="no_upstream_notification_title">Không có Internet để chia sẻ kết Internet</string>
+    <string name="upstream_roaming_notification_message">Bạn có thể mất thêm phí dữ liệu khi chuyển vùng</string>
+    <string name="upstream_roaming_notification_title">Điểm phát sóng hoặc tính năng chia sẻ Internet đang bật</string>
+</resources>

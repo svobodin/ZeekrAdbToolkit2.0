@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>സിന്റ് മാർട്ടെൻ</item>
+        <item>കരീബിയൻ നെതർലാൻഡ്‌സ്</item>
+        <item>കുറാകാവോ</item>
+        <item>ദക്ഷിണ സുഡാൻ</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>ആസ്‌ട്രേലിയൻ സെൻട്രൽ - NT</item>
+        <item>ആസ്‌ട്രേലിയൻ സെൻട്രൽ - SA</item>
+        <item>ആസ്‌ട്രേലിയൻ കിഴക്കൻ - QLD</item>
+        <item>ആസ്‌ട്രേലിയൻ കിഴക്കൻ - NSW</item>
+        <item>മൗണ്ടൻ സ്‌റ്റാൻഡേർഡ് - ഡാവ്‌സൺ ക്രീക്ക്</item>
+        <item>സെൻട്രൽ സ്‌റ്റാൻഡേർഡ് - സസ്‌ക്കാചുവാൻ</item>
+        <item>കിഴക്കൻ സ്‌റ്റാൻഡേർഡ് - അടികോകൻ</item>
+        <item>അറ്റ്‌ലാന്റിക് സ്‌റ്റാൻഡേർഡ് - ക്യൂബെക്</item>
+        <item>ഹവായ്-അലൂഷ്യൻ - ഹവായ്</item>
+        <item>ഹവായ്-അലൂഷ്യൻ - അലാസ്‌ക</item>
+        <item>പസഫിക് സ്റ്റാൻഡേർഡ് - മെഡ്‌ലകട്‌ലെ</item>
+        <item>മൗണ്ടൻ സ്‌റ്റാൻഡേർഡ് - അരിസോണ</item>
+        <item>പസഫിക് - ബാജ കാലിഫോർണിയ</item>
+        <item>മൗണ്ടൻ - ചിഹുവാഹുവ</item>
+        <item>സെൻട്രൽ - തമൗലിപാസ്</item>
+        <item>മൗണ്ടൻ - സൊണോറ</item>
+        <item>കിഴക്കൻ ആഫ്രിക്ക സമയം</item>
+        <item>അറ്റ്ലാന്‍റിക് സ്റ്റാന്‍ഡേര്‍ഡ് സമയം</item>
+        <item>അറ്റ്ലാന്‍റിക് സ്റ്റാന്‍ഡേര്‍ഡ് സമയം</item>
+        <item>കിഴക്കൻ യൂറോപ്യൻ സമയം</item>
+        <item>കലിനിൻഗ്രാഡ് സമയം</item>
+        <item>ആമസോൺ - റൊൺഡോണിയ</item>
+        <item>ബ്രസീലിയ - പാര</item>
+    </string-array>
+</resources>

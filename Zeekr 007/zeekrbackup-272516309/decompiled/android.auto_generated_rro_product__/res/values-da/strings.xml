@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="owner_name">Chauffør</string>
+    <string name="permlab_accessCoarseLocation">få kun adgang til omtrentlig lokation i forgrunden</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">Aktivér mikrofon</string>
+</resources>

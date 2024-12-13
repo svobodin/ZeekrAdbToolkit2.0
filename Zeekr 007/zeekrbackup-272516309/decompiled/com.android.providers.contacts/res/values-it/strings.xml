@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Archiviazione contatti</string>
+    <string name="debug_dump_database_message">"Stai per 1) creare una copia del tuo database che include tutte le informazioni di contatto e tutti i registri chiamate nella memoria interna e 2) inviarla tramite email. Ricorda di eliminare la copia non appena è stata correttamente copiata dal dispositivo o non appena ricevi l'email."</string>
+    <string name="debug_dump_delete_button">Elimina adesso</string>
+    <string name="debug_dump_email_body">In allegato è presente il mio database di contatti contenente tutte le informazioni sui miei contatti. Trattare con cura.</string>
+    <string name="debug_dump_email_sender_picker">Scegli un programma per inviare il file</string>
+    <string name="debug_dump_email_subject">Database di contatti allegato</string>
+    <string name="debug_dump_start_button">Inizia</string>
+    <string name="debug_dump_title">Copia database di contatti</string>
+    <string name="default_directory">Contatti</string>
+    <string name="local_invisible_directory">Altro</string>
+    <string name="provider_label">Contatti</string>
+    <string name="sharedUserLabel">Applicazioni di base Android</string>
+    <string name="upgrade_out_of_memory_notification_text">"Tocca per completare l'upgrade."</string>
+    <string name="upgrade_out_of_memory_notification_ticker">"L'upgrade dei contatti richiede più memoria."</string>
+    <string name="upgrade_out_of_memory_notification_title">"Upgrade dell'archivio dei contatti"</string>
+    <string name="voicemail_from_column">"Messaggio vocale da "</string>
+</resources>

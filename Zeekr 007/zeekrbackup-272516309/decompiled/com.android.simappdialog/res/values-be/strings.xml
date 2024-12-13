@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Дыялогавае акно праграмы SIM-карты</string>
+    <string name="install_carrier_app_defer_action">Не зараз</string>
+    <string name="install_carrier_app_description">Каб ваша новая SIM-карта працавала належным чынам, вам трэба ўсталяваць праграму \"%1$s\"</string>
+    <string name="install_carrier_app_description_default">Каб ваша новая SIM-карта працавала належным чынам, вам трэба ўсталяваць праграму ад аператара</string>
+    <string name="install_carrier_app_download_action">Спампаваць праграму</string>
+    <string name="install_carrier_app_title">Уключыце мабільную сувязь</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Назад</string>
+    <string name="suw_more_button_label">Яшчэ</string>
+    <string name="suw_next_button_label">Далей</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">Ressources de connectivité système</string>
+    <string name="mobile_no_internet">"Le réseau cellulaire n'offre aucun accès à Internet"</string>
+    <string name="network_available_sign_in">Connectez-vous au réseau</string>
+    <string name="network_partial_connectivity">Le réseau %1$s offre une connectivité limitée</string>
+    <string name="network_partial_connectivity_detailed">Touchez pour vous connecter quand même</string>
+    <string name="network_switch_metered">Passé au réseau %1$s</string>
+    <string name="network_switch_metered_detail">"L'appareil utilise %1$s quand %2$s n'a pas d'accès à Internet. Des frais peuvent s'appliquer."</string>
+    <string name="network_switch_metered_toast">Passé du réseau %1$s au %2$s</string>
+    <string name="network_switch_type_name_unknown">un type de réseau inconnu</string>
+    <string name="other_networks_no_internet">"Le réseau n'offre aucun accès à Internet"</string>
+    <string name="private_dns_broken_detailed">"Impossible d'accéder au serveur DNS privé"</string>
+    <string name="wifi_available_sign_in">Connectez-vous au réseau Wi-Fi</string>
+    <string name="wifi_no_internet">"Le réseau %1$s n'offre aucun accès à Internet"</string>
+    <string name="wifi_no_internet_detailed">Touchez pour afficher les options</string>
+</resources>

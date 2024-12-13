@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">စနစ်ချိတ်ဆက်နိုင်မှု ရင်းမြစ်များ</string>
+    <string name="mobile_no_internet">မိုဘိုင်းကွန်ရက်တွင် အင်တာနက်ချိတ်ဆက်မှု မရှိပါ</string>
+    <string name="network_available_sign_in">ကွန်ယက်သို့ လက်မှတ်ထိုးဝင်ရန်</string>
+    <string name="network_partial_connectivity">%1$s တွင် ချိတ်ဆက်မှုကို ကန့်သတ်ထားသည်</string>
+    <string name="network_partial_connectivity_detailed">မည်သို့ပင်ဖြစ်စေ ချိတ်ဆက်ရန် တို့ပါ</string>
+    <string name="network_switch_metered">%1$s သို့ ပြောင်းလိုက်ပြီ</string>
+    <string name="network_switch_metered_detail">%2$s ဖြင့် အင်တာနက် အသုံးမပြုနိုင်သည့်အချိန်တွင် စက်ပစ္စည်းသည် %1$s ကို သုံးပါသည်။ ဒေတာသုံးစွဲခ ကျသင့်နိုင်ပါသည်။</string>
+    <string name="network_switch_metered_toast">%1$s မှ %2$s သို့ ပြောင်းလိုက်ပြီ</string>
+    <string name="network_switch_type_name_unknown">အမည်မသိကွန်ရက်အမျိုးအစား</string>
+    <string name="other_networks_no_internet">ကွန်ရက်တွင် အင်တာနက်အသုံးပြုခွင့် မရှိပါ</string>
+    <string name="private_dns_broken_detailed">သီးသန့် ဒီအန်အက်စ် (DNS) ဆာဗာကို သုံး၍မရပါ။</string>
+    <string name="wifi_available_sign_in">ဝိုင်ဖိုင်ကွန်ရက်သို့ လက်မှတ်ထိုးဝင်ပါ</string>
+    <string name="wifi_no_internet">%1$s တွင် အင်တာနက်အသုံးပြုခွင့် မရှိပါ</string>
+    <string name="wifi_no_internet_detailed">အခြားရွေးချယ်စရာများကိုကြည့်ရန် တို့ပါ</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">Tengigögn kerfis</string>
+    <string name="mobile_no_internet">Farsímakerfið er ekki tengt við internetið</string>
+    <string name="network_available_sign_in">Skrá inn á net</string>
+    <string name="network_partial_connectivity">Tengigeta %1$s er takmörkuð</string>
+    <string name="network_partial_connectivity_detailed">Ýttu til að tengjast samt</string>
+    <string name="network_switch_metered">Skipt yfir á %1$s</string>
+    <string name="network_switch_metered_detail">Tækið notar %1$s þegar %2$s er ekki með internetaðgang. Gjöld kunna að eiga við.</string>
+    <string name="network_switch_metered_toast">Skipt úr %1$s yfir í %2$s</string>
+    <string name="network_switch_type_name_unknown">óþekkt tegund netkerfis</string>
+    <string name="other_networks_no_internet">Netkerfið er ekki tengt við internetið</string>
+    <string name="private_dns_broken_detailed">Ekki næst í DNS-einkaþjón</string>
+    <string name="wifi_available_sign_in">Skrá inn á Wi-Fi net</string>
+    <string name="wifi_no_internet">%1$s er ekki með internetaðgang</string>
+    <string name="wifi_no_internet_detailed">Ýttu til að sjá valkosti</string>
+</resources>

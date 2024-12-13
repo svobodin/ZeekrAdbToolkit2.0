@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dialogové okno aplikace SIM karty</string>
+    <string name="install_carrier_app_defer_action">Teď ne</string>
+    <string name="install_carrier_app_description">Aby vaše nová SIM karta fungovala správně, je třeba nainstalovat aplikaci %1$s</string>
+    <string name="install_carrier_app_description_default">Aby vaše nová SIM karta fungovala správně, je třeba nainstalovat aplikaci operátora</string>
+    <string name="install_carrier_app_download_action">Stáhnout aplikaci</string>
+    <string name="install_carrier_app_title">Aktivovat mobilní službu</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Zpět</string>
+    <string name="suw_more_button_label">Další</string>
+    <string name="suw_next_button_label">Další</string>
+</resources>

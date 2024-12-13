@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Pengelola Perangkat Pendamping</string>
+    <string name="chooser_title">Pilih %1$s untuk dikelola oleh &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Izinkan &lt;strong>%1$s&lt;/strong> untuk mengelola &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_no">Jangan izinkan</string>
+    <string name="consent_yes">Izinkan</string>
+    <string name="profile_name_generic">perangkat</string>
+    <string name="profile_name_watch">smartwatch</string>
+    <string name="profile_summary">Aplikasi ini diperlukan untuk mengelola %1$s. %2$s</string>
+</resources>

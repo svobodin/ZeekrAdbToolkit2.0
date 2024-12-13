@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">ಹಾಟ್‌ಸ್ಪಾಟ್ ಆಫ್‌ ಮಾಡಿ</string>
+    <string name="no_upstream_notification_message">ಇಂಟರ್ನೆಟ್‌ಗೆ ಸಂಪರ್ಕಗೊಳ್ಳಲು ಸಾಧನಗಳಿಗೆ ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ</string>
+    <string name="no_upstream_notification_title">ಹಾಟ್‌ಸ್ಪಾಟ್ ಯಾವುದೇ ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕವನ್ನು ಹೊಂದಿಲ್ಲ</string>
+    <string name="upstream_roaming_notification_message">ರೋಮಿಂಗ್‌ನಲ್ಲಿರುವಾಗ ಹೆಚ್ಚುವರಿ ಶುಲ್ಕಗಳು ಅನ್ವಯವಾಗಬಹುದು</string>
+    <string name="upstream_roaming_notification_title">ಹಾಟ್‌ಸ್ಪಾಟ್ ಆನ್ ಆಗಿದೆ</string>
+    <string name="upstream_roaming_notification_continue_button">ಮುಂದುವರಿಸಿ</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Menadžer mreže</string>
+    <string name="connected">Povezano</string>
+    <string name="notification_channel_description_connected">Obaveštenja koja se prikazuju kada se potvrdi identitet uređaja na mreži ulaznog portala</string>
+    <string name="notification_channel_description_network_venue_info">Obaveštenja koja se prikazuju da bi pokazala da mreža ima stranicu sa informacijama o mestu</string>
+    <string name="notification_channel_name_connected">Potvrda identiteta na ulaznom portalu</string>
+    <string name="notification_channel_name_network_venue_info">Informacije o mestu na mreži</string>
+    <string name="tap_for_info">Povezano/dodirnite da biste pregledali veb-sajt</string>
+</resources>

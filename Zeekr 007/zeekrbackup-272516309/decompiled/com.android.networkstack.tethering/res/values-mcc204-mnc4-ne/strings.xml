@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">हटस्पट निष्क्रिय पार्नुहोस्</string>
+    <string name="no_upstream_notification_message">यन्त्रहरू इन्टरनेटमा कनेक्ट गर्न सकिएन</string>
+    <string name="no_upstream_notification_title">हटस्पटमा इन्टरनेट छैन</string>
+    <string name="upstream_roaming_notification_message">रोमिङ सेवा प्रयोग गर्दा अतिरिक्त शुल्क लाग्न सक्छ</string>
+    <string name="upstream_roaming_notification_title">हटस्पट सक्रिय छ</string>
+    <string name="upstream_roaming_notification_continue_button">जारी राख्नुहोस्</string>
+</resources>

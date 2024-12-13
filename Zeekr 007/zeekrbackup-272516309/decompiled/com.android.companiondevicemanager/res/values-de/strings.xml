@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Begleitgerät-Manager</string>
+    <string name="chooser_title">Gerät (%1$s) auswählen, das von &lt;strong>%2$s&lt;/strong> verwaltet werden soll</string>
+    <string name="confirmation_title">&lt;strong>%1$s&lt;/strong> erlauben, dein Gerät &lt;strong>%2$s&lt;/strong> zu verwalten</string>
+    <string name="consent_no">Nicht zulassen</string>
+    <string name="consent_yes">Zulassen</string>
+    <string name="profile_name_generic">Gerät</string>
+    <string name="profile_name_watch">Smartwatch</string>
+    <string name="profile_summary">Diese App wird zur Verwaltung des Profils „%1$s“ benötigt. %2$s</string>
+</resources>

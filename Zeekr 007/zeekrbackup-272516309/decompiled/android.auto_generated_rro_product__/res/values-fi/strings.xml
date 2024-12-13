@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="owner_name">Kuljettaja</string>
+    <string name="permlab_accessCoarseLocation">käyttää likimääräistä sijaintia vain etualalla</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">Laita mikrofoni päälle</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Тармактарды башкаргыч</string>
+    <string name="connected">Туташты</string>
+    <string name="notification_channel_description_connected">Түзмөк тармактын кирүү бети аркылуу аутентификациядан ийгиликтүү өткөндө билдирмелер көрүнөт</string>
+    <string name="notification_channel_description_network_venue_info">Тармак маалымат барагына киргенде билдирме көрүнөт</string>
+    <string name="notification_channel_name_connected">Кирүү бетинин аутентификациясы</string>
+    <string name="notification_channel_name_network_venue_info">Тармактын жайгашуусу жөнүндө маалымат</string>
+    <string name="tap_for_info">Туташты / Вебсайтты көрүү үчүн таптаңыз</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_long_press_zoom_scale_tips">
+        <item quantity="other">%s times zoom</item>
+        <item quantity="one">%s times zoom</item>
+    </plurals>
+    <plurals name="accessibility_recorded_hour_title">
+        <item quantity="other">%1$s h</item>
+        <item quantity="one">%1$s h</item>
+    </plurals>
+    <plurals name="accessibility_recorded_minute_title">
+        <item quantity="other">%1$s min</item>
+        <item quantity="one">%1$s min</item>
+    </plurals>
+    <plurals name="accessibility_recorded_second_title">
+        <item quantity="other">%1$ss</item>
+        <item quantity="one">%1$ss</item>
+    </plurals>
+</resources>

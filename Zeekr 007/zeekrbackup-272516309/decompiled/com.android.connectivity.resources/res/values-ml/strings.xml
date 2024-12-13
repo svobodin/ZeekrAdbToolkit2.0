@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">സിസ്‌റ്റം കണക്‌റ്റിവിറ്റി ഉറവിടങ്ങൾ</string>
+    <string name="mobile_no_internet">മൊബെെൽ നെറ്റ്‌വർക്കിന് ഇന്റർനെറ്റ് ആക്‌സസ് ഇല്ല</string>
+    <string name="network_available_sign_in">നെറ്റ്‌വർക്കിലേക്ക് സൈൻ ഇൻ ചെയ്യുക</string>
+    <string name="network_partial_connectivity">%1$s എന്നതിന് പരിമിതമായ കണക്റ്റിവിറ്റി ഉണ്ട്</string>
+    <string name="network_partial_connectivity_detailed">ഏതുവിധേനയും കണക്‌റ്റ് ചെയ്യാൻ ടാപ്പ് ചെയ്യുക</string>
+    <string name="network_switch_metered">%1$s എന്നതിലേക്ക് മാറി</string>
+    <string name="network_switch_metered_detail">%2$s-ന് ഇന്റർനെറ്റ് ആക്‌സസ് ഇല്ലാത്തപ്പോൾ ഉപകരണം %1$s ഉപയോഗിക്കുന്നു. നിരക്കുകൾ ബാധകമായേക്കാം.</string>
+    <string name="network_switch_metered_toast">%1$s നെറ്റ്‌വർക്കിൽ നിന്ന് %2$s നെറ്റ്‌വർക്കിലേക്ക് മാറി</string>
+    <string name="network_switch_type_name_unknown">അജ്ഞാതമായ നെറ്റ്‌വർക്ക് തരം</string>
+    <string name="other_networks_no_internet">നെറ്റ്‌വർക്കിന് ഇന്റർനെറ്റ് ആക്‌സസ് ഇല്ല</string>
+    <string name="private_dns_broken_detailed">സ്വകാര്യ DNS സെർവർ ആക്‌സസ് ചെയ്യാനാവില്ല</string>
+    <string name="wifi_available_sign_in">വൈഫൈ നെറ്റ്‌വർക്കിലേക്ക് സൈൻ ഇൻ ചെയ്യുക</string>
+    <string name="wifi_no_internet">%1$s എന്നതിന് ഇന്റർനെറ്റ് ആക്‌സസ് ഇല്ല</string>
+    <string name="wifi_no_internet_detailed">ഓപ്ഷനുകൾക്ക് ടാപ്പുചെയ്യുക</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="icon_air_car_cs1e_dark" id="0x7f010000" />
+    <public type="drawable" name="icon_air_car_cs1e_day" id="0x7f010001" />
+    <public type="xml" name="overlays" id="0x7f020000" />
+</resources>

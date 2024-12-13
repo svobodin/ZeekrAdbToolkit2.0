@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">சிஸ்டம் இணைப்பு தகவல்கள்</string>
+    <string name="mobile_no_internet">மொபைல் நெட்வொர்க்கிற்கு இணைய அணுகல் இல்லை</string>
+    <string name="network_available_sign_in">நெட்வொர்க்கில் உள்நுழையவும்</string>
+    <string name="network_partial_connectivity">%1$s வரம்பிற்கு உட்பட்ட இணைப்புநிலையைக் கொண்டுள்ளது</string>
+    <string name="network_partial_connectivity_detailed">எப்படியேனும் இணைப்பதற்குத் தட்டவும்</string>
+    <string name="network_switch_metered">%1$sக்கு மாற்றப்பட்டது</string>
+    <string name="network_switch_metered_detail">%2$s நெட்வொர்க்கில் இண்டர்நெட் அணுகல் இல்லாததால், சாதனமானது %1$s நெட்வொர்க்கைப் பயன்படுத்துகிறது. கட்டணங்கள் விதிக்கப்படலாம்.</string>
+    <string name="network_switch_metered_toast">%1$s இலிருந்து %2$sக்கு மாற்றப்பட்டது</string>
+    <string name="network_switch_type_name_unknown">தெரியாத நெட்வொர்க் வகை</string>
+    <string name="other_networks_no_internet">நெட்வொர்க்கிற்கு இணைய அணுகல் இல்லை</string>
+    <string name="private_dns_broken_detailed">தனிப்பட்ட DNS சேவையகத்தை அணுக இயலாது</string>
+    <string name="wifi_available_sign_in">வைஃபை நெட்வொர்க்கில் உள்நுழையவும்</string>
+    <string name="wifi_no_internet">%1$s நெட்வொர்க்கிற்கு இணைய அணுகல் இல்லை</string>
+    <string name="wifi_no_internet_detailed">விருப்பங்களுக்கு, தட்டவும்</string>
+</resources>

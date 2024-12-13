@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">നിങ്ങളുടെ പാസ്‌വേഡ് നൽകി ഡൈനാമിക് സിസ്റ്റം അപ്ഡേറ്റുകളിലേക്ക് പോകുക</string>
+    <string name="notification_action_cancel">റദ്ദാക്കുക</string>
+    <string name="notification_action_discard">നിരസിക്കുക</string>
+    <string name="notification_action_reboot_to_dynsystem">റീസ്റ്റാർട്ട് ചെയ്യൂ</string>
+    <string name="notification_action_reboot_to_origin">റീസ്റ്റാർട്ട് ചെയ്യൂ</string>
+    <string name="notification_dynsystem_in_use">നിലവിൽ ഒരു ഡെെനാമിക് സിസ്റ്റം റൺ ചെയ്യുന്നുണ്ട്. ഒറിജിനൽ Android പതിപ്പ് ഉപയോഗിക്കാൻ റീസ്റ്റാർട്ട് ചെയ്യുക.</string>
+    <string name="notification_image_validation_failed">ഇമേജ് മൂല്യനിർണ്ണയം നടത്താനായില്ല. ഇൻസ്‌റ്റലേഷൻ റദ്ദാക്കുക.</string>
+    <string name="notification_install_completed">ഡെെനാമിക് സിസ്റ്റം തയ്യാറാണ്. അത് ഉപയോഗിച്ച് തുടങ്ങാൻ നിങ്ങളുടെ ഉപകരണം റീസ്റ്റാർട്ട് ചെയ്യുക.</string>
+    <string name="notification_install_failed">ഇൻസ്‌റ്റാൾ ചെയ്യാനായില്ല</string>
+    <string name="notification_install_inprogress">ഇൻസ്‌റ്റാൾ ചെയ്യൽ പുരോഗതിയിലാണ്</string>
+    <string name="toast_dynsystem_discarded">ഡെെനാമിക് സിസ്റ്റം നിരസിച്ചു</string>
+    <string name="toast_failed_to_disable_dynsystem">ഡൈനാമിക് സിസ്‌റ്റം പ്രവർത്തനരഹിതമാക്കാനായില്ല</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">റീസ്റ്റാർട്ട് ചെയ്യാനോ ഡെെനാമിക് സിസ്റ്റം ലോഡ് ചെയ്യാനോ ആവില്ല</string>
+</resources>

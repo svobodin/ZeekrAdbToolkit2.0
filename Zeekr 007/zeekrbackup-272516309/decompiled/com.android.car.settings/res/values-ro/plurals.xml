@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">Aplicațiile Cameră foto</item>
+        <item quantity="one">Aplicația Cameră foto</item>
+        <item quantity="few">Aplicațiile Cameră foto</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">Aplicațiile Client de e-mail</item>
+        <item quantity="one">Aplicația Client de e-mail</item>
+        <item quantity="few">Aplicațiile Client de e-mail</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">Aplicațiile Telefon</item>
+        <item quantity="one">Aplicația Telefon</item>
+        <item quantity="few">Aplicațiile Telefon</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d de încercări</item>
+        <item quantity="one">%d încercare</item>
+        <item quantity="few">%d încercări</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d de aplicații</item>
+        <item quantity="one">%d aplicație</item>
+        <item quantity="few">%d aplicații</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">Minimum %d de aplicații</item>
+        <item quantity="one">Minimum %d aplicație</item>
+        <item quantity="few">Minimum %d aplicații</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d de notificări noi</item>
+        <item quantity="one">%d notificare nouă</item>
+        <item quantity="few">%d notificări noi</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d de dispozitive conectate</item>
+        <item quantity="one">%1$d dispozitiv conectat</item>
+        <item quantity="few">%1$d dispozitive conectate</item>
+    </plurals>
+</resources>

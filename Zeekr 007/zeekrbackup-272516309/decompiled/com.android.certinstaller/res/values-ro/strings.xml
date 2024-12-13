@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_missing_private_key">Pentru a instala un certificat este necesară o cheie privată</string>
+    <string name="action_missing_user_cert">Pentru a instala o cheie privată este necesar un certificat</string>
+    <string name="app_name">Program de instalare a certificatului</string>
+    <string name="ca_cert_is_added">Certificatul CA a fost instalat</string>
+    <string name="ca_certificate">Certificat CA</string>
+    <string name="cert_missing_error">Nu se poate instala, deoarece fișierul certificat nu a putut fi găsit.</string>
+    <string name="cert_not_saved">Certificatul nu este instalat.</string>
+    <string name="cert_read_error">Nu se poate instala, deoarece fișierul certificat nu a putut fi citit.</string>
+    <string name="cert_temp_error">Eroare temporară. Încercați din nou mai târziu.</string>
+    <string name="cert_too_large_error">Nu se poate instala, deoarece dimensiunea certificatului este prea mare.</string>
+    <string name="certificate">Certificat</string>
+    <string name="certificate_capabilities_warning">Notă: emitentul acestui certificat poate inspecta tot traficul către și dinspre dispozitiv.</string>
+    <string name="certificate_name">Numele certificatului</string>
+    <string name="credential_info">Pachetul conține:</string>
+    <string name="credential_password">Introduceți parola pentru a extrage certificatele.</string>
+    <string name="credential_usage_label">Utilizarea datelor de conectare:</string>
+    <string name="done_label">TERMINAT</string>
+    <string name="extracting_pkcs12">Se extrage...</string>
+    <string name="install_done">Datele de conectare la %1$s au fost adăugate la rețelele Wi-Fi salvate.</string>
+    <string name="install_done_title">Datele de conectare au fost instalate</string>
+    <string name="invalid_cert">Certificatul este nevalid.</string>
+    <string name="invalid_certificate_close_button">Închideți</string>
+    <string name="invalid_certificate_message">Fișierul nu poate fi folosit ca %1$s</string>
+    <string name="invalid_certificate_title">Nu puteți folosi acest fișier</string>
+    <string name="n_cacrts">%d certificate CA</string>
+    <string name="name_char_error">Introduceți un nume care conține doar litere și numere.</string>
+    <string name="name_credential_dialog_title">Denumiți acest certificat</string>
+    <string name="name_empty_error">Introduceți un nume.</string>
+    <string name="no_cert_to_saved">Niciun certificat de instalat.</string>
+    <string name="one_cacrt">un certificat CA</string>
+    <string name="one_usercrt">un certificat pentru utilizator</string>
+    <string name="one_userkey">o cheie pentru utilizator</string>
+    <string name="only_primary_user_allowed">Numai proprietarul acestui dispozitiv poate instala certificate.</string>
+    <string name="p12_description">Certificate în depozitul de chei PKCS12.</string>
+    <string name="password_empty_error">Introduceți parola.</string>
+    <string name="password_error">Introduceți parola corectă.</string>
+    <string name="pick_file_title">Alegeți un certificat</string>
+    <string name="pkcs12_file_password_dialog_title">Extrageți din %s</string>
+    <string name="pkcs12_password_dialog_title">Extrageți certificatul</string>
+    <string name="redirect_ca_certificate_close_button">Închideți</string>
+    <string name="redirect_ca_certificate_title">Instalați certificatele CA în Setări</string>
+    <string name="redirect_ca_certificate_with_app_info_message">Acest certificat de la %1$s trebuie să fie instalat în Setări. Instalați certificate CA numai de la organizații în care aveți încredere.</string>
+    <string name="select_certificate_usage_title">Alegeți un tip de certificat</string>
+    <string name="unable_to_save_cert">Nu se poate salva certificatul. Spațiul de stocare a certificatelor nu este activat sau nu este corect inițializat.</string>
+    <string name="user_cert_is_added">Certificatul pentru utilizator a fost instalat</string>
+    <string name="user_certificate">Certificatul de utilizator de aplicații și VPN</string>
+    <string name="userkey_type">Algoritm:</string>
+    <string name="wifi_cancel_label">Anulați</string>
+    <string name="wifi_cert_is_added">Certificatul pentru Wi‑Fi a fost instalat</string>
+    <string name="wifi_certificate">Certificat pentru Wi‑Fi</string>
+    <string name="wifi_config_text">"Nume: %1$s
+FQDN: %2$s
+Roaming Consortiums: %3$s
+Realm: %4$s
+Metodă de autentificare: EAP-%5$s
+"</string>
+    <string name="wifi_detail_label">Detalii</string>
+    <string name="wifi_detail_title">Detalii pentru %s</string>
+    <string name="wifi_dismiss_label">Închideți</string>
+    <string name="wifi_install_label">Instalați</string>
+    <string name="wifi_installer_detail">Instalați datele de conectare la Wi-Fi pentru a vă conecta la rețelele disponibile prin %1$s.</string>
+    <string name="wifi_installer_download_error">Fișierul descărcat are probleme și nu poate fi instalat. Asigurați-vă că ați descărcat fișierul din sursa corespunzătoare.</string>
+    <string name="wifi_installer_fail">Datele de conectare la Wi-Fi nu pot fi instalate. Încercați să descărcați din nou fișierul.</string>
+    <string name="wifi_installer_fail_no_wifi">Activați conexiunea Wi-Fi și încercați din nou.</string>
+    <string name="wifi_installer_fail_no_wifi_title">Instalarea a fost anulată</string>
+    <string name="wifi_installer_fail_title">Nu se poate instala</string>
+    <string name="wifi_installing_label">Se instalează</string>
+    <string name="wifi_no_config">Niciuna</string>
+    <string name="wifi_sim_config_text">"SIM: %s
+"</string>
+    <string name="wifi_title">Profil Wi-Fi</string>
+    <string name="wifi_tls_config_text">"Certificat client:
+%1$s
+Cheie: %2$s
+"</string>
+    <string name="wifi_trust_config_text">"Certificat de încredere:
+%s
+"</string>
+    <string name="wifi_ttls_config_text">"Nume de utilizator: %s
+"</string>
+</resources>

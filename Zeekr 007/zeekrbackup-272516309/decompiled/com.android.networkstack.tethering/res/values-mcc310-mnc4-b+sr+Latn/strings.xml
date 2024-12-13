@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Isključi privezivanje</string>
+    <string name="no_upstream_notification_message">Povezivanje uređaja nije uspelo</string>
+    <string name="no_upstream_notification_title">Privezivanje nema pristup internetu</string>
+    <string name="upstream_roaming_notification_message">Možda važe dodatni troškovi u romingu</string>
+    <string name="upstream_roaming_notification_title">Uključen je hotspot ili privezivanje</string>
+</resources>

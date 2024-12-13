@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="age_list">
+        <item>0～3 лет</item>
+        <item>4～6 лет</item>
+        <item>7～9 лет</item>
+        <item>10～12 лет</item>
+        <item>Все возраста</item>
+    </string-array>
+    <string-array name="aqi_levels">
+        <item>Отличный</item>
+        <item>Хороший</item>
+        <item>Загрязнение</item>
+        <item>Умеренно загрязненный</item>
+        <item>Сильное загрязнение</item>
+        <item>Серьезное загрязнение</item>
+        <item>Взрывной</item>
+    </string-array>
+    <string-array name="black_list_dc1e">
+        <item>com.android.settings</item>
+        <item>com.yfvet.engineeringmode</item>
+        <item>com.geely.pma.settings</item>
+        <item>com.geely.pma.settings.seat</item>
+        <item>com.geely.pma.climate</item>
+        <item>com.zeekr.speech.adapter</item>
+        <item>com.ecarx.xiaokagui</item>
+        <item>ecarx.xsf.widget</item>
+        <item>ecarx.xsf.inputservice</item>
+        <item>com.ecarx.xiaoka.carcontrol</item>
+        <item>com.ecarx.xcgoncall</item>
+        <item>com.ecarx.ai.val</item>
+        <item>ecarx.launcher3</item>
+        <item>com.zeekr.carlauncher3d</item>
+        <item>com.zeekr.automap</item>
+        <item>ru.yandex.yandexmaps</item>
+    </string-array>
+    <string-array name="black_list_other">
+        <item>com.android.settings</item>
+        <item>com.yfvet.engineeringmode</item>
+        <item>com.geely.pma.settings</item>
+        <item>com.geely.pma.settings.seat</item>
+        <item>com.geely.pma.climate</item>
+        <item>com.zeekr.speech.adapter</item>
+        <item>com.ecarx.xiaokagui</item>
+        <item>ecarx.xsf.widget</item>
+        <item>ecarx.xsf.inputservice</item>
+        <item>com.ecarx.xiaoka.carcontrol</item>
+        <item>com.ecarx.xcgoncall</item>
+        <item>com.ecarx.ai.val</item>
+        <item>ecarx.launcher3</item>
+        <item>com.zeekr.carlauncher3d</item>
+        <item>com.zeekr.automap</item>
+        <item>ecarx.membercenter</item>
+        <item>ru.yandex.yandexmaps</item>
+    </string-array>
+    <string-array name="default_apps_cm2e">
+        <item>com.zeekr.scenario.customization/com.zeekr.scenario.customization.ui.activity.MainActivity</item>
+        <item>com.mrbattery.exterioraudioplaydemo/com.mrbattery.exterioraudioplaydemo.MainActivity</item>
+        <item>com.thunder.carplay/com.thunder.carplay.home.ui.activity.HomeFragmentActivity</item>
+        <item>com.bilibili.bilithings/com.bilibili.bilithings.splash.SplashActivity</item>
+        <item>com.ecarx.btphone/com.ecarx.btphone.ui.MainActivity</item>
+        <item>dc1e.gallery/zeekr.gallery.ui.HomeActivity</item>
+        <item>com.zeekr.dlnavideo/com.zeekr.dlnavideo.ChooseActivity</item>
+    </string-array>
+    <string-array name="default_apps_cs1e">
+        <item>com.zeekr.scenario.customization/com.zeekr.scenario.customization.ui.activity.MainActivity</item>
+        <item>com.mrbattery.exterioraudioplaydemo/com.mrbattery.exterioraudioplaydemo.MainActivity</item>
+        <item>com.zeekrc.lightshow/com.zeekrc.unity.ui.MainActivity</item>
+        <item>com.bilibili.bilithings/com.bilibili.bilithings.splash.SplashActivity</item>
+        <item>com.ecarx.btphone/com.ecarx.btphone.ui.MainActivity</item>
+        <item>dc1e.gallery/zeekr.gallery.ui.HomeActivity</item>
+        <item>com.zeekr.dlnavideo/com.zeekr.dlnavideo.ChooseActivity</item>
+    </string-array>
+    <string-array name="default_apps_cx1e">
+        <item>com.zeekr.scenario.customization/com.zeekr.scenario.customization.ui.activity.MainActivity</item>
+        <item>com.mrbattery.exterioraudioplaydemo/com.mrbattery.exterioraudioplaydemo.MainActivity</item>
+        <item>com.zeekrc.lightshow/com.zeekrc.unity.ui.MainActivity</item>
+        <item>com.bilibili.bilithings/com.bilibili.bilithings.splash.SplashActivity</item>
+        <item>com.ecarx.btphone/com.ecarx.btphone.ui.MainActivity</item>
+        <item>dc1e.gallery/zeekr.gallery.ui.HomeActivity</item>
+        <item>com.zeekr.dlnavideo/com.zeekr.dlnavideo.ChooseActivity</item>
+    </string-array>
+    <string-array name="default_apps_dc1e">
+        <item>com.ecarx.btphone/com.ecarx.btphone.ui.MainActivity</item>
+        <item>com.arcvideo.car.video/com.arcvideo.car.video.SplashActivity</item>
+        <item>com.bilibili.bilithings/com.bilibili.bilithings.splash.SplashActivity</item>
+        <item>ecarx.gallery/zeekr.gallery.ui.HomeActivity</item>
+    </string-array>
+    <string-array name="default_apps_dc1e_a2">
+        <item>com.zeekr.scenario.customization/com.zeekr.scenario.customization.ui.activity.MainActivity</item>
+        <item>com.ecarx.btphone/com.ecarx.btphone.ui.MainActivity</item>
+        <item>com.geely.pma.dc1e.trackmode/com.geely.pma.dc1e.trackmode.ui.SplashActivity</item>
+        <item>com.bilibili.bilithings/com.bilibili.bilithings.splash.SplashActivity</item>
+        <item>dc1e.gallery/zeekr.gallery.ui.HomeActivity</item>
+        <item>com.zeekr.dlnavideo/com.zeekr.dlnavideo.ChooseActivity</item>
+    </string-array>
+    <string-array name="default_apps_ef1e">
+        <item>com.mrbattery.exterioraudioplaydemo/com.mrbattery.exterioraudioplaydemo.MainActivity</item>
+        <item>com.zeekr.scenario.customization/com.zeekr.scenario.customization.ui.activity.MainActivity</item>
+        <item>com.ecarx.btphone/com.ecarx.btphone.ui.MainActivity</item>
+        <item>com.arcvideo.car.video/com.arcvideo.car.video.SplashActivity</item>
+        <item>dc1e.gallery/zeekr.gallery.ui.HomeActivity</item>
+        <item>com.zeekr.dlnavideo/com.zeekr.dlnavideo.ChooseActivity</item>
+        <item>com.bilibili.bilithings/com.bilibili.bilithings.splash.SplashActivity</item>
+    </string-array>
+    <string-array name="entertainment_tab_type">
+        <item>@string/zeekr_recommend</item>
+        <item>@string/movie</item>
+        <item>@string/teleplay</item>
+        <item>@string/variety</item>
+        <item>@string/comic</item>
+    </string-array>
+    <string-array name="game_cover_list">
+        <item>game_cover_shenkongzhiyan</item>
+        <item>game_cover_2048</item>
+        <item>game_cover_wangpaijingshu</item>
+        <item>game_cover_danzaipaidui</item>
+        <item>game_cover_tanchishe</item>
+        <item>game_cover_nanguaxiansheng</item>
+        <item>game_cover_aixi</item>
+        <item>game_cover_hanmobaye</item>
+    </string-array>
+    <string-array name="game_package_list">
+        <item>com.yongshi.tenojo.zeekr</item>
+        <item>com.Apinsky.Lite2048.zeekr</item>
+        <item>com.netease.aceracer</item>
+        <item>com.netease.party</item>
+        <item>com.tanchishe</item>
+        <item>com.nanguaxianshen</item>
+        <item>com.aixi</item>
+        <item>com.hanmobaye</item>
+    </string-array>
+    <string-array name="name_random">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="nzp_string_array">
+        <item>ZEEKR пилот был выключен</item>
+        <item>NZP открывается...</item>
+        <item>NZP активирован</item>
+        <item>NZP эксплуатируется</item>
+        <item>LCC запущен</item>
+        <item>Ускорение</item>
+        <item>Смена полосы</item>
+        <item>Смена полосы отменена</item>
+        <item>Смена полосы завершена</item>
+        <item>Ошибка смены полосы вправо</item>
+        <item>Ошибка смены полосы влево</item>
+        <item>NZP секция заканчивается</item>
+        <item>Примите управление</item>
+        <item>Безопасная остановка</item>
+        <item>Пожалуйста, возьмите управление автомобилем</item>
+        <item>Пожалуйста, немедленно возьмите управление автомобилем</item>
+        <item>Пожалуйста, держите руки на руле</item>
+        <item>Пожалуйста, смотрите на дорогу</item>
+        <item>Пожалуйста, поверните руль, чтобы перестроиться в другую полосу движения</item>
+    </string-array>
+    <string-array name="uvi_levels">
+        <item>Самый слабый</item>
+        <item>Слабый</item>
+        <item>Средний</item>
+        <item>Сильный</item>
+        <item>Очень сильный</item>
+    </string-array>
+</resources>

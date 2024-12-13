@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_long_press_zoom_scale_tips">
+        <item quantity="other">%s karto artinimo funkcija</item>
+        <item quantity="one">%s karto artinimo funkcija</item>
+        <item quantity="few">%s kartų artinimo funkcija</item>
+        <item quantity="many">%s kartų artinimo funkcija</item>
+    </plurals>
+</resources>

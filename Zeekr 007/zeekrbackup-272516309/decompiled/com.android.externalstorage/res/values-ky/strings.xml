@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Тышкы сактагыч</string>
+    <string name="root_documents">Документтер</string>
+    <string name="root_internal_storage">Ички сактагыч</string>
+    <string name="storage_description">Жергиликтүү сактагыч</string>
+</resources>

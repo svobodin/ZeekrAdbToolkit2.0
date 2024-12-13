@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">לאפשר לאפליקציה ^1 למחוק ^2 קובצי אודיו?</item>
+        <item quantity="one">לאפשר לאפליקציה ^1 למחוק את קובץ האודיו הזה?</item>
+        <item quantity="two">לאפשר לאפליקציה ^1 למחוק ^2 קובצי אודיו?</item>
+        <item quantity="many">לאפשר לאפליקציה ^1 למחוק ^2 קובצי אודיו?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">לאפשר לאפליקציה ^1 למחוק ^2 פריטים?</item>
+        <item quantity="one">לאפשר לאפליקציה ^1 למחוק את הפריט הזה?</item>
+        <item quantity="two">לאפשר לאפליקציה ^1 למחוק ^2 פריטים?</item>
+        <item quantity="many">לאפשר לאפליקציה ^1 למחוק ^2 פריטים?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">לאפשר לאפליקציה ^1 למחוק ^2 תמונות?</item>
+        <item quantity="one">לאפשר לאפליקציה ^1 למחוק את התמונה הזו?</item>
+        <item quantity="two">לאפשר לאפליקציה ^1 למחוק ^2 תמונות?</item>
+        <item quantity="many">לאפשר לאפליקציה ^1 למחוק ^2 תמונות?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">לאפשר לאפליקציה ^1 למחוק ^2 סרטונים?</item>
+        <item quantity="one">לאפשר לאפליקציה ^1 למחוק את הסרטון הזה?</item>
+        <item quantity="two">לאפשר לאפליקציה ^1 למחוק ^2 סרטונים?</item>
+        <item quantity="many">לאפשר לאפליקציה ^1 למחוק ^2 סרטונים?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">ועוד ^1 פריטים נוספים</item>
+        <item quantity="one">ועוד פריט אחד נוסף (^1)</item>
+        <item quantity="two">ועוד ^1 פריטים נוספים</item>
+        <item quantity="many">ועוד ^1 פריטים נוספים</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">+^1</item>
+        <item quantity="one">+^1</item>
+        <item quantity="two">+^1</item>
+        <item quantity="many">+^1</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">מתבצעת מחיקה של ^1 קובצי אודיו…</item>
+        <item quantity="one">מתבצעת מחיקה של קובץ אודיו אחד…</item>
+        <item quantity="two">מתבצעת מחיקה של ^1 קובצי אודיו…</item>
+        <item quantity="many">מתבצעת מחיקה של ^1 קובצי אודיו…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">מתבצעת מחיקה של ^1 פריטים…</item>
+        <item quantity="one">מתבצעת מחיקה של פריט אחד…</item>
+        <item quantity="two">מתבצעת מחיקה של ^1 פריטים…</item>
+        <item quantity="many">מתבצעת מחיקה של ^1 פריטים…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">מתבצעת מחיקה של ^1 תמונות…</item>
+        <item quantity="one">מתבצעת מחיקה של תמונה אחת…</item>
+        <item quantity="two">מתבצעת מחיקה של ^1 תמונות…</item>
+        <item quantity="many">מתבצעת מחיקה של ^1 תמונות…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">מתבצעת מחיקה של ^1 סרטונים…</item>
+        <item quantity="one">מתבצעת מחיקה של סרטון אחד</item>
+        <item quantity="two">מתבצעת מחיקה של ^1 סרטונים…</item>
+        <item quantity="many">מתבצעת מחיקה של ^1 סרטונים…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">מתבצעת העברה של ^1 קובצי אודיו לאשפה…</item>
+        <item quantity="one">מתבצעת העברה של קובץ אודיו אחד לאשפה…</item>
+        <item quantity="two">מתבצעת העברה של ^1 קובצי אודיו לאשפה…</item>
+        <item quantity="many">מתבצעת העברה של ^1 קובצי אודיו לאשפה…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">מתבצעת העברה של ^1 פריטים לאשפה…</item>
+        <item quantity="one">מתבצעת העברה של פריט אחד לאשפה…</item>
+        <item quantity="two">מתבצעת העברה של ^1 פריטים לאשפה…</item>
+        <item quantity="many">מתבצעת העברה של ^1 פריטים לאשפה…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">מתבצעת העברה של ^1 תמונות לאשפה…</item>
+        <item quantity="one">מתבצעת העברה של תמונה אחת לאשפה…</item>
+        <item quantity="two">מתבצעת העברה של ^1 תמונות לאשפה…</item>
+        <item quantity="many">מתבצעת העברה של ^1 תמונות לאשפה…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">מתבצעת העברה של ^1 סרטונים לאשפה…</item>
+        <item quantity="one">מתבצעת העברה של סרטון אחד לאשפה…</item>
+        <item quantity="two">מתבצעת העברה של ^1 סרטונים לאשפה…</item>
+        <item quantity="many">מתבצעת העברה של ^1 סרטונים לאשפה…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">מתבצעת הוצאה של ^1 קובצי אודיו מהאשפה…</item>
+        <item quantity="one">מתבצעת הוצאה של קובץ אודיו אחד מהאשפה…</item>
+        <item quantity="two">מתבצעת הוצאה של ^1 קובצי אודיו מהאשפה…</item>
+        <item quantity="many">מתבצעת הוצאה של ^1 קובצי אודיו מהאשפה…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">מתבצעת הוצאה של ^1 פריטים מהאשפה…</item>
+        <item quantity="one">מתבצעת הוצאה של פריט אחד מהאשפה…</item>
+        <item quantity="two">מתבצעת הוצאה של ^1 פריטים מהאשפה…</item>
+        <item quantity="many">מתבצעת הוצאה של ^1 פריטים מהאשפה…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">מתבצעת הוצאה של ^1 תמונות מהאשפה…</item>
+        <item quantity="one">מתבצעת הוצאה של תמונה אחת מהאשפה…</item>
+        <item quantity="two">מתבצעת הוצאה של ^1 תמונות מהאשפה…</item>
+        <item quantity="many">מתבצעת הוצאה של ^1 תמונות מהאשפה…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">מתבצעת הוצאה של ^1 סרטונים מהאשפה…</item>
+        <item quantity="one">מתבצעת הוצאה של סרטון אחד מהאשפה…</item>
+        <item quantity="two">מתבצעת הוצאה של ^1 סרטונים מהאשפה…</item>
+        <item quantity="many">מתבצעת הוצאה של ^1 סרטונים מהאשפה…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">מתבצע שינוי ב-^1 קובצי אודיו…</item>
+        <item quantity="one">מתבצע שינוי בקובץ אודיו אחד…</item>
+        <item quantity="two">מתבצע שינוי ב-^1 קובצי אודיו…</item>
+        <item quantity="many">מתבצע שינוי ב-^1 קובצי אודיו…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">מתבצע שינוי ב-^1 פריטים…</item>
+        <item quantity="one">מתבצע שינוי בפריט אחד…</item>
+        <item quantity="two">מתבצע שינוי ב-^1 פריטים…</item>
+        <item quantity="many">מתבצע שינוי ב-^1 פריטים…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">מתבצע שינוי ב-^1 תמונות…</item>
+        <item quantity="one">מתבצע שינוי בתמונה אחת…</item>
+        <item quantity="two">מתבצע שינוי ב-^1 תמונות…</item>
+        <item quantity="many">מתבצע שינוי ב-^1 תמונות…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">מתבצע שינוי ב-^1 סרטונים…</item>
+        <item quantity="one">מתבצע שינוי בסרטון אחד…</item>
+        <item quantity="two">מתבצע שינוי ב-^1 סרטונים…</item>
+        <item quantity="many">מתבצע שינוי ב-^1 סרטונים…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">לאפשר לאפליקציה ^1 להעביר ^2 קובצי אודיו לאשפה?</item>
+        <item quantity="one">לאפשר לאפליקציה ^1 להעביר את קובץ האודיו הזה לאשפה?</item>
+        <item quantity="two">לאפשר לאפליקציה ^1 להעביר ^2 קובצי אודיו לאשפה?</item>
+        <item quantity="many">לאפשר לאפליקציה ^1 להעביר ^2 קובצי אודיו לאשפה?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">לאפשר לאפליקציה ^1 להעביר ^2 פריטים לאשפה?</item>
+        <item quantity="one">לאפשר לאפליקציה ^1 להעביר את הפריט הזה לאשפה?</item>
+        <item quantity="two">לאפשר לאפליקציה ^1 להעביר ^2 פריטים לאשפה?</item>
+        <item quantity="many">לאפשר לאפליקציה ^1 להעביר ^2 פריטים לאשפה?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">לאפשר לאפליקציה ^1 להעביר ^2 תמונות לאשפה?</item>
+        <item quantity="one">לאפשר לאפליקציה ^1 להעביר את התמונה הזו לאשפה?</item>
+        <item quantity="two">לאפשר לאפליקציה ^1 להעביר ^2 תמונות לאשפה?</item>
+        <item quantity="many">לאפשר לאפליקציה ^1 להעביר ^2 תמונות לאשפה?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">לאפשר לאפליקציה ^1 להעביר ^2 סרטונים לאשפה?</item>
+        <item quantity="one">לאפשר לאפליקציה ^1 להעביר את הסרטון הזה לאשפה?</item>
+        <item quantity="two">לאפשר לאפליקציה ^1 להעביר ^2 סרטונים לאשפה?</item>
+        <item quantity="many">לאפשר לאפליקציה ^1 להעביר ^2 סרטונים לאשפה?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">לאפשר לאפליקציה ^1 להוציא ^2 קובצי אודיו מהאשפה?</item>
+        <item quantity="one">לאפשר לאפליקציה ^1 להוציא את קובץ האודיו הזה מהאשפה?</item>
+        <item quantity="two">לאפשר לאפליקציה ^1 להוציא ^2 קובצי אודיו מהאשפה?</item>
+        <item quantity="many">לאפשר לאפליקציה ^1 להוציא ^2 קובצי אודיו מהאשפה?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">לאפשר לאפליקציה ^1 להוציא ^2 פריטים מהאשפה?</item>
+        <item quantity="one">לאפשר לאפליקציה ^1 להוציא את הפריט הזה מהאשפה?</item>
+        <item quantity="two">לאפשר לאפליקציה ^1 להוציא ^2 פריטים מהאשפה?</item>
+        <item quantity="many">לאפשר לאפליקציה ^1 להוציא ^2 פריטים מהאשפה?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">לאפשר לאפליקציה ^1 להוציא ^2 תמונות מהאשפה?</item>
+        <item quantity="one">לאפשר לאפליקציה ^1 להוציא את התמונה הזו מהאשפה?</item>
+        <item quantity="two">לאפשר לאפליקציה ^1 להוציא ^2 תמונות מהאשפה?</item>
+        <item quantity="many">לאפשר לאפליקציה ^1 להוציא ^2 תמונות מהאשפה?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">לאפשר לאפליקציה ^1 להוציא ^2 סרטונים מהאשפה?</item>
+        <item quantity="one">לאפשר לאפליקציה ^1 להוציא את הסרטון הזה מהאשפה?</item>
+        <item quantity="two">לאפשר לאפליקציה ^1 להוציא ^2 סרטונים מהאשפה?</item>
+        <item quantity="many">לאפשר לאפליקציה ^1 להוציא ^2 סרטונים מהאשפה?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">לאפשר לאפליקציה ^1 לשנות ^2 קובצי אודיו?</item>
+        <item quantity="one">לאפשר לאפליקציה ^1 לשנות את קובץ האודיו הזה?</item>
+        <item quantity="two">לאפשר לאפליקציה ^1 לשנות ^2 קובצי אודיו?</item>
+        <item quantity="many">לאפשר לאפליקציה ^1 לשנות ^2 קובצי אודיו?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">לאפשר לאפליקציה ^1 לשנות ^2 פריטים?</item>
+        <item quantity="one">לאפשר לאפליקציה ^1 לשנות את הפריט הזה?</item>
+        <item quantity="two">לאפשר לאפליקציה ^1 לשנות ^2 פריטים?</item>
+        <item quantity="many">לאפשר לאפליקציה ^1 לשנות ^2 פריטים?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">לאפשר לאפליקציה ^1 לשנות ^2 תמונות?</item>
+        <item quantity="one">לאפשר לאפליקציה ^1 לשנות את התמונה הזו?</item>
+        <item quantity="two">לאפשר לאפליקציה ^1 לשנות ^2 תמונות?</item>
+        <item quantity="many">לאפשר לאפליקציה ^1 לשנות ^2 תמונות?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">לאפשר לאפליקציה ^1 לשנות ^2 סרטונים?</item>
+        <item quantity="one">לאפשר לאפליקציה ^1 לשנות את הסרטון הזה?</item>
+        <item quantity="two">לאפשר לאפליקציה ^1 לשנות ^2 סרטונים?</item>
+        <item quantity="many">לאפשר לאפליקציה ^1 לשנות ^2 סרטונים?</item>
+    </plurals>
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="delay_to_show_no_upstream_after_no_backhaul">5000</integer>
+</resources>

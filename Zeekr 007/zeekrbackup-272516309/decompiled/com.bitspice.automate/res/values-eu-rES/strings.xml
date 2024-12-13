@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accept">Onartu</string>
+    <string name="always">Beti</string>
+    <string name="app_name">AutoMate</string>
+    <string name="done">Egina</string>
+    <string name="driving_notification_summary">Ukitu AutoMate abiarazteko</string>
+    <string name="driving_notification_title">Gidatzen ari zarela dirudi</string>
+    <string name="launcher_name">AutoMate Abiarazlea</string>
+    <string name="navigation_error">Errorea nabigazioa hastean</string>
+    <string name="never">Inoiz ez</string>
+    <string name="next">Hurrengoa</string>
+    <string name="pref_email">Mezua bidali egiguzu</string>
+    <string name="pref_pause_music_when_audio_active">Musika pausatu audio oharrekin</string>
+    <string name="pref_silence_audio_during_calls">Isildu audioa deietan</string>
+    <string name="say_command">Esan egizu agindu bat</string>
+    <string name="send">Bidali</string>
+    <string name="start">Hasi</string>
+    <string name="unknown">Ezezaguna</string>
+    <string name="url">URLa</string>
+    <string name="view_all">Dena ikusi</string>
+    <string name="voice">Ahots Aginduak</string>
+    <string name="voice_not_supported">Zure gailuak ez du ahots sarrera onartzen</string>
+    <string name="voice_prompt">Hitz egizu orain</string>
+</resources>

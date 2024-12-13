@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ZeekrTheme26" parent="@style/Base.ZeekrTheme">
+        <item name="android:colorBackground">@color/md_theme_dark_background</item>
+        <item name="android:statusBarColor">@color/md_theme_dark_background</item>
+        <item name="android:navigationBarColor">@color/md_theme_dark_background</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="colorCardSegment">@color/md_theme_dark_colorCardSegment</item>
+        <item name="colorCardSegmentBackground">@color/md_theme_dark_colorCardSegmentBackground</item>
+        <item name="colorError">@color/md_theme_dark_error</item>
+        <item name="colorErrorPress">@color/md_theme_dark_colorErrorPress</item>
+        <item name="colorOnPrimary">@color/md_theme_dark_onPrimary</item>
+        <item name="colorPrimary">@color/md_theme_dark_primary</item>
+        <item name="colorPrimaryContainer">@color/md_theme_dark_primaryContainer</item>
+        <item name="colorPrimaryInverse">@color/md_theme_dark_primaryInverse</item>
+        <item name="colorPrimarySurface">@color/md_theme_dark_primarySurface</item>
+        <item name="colorProgressBar">@color/md_theme_dark_colorProgressBar</item>
+        <item name="colorRealPress">@color/md_theme_dark_colorRealPress</item>
+        <item name="colorRuling">@color/md_theme_dark_colorRuling</item>
+        <item name="colorSecondary">@color/md_theme_dark_secondary</item>
+        <item name="colorSecondaryButton">@color/md_theme_dark_colorSecondaryButton</item>
+        <item name="colorSecondaryContainer">@color/md_theme_dark_secondaryContainer</item>
+        <item name="colorSecondaryPress">@color/md_theme_dark_colorSecondaryPress</item>
+        <item name="colorSecondaryVariant">@color/md_theme_dark_secondaryVariant</item>
+        <item name="colorSliderInactive">@color/md_theme_dark_sliderInverse</item>
+        <item name="colorSplashScreenBackground">@color/md_theme_dark_colorSplashScreenBackground</item>
+        <item name="colorSplashScreenIconPath1">@color/md_theme_dark_colorSplashScreenIconPath1</item>
+        <item name="colorSplashScreenIconPath2">@color/md_theme_dark_colorSplashScreenIconPath2</item>
+        <item name="colorSplashWindowBackground">@color/md_theme_dark_colorSplashWindowBackground</item>
+        <item name="colorSurface">@color/md_theme_dark_surface</item>
+        <item name="colorSurfaceInverse">@color/md_theme_dark_surfaceInverse</item>
+        <item name="colorSurfaceVariant">@color/md_theme_dark_surfaceVariant</item>
+        <item name="colorTertiary">@color/md_theme_dark_tertiary</item>
+        <item name="colorTertiaryPress">@color/md_theme_dark_colorTertiaryPress</item>
+        <item name="colorTogglePress">@color/md_theme_dark_colorTogglePress</item>
+        <item name="elevationOverlayColor">?colorSecondary</item>
+        <item name="elevationOverlayEnabled">false</item>
+    </style>
+</resources>

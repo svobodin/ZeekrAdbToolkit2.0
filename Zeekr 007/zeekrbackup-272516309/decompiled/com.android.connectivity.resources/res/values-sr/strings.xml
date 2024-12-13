@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">Ресурси за повезивање са системом</string>
+    <string name="mobile_no_internet">Мобилна мрежа нема приступ интернету</string>
+    <string name="network_available_sign_in">Пријавите се на мрежу</string>
+    <string name="network_partial_connectivity">%1$s има ограничену везу</string>
+    <string name="network_partial_connectivity_detailed">Додирните да бисте се ипак повезали</string>
+    <string name="network_switch_metered">Прешли сте на тип мреже %1$s</string>
+    <string name="network_switch_metered_detail">Уређај користи тип мреже %1$s када тип мреже %2$s нема приступ интернету. Можда ће се наплаћивати трошкови.</string>
+    <string name="network_switch_metered_toast">Прешли сте са типа мреже %1$s на тип мреже %2$s</string>
+    <string name="network_switch_type_name_unknown">непознат тип мреже</string>
+    <string name="other_networks_no_internet">Мрежа нема приступ интернету</string>
+    <string name="private_dns_broken_detailed">Приступ приватном DNS серверу није успео</string>
+    <string name="wifi_available_sign_in">Пријављивање на WiFi мрежу</string>
+    <string name="wifi_no_internet">%1$s нема приступ интернету</string>
+    <string name="wifi_no_internet_detailed">Додирните за опције</string>
+</resources>

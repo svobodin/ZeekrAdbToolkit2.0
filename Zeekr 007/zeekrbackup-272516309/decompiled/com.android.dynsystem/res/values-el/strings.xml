@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">Πληκτρολογήστε τον κωδικό σας και συνεχίστε στις Δυναμικές ενημερώσεις συστήματος.</string>
+    <string name="notification_action_cancel">Ακύρωση</string>
+    <string name="notification_action_discard">Απόρριψη</string>
+    <string name="notification_action_reboot_to_dynsystem">Επανεκκίνηση</string>
+    <string name="notification_action_reboot_to_origin">Επανεκκίνηση</string>
+    <string name="notification_dynsystem_in_use">Αυτήν τη στιγμή εκτελούνται δυναμικές συστήματος. Επανεκκινήστε για να χρησιμοποιήσετε την αρχική έκδοση Android.</string>
+    <string name="notification_image_validation_failed">Η επαλήθευση εικόνας απέτυχε. Ακύρωση εγκατάστασης.</string>
+    <string name="notification_install_completed">Οι δυναμικές συστήματος είναι έτοιμες. Για να ξεκινήσετε να τις χρησιμοποιείτε, επανεκκινήστε τη συσκευή σας.</string>
+    <string name="notification_install_failed">Η εγκατάσταση απέτυχε.</string>
+    <string name="notification_install_inprogress">Εγκατάσταση σε εξέλιξη</string>
+    <string name="toast_dynsystem_discarded">Οι δυναμικές συστήματος απορρίφθηκαν.</string>
+    <string name="toast_failed_to_disable_dynsystem">Απέτυχε η απενεργοποίηση των δυναμικών συστήματος</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Δεν είναι δυνατή η επανεκκίνηση ή η φόρτωση δυναμικών συστήματος</string>
+</resources>

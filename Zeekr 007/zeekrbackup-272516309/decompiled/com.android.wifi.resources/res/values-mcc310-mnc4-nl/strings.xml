@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s: Je kunt buiten het dekkingsgebied van Verizon geen verbinding maken met Verizon Wi-Fi Access.</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s: Je hebt geen abonnement op Verizon Wi-Fi Access. Bel ons op 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s: Er is een probleem met je Verizon Wi-Fi Access-account. Bel ons op 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s: Je hebt al verbinding met Verizon Wi-Fi Access.</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s: Er is een probleem bij het maken van verbinding met Verizon Wi-Fi Access. Bel ons op 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s: Er is een probleem met je Verizon Wi-Fi Access-account. Bel ons op 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s: Verizon Wi-Fi Access is niet beschikbaar op jouw locatie. Probeer het later opnieuw of ga naar een andere locatie.</string>
+</resources>

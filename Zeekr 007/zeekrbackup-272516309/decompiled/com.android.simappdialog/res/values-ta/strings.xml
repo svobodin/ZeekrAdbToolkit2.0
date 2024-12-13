@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">சிம் ஆப்ஸ் உரையாடல்</string>
+    <string name="install_carrier_app_defer_action">இப்போது வேண்டாம்</string>
+    <string name="install_carrier_app_description">உங்கள் புதிய சிம் சரியாக இயங்குவதற்கு, நீங்கள் %1$s ஆப்ஸை நிறுவ வேண்டும்</string>
+    <string name="install_carrier_app_description_default">உங்கள் புதிய சிம் சரியாக இயங்குவதற்கு, நீங்கள் மொபைல் நிறுவன ஆப்ஸை நிறுவ வேண்டும்</string>
+    <string name="install_carrier_app_download_action">ஆப்ஸைப் பதிவிறக்கு</string>
+    <string name="install_carrier_app_title">மொபைல் சேவையை இயக்கு</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">முந்தையது</string>
+    <string name="suw_more_button_label">மேலும்</string>
+    <string name="suw_next_button_label">அடுத்து</string>
+</resources>

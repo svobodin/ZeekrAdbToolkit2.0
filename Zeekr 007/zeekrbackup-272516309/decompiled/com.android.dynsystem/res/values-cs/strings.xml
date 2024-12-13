@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">Zadejte heslo a pokračujte k dynamickým aktualizacím systému</string>
+    <string name="notification_action_cancel">Zrušit</string>
+    <string name="notification_action_discard">Zahodit</string>
+    <string name="notification_action_reboot_to_dynsystem">Restartovat</string>
+    <string name="notification_action_reboot_to_origin">Restartovat</string>
+    <string name="notification_dynsystem_in_use">Je spuštěn dynamický systém. Chcete-li použít původní verzi systému Android, restartujte zařízení.</string>
+    <string name="notification_image_validation_failed">Obraz disku se nepodařilo ověřit. Zrušte instalaci.</string>
+    <string name="notification_install_completed">Dynamický systém je připraven. Chcete-li ho začít používat, restartujte zařízení.</string>
+    <string name="notification_install_failed">Instalace se nezdařila</string>
+    <string name="notification_install_inprogress">Probíhá instalace</string>
+    <string name="toast_dynsystem_discarded">Zahodit dynamický systém</string>
+    <string name="toast_failed_to_disable_dynsystem">Dynamický systém se nepodařilo deaktivovat</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Dynamický systém nelze znovu spustit nebo načíst</string>
+</resources>

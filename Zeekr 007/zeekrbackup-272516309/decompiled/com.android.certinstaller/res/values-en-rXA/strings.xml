@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_missing_private_key">[ÞŕîVåţé ķéý ŕéQûîŕéð ţö îñšţåļļ å çéŕţîƒîçåţé one two three four five]</string>
+    <string name="action_missing_user_cert">[Çéŕţîƒîçåţé ŕéQûîŕéð ţö îñšţåļļ å þŕîVåţé ķéý one two three four five]</string>
+    <string name="app_name">[Çéŕţîƒîçåţé Îñšţåļļéŕ one two three]</string>
+    <string name="ca_cert_is_added">[ÇÅ çéŕţîƒîçåţé îñšţåļļéð one two three]</string>
+    <string name="ca_certificate">[ÇÅ çéŕţîƒîçåţé one two three]</string>
+    <string name="cert_missing_error">"[Çöûļðñ'ţ îñšţåļļ ɓéçåûšé ţĥé çéŕţîƒîçåţé ƒîļé çöûļðñ'ţ ɓé ļöçåţéð. one two three four five six seven eight]"</string>
+    <string name="cert_not_saved">[Ţĥé çéŕţîƒîçåţé îš ñöţ îñšţåļļéð. one two three four]</string>
+    <string name="cert_read_error">"[Çöûļðñ'ţ îñšţåļļ ɓéçåûšé ţĥé çéŕţîƒîçåţé ƒîļé çöûļðñ'ţ ɓé ŕéåð. one two three four five six seven]"</string>
+    <string name="cert_temp_error">[Ţéḿþöŕåŕý ƒåîļûŕé. Þļéåšé ţŕý åĝåîñ ļåţéŕ. one two three four five]</string>
+    <string name="cert_too_large_error">"[Çöûļðñ'ţ îñšţåļļ ɓéçåûšé ţĥé çéŕţîƒîçåţé šîžé îš ţöö ļåŕĝé. one two three four five six seven]"</string>
+    <string name="certificate">[Çéŕţîƒîçåţé one two]</string>
+    <string name="certificate_capabilities_warning">[Ñöţé: Ţĥé îššûéŕ öƒ ţĥîš çéŕţîƒîçåţé ḿåý îñšþéçţ åļļ ţŕåƒƒîç ţö åñð ƒŕöḿ ţĥé ðéVîçé. one two three four five six seven eight nine]</string>
+    <string name="certificate_name">[Çéŕţîƒîçåţé ñåḿé one two three]</string>
+    <string name="credential_info">[Ţĥé þåçķåĝé çöñţåîñš: one two three]</string>
+    <string name="credential_password">[Ţýþé ţĥé þåššŵöŕð ţö éхţŕåçţ ţĥé çéŕţîƒîçåţéš. one two three four five six]</string>
+    <string name="credential_usage_label">[Çŕéðéñţîåļ ûšé: one two three]</string>
+    <string name="done_label">[ÐÖÑÉ one]</string>
+    <string name="extracting_pkcs12">[Éхţŕåçţîñĝ… one two]</string>
+    <string name="install_done">[%1$s çŕéðéñţîåļš ĥåVé ɓééñ åððéð ţö Ŵî-Fî šåVéð ñéţŵöŕķš. one two three four five six]</string>
+    <string name="install_done_title">[Çŕéðéñţîåļš îñšţåļļéð one two three]</string>
+    <string name="invalid_cert">[Ţĥé çéŕţîƒîçåţé îš îñVåļîð. one two three four]</string>
+    <string name="invalid_certificate_close_button">[Çļöšé one]</string>
+    <string name="invalid_certificate_message">"[Ţĥîš ƒîļé çåñ'ţ ɓé ûšéð åš å %1$s one two three four]"</string>
+    <string name="invalid_certificate_title">"[Çåñ'ţ ûšé ţĥîš ƒîļé one two three]"</string>
+    <string name="n_cacrts">[»%d« ÇÅ çéŕţîƒîçåţéš one two three]</string>
+    <string name="name_char_error">[Ţýþé å ñåḿé ţĥåţ çöñţåîñš öñļý ļéţţéŕš åñð ñûḿɓéŕš. one two three four five six]</string>
+    <string name="name_credential_dialog_title">[Ñåḿé ţĥîš çéŕţîƒîçåţé one two three]</string>
+    <string name="name_empty_error">[Ţýþé å ñåḿé. one two]</string>
+    <string name="no_cert_to_saved">[Ñö çéŕţîƒîçåţé ţö îñšţåļļ. one two three four]</string>
+    <string name="one_cacrt">[öñé ÇÅ çéŕţîƒîçåţé one two three]</string>
+    <string name="one_usercrt">[öñé ûšéŕ çéŕţîƒîçåţé one two three]</string>
+    <string name="one_userkey">[öñé ûšéŕ ķéý one two]</string>
+    <string name="only_primary_user_allowed">[Öñļý ţĥé öŵñéŕ öƒ ţĥîš ðéVîçé ḿåý îñšţåļļ çéŕţîƒîçåţéš. one two three four five six seven]</string>
+    <string name="p12_description">[Çéŕţîƒîçåţéš îñ ÞĶÇŠ12 ķéýšţöŕé. one two three four]</string>
+    <string name="password_empty_error">[Ţýþé ţĥé þåššŵöŕð. one two three]</string>
+    <string name="password_error">[Ţýþé ţĥé çöŕŕéçţ þåššŵöŕð. one two three four]</string>
+    <string name="pick_file_title">[Çĥööšé å çéŕţîƒîçåţé one two three]</string>
+    <string name="pkcs12_file_password_dialog_title">[Éхţŕåçţ ƒŕöḿ »%s« one two]</string>
+    <string name="pkcs12_password_dialog_title">[Éхţŕåçţ çéŕţîƒîçåţé one two three]</string>
+    <string name="redirect_ca_certificate_close_button">[Çļöšé one]</string>
+    <string name="redirect_ca_certificate_title">[Îñšţåļļ ÇÅ çéŕţîƒîçåţéš îñ Šéţţîñĝš one two three four]</string>
+    <string name="redirect_ca_certificate_with_app_info_message">[Ţĥîš çéŕţîƒîçåţé ƒŕöḿ %1$s ḿûšţ ɓé îñšţåļļéð îñ Šéţţîñĝš. Öñļý îñšţåļļ ÇÅ çéŕţîƒîçåţéš ƒŕöḿ öŕĝåñîžåţîöñš ýöû ţŕûšţ. one two three four five six seven eight nine ten eleven twelve]</string>
+    <string name="select_certificate_usage_title">[Çĥööšé å çéŕţîƒîçåţé ţýþé one two three]</string>
+    <string name="unable_to_save_cert">"[Çöûļðñ'ţ šåVé ţĥé çéŕţîƒîçåţé. Ţĥé çŕéðéñţîåļ šţöŕåĝé îšñ'ţ éñåɓļéð öŕ þŕöþéŕļý îñîţîåļîžéð. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen]"</string>
+    <string name="user_cert_is_added">[Ûšéŕ çéŕţîƒîçåţé îñšţåļļéð one two three four]</string>
+    <string name="user_certificate">"[νÞÑ &amp;  åþþ ûšéŕ çéŕţîƒîçåţé one two three]"</string>
+    <string name="userkey_type">[Åļĝöŕîţĥḿ: one two]</string>
+    <string name="wifi_cancel_label">[Çåñçéļ one two]</string>
+    <string name="wifi_cert_is_added">[Ŵî‑Fî çéŕţîƒîçåţé îñšţåļļéð one two three four]</string>
+    <string name="wifi_certificate">[Ŵî‑Fî çéŕţîƒîçåţé one two three]</string>
+    <string name="wifi_config_text">"[Ñåḿé: »%1$s«
+FqÐÑ: »%2$s«
+Ŕöåḿîñĝ Çöñšöŕţîûḿš: »%3$s«
+Ŕéåļḿ: »%4$s«
+Åûţĥ ḿéţĥöð: ÉÅÞ-»%5$s«
+ one two three four five six seven eight nine ten eleven twelve thirteen]"</string>
+    <string name="wifi_detail_label">[Ðéţåîļš one two]</string>
+    <string name="wifi_detail_title">[Ðéţåîļš ƒöŕ »%s« one two]</string>
+    <string name="wifi_dismiss_label">[Ðîšḿîšš one two]</string>
+    <string name="wifi_install_label">[Îñšţåļļ one two]</string>
+    <string name="wifi_installer_detail">[Îñšţåļļ Ŵî-Fî çŕéðéñţîåļš ţö çöññéçţ ţö ñéţŵöŕķš åVåîļåɓļé Vîå %1$s. one two three four five six seven]</string>
+    <string name="wifi_installer_download_error">"[Ðöŵñļöåðéð ƒîļé ĥåš þŕöɓļéḿš åñð çåñ'ţ ɓé îñšţåļļéð. Ḿåķé šûŕé ýöû ðöŵñļöåðéð ţĥé ƒîļé ƒŕöḿ ţĥé çöŕŕéçţ šöûŕçé. one two three four five six seven eight nine ten eleven twelve]"</string>
+    <string name="wifi_installer_fail">"[Çåñ'ţ îñšţåļļ Ŵî-Fî çŕéðéñţîåļš. Ţŕý ðöŵñļöåðîñĝ ţĥé ƒîļé åĝåîñ. one two three four five six seven eight nine ten eleven twelve thirteen]"</string>
+    <string name="wifi_installer_fail_no_wifi">[Ţûŕñ öñ Ŵî-Fî åñð ţŕý åĝåîñ. one two three four]</string>
+    <string name="wifi_installer_fail_no_wifi_title">[Îñšţåļļåţîöñ çåñçéļéð one two three]</string>
+    <string name="wifi_installer_fail_title">"[Çåñ'ţ îñšţåļļ one two]"</string>
+    <string name="wifi_installing_label">[Îñšţåļļîñĝ one two]</string>
+    <string name="wifi_no_config">[Ñöñé one]</string>
+    <string name="wifi_sim_config_text">"[ŠÎḾ: »%s«
+ one two]"</string>
+    <string name="wifi_title">[Ŵî-Fî Þŕöƒîļé one two]</string>
+    <string name="wifi_tls_config_text">"[Çļîéñţ çéŕţîƒîçåţé:
+»%1$s«
+Ķéý: »%2$s«
+ one two three four]"</string>
+    <string name="wifi_trust_config_text">"[Ţŕûšţ çéŕţîƒîçåţé:
+»%s«
+ one two three]"</string>
+    <string name="wifi_ttls_config_text">"[Ûšéŕ ñåḿé: »%s«
+ one two]"</string>
+</resources>

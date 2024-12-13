@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">온라인 가입</string>
+    <string name="app_name">OsuLogin</string>
+    <string name="sign_up_failed">가입에 실패했습니다.</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

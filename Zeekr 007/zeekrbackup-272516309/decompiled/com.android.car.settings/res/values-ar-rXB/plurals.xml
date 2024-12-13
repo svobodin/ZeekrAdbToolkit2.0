@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">‏‮Camera‬‏ ‏‮apps‬‏</item>
+        <item quantity="one">‏‮Camera‬‏ ‏‮app‬‏</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">‏‮Email‬‏ ‏‮client‬‏ ‏‮apps‬‏</item>
+        <item quantity="one">‏‮Email‬‏ ‏‮client‬‏ ‏‮app‬‏</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">‏‮Phone‬‏ ‏‮apps‬‏</item>
+        <item quantity="one">‏‮Phone‬‏ ‏‮app‬‏</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_ca_certs">
+        <item quantity="other">‏‮Minimum‬‏ %d ‏‮CA‬‏ ‏‮certificates‬‏</item>
+        <item quantity="one">‏‮Minimum‬‏ %d ‏‮CA‬‏ ‏‮certificate‬‏</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d ‏‮attempts‬‏</item>
+        <item quantity="one">%d ‏‮attempt‬‏</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d ‏‮apps‬‏</item>
+        <item quantity="one">%d ‏‮app‬‏</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">‏‮Minimum‬‏ %d ‏‮apps‬‏</item>
+        <item quantity="one">‏‮Minimum‬‏ %d ‏‮app‬‏</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d ‏‮new‬‏ ‏‮notifications‬‏</item>
+        <item quantity="one">%d ‏‮new‬‏ ‏‮notification‬‏</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">‏‮%1$d‬‏ ‏‮devices‬‏ ‏‮connected‬‏</item>
+        <item quantity="one">‏‮%1$d‬‏ ‏‮device‬‏ ‏‮connected‬‏</item>
+    </plurals>
+</resources>

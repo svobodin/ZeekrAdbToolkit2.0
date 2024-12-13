@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="action_preference_min_height">78.0dip</dimen>
+    <dimen name="dialog_max_height">800.0dip</dimen>
+    <dimen name="dialog_width">580.0dip</dimen>
+    <dimen name="preference_activity_horizontal_margin">82.0dip</dimen>
+</resources>

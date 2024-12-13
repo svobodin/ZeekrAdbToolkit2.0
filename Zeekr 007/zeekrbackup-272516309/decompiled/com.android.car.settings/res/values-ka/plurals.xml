@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">კამერის აპები</item>
+        <item quantity="one">კამერის აპი</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">ელფოსტის კლიენტის აპები</item>
+        <item quantity="one">ელფოსტის კლიენტის აპი</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">ტელეფონის აპები</item>
+        <item quantity="one">ტელეფონის აპი</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d მცდელობა</item>
+        <item quantity="one">%d მცდელობა</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d აპი</item>
+        <item quantity="one">%d აპი</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">მინიმუმ %d აპი</item>
+        <item quantity="one">მინიმუმ %d აპი</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d ახალი შეტყობინება</item>
+        <item quantity="one">%d ახალი შეტყობინება</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">დაკავშირებულია %1$d მოწყობილობა</item>
+        <item quantity="one">დაკავშირებულია %1$d მოწყობილობა</item>
+    </plurals>
+</resources>

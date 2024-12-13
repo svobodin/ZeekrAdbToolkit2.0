@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">தொடர்புகள் சேமிப்பிடம்</string>
+    <string name="debug_dump_database_message">நீங்கள் செய்யக்கூடியவை 1) தொடர்புகள் தொடர்பான எல்லா தகவலும், அழைப்பின் எல்லா பதிவையும் உள்ளடக்கும் உங்கள் தரவுத்தளத்தை அகச் சேமிப்பிடத்தில் நகலெடுக்கலாம், பின்னர் 2) அதை மின்னஞ்சல் செய்யலாம். அதைச் சாதனத்திலிருந்து வெற்றிகரமாக நகலெடுத்தவுடன் அல்லது மின்னஞ்சலைப் பெற்றவுடன் அதன் நகலை மறக்காமல் நீக்கிவிடவும் செய்யலாம்.</string>
+    <string name="debug_dump_delete_button">இப்போதே நீக்கு</string>
+    <string name="debug_dump_email_body">இணைப்பில் எனது எல்லா தொடர்புகளின் தகவல் உள்ள எனது தொடர்புகளின் தரவுத்தளம் உள்ளது. அதைக் கவனமாக கையாளவும்.</string>
+    <string name="debug_dump_email_sender_picker">உங்கள் ஃபைலை அனுப்ப நிரலைத் தேர்வுசெய்யவும்</string>
+    <string name="debug_dump_email_subject">தொடர்புகளின் Db இணைக்கப்பட்டுள்ளது</string>
+    <string name="debug_dump_start_button">தொடங்கு</string>
+    <string name="debug_dump_title">தொடர்புகளின் தரவுத்தளத்தை நகலெடு</string>
+    <string name="default_directory">தொடர்புகள்</string>
+    <string name="local_invisible_directory">மற்றவை</string>
+    <string name="provider_label">தொடர்புகள்</string>
+    <string name="sharedUserLabel">Android முக்கிய ஆப்ஸ்</string>
+    <string name="upgrade_out_of_memory_notification_text">மேம்படுத்தலை முடிக்க, தட்டவும்.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">தொடர்புகளின் மேம்படுத்தலுக்கு கூடுதல் நினைவகம் தேவை.</string>
+    <string name="upgrade_out_of_memory_notification_title">தொடர்புகளுக்காகச் சேமிப்பிடத்தை மேம்படுத்துகிறது</string>
+    <string name="voicemail_from_column">"இவரிடமிருந்து குரலஞ்சல் "</string>
+</resources>

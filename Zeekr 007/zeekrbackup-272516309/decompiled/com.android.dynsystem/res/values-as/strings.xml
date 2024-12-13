@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">"অনুগ্ৰহ কৰি আপোনাৰ পাছৱৰ্ডটো দিয়ক আৰু ডায়নামিক ছিষ্টেম আপডে'টসমূহলৈ অব্যাহত ৰাখক"</string>
+    <string name="notification_action_cancel">বাতিল কৰক</string>
+    <string name="notification_action_discard">বাতিল কৰক</string>
+    <string name="notification_action_reboot_to_dynsystem">ৰিষ্টাৰ্ট কৰক</string>
+    <string name="notification_action_reboot_to_origin">ৰিষ্টাৰ্ট কৰক</string>
+    <string name="notification_dynsystem_in_use">বৰ্তমান এটা ডায়নামিক ছিষ্টেম চলি আছে। মূল Android সংস্কৰণটো ব্যৱহাৰ কৰিবলৈ ৰিষ্টাৰ্ট কৰক।</string>
+    <string name="notification_image_validation_failed">প্ৰতিচ্ছবিখন সত্যাপন কৰিব পৰা নগ’ল। ইনষ্টলেশ্বন বাতিল কৰক।</string>
+    <string name="notification_install_completed">ডায়নামিক ছিষ্টেমটো সাজু। এইটো ব্যৱহাৰ কৰা আৰম্ভ কৰিবলৈ আপোনাৰ ডিভাইচটো ৰিষ্টাৰ্ট কৰক।</string>
+    <string name="notification_install_failed">ইনষ্টল কৰিব পৰা নগ’ল</string>
+    <string name="notification_install_inprogress">ইনষ্টল চলি আছে</string>
+    <string name="toast_dynsystem_discarded">বাতিল কৰা ডায়নামিক ছিষ্টেম</string>
+    <string name="toast_failed_to_disable_dynsystem">ডায়নামিক ছিষ্টেম অক্ষম কৰিব পৰা নগ’ল</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">"ডায়নামিক ছিষ্টেম ৰিষ্টার্ট অথবা ল'ড কৰিব নোৱাৰি"</string>
+</resources>

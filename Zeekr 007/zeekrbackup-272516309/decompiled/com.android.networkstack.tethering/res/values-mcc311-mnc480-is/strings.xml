@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Slökkva á tjóðrun</string>
+    <string name="no_upstream_notification_message">Tæki geta ekki tengst</string>
+    <string name="no_upstream_notification_title">Tjóðrun er ekki með internettengingu</string>
+    <string name="upstream_roaming_notification_message">Viðbótargjöld kunna að eiga við í reiki</string>
+    <string name="upstream_roaming_notification_title">Kveikt er á heitum reit eða tjóðrun</string>
+</resources>

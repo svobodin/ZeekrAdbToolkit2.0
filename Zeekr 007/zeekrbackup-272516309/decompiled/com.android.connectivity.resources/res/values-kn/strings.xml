@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">ಸಿಸ್ಟಂ ಸಂಪರ್ಕ ಕಲ್ಪಿಸುವಿಕೆ ಮಾಹಿತಿಯ ಮೂಲಗಳು</string>
+    <string name="mobile_no_internet">ಮೊಬೈಲ್ ನೆಟ್‌ವರ್ಕ್‌ ಯಾವುದೇ ಇಂಟರ್ನೆಟ್ ಪ್ರವೇಶವನ್ನು ಹೊಂದಿಲ್ಲ</string>
+    <string name="network_available_sign_in">ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಸೈನ್ ಇನ್ ಮಾಡಿ</string>
+    <string name="network_partial_connectivity">%1$s ಸೀಮಿತ ಸಂಪರ್ಕ ಕಲ್ಪಿಸುವಿಕೆಯನ್ನು ಹೊಂದಿದೆ</string>
+    <string name="network_partial_connectivity_detailed">ಹೇಗಾದರೂ ಸಂಪರ್ಕಿಸಲು ಟ್ಯಾಪ್ ಮಾಡಿ</string>
+    <string name="network_switch_metered">%1$s ಗೆ ಬದಲಾಯಿಸಲಾಗಿದೆ</string>
+    <string name="network_switch_metered_detail">%2$s ಇಂಟರ್ನೆಟ್ ಪ್ರವೇಶ ಹೊಂದಿಲ್ಲದಿರುವಾಗ, ಸಾಧನವು %1$s ಬಳಸುತ್ತದೆ. ಶುಲ್ಕಗಳು ಅನ್ವಯವಾಗಬಹುದು.</string>
+    <string name="network_switch_metered_toast">%1$s ರಿಂದ %2$s ಗೆ ಬದಲಾಯಿಸಲಾಗಿದೆ</string>
+    <string name="network_switch_type_name_unknown">ಅಪರಿಚಿತ ನೆಟ್‌ವರ್ಕ್ ಪ್ರಕಾರ</string>
+    <string name="other_networks_no_internet">ನೆಟ್‌ವರ್ಕ್‌ ಇಂಟರ್ನೆಟ್‌ ಪ್ರವೇಶವನ್ನು ಹೊಂದಿಲ್ಲ</string>
+    <string name="private_dns_broken_detailed">ಖಾಸಗಿ DNS ಸರ್ವರ್ ಅನ್ನು ಪ್ರವೇಶಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ</string>
+    <string name="wifi_available_sign_in">ವೈ-ಫೈ ನೆಟ್‍ವರ್ಕ್‌ಗೆ ಸೈನ್ ಇನ್ ಮಾಡಿ</string>
+    <string name="wifi_no_internet">%1$s ಯಾವುದೇ ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕವನ್ನು ಹೊಂದಿಲ್ಲ</string>
+    <string name="wifi_no_internet_detailed">ಆಯ್ಕೆಗಳಿಗೆ ಟ್ಯಾಪ್ ಮಾಡಿ</string>
+</resources>

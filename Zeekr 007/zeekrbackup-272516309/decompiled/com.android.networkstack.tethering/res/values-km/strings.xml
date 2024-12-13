@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="disable_tether_notification_message">ទាក់ទងអ្នកគ្រប់គ្រង​របស់អ្នក ដើម្បីទទួលបានព័ត៌មានលម្អិត</string>
+    <string name="disable_tether_notification_title">ការភ្ជាប់​ត្រូវបានបិទ</string>
+    <string name="no_upstream_notification_disable_button" />
+    <string name="no_upstream_notification_message" />
+    <string name="no_upstream_notification_title" />
+    <string name="notification_channel_tethering_status">ស្ថានភាពនៃការភ្ជាប់ និងហតស្ប៉ត</string>
+    <string name="tethered_notification_message">ចុច​ដើម្បី​រៀបចំ។</string>
+    <string name="tethered_notification_title">ការភ្ជាប់ ឬហតស្ប៉ត​កំពុងដំណើរការ</string>
+    <string name="upstream_roaming_notification_message" />
+    <string name="upstream_roaming_notification_title" />
+</resources>

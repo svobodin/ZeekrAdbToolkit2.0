@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#ff000000</color>
+    <color name="colorPrimary">#ff000000</color>
+    <color name="dateColor">#7fffffff</color>
+    <color name="emui_appbar_icon">#a9ffffff</color>
+    <color name="linkColor">#ff3f97e9</color>
+    <color name="logoColor">#ff006cde</color>
+    <color name="privacyColor">#7fffffff</color>
+    <color name="titleColor">#a9ffffff</color>
+</resources>

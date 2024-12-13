@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_summary_active">
+        <item quantity="other">%d faili allalaadimine</item>
+        <item quantity="one">1 faili allalaadimine</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">%d faili on ootel</item>
+        <item quantity="one">1 fail on ootel</item>
+    </plurals>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Үйл ажиллагааны хэсэг</string>
+    <string name="message_not_supported">Энэ үйлдлийг хийх боломжтой апп алга</string>
+    <string name="pip_not_supported">Дэлгэц доторх дэлгэцийг энэ төхөөрөмж дээр дэмждэггүй</string>
+    <string name="stub_name">Байхгүй</string>
+</resources>

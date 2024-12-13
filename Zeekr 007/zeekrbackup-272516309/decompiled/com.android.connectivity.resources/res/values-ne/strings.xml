@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">सिस्टम कनेक्टिभिटीका स्रोतहरू</string>
+    <string name="mobile_no_internet">मोबाइल नेटवर्कको इन्टरनेटमाथि पहुँच छैन</string>
+    <string name="network_available_sign_in">सञ्जालमा साइन इन गर्नुहोस्</string>
+    <string name="network_partial_connectivity">%1$s को जडान सीमित छ</string>
+    <string name="network_partial_connectivity_detailed">जसरी भए पनि जडान गर्न ट्याप गर्नुहोस्</string>
+    <string name="network_switch_metered">%1$s मा बदल्नुहोस्</string>
+    <string name="network_switch_metered_detail">%2$s मार्फत इन्टरनेटमाथि पहुँच राख्न नसकेको अवस्थामा यन्त्रले %1$s प्रयोग गर्दछ। शुल्क लाग्न सक्छ।</string>
+    <string name="network_switch_metered_toast">%1$s बाट %2$s मा परिवर्तन गरियो</string>
+    <string name="network_switch_type_name_unknown">नेटवर्कको कुनै अज्ञात प्रकार</string>
+    <string name="other_networks_no_internet">नेटवर्कको इन्टरनेटमाथि पहुँच छैन</string>
+    <string name="private_dns_broken_detailed">निजी DNS सर्भरमाथि पहुँच प्राप्त गर्न सकिँदैन</string>
+    <string name="wifi_available_sign_in">Wi-Fi नेटवर्कमा साइन इन गर्नुहोस्</string>
+    <string name="wifi_no_internet">%1$s को इन्टरनेटमाथि पहुँच छैन</string>
+    <string name="wifi_no_internet_detailed">विकल्पहरूका लागि ट्याप गर्नुहोस्</string>
+</resources>

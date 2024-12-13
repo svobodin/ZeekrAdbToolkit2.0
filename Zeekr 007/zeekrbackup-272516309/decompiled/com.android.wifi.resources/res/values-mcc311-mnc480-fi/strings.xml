@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s : Verizonin Wi-Fi‑yhteyttä ei voi muodostaa Verizonin kattavuusalueen ulkopuolelta.</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s : Et ole tilannut Verizonin Wi-Fi‑yhteyttä. Soita meille: 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s : Verizon Wi-Fi ‑tilisi kanssa on ongelma. Soita meille: 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s : Olet jo yhteydessä Verizonin Wi-Fiin.</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s : Ongelma yhdistettäessä Verizonin Wi-Fiin. Soita meille: 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s : Verizon Wi-Fi ‑tilisi kanssa on ongelma. Soita meille: 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s : Verizon Wi-Fi ei ole saatavilla sijainnissasi. Yritä uudelleen tai toisesta sijainnista.</string>
+</resources>

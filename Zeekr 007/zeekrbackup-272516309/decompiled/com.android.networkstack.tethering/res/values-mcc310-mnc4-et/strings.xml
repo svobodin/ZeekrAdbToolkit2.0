@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Lülita jagamine välja</string>
+    <string name="no_upstream_notification_message">Seadmed ei saa ühendust luua</string>
+    <string name="no_upstream_notification_title">Jagamisel puudub internetiühendus</string>
+    <string name="upstream_roaming_notification_message">Rändluse kasutamisega võivad kaasneda lisatasud</string>
+    <string name="upstream_roaming_notification_title">Kuumkoht või jagamine on sisse lülitatud</string>
+</resources>

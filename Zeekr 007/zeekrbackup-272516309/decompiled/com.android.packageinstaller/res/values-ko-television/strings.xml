@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="additional_permissions_decor_title">추가 권한</string>
+    <string name="app_permissions_decor_title">앱 권한</string>
+    <string name="current_permission_template">%2$s개 중 %1$s</string>
+    <string name="grant_dialog_button_deny_dont_ask_again">거부 및 다시 묻지 않음</string>
+    <string name="grant_dialog_how_to_change">설정 > 앱에서 나중에 변경할 수 있습니다.</string>
+    <string name="manage_permissions_decor_title">앱 권한</string>
+    <string name="permission_apps_decor_title">%1$s 권한</string>
+    <string name="preference_show_system_apps">시스템 앱 보기</string>
+    <string name="system_apps_decor_title">%1$s 권한</string>
+</resources>

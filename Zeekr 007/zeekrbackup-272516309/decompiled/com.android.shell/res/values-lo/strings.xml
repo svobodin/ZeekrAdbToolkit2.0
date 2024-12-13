@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_add_details_to_zip_failed">ບໍ່ສາມາດເພີ່ມລາຍລະອຽດການລາຍງານຂໍ້ຜິດພາດໃສ່ໄຟລ໌ zip ໄດ້</string>
+    <string name="bugreport_confirm">ລາຍງານຂໍ້ຜິດພາດມີຂໍ້ມູນຈາກໄຟລ໌ບັນທຶກຕ່າງໆຂອງລະບົບ ເຊິ່ງອາດຮວມມີຂໍ້ມູນທີ່ທ່ານຖືວ່າເປັນຂໍ້ມູນລະອຽດອ່ອນນຳ (ເຊັ່ນ: ການນຳໃຊ້ແອັບ ແລະ ຂໍ້ມູນສະຖານທີ່). ທ່ານຄວນແບ່ງປັນລາຍງານນີ້ໃຫ້ກັບຄົນ ແລະ ແອັບທີ່ທ່ານເຊື່ອໃຈເທົ່ານັ້ນ.</string>
+    <string name="bugreport_confirm_dont_repeat">ບໍ່ຕ້ອງສະແດງອີກ</string>
+    <string name="bugreport_finished_pending_screenshot_text">ແຕະເພື່ອແບ່ງປັນລາຍງານຂໍ້ຜິດພາດຂອງທ່ານໂດຍບໍ່ໃຊ້ຮູບໜ້າຈໍ ຫຼື ລໍຖ້າໃຫ້ຮູບໜ້າຈໍແລ້ວໆ</string>
+    <string name="bugreport_finished_text">ແຕະເພື່ອແບ່ງປັນລາຍງານຂໍ້ຜິດພາດຂອງທ່ານ</string>
+    <string name="bugreport_finished_title">ບັນທຶກລາຍງານຂໍ້ຜິດພາດ #%d ແລ້ວ</string>
+    <string name="bugreport_in_progress_title">ກຳລັງສ້າງລາຍງານຂໍ້ຜິດພາດ #%d</string>
+    <string name="bugreport_info_action">ລາຍລະອຽດ</string>
+    <string name="bugreport_info_description">ສະຫຼຸບຂໍ້ຜິດພາດ</string>
+    <string name="bugreport_info_dialog_title">ລາຍລະອຽດຂອງລາຍງານຂໍ້ຜິດພາດ #%d</string>
+    <string name="bugreport_info_name">ຊື່ໄຟລ໌</string>
+    <string name="bugreport_info_title">ຊື່ຂໍ້ຜິດພາດ</string>
+    <string name="bugreport_intent_chooser_title">ແບ່ງປັນລາຍງານບັນຫາບໍ?</string>
+    <string name="bugreport_notification_channel">ລາຍງານບັນຫາ</string>
+    <string name="bugreport_screenshot_action">ພາບໜ້າຈໍ</string>
+    <string name="bugreport_screenshot_failed">ບໍ່ສາມາດຖ່າຍພາບໜ້າຈໍໄດ້.</string>
+    <string name="bugreport_screenshot_taken">ຖ່າຍພາບໜ້າຈໍສຳເລັດແລ້ວ.</string>
+    <string name="bugreport_storage_title">ລາຍ​ງານ​ບັນ​ຫາ</string>
+    <string name="bugreport_unnamed">ບໍ່ມີຊື່</string>
+    <string name="bugreport_unreadable_text">ບໍ່ສາມາດອ່ານໄຟລ໌ລາຍງານຂໍ້ຜິດພາດໄດ້</string>
+    <string name="bugreport_updating_title">ກຳລັງເພີ່ມລາຍລະອຽດໃສ່ລາຍງານຂໍ້ຜິດພາດ</string>
+    <string name="bugreport_updating_wait">ກະລຸນາລໍຖ້າ...</string>
+    <string name="save">ບັນທຶກ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

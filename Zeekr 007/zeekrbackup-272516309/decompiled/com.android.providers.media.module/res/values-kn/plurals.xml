@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">ಈ ^2 ಆಡಿಯೋ ಫೈಲ್‌ಗಳನ್ನು ಅಳಿಸಲು ^1 ಗೆ ಅನುಮತಿ ನೀಡಬೇಕೇ?</item>
+        <item quantity="one">ಈ ^2 ಆಡಿಯೋ ಫೈಲ್‌ಗಳನ್ನು ಅಳಿಸಲು ^1 ಗೆ ಅನುಮತಿ ನೀಡಬೇಕೇ?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">ಈ ^2 ಐಟಂಗಳನ್ನು ಅಳಿಸಲು ^1 ಗೆ ಅನುಮತಿ ನೀಡಬೇಕೇ?</item>
+        <item quantity="one">ಈ ^2 ಐಟಂಗಳನ್ನು ಅಳಿಸಲು ^1 ಗೆ ಅನುಮತಿ ನೀಡಬೇಕೇ?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">ಈ ^2 ಫೋಟೋಗಳನ್ನು ಅಳಿಸಲು ^1 ಗೆ ಅನುಮತಿ ನೀಡಬೇಕೇ?</item>
+        <item quantity="one">ಈ ^2 ಫೋಟೋಗಳನ್ನು ಅಳಿಸಲು ^1 ಗೆ ಅನುಮತಿ ನೀಡಬೇಕೇ?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">ಈ ^2 ವೀಡಿಯೊಗಳನ್ನು ಅಳಿಸಲು ^1 ಗೆ ಅನುಮತಿ ನೀಡಬೇಕೇ?</item>
+        <item quantity="one">ಈ ^2 ವೀಡಿಯೊಗಳನ್ನು ಅಳಿಸಲು ^1 ಗೆ ಅನುಮತಿ ನೀಡಬೇಕೇ?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">ಜೊತೆಗೆ ^1 ಹೆಚ್ಚುವರಿ ಐಟಂಗಳು</item>
+        <item quantity="one">ಜೊತೆಗೆ ^1 ಹೆಚ್ಚುವರಿ ಐಟಂಗಳು</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">+^1</item>
+        <item quantity="one">+^1</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">^1 ಆಡಿಯೋ ಫೈಲ್‌ಗಳನ್ನು ಅಳಿಸಲಾಗುತ್ತಿದೆ…</item>
+        <item quantity="one">^1 ಆಡಿಯೋ ಫೈಲ್‌ಗಳನ್ನು ಅಳಿಸಲಾಗುತ್ತಿದೆ…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">^1 ಐಟಂಗಳನ್ನು ಅಳಿಸಲಾಗುತ್ತಿದೆ…</item>
+        <item quantity="one">^1 ಐಟಂಗಳನ್ನು ಅಳಿಸಲಾಗುತ್ತಿದೆ…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">^1 ಫೋಟೋಗಳನ್ನು ಅಳಿಸಲಾಗುತ್ತಿದೆ…</item>
+        <item quantity="one">^1 ಫೋಟೋಗಳನ್ನು ಅಳಿಸಲಾಗುತ್ತಿದೆ…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">^1 ವೀಡಿಯೊಗಳನ್ನು ಅಳಿಸಲಾಗುತ್ತಿದೆ…</item>
+        <item quantity="one">^1 ವೀಡಿಯೊಗಳನ್ನು ಅಳಿಸಲಾಗುತ್ತಿದೆ…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">^1 ಆಡಿಯೋ ಫೈಲ್‌ಗಳನ್ನು ಅನುಪಯುಕ್ತಕ್ಕೆ ಸರಿಸಲಾಗುತ್ತಿದೆ…</item>
+        <item quantity="one">^1 ಆಡಿಯೋ ಫೈಲ್‌ಗಳನ್ನು ಅನುಪಯುಕ್ತಕ್ಕೆ ಸರಿಸಲಾಗುತ್ತಿದೆ…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">^1 ಐಟಂಗಳನ್ನು ಅನುಪಯುಕ್ತಕ್ಕೆ ಸರಿಸಲಾಗುತ್ತಿದೆ…</item>
+        <item quantity="one">^1 ಐಟಂಗಳನ್ನು ಅನುಪಯುಕ್ತಕ್ಕೆ ಸರಿಸಲಾಗುತ್ತಿದೆ…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">^1 ಫೋಟೋಗಳನ್ನು ಅನುಪಯುಕ್ತಕ್ಕೆ ಸರಿಸಲಾಗುತ್ತಿದೆ…</item>
+        <item quantity="one">^1 ಫೋಟೋಗಳನ್ನು ಅನುಪಯುಕ್ತಕ್ಕೆ ಸರಿಸಲಾಗುತ್ತಿದೆ…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">^1 ವೀಡಿಯೋವನ್ನು ಅನುಪಯುಕ್ತಕ್ಕೆ ಸರಿಸಲಾಗುತ್ತಿದೆ…</item>
+        <item quantity="one">^1 ವೀಡಿಯೋವನ್ನು ಅನುಪಯುಕ್ತಕ್ಕೆ ಸರಿಸಲಾಗುತ್ತಿದೆ…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">^1 ಆಡಿಯೋ ಫೈಲ್‌ಗಳನ್ನು ಅನುಪಯುಕ್ತದಿಂದ ಹೊರಗೆ ಸರಿಸಲಾಗುತ್ತಿದೆ…</item>
+        <item quantity="one">^1 ಆಡಿಯೋ ಫೈಲ್‌ಗಳನ್ನು ಅನುಪಯುಕ್ತದಿಂದ ಹೊರಗೆ ಸರಿಸಲಾಗುತ್ತಿದೆ…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">^1 ಐಟಂಗಳನ್ನು ಅನುಪಯುಕ್ತದಿಂದ ಹೊರಗೆ ಸರಿಸಲಾಗುತ್ತಿದೆ…</item>
+        <item quantity="one">^1 ಐಟಂಗಳನ್ನು ಅನುಪಯುಕ್ತದಿಂದ ಹೊರಗೆ ಸರಿಸಲಾಗುತ್ತಿದೆ…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">^1 ಫೋಟೋಗಳನ್ನು ಅನುಪಯುಕ್ತದಿಂದ ಹೊರಗೆ ಸರಿಸಲಾಗುತ್ತಿದೆ…</item>
+        <item quantity="one">^1 ಫೋಟೋಗಳನ್ನು ಅನುಪಯುಕ್ತದಿಂದ ಹೊರಗೆ ಸರಿಸಲಾಗುತ್ತಿದೆ…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">^1 ವೀಡಿಯೋಗಳನ್ನು ಅನುಪಯುಕ್ತದಿಂದ ಹೊರಗೆ ಸರಿಸಲಾಗುತ್ತಿದೆ…</item>
+        <item quantity="one">^1 ವೀಡಿಯೋಗಳನ್ನು ಅನುಪಯುಕ್ತದಿಂದ ಹೊರಗೆ ಸರಿಸಲಾಗುತ್ತಿದೆ…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">^1 ಆಡಿಯೋ ಫೈಲ್‌ಗಳನ್ನು ಮಾರ್ಪಡಿಸಲಾಗುತ್ತಿದೆ…</item>
+        <item quantity="one">^1 ಆಡಿಯೋ ಫೈಲ್‌ಗಳನ್ನು ಮಾರ್ಪಡಿಸಲಾಗುತ್ತಿದೆ…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">^1 ಐಟಂಗಳನ್ನು ಮಾರ್ಪಡಿಸಲಾಗುತ್ತಿದೆ…</item>
+        <item quantity="one">^1 ಐಟಂಗಳನ್ನು ಮಾರ್ಪಡಿಸಲಾಗುತ್ತಿದೆ…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">^1 ಫೋಟೋಗಳನ್ನು ಮಾರ್ಪಡಿಸಲಾಗುತ್ತಿದೆ…</item>
+        <item quantity="one">^1 ಫೋಟೋಗಳನ್ನು ಮಾರ್ಪಡಿಸಲಾಗುತ್ತಿದೆ…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">^1 ವೀಡಿಯೋಗಳನ್ನು ಮಾರ್ಪಡಿಸಲಾಗುತ್ತಿದೆ…</item>
+        <item quantity="one">^1 ವೀಡಿಯೋಗಳನ್ನು ಮಾರ್ಪಡಿಸಲಾಗುತ್ತಿದೆ…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">ಈ ^2 ಆಡಿಯೋ ಫೈಲ್‌ಗಳನ್ನು ಅನುಪಯುಕ್ತಕ್ಕೆ ಸರಿಸಲು ^1 ಗೆ ಅನುಮತಿ ನೀಡಬೇಕೇ?</item>
+        <item quantity="one">ಈ ^2 ಆಡಿಯೋ ಫೈಲ್‌ಗಳನ್ನು ಅನುಪಯುಕ್ತಕ್ಕೆ ಸರಿಸಲು ^1 ಗೆ ಅನುಮತಿ ನೀಡಬೇಕೇ?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">ಈ ^2 ಐಟಂಗಳನ್ನು ಅನುಪಯುಕ್ತಕ್ಕೆ ಸರಿಸಲು ^1 ಗೆ ಅನುಮತಿ ನೀಡಬೇಕೇ?</item>
+        <item quantity="one">ಈ ^2 ಐಟಂಗಳನ್ನು ಅನುಪಯುಕ್ತಕ್ಕೆ ಸರಿಸಲು ^1 ಗೆ ಅನುಮತಿ ನೀಡಬೇಕೇ?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">ಈ ^2 ಫೋಟೋಗಳನ್ನು ಅನುಪಯುಕ್ತಕ್ಕೆ ಸರಿಸಲು ^1 ಗೆ ಅನುಮತಿ ನೀಡಬೇಕೇ?</item>
+        <item quantity="one">ಈ ^2 ಫೋಟೋಗಳನ್ನು ಅನುಪಯುಕ್ತಕ್ಕೆ ಸರಿಸಲು ^1 ಗೆ ಅನುಮತಿ ನೀಡಬೇಕೇ?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">ಈ ^2 ವೀಡಿಯೊಗಳನ್ನು ಅನುಪಯುಕ್ತಕ್ಕೆ ಸರಿಸಲು ^1 ಗೆ ಅನುಮತಿ ನೀಡಬೇಕೇ?</item>
+        <item quantity="one">ಈ ^2 ವೀಡಿಯೊಗಳನ್ನು ಅನುಪಯುಕ್ತಕ್ಕೆ ಸರಿಸಲು ^1 ಗೆ ಅನುಮತಿ ನೀಡಬೇಕೇ?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">ಈ ^2 ಆಡಿಯೋ ಫೈಲ್‌ಗಳನ್ನು ಅನುಪಯುಕ್ತದಿಂದ ಹೊರಗೆ ಸರಿಸಲು ^1 ಗೆ ಅನುಮತಿ ನೀಡಬೇಕೇ?</item>
+        <item quantity="one">ಈ ^2 ಆಡಿಯೋ ಫೈಲ್‌ಗಳನ್ನು ಅನುಪಯುಕ್ತದಿಂದ ಹೊರಗೆ ಸರಿಸಲು ^1 ಗೆ ಅನುಮತಿ ನೀಡಬೇಕೇ?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">ಈ ^2 ಐಟಂಗಳನ್ನು ಅನುಪಯುಕ್ತದಿಂದ ಹೊರಗೆ ಸರಿಸಲು ^1 ಗೆ ಅನುಮತಿ ನೀಡಬೇಕೇ?</item>
+        <item quantity="one">ಈ ^2 ಐಟಂಗಳನ್ನು ಅನುಪಯುಕ್ತದಿಂದ ಹೊರಗೆ ಸರಿಸಲು ^1 ಗೆ ಅನುಮತಿ ನೀಡಬೇಕೇ?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">ಈ ^2 ಫೋಟೋಗಳನ್ನು ಅನುಪಯುಕ್ತದಿಂದ ಹೊರಗೆ ಸರಿಸಲು ^1 ಗೆ ಅನುಮತಿ ನೀಡಬೇಕೇ?</item>
+        <item quantity="one">ಈ ^2 ಫೋಟೋಗಳನ್ನು ಅನುಪಯುಕ್ತದಿಂದ ಹೊರಗೆ ಸರಿಸಲು ^1 ಗೆ ಅನುಮತಿ ನೀಡಬೇಕೇ?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">ಈ ^2 ವೀಡಿಯೊಗಳನ್ನು ಅನುಪಯುಕ್ತದಿಂದ ಹೊರಗೆ ಸರಿಸಲು ^1 ಗೆ ಅನುಮತಿ ನೀಡಬೇಕೇ?</item>
+        <item quantity="one">ಈ ^2 ವೀಡಿಯೊಗಳನ್ನು ಅನುಪಯುಕ್ತದಿಂದ ಹೊರಗೆ ಸರಿಸಲು ^1 ಗೆ ಅನುಮತಿ ನೀಡಬೇಕೇ?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">ಈ ^2 ಆಡಿಯೋ ಫೈಲ್‌ಗಳನ್ನು ಮಾರ್ಪಡಿಸಲು ^1 ಗೆ ಅನುಮತಿ ನೀಡಬೇಕೇ?</item>
+        <item quantity="one">ಈ ^2 ಆಡಿಯೋ ಫೈಲ್‌ಗಳನ್ನು ಮಾರ್ಪಡಿಸಲು ^1 ಗೆ ಅನುಮತಿ ನೀಡಬೇಕೇ?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">ಈ ^2 ಐಟಂಗಳನ್ನು ಮಾರ್ಪಡಿಸಲು ^1 ಗೆ ಅನುಮತಿ ನೀಡಬೇಕೇ?</item>
+        <item quantity="one">ಈ ^2 ಐಟಂಗಳನ್ನು ಮಾರ್ಪಡಿಸಲು ^1 ಗೆ ಅನುಮತಿ ನೀಡಬೇಕೇ?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">ಈ ^2 ಫೋಟೋಗಳನ್ನು ಮಾರ್ಪಡಿಸಲು ^1 ಗೆ ಅನುಮತಿ ನೀಡಬೇಕೇ?</item>
+        <item quantity="one">ಈ ^2 ಫೋಟೋಗಳನ್ನು ಮಾರ್ಪಡಿಸಲು ^1 ಗೆ ಅನುಮತಿ ನೀಡಬೇಕೇ?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">ಈ ^2 ವೀಡಿಯೊಗಳನ್ನು ಮಾರ್ಪಡಿಸಲು ^1 ಗೆ ಅನುಮತಿ ನೀಡಬೇಕೇ?</item>
+        <item quantity="one">ಈ ^2 ವೀಡಿಯೊಗಳನ್ನು ಮಾರ್ಪಡಿಸಲು ^1 ಗೆ ಅನುಮತಿ ನೀಡಬೇಕೇ?</item>
+    </plurals>
+</resources>

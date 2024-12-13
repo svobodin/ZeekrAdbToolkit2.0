@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ડાઉનલોડ મેનેજર</string>
+    <string name="button_cancel_download">રદ કરો</string>
+    <string name="button_queue_for_wifi">કતાર</string>
+    <string name="button_start_now">હવે પ્રારંભ કરો</string>
+    <string name="download_error">અસફળ</string>
+    <string name="download_no_application_title">ફાઇલ ખોલી શકાતી નથી</string>
+    <string name="download_queued">કતારમાં</string>
+    <string name="download_remaining">%s બાકી</string>
+    <string name="download_running">પ્રગતિ પર</string>
+    <string name="download_running_percent">પ્રગતિ પર, %s</string>
+    <string name="download_unknown_title">&lt;અનામાંકિત></string>
+    <string name="notification_download_complete">ડાઉનલોડ પૂર્ણ થયું.</string>
+    <string name="notification_download_failed">ડાઉનલોડ અસફળ થયું.</string>
+    <string name="notification_need_wifi_for_size">ડાઉનલોડ કદને વાઇ-ફાઇ ની જરૂર છે.</string>
+    <string name="notification_paused_in_background">પૃષ્ઠભૂમિમાં થોભાવ્યું.</string>
+    <string name="permdesc_accessAllDownloads">ઍપ્લિકેશનને સિસ્ટમ પર કોઈપણ ઍપ્લિકેશન દ્વારા શરૂ કરાયેલ તમામ ડાઉનલોડ્સને જોવાની અને સંશોધિત કરવાની મંજૂરી આપે છે.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">ઍપને ડાઉનલોડ કૅશ પર તે ફાઇલો ડાઉનલોડ કરવાની મંજૂરી આપે છે, જે ડાઉનલોડ મેનેજરને વધુ જગ્યાની જરૂર પડવા પર ઑટોમૅટિક રીતે કાઢી નાખી શકાતી નથી.</string>
+    <string name="permdesc_downloadCompletedIntent">એપ્લિકેશનને પૂર્ણ થયેલ ડાઉનલોડ્સ વિશે સૂચનાઓ મોકલવાની મંજૂરી આપે છે. દુર્ભાવનાપૂર્ણ ઍપ્લિકેશનો આનો ઉપયોગ ફાઇલો ડાઉનલોડ કરતી અન્ય ઍપ્લિકેશનોને મૂંઝવણમાં નાખવા માટે કરી શકે છે.</string>
+    <string name="permdesc_downloadManager">એપ્લિકેશનને ડાઉનલોડ સંચાલકને ઍક્સેસ કરવાની અને ફાઇલો ડાઉનલોડ કરવા માટે તેના ઉપયોગની મંજૂરી આપે છે. દુભાવનાપૂર્ણ ઍપ્લિકેશનો આનો ઉપયોગ ડાઉનલોડ્સમાં વિક્ષેપ નાખવા અને ખાનગી માહિતીને ઍક્સેસ કરવા માટે કરી શકે છે.</string>
+    <string name="permdesc_downloadManagerAdvanced">"એપ્લિકેશનને ડાઉનલોડ સંચાલકના વિગતવાર Tasks ને ઍક્સેસ કરવાની મંજૂરી આપે છે.  દુભાવનાપૂર્ણ ઍપ્લિકેશનો આનો ઉપયોગ ડાઉનલોડ્સમાં વિક્ષેપ નાખવા અને ખાનગી માહિતીને ઍક્સેસ કરવા માટે કરી શકે છે."</string>
+    <string name="permdesc_downloadWithoutNotification">ઍપ્લિકેશનને વપરાશકર્તાને કોઈપણ સૂચના દર્શાવ્યાં વિના ડાઉનલોડ મેનેજર મારફતે ફાઇલો ડાઉનલોડ કરવાની મંજૂરી આપે છે.</string>
+    <string name="permlab_accessAllDownloads">તમામ સિસ્ટમ ડાઉનલોડ્સને ઍક્સેસ કરો</string>
+    <string name="permlab_downloadCacheNonPurgeable">ડાઉનલોડ કેશમાં જગ્યા અનામત રાખો</string>
+    <string name="permlab_downloadCompletedIntent">ડાઉનલોડ સૂચનાઓ મોકલો.</string>
+    <string name="permlab_downloadManager">ડાઉનલોડ સંચાલકને ઍક્સેસ કરો.</string>
+    <string name="permlab_downloadManagerAdvanced">વિગતવાર ડાઉનલોડ મેનેજર કર્યો.</string>
+    <string name="permlab_downloadWithoutNotification">સૂચના વગર ફાઇલો ડાઉનલોડ કરો</string>
+    <string name="root_downloads">ડાઉનલોડ</string>
+    <string name="storage_description">ડાઉનલોડ</string>
+    <string name="wifi_recommended_body">"આ %1$s  ડાઉનલોડને હમણાં શરૂ કરવું તમારી બૅટરી આવરદાને ટૂંકાવી શકે છે અને/અથવા તમારા મોબાઇલ ડેટા કનેક્શનના અતિશય વપરાશમાં પરિણમી શકે છે, જેના લીધે તમારા ડેટા પ્લાનના આધારે તમારા મોબાઇલ ઑપરેટર દ્વારા શુલ્ક વસૂલી શકાય છે.
+
+ આગલી વખતે જ્યારે તમે વાઇ-ફાઇ નેટવર્કથી કનેક્ટ થાઓ ત્યારે આ ડાઉનલોડ શરૂ કરવા માટે %2$s ને સ્પર્શ કરો"</string>
+    <string name="wifi_recommended_title">પછીથી ડાઉનલોડ માટે કતારબદ્ધ કરીએ?</string>
+    <string name="wifi_required_body">"આ %1$s  ડાઉનલોડ પૂર્ણ કરવા માટે તમારે વાઇ-ફાઇ નો ઉપયોગ કરવો આવશ્યક છે. 
+
+આગલી વખતે જ્યારે તમે વાઇ-ફાઇ નેટવર્કથી કનેક્ટ થાઓ ત્યારે આ ડાઉનલોડ શરૂ કરવા માટે %2$s  ને સ્પર્શ કરો."</string>
+    <string name="wifi_required_title">ઓપરેટર નેટવર્ક માટે ડાઉનલોડ ખૂબ મોટું છે</string>
+</resources>

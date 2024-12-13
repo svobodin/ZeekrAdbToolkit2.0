@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">कृपया तुमचा पासवर्ड एंटर करा आणि डायनॅमिक सिस्टम अपडेट वर जा</string>
+    <string name="notification_action_cancel">रद्द करा</string>
+    <string name="notification_action_discard">काढून टाका</string>
+    <string name="notification_action_reboot_to_dynsystem">रीस्टार्ट करा</string>
+    <string name="notification_action_reboot_to_origin">रीस्टार्ट करा</string>
+    <string name="notification_dynsystem_in_use">सध्या डायनॅमिक सिस्टम रन करत आहे. मूळ Android आवृत्ती वापरण्यासाठी रीस्टार्ट करा.</string>
+    <string name="notification_image_validation_failed">इमेज प्रमाणित करता आली नाही. इंस्टॉलेशन रद्द करा.</string>
+    <string name="notification_install_completed">डायनॅमिक सिस्टम तयार आहे. ती वापरणे सुरू करण्यासाठी, तुमचे डिव्हाइस रीस्टार्ट करा.</string>
+    <string name="notification_install_failed">इंस्टॉल करता आली नाही</string>
+    <string name="notification_install_inprogress">इंस्टॉल प्रगतीपथावर आहे</string>
+    <string name="toast_dynsystem_discarded">डायनॅमिक सिस्टम काढून टाकली</string>
+    <string name="toast_failed_to_disable_dynsystem">डायनॅमिक सिस्टम बंद करता आली नाही</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">डायनॅमिक सिस्टम रीस्टार्ट किंवा लोड करू शकत नाही</string>
+</resources>

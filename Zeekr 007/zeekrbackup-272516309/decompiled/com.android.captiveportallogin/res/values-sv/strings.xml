@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Logga in på nätverket</string>
+    <string name="action_bar_title">Logga in på %1$s</string>
+    <string name="action_do_not_use_network">Använd inte det här nätverket</string>
+    <string name="action_use_network">Använd det här nätverket som det är</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">Aviseringar som visar filers nedladdningsförlopp</string>
+    <string name="channel_description_downloads">Aviseringar som visar slutförda eller avbrutna nedladdningar</string>
+    <string name="channel_name_download_progress">Nedladdningsförlopp</string>
+    <string name="channel_name_downloads">Nedladdningar</string>
+    <string name="custom_scheme_example">Det kan t.ex. hända att en viss app krävs för autentisering på inloggningssidan.</string>
+    <string name="custom_scheme_warning">Det nätverk som du försöker ansluta till begär att få öppna en annan app.</string>
+    <string name="download_completed">Nedladdningen är klar</string>
+    <string name="downloading_paramfile">Laddar ned %1$s</string>
+    <string name="error_continue_via_browser">Fortsätt ändå via webbläsaren</string>
+    <string name="error_downloading_paramfile">Det gick inte att ladda ned %1$s</string>
+    <string name="no_bypass_error_vpnwarning">Det är inte heller möjligt att åsidosätta det här felet eftersom ett VPN för närvarande körs på enheten.</string>
+    <string name="ok">OK</string>
+    <string name="page_info">Sidinformation</string>
+    <string name="page_info_address">Adress:</string>
+    <string name="ssl_error_date_invalid">Datumet för det här certifikatet är ogiltigt.</string>
+    <string name="ssl_error_example">Det kan t.ex. hända att inloggningssidan inte tillhör den organisation som visas.</string>
+    <string name="ssl_error_expired">Det här certifikatet har löpt ut.</string>
+    <string name="ssl_error_invalid">Det här certifikatet är ogiltigt.</string>
+    <string name="ssl_error_mismatch">Webbplatsens namn matchar inte namnet på certifikatet.</string>
+    <string name="ssl_error_not_yet_valid">Det här certifikatet är inte giltigt än.</string>
+    <string name="ssl_error_unknown">Okänt certifikatfel.</string>
+    <string name="ssl_error_untrusted">Certifikatet kommer inte från en betrodd utfärdare.</string>
+    <string name="ssl_error_view_certificate">Visa certifikat</string>
+    <string name="ssl_error_warning">Nätverket du försöker ansluta till har säkerhetsproblem.</string>
+    <string name="ssl_security_warning_title">Säkerhetsvarning</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

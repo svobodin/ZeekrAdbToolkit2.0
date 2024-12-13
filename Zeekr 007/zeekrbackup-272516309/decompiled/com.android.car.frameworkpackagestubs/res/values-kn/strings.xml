@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಚಟುವಟಿಕೆಯ ಸ್ಟಬ್</string>
+    <string name="message_not_supported">ಯಾವುದೇ ಆ್ಯಪ್‌ ಈ ಕ್ರಿಯೆ ನಿರ್ವಹಿಸುವುದಿಲ್ಲ</string>
+    <string name="pip_not_supported">ಈ ಸಾಧನದಲ್ಲಿ ಚಿತ್ರದಲ್ಲಿನ ಚಿತ್ರವನ್ನು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ</string>
+    <string name="stub_name">ಯಾವುದೂ ಬೇಡ</string>
+</resources>

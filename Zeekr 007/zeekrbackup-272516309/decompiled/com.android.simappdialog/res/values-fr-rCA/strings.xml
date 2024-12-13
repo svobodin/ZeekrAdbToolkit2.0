@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Boîte de dialogue de l'application SIM"</string>
+    <string name="install_carrier_app_defer_action">Pas maintenant</string>
+    <string name="install_carrier_app_description">"Pour que le nouveau module SIM fonctionne correctement, vous devez installer l'application %1$s"</string>
+    <string name="install_carrier_app_description_default">"Pour que le nouveau module SIM fonctionne, vous devez installer l'appli du fournisseur de services"</string>
+    <string name="install_carrier_app_download_action">"Télécharger l'application"</string>
+    <string name="install_carrier_app_title">Activer le service cellulaire</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Précédent</string>
+    <string name="suw_more_button_label">Plus</string>
+    <string name="suw_next_button_label">Suivant</string>
+</resources>

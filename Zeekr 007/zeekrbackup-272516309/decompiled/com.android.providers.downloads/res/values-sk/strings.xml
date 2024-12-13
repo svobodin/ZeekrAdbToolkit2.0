@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Správca sťahovania</string>
+    <string name="button_cancel_download">Zrušiť</string>
+    <string name="button_queue_for_wifi">Zoznam</string>
+    <string name="button_start_now">Spustiť</string>
+    <string name="download_error">Neúspešné</string>
+    <string name="download_no_application_title">Súbor sa nepodarilo otvoriť</string>
+    <string name="download_queued">V poradí</string>
+    <string name="download_remaining">Zostáva: %s</string>
+    <string name="download_running">Prebieha</string>
+    <string name="download_running_percent">Prebieha, %s</string>
+    <string name="download_unknown_title">&lt;Bez názvu></string>
+    <string name="notification_download_complete">Sťahovanie dokončené</string>
+    <string name="notification_download_failed">Sťahovanie bolo neúspešné.</string>
+    <string name="notification_need_wifi_for_size">Vzhľadom na veľkosť preberaného súboru sa vyžaduje pripojenie Wi‑Fi</string>
+    <string name="notification_paused_in_background">Pozastavené na pozadí.</string>
+    <string name="permdesc_accessAllDownloads">Umožňuje aplikácii zobraziť a upravovať všetky sťahovania spustené ľubovoľnou aplikáciou v systéme.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Umožňuje aplikácii sťahovať súbory do vyrovnávacej pamäte sťahovania, ktorú nie je možné automaticky odstrániť, keď správca sťahovania potrebuje viac miesta.</string>
+    <string name="permdesc_downloadCompletedIntent">Umožňuje aplikácii odosielať upozornenia na dokončenie sťahovania. Škodlivé aplikácie môžu pomocou tohto nastavenia zmiasť iné aplikácie, ktoré preberajú súbory.</string>
+    <string name="permdesc_downloadManager">Umožňuje aplikácii pristupovať k správcovi sťahovania a použiť ho na sťahovanie súborov. Škodlivé aplikácie to môžu využiť a narušiť sťahovanie alebo získať prístup k súkromným informáciám.</string>
+    <string name="permdesc_downloadManagerAdvanced">Umožňuje aplikácii pristupovať k rozšíreným funkciám správcu sťahovania. Škodlivé aplikácie to môžu využiť a narušiť sťahovanie alebo získať prístup k súkromným informáciám.</string>
+    <string name="permdesc_downloadWithoutNotification">Umožňuje aplikácii sťahovať súbory prostredníctvom správcu sťahovania bez toho, aby sa používateľovi zobrazilo upozornenie.</string>
+    <string name="permlab_accessAllDownloads">Prístup ku všetkým systémovým stiahnutiam</string>
+    <string name="permlab_downloadCacheNonPurgeable">Rezervovať miesto vo vyrovnáv. pamäti sťahovania</string>
+    <string name="permlab_downloadCompletedIntent">Odoslať upozornenie o stiahnutí.</string>
+    <string name="permlab_downloadManager">Získať prístup k správcovi sťahovania.</string>
+    <string name="permlab_downloadManagerAdvanced">Rozšírené funkcie správcu sťahovania.</string>
+    <string name="permlab_downloadWithoutNotification">sťahovať súbory bez upozornenia</string>
+    <string name="root_downloads">Stiahnuté</string>
+    <string name="storage_description">Stiahnuté súbory</string>
+    <string name="wifi_recommended_body">"Sťahovanie (%1$s ) môže skrátiť výdrž batérie alebo príliš zaťažiť mobilné pripojenie a viesť k účtovaniu poplatkov podľa dát. programu.
+
+ Dotykom možnosti %2$s spustíte sťahovanie pri ďalšom pripojení k Wi‑Fi."</string>
+    <string name="wifi_recommended_title">Zaradiť do zoznamu na neskoršie stiahnutie?</string>
+    <string name="wifi_required_body">"Na dokončenie sťahovania tohto súboru s veľkosťou %1$s  je potrebné pripojenie Wi‑Fi. 
+
+Ak chcete spustiť sťahovanie pri ďalšom pripojení k sieti Wi‑Fi, dotknite sa možnosti %2$s ."</string>
+    <string name="wifi_required_title">Preberaný súbor je pre sieť operátora príliš veľký</string>
+</resources>

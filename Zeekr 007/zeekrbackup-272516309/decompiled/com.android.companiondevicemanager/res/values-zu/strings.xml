@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Isiphathi sedivayisi esihambisanayo</string>
+    <string name="chooser_title">Khetha i-%1$s ezophathwa yi-&lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Vumela i-&lt;strong>%1$s&lt;/strong> ukuthi iphathe i-&lt;strong>%2$s&lt;/strong> yakho</string>
+    <string name="consent_no">Ungavumeli</string>
+    <string name="consent_yes">Vumela</string>
+    <string name="profile_name_generic">idivayisi</string>
+    <string name="profile_name_watch">buka</string>
+    <string name="profile_summary">I-app iyadingeka ukuphatha i-%1$s yakho. %2$s</string>
+</resources>

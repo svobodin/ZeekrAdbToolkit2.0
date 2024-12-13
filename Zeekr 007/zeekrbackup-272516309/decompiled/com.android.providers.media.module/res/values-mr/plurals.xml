@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">^1 ला ^2 ऑडिओ फाइल हटवायची परवानगी द्यायची आहे का?</item>
+        <item quantity="one">^1 ला ही ऑडिओ फाइल हटवायची परवानगी द्यायची आहे का?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">^1 ला ^2 आयटम हटवायची परवानगी द्यायची आहे का?</item>
+        <item quantity="one">^1 ला हा आयटम हटवायची परवानगी द्यायची आहे का?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">^1 ला ^2 फोटो हटवायची परवानगी द्यायची आहे का?</item>
+        <item quantity="one">^1 ला हा फोटो हटवायची परवानगी द्यायची आहे का?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">^1 ला ^2 व्हिडिओ हटवायची परवानगी द्यायची आहे का?</item>
+        <item quantity="one">^1 ला हा व्हिडिओ हटवायची परवानगी द्यायची आहे का?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">आणखी ^1 अतिरिक्त आयटम</item>
+        <item quantity="one">आणखी ^1 अतिरिक्त आयटम</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">+^1</item>
+        <item quantity="one">+^1</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">^1 ऑडिओ फाइल हटवत आहे…</item>
+        <item quantity="one">ऑडिओ फाइल हटवत आहे…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">^1 आयटम हटवत आहे…</item>
+        <item quantity="one">आयटम हटवत आहे…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">^1 फोटो हटवत आहे…</item>
+        <item quantity="one">फोटो हटवत आहे…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">^1 व्हिडिओ हटवत आहे…</item>
+        <item quantity="one">व्हिडिओ हटवत आहे…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">^1 ऑडिओ ट्रॅशमध्ये हलवत आहे…</item>
+        <item quantity="one">ऑडिओ ट्रॅशमध्ये हलवत आहे…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">^1 आयटम ट्रॅशमध्ये हलवत आहे…</item>
+        <item quantity="one">आयटम ट्रॅशमध्ये हलवत आहे…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">^1 फोटो ट्रॅशमध्ये हलवत आहे…</item>
+        <item quantity="one">फोटो ट्रॅशमध्ये हलवत आहे…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">^1 व्हिडिओ ट्रॅशमध्ये हलवत आहे…</item>
+        <item quantity="one">व्हिडिओ ट्रॅशमध्ये हलवत आहे…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">^1 ऑडिओ फाइल ट्रॅशमधून बाहेर हलवत आहे…</item>
+        <item quantity="one">ऑडिओ फाइल ट्रॅशमधून बाहेर हलवत आहे…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">^1 आयटम ट्रॅशमधून बाहेर हलवत आहे…</item>
+        <item quantity="one">आयटम ट्रॅशमधून बाहेर हलवत आहे…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">^1 फोटो ट्रॅशमधून बाहेर हलवत आहे…</item>
+        <item quantity="one">फोटो ट्रॅशमधून बाहेर हलवत आहे…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">^1 व्हिडिओ ट्रॅशमधून बाहेर हलवत आहे…</item>
+        <item quantity="one">व्हिडिओ ट्रॅशमधून बाहेर हलवत आहे…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">^1 ऑडिओ फाइल बदलत आहे…</item>
+        <item quantity="one">ऑडिओ फाइल बदलत आहे…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">^1 आयटम बदलत आहे…</item>
+        <item quantity="one">आयटम बदलत आहे…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">^1 फोटो बदलत आहे…</item>
+        <item quantity="one">फोटो बदलत आहे…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">^1 व्हिडिओ बदलत आहे…</item>
+        <item quantity="one">व्हिडिओ बदलत आहे…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">^1 ला ^2 ऑडिओ फाइल कचऱ्यामध्ये हलवायची परवानगी द्यायची आहे का?</item>
+        <item quantity="one">^1 ला ही ऑडिओ फाइल कचऱ्यामध्ये हलवायची परवानगी द्यायची आहे का?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">^1 ला ^2 आयटम कचऱ्यामध्ये हलवण्याची परवानगी द्यायची आहे का?</item>
+        <item quantity="one">^1 ला हा आयटम कचऱ्यामध्ये हलवायची परवानगी द्यायची आहे का?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">^1 ला ^2 फोटो कचऱ्यामध्ये हलवायची परवानगी द्यायची आहे का?</item>
+        <item quantity="one">^1 ला हा फोटो कचऱ्यामध्ये हलवायची परवानगी द्यायची आहे का?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">^1 ला ^2 व्हिडिओ कचऱ्यामध्ये हलवायची परवानगी द्यायची आहे का?</item>
+        <item quantity="one">^1 ला हा व्हिडिओ कचऱ्यामध्ये हलवायची परवानगी द्यायची आहे का?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">^1 ला ^2 ऑडिओ फाइल कचऱ्यामधून बाहेर हलवायची परवानगी द्यायची आहे का?</item>
+        <item quantity="one">^1 ला ही ऑडिओ फाइल कचऱ्यामधून बाहेर हलवायची परवानगी द्यायची आहे का?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">^1 ला ^2 आयटम कचऱ्यामधून बाहेर हलवायची परवानगी द्यायची आहे का?</item>
+        <item quantity="one">^1 ला हा आयटम कचऱ्यामधून बाहेर हलवायची परवानगी द्यायची आहे का?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">^1 ला ^2 फोटो कचऱ्यामधून बाहेर हलवायची परवानगी द्यायची आहे का?</item>
+        <item quantity="one">^1 ला हा फोटो कचऱ्यामधून बाहेर हलवायची परवानगी द्यायची आहे का?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">^1 ला ^2 व्हिडिओ कचऱ्यामधून बाहेर हलवायची परवानगी द्यायची आहे का?</item>
+        <item quantity="one">^1 ला हा व्हिडिओ कचऱ्यामधून बाहेर हलवायची परवानगी द्यायची आहे का?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">^1 ला ^2 ऑडिओ फाइल सुधारित करण्याची परवानगी द्यायची आहे का?</item>
+        <item quantity="one">^1 ला ही ऑडिओ फाइल सुधारित करण्याची परवानगी द्यायची आहे का?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">^1 ला ^2 आयटम सुधारित करण्याची परवानगी द्यायची आहे का?</item>
+        <item quantity="one">^1 ला हा आयटम सुधारित करण्याची परवानगी द्यायची आहे का?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">^1 ला ^2 फोटो सुधारित करण्याची परवानगी द्यायची आहे का?</item>
+        <item quantity="one">^1 ला हा फोटो सुधारित करण्याची परवानगी द्यायची आहे का?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">^1 ला ^2 व्हिडिओ सुधारित करण्याची परवानगी द्यायची आहे का?</item>
+        <item quantity="one">^1 ला हा व्हिडिओ सुधारित करण्याची परवानगी द्यायची आहे का?</item>
+    </plurals>
+</resources>

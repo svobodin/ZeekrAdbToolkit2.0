@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crop_wallpaper">Punguza mandhari</string>
+    <string name="wallpaper_instructions">Weka mandhari</string>
+    <string name="wallpaper_load_fail">Haikuweza kupakia picha iwe mandhari</string>
+</resources>

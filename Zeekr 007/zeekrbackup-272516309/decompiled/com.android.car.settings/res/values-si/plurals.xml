@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">කැමරා යෙදුම්</item>
+        <item quantity="one">කැමරා යෙදුම්</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">ඉ-තැපැල් සේවාලාභී යෙදුම</item>
+        <item quantity="one">ඉ-තැපැල් සේවාලාභී යෙදුම</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">දුරකථන යෙදුම්</item>
+        <item quantity="one">දුරකථන යෙදුම්</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">උත්සාහයන් %d</item>
+        <item quantity="one">උත්සාහයන් %d</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">යෙදුම් %d</item>
+        <item quantity="one">යෙදුම් %d</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">අඩුම වශයෙන් යෙදුම් %d</item>
+        <item quantity="one">අඩුම වශයෙන් යෙදුම් %d</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">නව දැනුම්දීම් %dක්</item>
+        <item quantity="one">නව දැනුම්දීම් %dක්</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">උපාංග %1$dක් සම්බන්ධ කරන ලදී</item>
+        <item quantity="one">උපාංග %1$dක් සම්බන්ධ කරන ලදී</item>
+    </plurals>
+</resources>

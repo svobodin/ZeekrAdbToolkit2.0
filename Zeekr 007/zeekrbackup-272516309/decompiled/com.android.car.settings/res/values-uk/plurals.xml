@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">Додатки для камери</item>
+        <item quantity="one">Додатки для камери</item>
+        <item quantity="few">Додатки для камери</item>
+        <item quantity="many">Додатки для камери</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">Додатки для пошти</item>
+        <item quantity="one">Додатки для пошти</item>
+        <item quantity="few">Додатки для пошти</item>
+        <item quantity="many">Додатки для пошти</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">Додатки для дзвінків</item>
+        <item quantity="one">Додатки для дзвінків</item>
+        <item quantity="few">Додатки для дзвінків</item>
+        <item quantity="many">Додатки для дзвінків</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d спроби</item>
+        <item quantity="one">%d спроба</item>
+        <item quantity="few">%d спроби</item>
+        <item quantity="many">%d спроб</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d додатка</item>
+        <item quantity="one">%d додаток</item>
+        <item quantity="few">%d додатки</item>
+        <item quantity="many">%d додатків</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">Принаймні %d додатка</item>
+        <item quantity="one">Принаймні %d додаток</item>
+        <item quantity="few">Принаймні %d додатки</item>
+        <item quantity="many">Принаймні %d додатків</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нового сповіщення</item>
+        <item quantity="one">%d нове сповіщення</item>
+        <item quantity="few">%d нові сповіщення</item>
+        <item quantity="many">%d нових сповіщень</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">Під’єднано %1$d пристрою</item>
+        <item quantity="one">Під’єднано %1$d пристрій</item>
+        <item quantity="few">Під’єднано %1$d пристрої</item>
+        <item quantity="many">Під’єднано %1$d пристроїв</item>
+    </plurals>
+</resources>

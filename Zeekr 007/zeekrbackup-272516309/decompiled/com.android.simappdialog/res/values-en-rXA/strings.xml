@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">[Šîḿ Åþþ Ðîåļöĝ one two three]</string>
+    <string name="install_carrier_app_defer_action">[Ñöţ ñöŵ one two]</string>
+    <string name="install_carrier_app_description">"[Ţö ĝéţ ýöûŕ ñéŵ ŠÎḾ ŵöŕķîñĝ þŕöþéŕļý, ýöû'ļļ ñééð ţö îñšţåļļ ţĥé %1$s åþþ one two three four five six seven eight]"</string>
+    <string name="install_carrier_app_description_default">"[Ţö ĝéţ ýöûŕ ñéŵ ŠÎḾ ŵöŕķîñĝ þŕöþéŕļý, ýöû'ļļ ñééð ţö îñšţåļļ ţĥé çåŕŕîéŕ åþþ one two three four five six seven eight]"</string>
+    <string name="install_carrier_app_download_action">[Ðöŵñļöåð åþþ one two]</string>
+    <string name="install_carrier_app_title">[ÅçţîVåţé ḿöɓîļé šéŕVîçé one two three]</string>
+    <string name="status_bar_notification_info_overflow">[999+ one]</string>
+    <string name="suw_back_button_label">[βåçķ one]</string>
+    <string name="suw_more_button_label">[Ḿöŕé one]</string>
+    <string name="suw_next_button_label">[Ñéхţ one]</string>
+</resources>

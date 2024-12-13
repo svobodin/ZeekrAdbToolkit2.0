@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">မိုဘိုင်းဖုန်းသုံး ချိတ်ဆက်မျှဝေခြင်း ပိတ်ရန်</string>
+    <string name="no_upstream_notification_message">စက်များ ချိတ်ဆက်၍ မရပါ</string>
+    <string name="no_upstream_notification_title">မိုဘိုင်းဖုန်းသုံး ချိတ်ဆက်မျှဝေခြင်းတွင် အင်တာနက် မရှိပါ</string>
+    <string name="upstream_roaming_notification_message">ပြင်ပကွန်ရက်နှင့် ချိတ်ဆက်သည့်အခါ နောက်ထပ်ကျသင့်မှုများ ရှိနိုင်သည်</string>
+    <string name="upstream_roaming_notification_title">ဟော့စပေါ့ (သို့) မိုဘိုင်းဖုန်းသုံး ချိတ်ဆက်မျှဝေခြင်း ဖွင့်ထားသည်</string>
+</resources>

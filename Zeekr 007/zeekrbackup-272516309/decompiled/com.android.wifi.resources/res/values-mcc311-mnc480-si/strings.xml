@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s : Verizon ආවරණ ප්‍රදේශයට පිටතින් ඔබට Verizon Wi-Fi ප්‍රවේශය වෙත සම්බන්ධ විය නොහැකිය.</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s : ඔබ Verizon Wi-Fi ප්‍රවේශය වෙත දායක වී නැත. කරුණාකර 800-922-0204 අංකයෙන් අපට අමතන්න.</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s : ඔබේ Verizon Wi-Fi ප්‍රවේශ ගිණුම හා ගැටලුවක් තිබේ. කරුණාකර 800-922-0204 අංකයෙන් අපට අමතන්න.</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s : ඔබ දැනටමත් Verizon Wi-Fi ප්‍රවේශය වෙත සම්බන්ධ වී ඇත.</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s : ඔබව Verizon Wi-Fi ප්‍රවේශය වෙත සම්බන්ධ කිරීමේ ගැටලුවක් තිබේ. කරුණාකර 800-922-0204 අංකයෙන් අපට අමතන්න.</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s : ඔබේ Verizon Wi-Fi ප්‍රවේශ ගිණුම හා ගැටලුවක් තිබේ. කරුණාකර 800-922-0204 අංකයෙන් අපට අමතන්න.</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s : Verizon Wi-Fi ප්‍රවේශය ඔබේ ස්ථානය වෙතින් ලබා ගත නොහැකිය. පසුව නැවත උත්සාහ කරන්න නැතහොත් වෙනත් ස්ථානයකින් උත්සාහ කරන්න.</string>
+</resources>

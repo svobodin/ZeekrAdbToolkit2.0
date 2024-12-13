@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s: Povezave s storitvijo Verizon Wi-Fi Access ni mogoče vzpostaviti zunaj območja, ki ga pokriva operater Verizon.</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s: Niste naročeni na storitev Verizon Wi-Fi Access. Pokličite nas na 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s: Prišlo je do težave z vašim računom za storitev Verizon Wi-Fi Access. Pokličite nas na 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s: Povezava s storitvijo Verizon Wi-Fi Access je že vzpostavljena.</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s: Prišlo je do težave pri povezovanju s storitvijo Verizon Wi-Fi Access. Pokličite nas na 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s: Prišlo je do težave z vašim računom za storitev Verizon Wi-Fi Access. Pokličite nas na 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s: Storitev Verizon Wi-Fi Access ni na voljo na vaši lokaciji. Poskusite znova pozneje ali z druge lokacije.</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SIM-alkalmazás dialógusa</string>
+    <string name="install_carrier_app_defer_action">Most nem</string>
+    <string name="install_carrier_app_description">Az új SIM-kártya megfelelő működéséhez telepítenie kell a(z) %1$s alkalmazást</string>
+    <string name="install_carrier_app_description_default">Az új SIM-kártya megfelelő működéséhez telepítenie kell a szolgáltató alkalmazását</string>
+    <string name="install_carrier_app_download_action">Alkalmazás letöltése</string>
+    <string name="install_carrier_app_title">Mobilszolgáltatás aktiválása</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Vissza</string>
+    <string name="suw_more_button_label">Továbbiak</string>
+    <string name="suw_next_button_label">Következő</string>
+</resources>

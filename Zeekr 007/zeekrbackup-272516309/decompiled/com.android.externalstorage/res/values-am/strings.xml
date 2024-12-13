@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ውጫዊ ማከማቻ</string>
+    <string name="root_documents">ሰነዶች</string>
+    <string name="root_internal_storage">ውስጣዊ ማከማቻ</string>
+    <string name="storage_description">አካባቢያዊ ማከማቻ</string>
+</resources>

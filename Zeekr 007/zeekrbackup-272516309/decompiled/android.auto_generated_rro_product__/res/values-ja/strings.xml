@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="owner_name">ドライバー</string>
+    <string name="permlab_accessCoarseLocation">フォアグラウンドでのみおおよその位置情報を取得</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">マイクを ON にする</string>
+</resources>

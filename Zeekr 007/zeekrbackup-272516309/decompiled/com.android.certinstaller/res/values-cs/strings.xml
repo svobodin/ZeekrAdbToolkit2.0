@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_missing_private_key">K instalaci certifikátu je vyžadován soukromý klíč</string>
+    <string name="action_missing_user_cert">K instalaci soukromého klíče je vyžadován certifikát</string>
+    <string name="app_name">Instalátor certifikátů</string>
+    <string name="ca_cert_is_added">Certifikát CA byl nainstalován</string>
+    <string name="ca_certificate">Certifikát CA</string>
+    <string name="cert_missing_error">Instalace se nezdařila, protože se soubor certifikátu nepodařilo najít.</string>
+    <string name="cert_not_saved">Certifikát není nainstalován.</string>
+    <string name="cert_read_error">Instalace se nezdařila, protože se soubor certifikátu nepodařilo přečíst.</string>
+    <string name="cert_temp_error">Dočasné selhání. Zkuste to později.</string>
+    <string name="cert_too_large_error">Instalace se nezdařila, protože je soubor certifikátu příliš velký.</string>
+    <string name="certificate">Certifikát</string>
+    <string name="certificate_capabilities_warning">Poznámka: Vydavatel tohoto certifikátu může sledovat veškerou návštěvnost směřující do zařízení i z něj.</string>
+    <string name="certificate_name">Název certifikátu</string>
+    <string name="credential_info">Balíček obsahuje:</string>
+    <string name="credential_password">Chcete-li extrahovat certifikáty, zadejte heslo.</string>
+    <string name="credential_usage_label">Použití pověření:</string>
+    <string name="done_label">HOTOVO</string>
+    <string name="extracting_pkcs12">Extrahování...</string>
+    <string name="install_done">Identifikační údaje uživatele %1$s byly přidány k uloženým sítím Wi-Fi.</string>
+    <string name="install_done_title">Identifikační údaje byly nainstalovány</string>
+    <string name="invalid_cert">Certifikát je neplatný.</string>
+    <string name="invalid_certificate_close_button">Zavřít</string>
+    <string name="invalid_certificate_message">Tento soubor nelze použít jako %1$s</string>
+    <string name="invalid_certificate_title">Tento soubor nelze použít</string>
+    <string name="n_cacrts">%d certifikátů CA</string>
+    <string name="name_char_error">Zadejte název obsahující pouze písmena a čísla.</string>
+    <string name="name_credential_dialog_title">Zadání názvu certifikátu</string>
+    <string name="name_empty_error">Zadejte název.</string>
+    <string name="no_cert_to_saved">Nebyl nalezen žádný certifikát k instalaci.</string>
+    <string name="one_cacrt">jeden certifikát CA</string>
+    <string name="one_usercrt">certifikát pro jednoho uživatele</string>
+    <string name="one_userkey">klíč pro jednoho uživatele</string>
+    <string name="only_primary_user_allowed">Certifikáty může instalovat pouze majitel tohoto zařízení.</string>
+    <string name="p12_description">Certifikáty v repozitáři klíčů PKCS12.</string>
+    <string name="password_empty_error">Zadejte heslo.</string>
+    <string name="password_error">Zadejte správné heslo.</string>
+    <string name="pick_file_title">Zvolit certifikát</string>
+    <string name="pkcs12_file_password_dialog_title">Extrahovat z %s</string>
+    <string name="pkcs12_password_dialog_title">Extrahovat certifikát</string>
+    <string name="redirect_ca_certificate_close_button">Zavřít</string>
+    <string name="redirect_ca_certificate_title">V Nastavení nainstalujte certifikát CA</string>
+    <string name="redirect_ca_certificate_with_app_info_message">Tento certifikát od aplikace %1$s je třeba nainstalovat v Nastavení. Instalujte pouze certifikáty CA od organizací, kterým důvěřujete.</string>
+    <string name="select_certificate_usage_title">Vyberte typ certifikátu</string>
+    <string name="unable_to_save_cert">Certifikát nelze uložit. Úložiště pověření není aktivováno nebo není správně inicializováno.</string>
+    <string name="user_cert_is_added">Uživatelský certifikát byl nainstalován</string>
+    <string name="user_certificate">Certifikát pro VPN a aplikaci</string>
+    <string name="userkey_type">Algoritmus:</string>
+    <string name="wifi_cancel_label">Zrušit</string>
+    <string name="wifi_cert_is_added">Certifikát Wi-Fi byl nainstalován</string>
+    <string name="wifi_certificate">Certifikát Wi‑Fi</string>
+    <string name="wifi_config_text">"Název: %1$s
+Plně kvalifikovaný název domény: %2$s
+Roamingová konsorcia: %3$s
+Sféra: %4$s
+Metoda ověření: EAP-%5$s
+"</string>
+    <string name="wifi_detail_label">Podrobnosti</string>
+    <string name="wifi_detail_title">Podrobnosti pro %s</string>
+    <string name="wifi_dismiss_label">Zavřít</string>
+    <string name="wifi_install_label">Instalovat</string>
+    <string name="wifi_installer_detail">Nainstalujte identifikační údaje sítí Wi-Fi, abyste se k sítím mohli připojovat jako uživatel %1$s.</string>
+    <string name="wifi_installer_download_error">Ve staženém soubory byly zjištěny problémy a nelze jej nainstalovat. Zkontrolujte, zda jste soubor stáhli ze správného zdroje.</string>
+    <string name="wifi_installer_fail">Identifikační údaje k síti Wi-Fi nelze nainstalovat. Zkuste soubor stáhnout znovu.</string>
+    <string name="wifi_installer_fail_no_wifi">Zapněte Wi-Fi a zkuste to znovu.</string>
+    <string name="wifi_installer_fail_no_wifi_title">Instalace byla zrušena</string>
+    <string name="wifi_installer_fail_title">Nelze nainstalovat</string>
+    <string name="wifi_installing_label">Instalace</string>
+    <string name="wifi_no_config">Žádná</string>
+    <string name="wifi_sim_config_text">"SIM: %s
+"</string>
+    <string name="wifi_title">Profil Wi-Fi</string>
+    <string name="wifi_tls_config_text">"Klientský certifikát:
+%1$s
+Klíč: %2$s
+"</string>
+    <string name="wifi_trust_config_text">"Certifikát důvěry:
+%s
+"</string>
+    <string name="wifi_ttls_config_text">"Uživatelské jméno: %s
+"</string>
+</resources>

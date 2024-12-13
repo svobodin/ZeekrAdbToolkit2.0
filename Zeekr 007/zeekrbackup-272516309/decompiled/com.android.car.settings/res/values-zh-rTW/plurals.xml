@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">相機應用程式</item>
+        <item quantity="one">相機應用程式</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">電子郵件用戶端應用程式</item>
+        <item quantity="one">電子郵件用戶端應用程式</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">電話應用程式</item>
+        <item quantity="one">電話應用程式</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">已嘗試 %d 次</item>
+        <item quantity="one">已嘗試 %d 次</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d 個應用程式</item>
+        <item quantity="one">%d 個應用程式</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">至少有 %d 個應用程式</item>
+        <item quantity="one">至少有 %d 個應用程式</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d 則新通知</item>
+        <item quantity="one">%d 則新通知</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d 個已連線的裝置</item>
+        <item quantity="one">%1$d 個已連線的裝置</item>
+    </plurals>
+</resources>

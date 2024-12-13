@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">%1$d zaidi</item>
+        <item quantity="one">%1$d zaidi</item>
+    </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">Programu %1$d hazijatumiwa kwa miezi michache. Gusa ili ukague</item>
+        <item quantity="one">Programu %1$d haijatumiwa kwa miezi michache. Gusa ili ukague</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">Programu %1$d hazijatumiwa kwa miezi michache</item>
+        <item quantity="one">Programu %1$d haijatumiwa kwa miezi michache</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">Siku %s</item>
+        <item quantity="one">Siku 1</item>
+    </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">Siku %s</item>
+        <item quantity="one">Siku moja</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">Saa %s</item>
+        <item quantity="one">Saa moja</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">Dak %s</item>
+        <item quantity="one">Dak moja</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">Sek %s</item>
+        <item quantity="one">Sek moja</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">Saa %s</item>
+        <item quantity="one">Saa 1</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">Dakika %s</item>
+        <item quantity="one">Dakika 1</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">Arifa %d mpya</item>
+        <item quantity="one">Arifa %d mpya</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">Programu %s</item>
+        <item quantity="one">Programu 1</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">Programu %s</item>
+        <item quantity="one">Programu 1</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">Imetumiwa na programu %1$d</item>
+        <item quantity="one">Imetumiwa na programu moja</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"Mwisho kutumiwa: %1$s
+ imetumia mara %2$s"</item>
+        <item quantity="one">"Mwisho kutumiwa: %1$s
+imetumia mara %2$s"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"Mwisho kutumiwa: %1$s
+imetumiwa mara %2$s(mara %3$s chinichini)"</item>
+        <item quantity="one">"Mwisho kutumiwa: %1$s
+ imetumiwa mara %2$s (mara %3$s chinichini)"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"Mwisho kutumiwa: %1$s
+ imetumia mara %2$s (mara %3$s chinichini 
+Muda: %3$s"</item>
+        <item quantity="one">"Mwisho kutumiwa: %1$s
+ imetumiwa mara %2$s (mara %3$s chinichini)
+Muda: %3$s"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"Mwisho kutumiwa: %1$s
+ imetumiwa mara %2$s 
+Muda: %3$s"</item>
+        <item quantity="one">"Mwisho kutumiwa: %1$s
+ imetumiwa mara %2$s
+Muda: %3$s"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">Sekunde %s</item>
+        <item quantity="one">Sekunde 1</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">Programu %1$d zisizotumika</item>
+        <item quantity="one">Programu %1$d isiyotumika</item>
+    </plurals>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Kontakt Yaddaşı</string>
+    <string name="debug_dump_database_message">Siz 1) informasiyaya və daxili yaddaş ehtiyatındakı zəng jurnalına bağlı data bazanızın nüsxəsini hazırlamaq 2) və onu e-poçt ilə göndərmək üzrəsiniz. Onu cihazdan kənarda və ya alınmış e-məktubda uğurla kopyalayandan sonra nüsxəsini silməyi unutmayın.</string>
+    <string name="debug_dump_delete_button">İndi silin</string>
+    <string name="debug_dump_email_body">Qoşmada mənim bütün kontakt məlumatlarım olan kontakt data bazam var. Ehtiyatla idarə edin.</string>
+    <string name="debug_dump_email_sender_picker">Faylınızı göndərmək üçün proqram seçin</string>
+    <string name="debug_dump_email_subject">Kontakt Db qoşulub</string>
+    <string name="debug_dump_start_button">Başladın</string>
+    <string name="debug_dump_title">Kontakt data bazasını kopyalayın</string>
+    <string name="default_directory">Kontaktlar</string>
+    <string name="local_invisible_directory">Digər</string>
+    <string name="provider_label">Kontaktlar</string>
+    <string name="sharedUserLabel">Android Core Apps</string>
+    <string name="upgrade_out_of_memory_notification_text">Təkmilləşdirməni tamamlamaq üçün tıklayın.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Kontakt təkmilləşdirməsi əlavə yaddaş tələb edir.</string>
+    <string name="upgrade_out_of_memory_notification_title">Kontakt üçün yaddaş təkmilləşdirilir.</string>
+    <string name="voicemail_from_column">"Səsli mesaj göndərən: "</string>
+</resources>

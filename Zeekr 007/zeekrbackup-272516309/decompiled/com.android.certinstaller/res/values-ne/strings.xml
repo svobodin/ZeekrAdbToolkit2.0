@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_missing_private_key">प्रमाणपत्र स्थापना गर्न निजी साँचो आवश्यक पर्छ</string>
+    <string name="action_missing_user_cert">निजी साँचो स्थापना गर्न प्रमाणपत्र आवश्यक पर्छ</string>
+    <string name="app_name">प्रमाणपत्र स्थापनाकर्ता</string>
+    <string name="ca_cert_is_added">CA सर्टिफिकेट स्थापना गरियो</string>
+    <string name="ca_certificate">CA को सर्टिफिकेट</string>
+    <string name="cert_missing_error">स्थापना गर्न सकेन किनभने प्रमाणपत्र फाइल पत्ता लगाउन सकिएन।</string>
+    <string name="cert_not_saved">प्रमाणपत्र स्थापित छैन।</string>
+    <string name="cert_read_error">स्थापना गर्न सकिएन किनभने प्रमाणपत्र फाइल पढ्न सकेन।</string>
+    <string name="cert_temp_error">अस्थायी विफलता। कृपया पछि फेरि प्रयास गर्नुहोस्।</string>
+    <string name="cert_too_large_error">स्थापना गर्न सकेन किनकि प्रमाणपत्रको आकार अति नै ठुलो छ।</string>
+    <string name="certificate">प्रमाणपत्र</string>
+    <string name="certificate_capabilities_warning">टिपोट: यो प्रमाणपत्रको जारीकर्ताले यो डिभाइसमा आउने र यहाँबाट जाने सबै ट्राफिकको निरीक्षण गर्न सक्नुहुन्छ।</string>
+    <string name="certificate_name">प्रमाणपत्रको नाम</string>
+    <string name="credential_info">प्याकेजमा छ:</string>
+    <string name="credential_password">प्रमाणपत्रहरू निकाल्न पासवर्ड टाइप गर्नुहोस्।</string>
+    <string name="credential_usage_label">प्रमाणपत्रको प्रयोग:</string>
+    <string name="done_label">सम्पन्‍न भयो</string>
+    <string name="extracting_pkcs12">निकाल्दै...</string>
+    <string name="install_done">सुरक्षित Wi-Fi नेटवर्कमा %1$s प्रमाणहरू थपिएका छन्।</string>
+    <string name="install_done_title">प्रमाणहरू स्थापित गर्नुहोस्</string>
+    <string name="invalid_cert">प्रमाणपत्र अमान्य छ।</string>
+    <string name="invalid_certificate_close_button">बन्द गर्नुहोस्</string>
+    <string name="invalid_certificate_message">यो फाइल कुनै %1$s को रूपमा प्रयोग गर्न सकिँदैन</string>
+    <string name="invalid_certificate_title">यो फाइल प्रयोग गर्न सकिँदैन</string>
+    <string name="n_cacrts">%d CA सर्टिफिकेटहरू</string>
+    <string name="name_char_error">नाम टाइप गर्नुहोस् जसमा केवल अक्षरहरू र संख्याहरू मात्र समावेश हुन्छन्।</string>
+    <string name="name_credential_dialog_title">यो प्रमाणपत्रको नाम राख्नुहोस्</string>
+    <string name="name_empty_error">एउटा नाम टाइप गर्नुहोस्।</string>
+    <string name="no_cert_to_saved">स्थापना गर्न प्रमाणपत्र छैन</string>
+    <string name="one_cacrt">एउटा CA सर्टिफिकेट</string>
+    <string name="one_usercrt">एउटा उपयोगकर्ता प्रमाणपत्र</string>
+    <string name="one_userkey">एउटा उपयोगकर्ता कुञ्जी</string>
+    <string name="only_primary_user_allowed">यो उपकरणको मालिकले मात्र सर्टिफिकेट इन्स्टल गर्न सक्छ।</string>
+    <string name="p12_description">PKCS12 किस्टोरमा प्रमाणपत्रहरू</string>
+    <string name="password_empty_error">पासवर्ड टाइप गर्नुहोस्।</string>
+    <string name="password_error">सही पासवर्ड टाइप गर्नुहोस्।</string>
+    <string name="pick_file_title">एउटा प्रमाणपत्रको चयन गर्नुहोस्</string>
+    <string name="pkcs12_file_password_dialog_title">%s बाट निकाल्नुहोस्</string>
+    <string name="pkcs12_password_dialog_title">प्रमाणपत्र निकाल्नुहोस्</string>
+    <string name="redirect_ca_certificate_close_button">बन्द गर्नुहोस्</string>
+    <string name="redirect_ca_certificate_title">सेटिङमा गई CA सर्टिफिकेट इन्स्टल गर्नुहोस्</string>
+    <string name="redirect_ca_certificate_with_app_info_message">सेटिङमा गई %1$s को यो प्रमाणपत्र अनिवार्य रूपमा इन्स्टल गरिनु पर्छ। आफूले विश्वास गर्ने सङ्गठनका CA सर्टिफिकेटहरू मात्र इन्स्टल गर्नुहोस्।</string>
+    <string name="select_certificate_usage_title">प्रमाणपत्रको प्रकार छनौट गर्नुहोस्</string>
+    <string name="unable_to_save_cert">"प्रमाणपत्र बचत गर्न सकेन।  परिचयपत्र भण्डारण सक्षम छैन वा राम्ररी आरम्भ भएको छैन।"</string>
+    <string name="user_cert_is_added">प्रयोगकर्ताको प्रमाणपत्र स्थापना गरियो</string>
+    <string name="user_certificate">VPN र एपको युजर सर्टिफिकेट</string>
+    <string name="userkey_type">एल्गोरिदम:</string>
+    <string name="wifi_cancel_label">रद्द गर्नुहोस्</string>
+    <string name="wifi_cert_is_added">Wi‑Fi सर्टिफिकेट इन्स्टल गरियो</string>
+    <string name="wifi_certificate">Wi‑Fi सर्टिफिकेट</string>
+    <string name="wifi_config_text">"नाम: %1$s
+FQDN: %2$s
+रोमिङ Consortiums: %3$s
+प्रभुता: %4$s
+प्रमाणीकरंण विधि: EAP-%5$s
+"</string>
+    <string name="wifi_detail_label">विवरणहरू</string>
+    <string name="wifi_detail_title">%s को लागि विवरणहरू</string>
+    <string name="wifi_dismiss_label">खारेज गर्नुहोस्</string>
+    <string name="wifi_install_label">स्थापना गर्नुहो</string>
+    <string name="wifi_installer_detail">%1$s मार्फत उपलब्ध नेटवर्क जडान गर्नेमा Wi-Fi प्रमाणहरू स्थापना गर्नुहोस्।</string>
+    <string name="wifi_installer_download_error">डाउनलोड भएको फाइलमा समस्या हुनाले स्थापना गर्न सकिएन। सुनिश्चित गर्नुहोस् तपाईँले ठिक स्रोतबाट फाइल डाउनलोड गर्नु भयो।</string>
+    <string name="wifi_installer_fail">Wi-Fi प्रमाणहरू स्थापना गर्न सकिदैन। फाइल पुन: डाउनलोड गर्ने प्रयास गर्नुहोस्।</string>
+    <string name="wifi_installer_fail_no_wifi">Wi-Fi अन गर्नुहोस् र फेरि प्रयास गर्नुहोस्।</string>
+    <string name="wifi_installer_fail_no_wifi_title">स्थापना रद्द गरियो</string>
+    <string name="wifi_installer_fail_title">स्थापना गर्न सक्दैन</string>
+    <string name="wifi_installing_label">स्थापना गर्दै</string>
+    <string name="wifi_no_config">कुनै पनि होइन</string>
+    <string name="wifi_sim_config_text">"SIM: %s
+"</string>
+    <string name="wifi_title">Wi-Fi प्रोफाइल</string>
+    <string name="wifi_tls_config_text">"ग्राहक प्रमाणपत्र:
+%1$s
+साँचो: %2$s
+"</string>
+    <string name="wifi_trust_config_text">"विश्वास प्रमाणपत्र:
+%s
+"</string>
+    <string name="wifi_ttls_config_text">"प्रोगकर्ता नाम: %s
+"</string>
+</resources>

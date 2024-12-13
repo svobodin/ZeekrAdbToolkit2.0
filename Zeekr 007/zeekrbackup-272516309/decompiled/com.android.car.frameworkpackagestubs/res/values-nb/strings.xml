@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aktivitetssnutt</string>
+    <string name="message_not_supported">Ingen apper kan gjøre dette</string>
+    <string name="pip_not_supported">Bilde-i-bilde støttes ikke på denne enheten</string>
+    <string name="stub_name">Ingen</string>
+</resources>

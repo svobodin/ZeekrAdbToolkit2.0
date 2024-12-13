@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_missing_private_key">"ଗୋଟିଏ ସର୍ଟିଫିକେଟ୍‍କୁ ଇନଷ୍ଟଲ୍ କରିବା ପାଇଁ ବ୍ୟକ୍ତିଗତ କୀ' ଆବଶ୍ୟକ"</string>
+    <string name="action_missing_user_cert">ଗୋଟିଏ ବ୍ୟକ୍ତିଗତ କୀ’କୁ ଇନଷ୍ଟଲ୍ କରିବା ପାଇଁ ସର୍ଟିଫିକେଟ୍ ଆବଶ୍ୟକ</string>
+    <string name="app_name">ସର୍ଟିଫିକେଟ୍‍ ଇନଷ୍ଟଲର୍‍</string>
+    <string name="ca_cert_is_added">CA ସାର୍ଟିଫିକେଟ୍ ଇନ୍‌ଷ୍ଟଲ୍ କରାଯାଇଛି</string>
+    <string name="ca_certificate">CA ସାର୍ଟିଫିକେଟ୍</string>
+    <string name="cert_missing_error">ଇନଷ୍ଟଲ୍‌ କରିହେଉନାହିଁ, କାରଣ ସର୍ଟିଫିକେଟ୍‌ ଫାଇଲ୍‍ ମିଳୁନାହିଁ।</string>
+    <string name="cert_not_saved">ସର୍ଟିଫିକେଟ୍‌ଟି ଇନଷ୍ଟଲ୍‌ ହୋଇନାହିଁ।</string>
+    <string name="cert_read_error">ଇନଷ୍ଟଲ୍‌ କରିହେଉନାହିଁ, କାରଣ ସର୍ଟିଫିକେଟ୍‌ ଫାଇଲ୍‍ ପଢ଼ି ହେଉନାହିଁ।</string>
+    <string name="cert_temp_error">ଅସ୍ଥାୟୀ ବିଫଳତା। ଦୟାକରି ପରେ ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="cert_too_large_error">ଇନଷ୍ଟଲ୍‌ କରିହେଉନାହିଁ, କାରଣ ସର୍ଟିଫିକେଟ୍‌ର ଆକାର ବହୁତ ବଡ଼ ଅଟେ।</string>
+    <string name="certificate">ସାର୍ଟିଫିକେଟ୍</string>
+    <string name="certificate_capabilities_warning">ଧ୍ୟାନଦିଅନ୍ତୁ: ଏହି ସର୍ଟିଫିକେଟ୍ ଜାରି କରିଥିବା କମ୍ପାନୀ, ଡିଭାଇସ୍‌ରୁ ଯାଉଥିବା ଓ ଆସୁଥିବା ସମସ୍ତ ଟ୍ରାଫିକ୍‌କୁ ଯାଞ୍ଚ କରିପାରନ୍ତି।</string>
+    <string name="certificate_name">ସାର୍ଟିଫିକେଟ୍ ନାମ</string>
+    <string name="credential_info">ଏହି ପ୍ୟାକେଜ୍‌ରେ ରହିଛି:</string>
+    <string name="credential_password">ସର୍ଟିଫିକେଟ୍‌ଗୁଡ଼ିକୁ ଏକ୍ସଟ୍ରାକ୍ଟ କରିବା ପାଇଁ ପାସ୍‌ୱର୍ଡ ଟାଇପ୍‌ କରନ୍ତୁ।</string>
+    <string name="credential_usage_label">ତଥ୍ୟର ବ୍ୟବହାର:</string>
+    <string name="done_label">ହୋଇଗଲା</string>
+    <string name="extracting_pkcs12">ଏକ୍ସଟ୍ରାକ୍ଟ କରୁଛି…</string>
+    <string name="install_done">ୱାଇ-ଫାଇ ସେଭ୍‍ କରାଯାଇଥିବା ନେଟୱର୍କଗୁଡିକରେ %1$sଙ୍କ କ୍ରେଡେନ୍ସିଆଲ୍ସ ଯୋଡ଼ାଯାଇଛି।</string>
+    <string name="install_done_title">କ୍ରେଡେନସିଆଲ୍ସ ଇନଷ୍ଟଲ୍‍ କରାଗଲା</string>
+    <string name="invalid_cert">ଏହି ସର୍ଟିଫିକେଟ୍‍ ବୈଧ ନୁହେଁ।</string>
+    <string name="invalid_certificate_close_button">ବନ୍ଦ କରନ୍ତୁ</string>
+    <string name="invalid_certificate_message">ଏହି ଫାଇଲ୍ %1$s ଭାବରେ ବ୍ୟବହାର କରାଯାଇପାରିବ ନାହିଁ</string>
+    <string name="invalid_certificate_title">ଏହି ଫାଇଲକୁ ବ୍ୟବହାର କରିପାରିବେ ନାହିଁ</string>
+    <string name="n_cacrts">%d CA ସର୍ଟିଫିକେଟ୍‍</string>
+    <string name="name_char_error">ଏପରି ଗୋଟିଏ ନାମ ଟାଇପ୍‌ କରନ୍ତୁ, ଯେଉଁଥିରେ କେବଳ ଅକ୍ଷର ଓ ସଂଖ୍ୟା ରହିଥିବ।</string>
+    <string name="name_credential_dialog_title">ଏହି ସାର୍ଟିଫିକେଟ୍‌ର ନାମ ଦିଅନ୍ତୁ</string>
+    <string name="name_empty_error">ଗୋଟିଏ ନାମ ଟାଇପ୍‌ କରନ୍ତୁ।</string>
+    <string name="no_cert_to_saved">ଇନଷ୍ଟଲ୍‌ କରାଯିବାକୁ କୌଣସି ସର୍ଟିଫିକେଟ୍‍ ନାହିଁ।</string>
+    <string name="one_cacrt">ଏକ CA ସର୍ଟିଫିକେଟ୍‍</string>
+    <string name="one_usercrt">ଜଣେ ୟୁଜରଙ୍କ ସର୍ଟିଫିକେଟ୍‍</string>
+    <string name="one_userkey">"ଗୋଟିଏ ୟୁଜର୍‍ କୀ'"</string>
+    <string name="only_primary_user_allowed">କେବଳ ଏହି ଡିଭାଇସ୍‌‍ର ମାଲିକ ହିଁ ସର୍ଟିଫିକେଟ୍‌ ଇନଷ୍ଟଲ୍‍ କରିପାରିବେ।</string>
+    <string name="p12_description">PKCS12 କୀ’ଷ୍ଟୋରରେ ସର୍ଟିଫିକେଟ୍‍।</string>
+    <string name="password_empty_error">ପାସ୍‌ୱର୍ଡ ଟାଇପ୍‌ କରନ୍ତୁ।</string>
+    <string name="password_error">ସଠିକ୍‌ ପାସ୍‌ୱର୍ଡ ଟାଇପ୍‌ କରନ୍ତୁ।</string>
+    <string name="pick_file_title">ଗୋଟିଏ ସର୍ଟିଫିକେଟ୍‌ ବାଛନ୍ତୁ</string>
+    <string name="pkcs12_file_password_dialog_title">%sରୁ ଏକ୍ସଟ୍ରାକ୍ଟ କରନ୍ତୁ</string>
+    <string name="pkcs12_password_dialog_title">ସର୍ଟିଫିକେଟ୍‌ ଏକ୍ସଟ୍ରାକ୍ଟ କରନ୍ତୁ</string>
+    <string name="redirect_ca_certificate_close_button">ବନ୍ଦ କରନ୍ତୁ</string>
+    <string name="redirect_ca_certificate_title">ସେଟିଂସରେ CA ସାର୍ଟିଫିକେଟଗୁଡ଼ିକୁ ଇନଷ୍ଟଲ୍ କରନ୍ତୁ</string>
+    <string name="redirect_ca_certificate_with_app_info_message">%1$sରୁ ଏହି ସାର୍ଟିଫିକେଟକୁ ସେଟିଂସରେ ଇନଷ୍ଟଲ୍ କରାଯିବା ଆବଶ୍ୟକ। ଆପଣ ବିଶ୍ୱାସ କରୁଥିବା ସଂସ୍ଥାଗୁଡ଼ିକରୁ କେବଳ CA ସାର୍ଟିଫିକେଟଗୁଡ଼ିକୁ ଇନଷ୍ଟଲ୍ କରନ୍ତୁ।</string>
+    <string name="select_certificate_usage_title">ଏକ ସାର୍ଟିଫିକେଟ୍‌ର ପ୍ରକାର ବାଛନ୍ତୁ</string>
+    <string name="unable_to_save_cert">ସର୍ଟିଫିକେଟ୍‌କୁ ସେଭ୍‌ କରିପାରିବ ନାହିଁ। କ୍ରେଡେନ୍ସିଆଲ୍‌ ଷ୍ଟୋରେଜ୍‌ ସକ୍ଷମ କରାଯାଇନାହିଁ କିମ୍ୱା ଠିକ୍‌ ଭାବେ ଆରମ୍ଭ ହୋଇନାହିଁ।</string>
+    <string name="user_cert_is_added">ଉପଯୋଗକର୍ତ୍ତା ସାର୍ଟିଫିକେଟ୍ ଇନ୍‌ଷ୍ଟଲ୍ କରାଯାଇଛି</string>
+    <string name="user_certificate">VPN ଓ ଆପ୍ ଉପଯୋଗକର୍ତ୍ତା ସାର୍ଟିଫିକେଟ୍</string>
+    <string name="userkey_type">ଆଲଗୋରିଦମ୍:</string>
+    <string name="wifi_cancel_label">ବାତିଲ୍‍ କରନ୍ତୁ</string>
+    <string name="wifi_cert_is_added">Wi‑Fi ସାର୍ଟିଫିକେଟ୍ ଇନ୍‌ଷ୍ଟଲ୍ କରାଯାଇଛି</string>
+    <string name="wifi_certificate">ୱାଇ-ଫାଇ ସାର୍ଟିଫିକେଟ୍</string>
+    <string name="wifi_config_text">"ନାମ: %1$s
+FQDN: %2$s
+ରୋମିଙ୍ଗ କନ୍ସୋଟିୟମ୍ସ: %3$s
+ରେଲାମ୍‍: %4$s
+ସ୍ୱୀକୃତି ପଦ୍ଧତି: EAP-%5$s
+"</string>
+    <string name="wifi_detail_label">ବିବରଣୀ</string>
+    <string name="wifi_detail_title">%sର ବିବରଣୀ</string>
+    <string name="wifi_dismiss_label">ଖାରଜ</string>
+    <string name="wifi_install_label">ଇନଷ୍ଟଲ୍‍</string>
+    <string name="wifi_installer_detail">%1$s ଜରିଆରେ ଉପଲବ୍ଧ ନେଟୱର୍କଗୁଡ଼ିକ ସହ ସଂଯୋଗ କରିବାକୁ ୱାଇ-ଫାଇ କ୍ରେଡେନସିଆଲ୍ସ ଇନଷ୍ଟଲ୍‍ କରନ୍ତୁ।</string>
+    <string name="wifi_installer_download_error">ଡାଉନଲୋଡ୍ କରାଯାଇଥିବା ଫାଇଲ୍‍ରେ ସମସ୍ୟା ରହିଛି ଏବଂ ଇନଷ୍ଟଲ୍‍ କରାଯାଇପାରିବ ନାହିଁ। ଆପଣ ସଠିକ୍‍ ସୋର୍ସରୁ ଫାଇଲ୍‍ ଡାଉନଲୋଡ୍ କରିଥିବା ନିଶ୍ଚିତ କରନ୍ତୁ।</string>
+    <string name="wifi_installer_fail">ୱାଇ-ଫାଇଲ କ୍ରେଡେନସିଆଲ୍ସ ଇନଷ୍ଟଲ୍‍ କରିପାରିବ ନାହିଁ। ଫାଇଲ୍‍ ପୁଣି ଡାଉନଲୋଡ୍ କରିବାକୁ ଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="wifi_installer_fail_no_wifi">ୱାଇ-ଫାଇ ଅନ୍‍ କରନ୍ତୁ ଏବଂ ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="wifi_installer_fail_no_wifi_title">ଇନଷ୍ଟଲେଶନ୍ କ୍ୟାନ୍ସଲ୍‍ କରାଯାଇଛି</string>
+    <string name="wifi_installer_fail_title">ଇନଷ୍ଟଲ୍‍ କରାଯାଇପାରିବ ନାହିଁ</string>
+    <string name="wifi_installing_label">ଇନଷ୍ଟଲ୍ କରାଯାଉଛି</string>
+    <string name="wifi_no_config">କିଛି ନାହିଁ</string>
+    <string name="wifi_sim_config_text">"SIM: %s
+"</string>
+    <string name="wifi_title">ୱାଇ-ଫାଇ ପ୍ରୋଫାଇଲ୍‍</string>
+    <string name="wifi_tls_config_text">"କ୍ଲାଏଣ୍ଟ ସର୍ଟିଫିକେଟ୍‍:
+%1$s
+କୀ’: %2$s
+"</string>
+    <string name="wifi_trust_config_text">"ବିଶ୍ୱସ୍ତ ସର୍ଟିଫିକେଟ୍‍:
+%s
+"</string>
+    <string name="wifi_ttls_config_text">"ୟୁଜର୍‍ଙ୍କ ନାମ: %s
+"</string>
+</resources>

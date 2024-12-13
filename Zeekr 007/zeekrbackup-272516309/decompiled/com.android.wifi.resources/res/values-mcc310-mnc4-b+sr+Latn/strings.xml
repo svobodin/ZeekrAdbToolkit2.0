@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s : Ne možete da se povežete na Verizon WiFi Access van oblasti koju Verizon pokriva.</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s : Niste pretplaćeni na Verizon WiFi Access. Pozovite nas na 800 922 0204.</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s : Došlo je do problema u vezi sa Verizon WiFi Access nalogom. Pozovite nas na 800 922 0204.</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s : Već ste povezani na Verizon WiFi Access.</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s : Postoji problem pri povezivanju na Verizon WiFi Access. Pozovite nas na 800 922 0204.</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s : Došlo je do problema u vezi sa Verizon WiFi Access nalogom. Pozovite nas na 800 922 0204.</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s : Verizon WiFi Access nije dostupan sa vaše lokacije. Probajte ponovo kasnije ili probajte sa neke druge lokacije.</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="disable_tether_notification_message">විස්තර සඳහා ඔබගේ පරිපාලක අමතන්න</string>
+    <string name="disable_tether_notification_title">ටෙදරින් අබල කර ඇත</string>
+    <string name="no_upstream_notification_disable_button" />
+    <string name="no_upstream_notification_message" />
+    <string name="no_upstream_notification_title" />
+    <string name="notification_channel_tethering_status">හොට්ස්පොට් &amp; ටෙදරින් තත්ත්වය</string>
+    <string name="tethered_notification_message">පිහිටුවීමට තට්ටු කරන්න.</string>
+    <string name="tethered_notification_title">ටෙදරින් හෝ හොට්ස්පොට් සක්‍රීයයි</string>
+    <string name="upstream_roaming_notification_message" />
+    <string name="upstream_roaming_notification_title" />
+</resources>

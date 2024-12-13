@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Companion Device Manager</string>
+    <string name="chooser_title">Odaberite profil %1$s kojim će upravljati aplikacija &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Dopustite aplikaciji &lt;strong>%1$s&lt;/strong> da upravlja vašim &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_no">Nemoj dopustiti</string>
+    <string name="consent_yes">Dopusti</string>
+    <string name="profile_name_generic">uređaj</string>
+    <string name="profile_name_watch">satom</string>
+    <string name="profile_summary">Ta je aplikacija potrebna za upravljanje vašim profilom %1$s. %2$s</string>
+</resources>

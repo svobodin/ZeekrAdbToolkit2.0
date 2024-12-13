@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Desaktibatu sare publikoa</string>
+    <string name="no_upstream_notification_message">Gailuak ezin dira konektatu Internetera</string>
+    <string name="no_upstream_notification_title">Sare publikoak ez du Interneteko konexiorik</string>
+    <string name="upstream_roaming_notification_message">Baliteke kostu gehigarriak ordaindu behar izatea ibiltaritzan</string>
+    <string name="upstream_roaming_notification_title">Sare publikoa aktibatuta dago</string>
+    <string name="upstream_roaming_notification_continue_button">Egin aurrera</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="additional_permissions_decor_title">Flere tilladelser</string>
+    <string name="app_permissions_decor_title">Apptilladelser</string>
+    <string name="current_permission_template">%1$s/%2$s</string>
+    <string name="grant_dialog_button_deny_dont_ask_again">Afvis, og spørg ikke igen</string>
+    <string name="grant_dialog_how_to_change">Du kan altid ændre dette i Indstillinger > Apps</string>
+    <string name="manage_permissions_decor_title">Apptilladelser</string>
+    <string name="permission_apps_decor_title">%1$s-tilladelser</string>
+    <string name="preference_show_system_apps">Vis systemapps</string>
+    <string name="system_apps_decor_title">%1$s-tilladelser</string>
+</resources>

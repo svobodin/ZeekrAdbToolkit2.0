@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stub for aktivitet</string>
+    <string name="message_not_supported">Ingen app kan håndtere denne handling</string>
+    <string name="pip_not_supported">Denne enhed understøtter ikke integreret billede</string>
+    <string name="stub_name">Ingen</string>
+</resources>

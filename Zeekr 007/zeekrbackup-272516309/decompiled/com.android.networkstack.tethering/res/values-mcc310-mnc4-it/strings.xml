@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Disattiva il tethering</string>
+    <string name="no_upstream_notification_message">Impossibile connettere i dispositivi</string>
+    <string name="no_upstream_notification_title">Nessuna connessione a Internet per il tethering</string>
+    <string name="upstream_roaming_notification_message">Potrebbero essere applicati costi aggiuntivi durante il roaming</string>
+    <string name="upstream_roaming_notification_title">Hotspot o tethering attivi</string>
+</resources>

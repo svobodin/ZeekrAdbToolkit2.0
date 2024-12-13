@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">Aplikácie Fotoaparát</item>
+        <item quantity="one">Aplikácia Fotoaparát</item>
+        <item quantity="few">Aplikácie Fotoaparát</item>
+        <item quantity="many">Camera apps</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">Aplikácie e‑mailového klienta</item>
+        <item quantity="one">Aplikácia e‑mailového klienta</item>
+        <item quantity="few">Aplikácie e‑mailového klienta</item>
+        <item quantity="many">Email client apps</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">Telefónne aplikácie</item>
+        <item quantity="one">Telefónna aplikácia</item>
+        <item quantity="few">Telefónne aplikácie</item>
+        <item quantity="many">Phone apps</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d pokusov</item>
+        <item quantity="one">%d pokus</item>
+        <item quantity="few">%d pokusy</item>
+        <item quantity="many">%d attempts</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d aplikácií</item>
+        <item quantity="one">%d aplikácia</item>
+        <item quantity="few">%d aplikácie</item>
+        <item quantity="many">%d apps</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">Minimálne %d aplikácií</item>
+        <item quantity="one">Minimálne %d aplikácia</item>
+        <item quantity="few">Minimálne %d aplikácie</item>
+        <item quantity="many">Minimum %d apps</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nových upozornení</item>
+        <item quantity="one">%d nové upozornenie</item>
+        <item quantity="few">%d nové upozornenia</item>
+        <item quantity="many">%d new notifications</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d pripojených zariadení</item>
+        <item quantity="one">%1$d pripojené zariadenie</item>
+        <item quantity="few">%1$d pripojené zariadenia</item>
+        <item quantity="many">%1$d pripojeného zariadenia</item>
+    </plurals>
+</resources>

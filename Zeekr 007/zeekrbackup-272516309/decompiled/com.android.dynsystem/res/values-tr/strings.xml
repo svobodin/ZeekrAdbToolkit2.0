@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">"Lütfen şifrenizi girip Dinamik Sistem Güncellemesi'ne gidin"</string>
+    <string name="notification_action_cancel">İptal</string>
+    <string name="notification_action_discard">Sil</string>
+    <string name="notification_action_reboot_to_dynsystem">Yeniden başlat</string>
+    <string name="notification_action_reboot_to_origin">Yeniden başlat</string>
+    <string name="notification_dynsystem_in_use">Şu anda dinamik sistem çalıştırılıyor. Orijinal Android sürümünü kullanmak için cihazı yeniden başlatın.</string>
+    <string name="notification_image_validation_failed">Görüntü doğrulanamadı. Yüklemeyi iptal edin.</string>
+    <string name="notification_install_completed">Dinamik sistem hazır. Kullanmaya başlamak için cihazınızı yeniden başlatın.</string>
+    <string name="notification_install_failed">Yükleme başarısız oldu</string>
+    <string name="notification_install_inprogress">Yükleme devam ediyor</string>
+    <string name="toast_dynsystem_discarded">Dinamik sistem silindi</string>
+    <string name="toast_failed_to_disable_dynsystem">Dinamik sistem devre dışı bırakılamadı</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Dinamik sistem yeniden başlatılamıyor veya yüklenemiyor</string>
+</resources>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">थप %1$d</item>
+        <item quantity="one">थप %1$d</item>
+    </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">तपाईंले केही महिनादेखि %1$d वटा एप प्रयोग गर्नुभएको छैन। समीक्षा गर्न ट्याप गर्नुहोस्</item>
+        <item quantity="one">तपाईंले केही महिनादेखि %1$d एप प्रयोग गर्नुभएको छैन। समीक्षा गर्न ट्याप गर्नुहोस्</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">तपाईंले केही महिनादेखि %1$d वटा एप प्रयोग गर्नुभएको छैन</item>
+        <item quantity="one">तपाईंले केही महिनादेखि %1$d एप प्रयोग गर्नुभएको छैन</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s दिन</item>
+        <item quantity="one">१ दिन</item>
+    </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">%s दिन</item>
+        <item quantity="one">१ दिन</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">%s घन्टा</item>
+        <item quantity="one">१ घन्टा</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">%s मिनेट</item>
+        <item quantity="one">१ मिनेट</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">%s सेकेन्ड</item>
+        <item quantity="one">१ सेकेन्ड</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s घन्टा</item>
+        <item quantity="one">१ घन्टा</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s मिनेट</item>
+        <item quantity="one">१ मिनेट</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d नयाँ सूचनाहरू</item>
+        <item quantity="one">%d नयाँ सूचना</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s एपहरू</item>
+        <item quantity="one">१ एप</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s एपहरू</item>
+        <item quantity="one">१ एप</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">%1$d वटा एप‌ले प्रयोग गरेको</item>
+        <item quantity="one">एउटा एप‌ले प्रयोग गरेको</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"पछिल्लो पटकको पहुँच: %1$s
+%2$s पहुँच"</item>
+        <item quantity="one">"पछिल्लो पटकको पहुँच: %1$s
+%2$s पहुँच"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"पछिल्लो पटकको पहुँच: %1$s %2$s 
+ पहुँचहरू (%3$sपृष्ठभूमिमा)"</item>
+        <item quantity="one">"पछिल्लो पटकको पहुँच: %1$s
+%2$s पहुँच (%3$s पृष्ठभूमिमा)"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"पछिल्लो पटकको पहुँच: %1$s
+%2$s पहुँचहरू (%3$s पृष्ठभूमिमा)
+अवधि: %3$s"</item>
+        <item quantity="one">"पछिल्लो पटकको पहुँच: %1$s
+%2$s पहुँच (%3$s पृष्ठभूमिमा)
+अवधि: %3$s"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"पछिल्लो पटकको पहुँच: %1$s
+%2$s पहुँच
+अवधि: %3$s"</item>
+        <item quantity="one">"पछिल्लो पटकको पहुँच: %1$s
+%2$s पहुँच
+अवधि: %3$s"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s सेकेन्ड</item>
+        <item quantity="one">१ सेकेन्ड</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">प्रयोग नगरिएका %1$d एपहरू</item>
+        <item quantity="one">प्रयोग नगरिएको %1$d एप</item>
+    </plurals>
+</resources>

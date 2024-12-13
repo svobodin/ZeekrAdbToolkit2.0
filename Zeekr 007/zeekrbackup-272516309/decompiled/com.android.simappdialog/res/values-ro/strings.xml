@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sim App Dialog</string>
+    <string name="install_carrier_app_defer_action">Nu acum</string>
+    <string name="install_carrier_app_description">Pentru ca noul card SIM să funcționeze corect, va trebui să instalați aplicația %1$s</string>
+    <string name="install_carrier_app_description_default">Pentru ca noul card SIM să funcționeze corect, va trebui să instalați aplicația operatorului</string>
+    <string name="install_carrier_app_download_action">Descărcați aplicația</string>
+    <string name="install_carrier_app_title">Activați serviciul mobil</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Înapoi</string>
+    <string name="suw_more_button_label">Mai mult</string>
+    <string name="suw_next_button_label">Înainte</string>
+</resources>

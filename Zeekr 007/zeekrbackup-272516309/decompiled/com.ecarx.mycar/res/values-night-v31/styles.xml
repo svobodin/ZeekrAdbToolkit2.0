@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MyCar" parent="@style/ZeekrTheme26.Manual">
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowSplashScreenBackground">@color/splash_screen_bg</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/common_zeek_loading_anim</item>
+        <item name="android:windowSplashScreenAnimationDuration">10000</item>
+    </style>
+</resources>

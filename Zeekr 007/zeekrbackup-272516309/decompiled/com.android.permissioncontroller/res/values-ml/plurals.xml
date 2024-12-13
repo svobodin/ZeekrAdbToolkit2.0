@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">%1$d എണ്ണം കൂടി</item>
+        <item quantity="one">%1$d എണ്ണം കൂടി</item>
+    </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">കുറച്ച് മാസങ്ങളായി %1$d ആപ്പുകൾ ഉപയോഗിച്ചിട്ടില്ല. റിവ്യൂ ചെയ്യുന്നതിന് ടാപ്പ് ചെയ്യുക</item>
+        <item quantity="one">കുറച്ച് മാസങ്ങളായി %1$d ആപ്പ് ഉപയോഗിച്ചിട്ടില്ല. റിവ്യൂ ചെയ്യുന്നതിന് ടാപ്പ് ചെയ്യുക</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">കുറച്ച് മാസങ്ങളായി %1$d ആപ്പുകൾ ഉപയോഗിച്ചിട്ടില്ല</item>
+        <item quantity="one">കുറച്ച് മാസങ്ങളായി %1$d ആപ്പ് ഉപയോഗിച്ചിട്ടില്ല</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s ദിവസം</item>
+        <item quantity="one">ഒരു ദിവസം</item>
+    </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">%s ദിവസം</item>
+        <item quantity="one">1 ദിവസം</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">%s മണിക്കൂർ</item>
+        <item quantity="one">1 മണിക്കൂർ</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">%s മിനിറ്റ്</item>
+        <item quantity="one">1 മിനിറ്റ്</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">%s സെക്കൻഡ്</item>
+        <item quantity="one">1 സെക്കൻഡ്</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s മണിക്കൂർ</item>
+        <item quantity="one">ഒരു മണിക്കൂർ</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s മിനിറ്റ്</item>
+        <item quantity="one">ഒരു മിനിറ്റ്</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d പുതിയ അറിയിപ്പുകൾ</item>
+        <item quantity="one">%d പുതിയ അറിയിപ്പ്</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s ആപ്പുകൾ</item>
+        <item quantity="one">ഒരു ആപ്പ്</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s ആപ്പുകൾ</item>
+        <item quantity="one">ഒരു ആപ്പ്</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">%1$d ആപ്പുകൾ ഉപയോഗിച്ചു</item>
+        <item quantity="one">ഒരു ആപ്പ് ഉപയോഗിച്ചു</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"അവസാനം ആക്‌‌സസ് ചെയ്‌തത്: %1$s
+%2$s ആക്‌സസുകള്‍"</item>
+        <item quantity="one">"അവസാനം ആക്‌‌സസ് ചെയ്‌തത്: %1$s
+%2$s ആക്‌‌സസ്"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"അവസാനം ആക്‌‌സസ് ചെയ്‌തത്: %1$s
+%2$s ആക്‌സസുകള്‍ (പശ്‌ചാത്തലത്തില്‍ %3$s എണ്ണം)"</item>
+        <item quantity="one">"അവസാനം ആക്‌‌സസ് ചെയ്‌തത്: %1$s
+%2$s ആക്‌‌സസ് (പശ്‌ചാത്തലത്തില്‍%3$s എണ്ണം)"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"അവസാനം ആക്‌‌സസ് ചെയ്‌തത്: %1$s
+%2$s ആക്‌സസുകള്‍ (പശ്ചാത്തലത്തിൽ %3$s എണ്ണം)
+സമയ ദൈർഘ്യം: %3$s"</item>
+        <item quantity="one">"അവസാനം ആക്‌‌സസ് ചെയ്‌തത്: %1$s
+%2$s ആക്‌സസ് (പശ്ചാത്തലത്തിൽ %3$s എണ്ണം)
+സമയ ദൈർഘ്യം: %3$s"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"അവസാനം ആക്‌‌സസ് ചെയ്‌തത്: %1$s
+%2$s ആക്‌സസുകള്
+സമയ ദൈർഘ്യം: %3$s"</item>
+        <item quantity="one">"അവസാനം ആക്‌‌സസ് ചെയ്‌തത്: %1$s
+%2$s ആക്‌‌സസ്
+സമയ ദൈർഘ്യം: %3$s"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s സെക്കൻഡ്</item>
+        <item quantity="one">ഒരു സെക്കൻഡ്</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">ഉപയോഗിക്കാത്ത %1$d ആപ്പുകൾ</item>
+        <item quantity="one">ഉപയോഗിക്കാത്ത %1$d ആപ്പ്</item>
+    </plurals>
+</resources>

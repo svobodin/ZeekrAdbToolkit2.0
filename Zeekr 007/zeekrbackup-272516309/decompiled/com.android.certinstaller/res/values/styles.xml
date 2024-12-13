@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Transparent">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style name="dialog_button">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:layout_marginLeft">4.0dip</item>
+        <item name="android:layout_marginBottom">12.0dip</item>
+    </style>
+    <style name="dialog_edit_text">
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:backgroundTint">?android:colorAccent</item>
+    </style>
+    <style name="dialog_item">
+        <item name="android:textAppearance">@android:style/TextAppearance.Material.Subhead</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textAlignment">viewStart</item>
+    </style>
+    <style name="dialog_title">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:layout_marginBottom">16.0dip</item>
+    </style>
+</resources>

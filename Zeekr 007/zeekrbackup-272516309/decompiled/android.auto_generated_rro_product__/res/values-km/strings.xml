@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="owner_name">អ្នក​បើកបរ</string>
+    <string name="permlab_accessCoarseLocation">ចូលប្រើ​ទីតាំង​ប្រហាក់ប្រហែល​តែនៅផ្ទៃ​ខាងមុខប៉ុណ្ណោះ</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">បើក​មីក្រូហ្វូន</string>
+</resources>

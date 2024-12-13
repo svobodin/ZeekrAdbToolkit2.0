@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">Resources voor systeemconnectiviteit</string>
+    <string name="mobile_no_internet">Mobiel netwerk heeft geen internettoegang</string>
+    <string name="network_available_sign_in">Inloggen bij netwerk</string>
+    <string name="network_partial_connectivity">%1$s heeft beperkte connectiviteit</string>
+    <string name="network_partial_connectivity_detailed">Tik om toch verbinding te maken</string>
+    <string name="network_switch_metered">Overgeschakeld naar %1$s</string>
+    <string name="network_switch_metered_detail">Apparaat gebruikt %1$s wanneer %2$s geen internetverbinding heeft. Er kunnen kosten in rekening worden gebracht.</string>
+    <string name="network_switch_metered_toast">Overgeschakeld van %1$s naar %2$s</string>
+    <string name="network_switch_type_name_unknown">een onbekend netwerktype</string>
+    <string name="other_networks_no_internet">Netwerk heeft geen internettoegang</string>
+    <string name="private_dns_broken_detailed">Geen toegang tot privé-DNS-server</string>
+    <string name="wifi_available_sign_in">Inloggen bij wifi-netwerk</string>
+    <string name="wifi_no_internet">%1$s heeft geen internettoegang</string>
+    <string name="wifi_no_internet_detailed">Tik voor opties</string>
+</resources>

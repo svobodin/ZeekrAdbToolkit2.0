@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">सहयोगी डिव्हाइस व्यवस्थापक</string>
+    <string name="chooser_title">&lt;strong>%2$s&lt;/strong> द्वारे व्यवस्थापित करण्यासाठी %1$s निवडा</string>
+    <string name="confirmation_title">तुमचे &lt;strong>%2$s&lt;/strong> व्यवस्थापित करण्यासाठी &lt;strong>%1$s&lt;/strong> ला अनुमती द्या</string>
+    <string name="consent_no">अनुमती देऊ नका</string>
+    <string name="consent_yes">अनुमती द्या</string>
+    <string name="profile_name_generic">डिव्हाइस</string>
+    <string name="profile_name_watch">वॉच</string>
+    <string name="profile_summary">तुमची %1$s प्रोफाइल व्यवस्थापित करण्यासाठी हे ॲप आवश्यक आहे. %2$s</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ibhokisi Lohlelo Lokusebenza le-Sim</string>
+    <string name="install_carrier_app_defer_action">Hhayi manje</string>
+    <string name="install_carrier_app_description">Ukuze i-SIM yakho entsha isebenze kahle, kuzodingeka ufake uhlelo lokusebenza le-%1$s</string>
+    <string name="install_carrier_app_description_default">Ukuze i-SIM yakho entsha isebenze kahle, kuzodingeka ufake uhlelo lokusebenza lenkampini yenethiwekhi</string>
+    <string name="install_carrier_app_download_action">Landa uhlelo lokusebenza</string>
+    <string name="install_carrier_app_title">Yenza kusebenze isevisi yeselula</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Emuva</string>
+    <string name="suw_more_button_label">Okuningi</string>
+    <string name="suw_next_button_label">Okulandelayo</string>
+</resources>

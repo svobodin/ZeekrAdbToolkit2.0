@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dialog Aplikasi SIM</string>
+    <string name="install_carrier_app_defer_action">Lain kali</string>
+    <string name="install_carrier_app_description">Agar SIM baru berfungsi dengan baik, Anda harus menginstal aplikasi %1$s</string>
+    <string name="install_carrier_app_description_default">Agar SIM baru berfungsi dengan baik, Anda harus menginstal aplikasi operator</string>
+    <string name="install_carrier_app_download_action">Download aplikasi</string>
+    <string name="install_carrier_app_title">Aktifkan layanan seluler</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Kembali</string>
+    <string name="suw_more_button_label">Lainnya</string>
+    <string name="suw_next_button_label">Berikutnya</string>
+</resources>

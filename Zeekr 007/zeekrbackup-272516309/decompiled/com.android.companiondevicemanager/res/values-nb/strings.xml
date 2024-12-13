@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Companion Device Manager</string>
+    <string name="chooser_title">Velg %1$s som skal administreres av &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Tillat at &lt;strong>%1$s&lt;/strong> administrerer &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_no">Ikke tillat</string>
+    <string name="consent_yes">Tillat</string>
+    <string name="profile_name_generic">enhet</string>
+    <string name="profile_name_watch">klokke</string>
+    <string name="profile_summary">Denne appen kreves for å administrere %1$s. %2$s</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Skakel verbinding af</string>
+    <string name="no_upstream_notification_message">Toestelle kan nie koppel nie</string>
+    <string name="no_upstream_notification_title">Verbinding het nie internet nie</string>
+    <string name="upstream_roaming_notification_message">Bykomende heffings kan geld terwyl jy swerf</string>
+    <string name="upstream_roaming_notification_title">Warmkol of verbinding is aan</string>
+</resources>

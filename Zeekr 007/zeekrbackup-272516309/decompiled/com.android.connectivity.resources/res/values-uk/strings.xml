@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">Ресурси для підключення системи</string>
+    <string name="mobile_no_internet">Мобільна мережа не має доступу до Інтернету</string>
+    <string name="network_available_sign_in">Вхід у мережу</string>
+    <string name="network_partial_connectivity">Підключення до мережі %1$s обмежено</string>
+    <string name="network_partial_connectivity_detailed">Натисніть, щоб усе одно підключитися</string>
+    <string name="network_switch_metered">Пристрій перейшов на мережу %1$s</string>
+    <string name="network_switch_metered_detail">Коли мережа %2$s не має доступу до Інтернету, використовується %1$s. Може стягуватися плата.</string>
+    <string name="network_switch_metered_toast">Пристрій перейшов з мережі %1$s на мережу %2$s</string>
+    <string name="network_switch_type_name_unknown">невідомий тип мережі</string>
+    <string name="other_networks_no_internet">Мережа не має доступу до Інтернету</string>
+    <string name="private_dns_broken_detailed">Немає доступу до приватного DNS-сервера</string>
+    <string name="wifi_available_sign_in">Вхід у мережу Wi-Fi</string>
+    <string name="wifi_no_internet">Мережа %1$s не має доступу до Інтернету</string>
+    <string name="wifi_no_internet_detailed">Торкніться, щоб відкрити опції</string>
+</resources>

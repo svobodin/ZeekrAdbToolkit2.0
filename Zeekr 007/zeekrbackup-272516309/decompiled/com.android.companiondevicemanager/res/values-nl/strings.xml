@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Companion Device Manager</string>
+    <string name="chooser_title">Een %1$s kiezen om te beheren met &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">&lt;strong>%1$s&lt;/strong> toestaan je &lt;strong>%2$s&lt;/strong> te beheren</string>
+    <string name="consent_no">Niet toestaan</string>
+    <string name="consent_yes">Toestaan</string>
+    <string name="profile_name_generic">apparaat</string>
+    <string name="profile_name_watch">horloge</string>
+    <string name="profile_summary">Deze app is vereist om je %1$s te beheren. %2$s</string>
+</resources>

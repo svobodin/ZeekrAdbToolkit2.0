@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">सहयोगी डिभाइसको प्रबन्धक</string>
+    <string name="chooser_title">आफूले &lt;strong>%2$s&lt;/strong> प्रयोग गरी व्यवस्थापन गर्न चाहेको %1$s चयन गर्नुहोस्</string>
+    <string name="confirmation_title">आफ्नो &lt;strong>%2$s&lt;/strong> लाई &lt;strong>%1$s&lt;/strong> व्यवस्थापन गर्ने अनुमति दिनुहोस्</string>
+    <string name="consent_no">अनुमति नदिनुहोस्</string>
+    <string name="consent_yes">अनुमति दिनुहोस्</string>
+    <string name="profile_name_generic">यन्त्र</string>
+    <string name="profile_name_watch">घडी</string>
+    <string name="profile_summary">तपाईंको %1$s व्यवस्थापन गर्न यो एपलाई अनुमति दिनु पर्ने हुन्छ। %2$s</string>
+</resources>

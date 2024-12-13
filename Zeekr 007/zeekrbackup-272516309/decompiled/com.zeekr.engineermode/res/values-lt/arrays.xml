@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>Sint Martenas</item>
+        <item>Karibų Nyderlandai</item>
+        <item>Kiurasao</item>
+        <item>Pietų Sudanas</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Vidurio Australija – Š. Teritor.</item>
+        <item>Vidurio Australija – P. Teritor.</item>
+        <item>Rytų Australija – Kvinslandas</item>
+        <item>Rytų Australija – N. P. Velsas</item>
+        <item>ŠA kalnų žiem. l. – Doson Krikas</item>
+        <item>ŠA cen. žiem. l. – Saskačevanas</item>
+        <item>ŠA Rytų žiemos l. – Atikokanas</item>
+        <item>Atlanto žiemos laikas – Kvebekas</item>
+        <item>Havajų–Aleutų laikas – Havajai</item>
+        <item>Havajų–Aleutų laikas – Aliaska</item>
+        <item>Ramiojo v. žiem. l. – Metlakatla</item>
+        <item>ŠA kalnų žiemos laikas – Arizona</item>
+        <item>Ramiojo v. laikas – Kalifornija</item>
+        <item>Š. Amerikos kalnų l. – Čihuahua</item>
+        <item>ŠA vidurio laikas – Tamaulipasas</item>
+        <item>Š. Amerikos kalnų l. – Sonora</item>
+        <item>Rytų Afrikos laikas</item>
+        <item>Atlanto žiemos laikas</item>
+        <item>Atlanto žiemos laikas</item>
+        <item>Rytų Europos laikas</item>
+        <item>Kaliningrado laikas</item>
+        <item>Amazonės žiem. laik. – Rondonija</item>
+        <item>Brazilijos laikas – Para</item>
+    </string-array>
+</resources>

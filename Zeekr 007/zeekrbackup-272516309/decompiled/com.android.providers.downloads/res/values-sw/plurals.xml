@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_summary_active">
+        <item quantity="other">Inapakua faili %d</item>
+        <item quantity="one">Inapakua faili 1</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">Faili %d zinasubiri</item>
+        <item quantity="one">Faili 1 inasubiri</item>
+    </plurals>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">ସିଷ୍ଟମର ସଂଯୋଗ ସମ୍ବନ୍ଧିତ ରିସୋର୍ସଗୁଡ଼ିକ</string>
+    <string name="mobile_no_internet">ମୋବାଇଲ୍ ନେଟ୍‌ୱାର୍କରେ ଇଣ୍ଟର୍ନେଟ୍ ଆକ୍ସେସ୍ ନାହିଁ</string>
+    <string name="network_available_sign_in">ନେଟ୍‌ୱର୍କରେ ସାଇନ୍‍ ଇନ୍‍ କରନ୍ତୁ</string>
+    <string name="network_partial_connectivity">%1$sର ସୀମିତ ସଂଯୋଗ ଅଛି</string>
+    <string name="network_partial_connectivity_detailed">ତଥାପି ଯୋଗାଯୋଗ କରିବାକୁ ଟାପ୍ କରନ୍ତୁ</string>
+    <string name="network_switch_metered">%1$sକୁ ବଦଳାଗଲା</string>
+    <string name="network_switch_metered_detail">%2$sର ଇଣ୍ଟରନେଟ୍‍ ଆକ୍ସେସ୍ ନଥିବାବେଳେ ଡିଭାଇସ୍‍ %1$s ବ୍ୟବହାର କରିଥାଏ। ଶୁଳ୍କ ଲାଗୁ ହୋଇପାରେ।</string>
+    <string name="network_switch_metered_toast">%1$s ରୁ %2$sକୁ ବଦଳାଗଲା</string>
+    <string name="network_switch_type_name_unknown">ଏକ ଅଜଣା ନେଟୱାର୍କ ପ୍ରକାର</string>
+    <string name="other_networks_no_internet">ନେଟ୍‌ୱାର୍କରେ ଇଣ୍ଟର୍ନେଟ୍ ଆକ୍ସେସ୍ ନାହିଁ</string>
+    <string name="private_dns_broken_detailed">ବ୍ୟକ୍ତିଗତ DNS ସର୍ଭର୍ ଆକ୍ସେସ୍ କରିହେବ ନାହିଁ</string>
+    <string name="wifi_available_sign_in">ୱାଇ-ଫାଇ ନେଟୱର୍କରେ ସାଇନ୍‍-ଇନ୍‍ କରନ୍ତୁ</string>
+    <string name="wifi_no_internet">%1$sର ଇଣ୍ଟର୍ନେଟ୍ ଆକ୍ସେସ୍ ନାହିଁ</string>
+    <string name="wifi_no_internet_detailed">ବିକଳ୍ପ ପାଇଁ ଟାପ୍‍ କରନ୍ତୁ</string>
+</resources>

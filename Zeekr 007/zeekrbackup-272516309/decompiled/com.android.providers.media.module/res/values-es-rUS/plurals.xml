@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">¿Deseas permitir que ^1 borre ^2 archivos de audio?</item>
+        <item quantity="one">¿Deseas permitir que ^1 borre este archivo de audio?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">¿Deseas permitir que ^1 borre ^2 elementos?</item>
+        <item quantity="one">¿Deseas permitir que ^1 borre este elemento?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">¿Deseas permitir que ^1 borre ^2 fotos?</item>
+        <item quantity="one">¿Deseas permitir que ^1 borre esta foto?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">¿Deseas permitir que ^1 borre ^2 videos?</item>
+        <item quantity="one">¿Deseas permitir que ^1 borre este video?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">^1 elementos adicionales</item>
+        <item quantity="one">^1 elemento adicional</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">^1 más</item>
+        <item quantity="one">^1 más</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">Borrando ^1 archivos de audio…</item>
+        <item quantity="one">Borrando el archivo de audio…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">Borrando ^1 elementos…</item>
+        <item quantity="one">Borrando el elemento…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">Borrando ^1 fotos…</item>
+        <item quantity="one">Borrando la foto…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">Borrando ^1 videos…</item>
+        <item quantity="one">Borrando el video…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">Moviendo ^1 archivos de audio a la papelera…</item>
+        <item quantity="one">Moviendo el archivo de audio a la papelera…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">Moviendo ^1 elementos a la papelera…</item>
+        <item quantity="one">Moviendo el elemento a la papelera…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">Moviendo ^1 fotos a la papelera…</item>
+        <item quantity="one">Moviendo la foto a la papelera…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">Moviendo ^1 videos a la papelera…</item>
+        <item quantity="one">Moviendo el video a la papelera…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">Quitando ^1 archivos de audio de la papelera…</item>
+        <item quantity="one">Quitando el archivo de audio de la papelera…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">Quitando ^1 elementos de la papelera…</item>
+        <item quantity="one">Quitando el elemento de la papelera…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">Quitando ^1 fotos de la papelera…</item>
+        <item quantity="one">Quitando la foto de la papelera…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">Quitando ^1 videos de la papelera…</item>
+        <item quantity="one">Quitando el video de la papelera…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">Modificando ^1 archivos de audio…</item>
+        <item quantity="one">Modificando el archivo de audio…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">Modificando ^1 elementos…</item>
+        <item quantity="one">Modificando el elemento…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">Modificando ^1 fotos…</item>
+        <item quantity="one">Modificando la foto…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">Modificando ^1 videos…</item>
+        <item quantity="one">Modificando el video…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">¿Deseas permitir que ^1 mueva ^2 archivos de audio a la papelera?</item>
+        <item quantity="one">¿Deseas permitir que ^1 mueva este archivo de audio a la papelera?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">¿Deseas permitir ^1 mueva ^2 elementos a la papelera?</item>
+        <item quantity="one">¿Deseas permitir ^1 mueva este elemento a la papelera?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">¿Deseas permitir que ^1 mueva ^2 fotos a la papelera?</item>
+        <item quantity="one">¿Deseas permitir que ^1 mueva esta foto a la papelera?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">¿Deseas permitir que ^1 mueva ^2 videos a la papelera?</item>
+        <item quantity="one">¿Deseas permitir que ^1 mueva este video a la papelera?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">¿Deseas permitir que ^1 quite ^2 archivos de audio de la papelera?</item>
+        <item quantity="one">¿Deseas permitir que ^1 quite este archivo de audio de la papelera?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">¿Deseas permitir que ^1 quite ^2 elementos de la papelera?</item>
+        <item quantity="one">¿Deseas permitir que ^1 quite este elemento de la papelera?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">¿Deseas permitir que ^1 quite ^2 fotos de la papelera?</item>
+        <item quantity="one">¿Deseas permitir que ^1 quite esta foto de la papelera?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">¿Deseas permitir que ^1 quite ^2 videos de la papelera?</item>
+        <item quantity="one">¿Deseas permitir que ^1 quite este video de la papelera?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">¿Deseas permitir que ^1 modifique ^2 archivos de audio?</item>
+        <item quantity="one">¿Deseas permitir que ^1 modifique este archivo de audio?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">¿Deseas permitir que ^1 modifique ^2 elementos?</item>
+        <item quantity="one">¿Deseas permitir que ^1 modifique este elemento?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">¿Deseas permitir que ^1 modifique ^2 fotos?</item>
+        <item quantity="one">¿Deseas permitir que ^1 modifique esta foto?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">¿Deseas permitir que ^1 modifique ^2 videos?</item>
+        <item quantity="one">¿Deseas permitir que ^1 modifique este video?</item>
+    </plurals>
+</resources>

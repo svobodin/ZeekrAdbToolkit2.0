@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">सम्पर्कहरू भण्डारण</string>
+    <string name="debug_dump_database_message">"तपाईँले केही बेरमा १) आन्तरिक भण्डारणमा सम्पुर्ण सम्पर्क सम्बन्धी जानकारी र कल लग भएको डेटाबेसको एउटा प्रतिलिपी बनाउनुहोस्, र  2) उनीहरूलाई इमेल गर्नुहोस्। उपरकणमा प्रतिलिपीको नक्कल पार्ना साथ अथवा इमेल प्राप्त हुने बित्तिकै प्रतिलिपी मेटाउन ख्याल गर्नुहोस्।"</string>
+    <string name="debug_dump_delete_button">अहिले हटाउनुहोस्</string>
+    <string name="debug_dump_email_body">संलग्न मेरा सम्पुर्ण जानकारीको सम्पर्क डेटाबेस हो। सावधानीपूर्वक राख्नुहोस्।</string>
+    <string name="debug_dump_email_sender_picker">आफ्नो फाइल पठाउनका लागि एउटा प्रोग्राम छान्नुहोस्।</string>
+    <string name="debug_dump_email_subject">सम्पर्क Db संलग्न गरिएको छ।</string>
+    <string name="debug_dump_start_button">सुरु गर्नुहोस्</string>
+    <string name="debug_dump_title">सम्पर्क डेटाबेस प्रतिलिप गर्नुहोस्</string>
+    <string name="default_directory">सम्पर्कहरू</string>
+    <string name="local_invisible_directory">अन्य</string>
+    <string name="provider_label">सम्पर्कहरू</string>
+    <string name="sharedUserLabel">एन्ड्रोइड कोर एपहरू</string>
+    <string name="upgrade_out_of_memory_notification_text">स्तरवृद्धि पूरा गर्न ट्याप गर्नुहोस्।</string>
+    <string name="upgrade_out_of_memory_notification_ticker">सम्पर्क अद्यावधिकका लागि अझै धेरै मेमोरी चाहिन्छ।</string>
+    <string name="upgrade_out_of_memory_notification_title">सम्पर्कका लागि भणडारण अद्यावधिक गर्दै</string>
+    <string name="voicemail_from_column">"बाट भ्वाइसमेल "</string>
+</resources>

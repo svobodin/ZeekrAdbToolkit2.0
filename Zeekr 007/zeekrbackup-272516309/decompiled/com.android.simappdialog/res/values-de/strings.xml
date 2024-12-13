@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SIM-App-Dialogfeld</string>
+    <string name="install_carrier_app_defer_action">Nicht jetzt</string>
+    <string name="install_carrier_app_description">Damit deine neue SIM-Karte richtig funktioniert, musst du die %1$s App installieren</string>
+    <string name="install_carrier_app_description_default">Damit deine neue SIM-Karte richtig funktioniert, musst du die Mobilfunkanbieter-App installieren</string>
+    <string name="install_carrier_app_download_action">App herunterladen</string>
+    <string name="install_carrier_app_title">Mobilfunkdienst aktivieren</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Zurück</string>
+    <string name="suw_more_button_label">Mehr</string>
+    <string name="suw_next_button_label">Weiter</string>
+</resources>

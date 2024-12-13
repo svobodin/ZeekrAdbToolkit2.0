@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">Amplificare bas</string>
+    <string name="ci_extreme">Amplificator FX</string>
+    <string name="classical">Clasică</string>
+    <string name="dance">Dance</string>
+    <string name="eq_dialog_title">Egalizator</string>
+    <string name="flat">Uniformă</string>
+    <string name="folk">Folk</string>
+    <string name="headset_plug">Pentru aceste efecte trebuie să conectați căștile.</string>
+    <string name="heavy_metal">Heavy metal</string>
+    <string name="hip_hop">Hip-hop</string>
+    <string name="jazz">Jazz</string>
+    <string name="no_effects">Efectele nu sunt disponibile.</string>
+    <string name="normal">Normal</string>
+    <string name="picker_title">Pan. de cont. cu efecte muz.</string>
+    <string name="pop">Pop</string>
+    <string name="rock">Rock</string>
+    <string name="setup">Configurați</string>
+    <string name="user">Utilizator</string>
+    <string name="virtualizer_strength">Sunet surround</string>
+</resources>

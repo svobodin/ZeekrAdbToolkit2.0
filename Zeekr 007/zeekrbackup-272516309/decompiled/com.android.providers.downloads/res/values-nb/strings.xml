@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Nedlaster</string>
+    <string name="button_cancel_download">Avbryt</string>
+    <string name="button_queue_for_wifi">Kø</string>
+    <string name="button_start_now">Start nå</string>
+    <string name="download_error">Mislyktes</string>
+    <string name="download_no_application_title">Kan ikke åpne filen</string>
+    <string name="download_queued">I kø</string>
+    <string name="download_remaining">%s gjenstår</string>
+    <string name="download_running">Pågår</string>
+    <string name="download_running_percent">Pågår – %s</string>
+    <string name="download_unknown_title">&lt;Uten navn></string>
+    <string name="notification_download_complete">Nedlasting fullført.</string>
+    <string name="notification_download_failed">Nedlasting mislyktes.</string>
+    <string name="notification_need_wifi_for_size">Krever Wi-Fi pga. størr.</string>
+    <string name="notification_paused_in_background">Satt på pause i bakgr.</string>
+    <string name="permdesc_accessAllDownloads">Gir appen tillatelse til å se og endre alle nedlastinger uansett hvilken systemapp som har startet nedlastingene.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Gir appen tillatelse til å laste ned filer til nedlastingsbufferen, slik at de ikke slettes automatisk når nedlastingsbehandlingen trenger mer lagringsplass.</string>
+    <string name="permdesc_downloadCompletedIntent">Gir appen tillatelse til å sende varslinger om fullførte nedlastinger. Skadelig programvare kan bruke dette til å forstyrre andre apper som laster ned filer.</string>
+    <string name="permdesc_downloadManager">Gir appen adgang til nedlastingsbehandlingen og bruke den til å laste ned filer. Skadelig programvare kan bruke dette til å forstyrre nedlastinger og få tilgang til privat informasjon.</string>
+    <string name="permdesc_downloadManagerAdvanced">Gir appen adgang til avanserte funksjoner i nedlastingsbehandlingen. Skadelig programvare kan bruke dette til å forstyrre nedlastinger og få tilgang til privat informasjon.</string>
+    <string name="permdesc_downloadWithoutNotification">Gir appen tillatelse til å laste ned filer via nedlastingsbehandlingen uten at brukeren varsles.</string>
+    <string name="permlab_accessAllDownloads">Se alle systemnedlastinger</string>
+    <string name="permlab_downloadCacheNonPurgeable">Reservere lagringsplass i nedlastingsbufferen</string>
+    <string name="permlab_downloadCompletedIntent">Sende nedlastingsvarslinger</string>
+    <string name="permlab_downloadManager">Bruke nedlasting.</string>
+    <string name="permlab_downloadManagerAdvanced">Avansert nedlastingsfunksjonalitet.</string>
+    <string name="permlab_downloadWithoutNotification">laste ned filer uten varsling</string>
+    <string name="root_downloads">Nedlastinger</string>
+    <string name="storage_description">Nedlastinger</string>
+    <string name="wifi_recommended_body">"Starter du denne nedlastingen på %1$s  nå, kan det redusere batteriets levetid eller gi for høy bruk av datatilkoblingen. Abonnementet ditt avgjør kostnadene.
+
+Trykk%2$s for å starte nedlastingen neste gang du er koblet til Wi-Fi."</string>
+    <string name="wifi_recommended_title">Vil du sette nedlastingen i kø til senere?</string>
+    <string name="wifi_required_body">"Du må bruke Wi-Fi for å fullføre denne nedlastingen på %1$s . 
+
+Trykk %2$s  for å starte denne nedlastingen neste gang du er koblet til et Wi-Fi-nettverk."</string>
+    <string name="wifi_required_title">Nedlastingen er for stor for operatørnettverket</string>
+</resources>

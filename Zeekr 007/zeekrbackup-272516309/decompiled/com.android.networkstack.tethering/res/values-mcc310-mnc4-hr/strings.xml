@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Isključivanje modemskog povezivanja</string>
+    <string name="no_upstream_notification_message">Uređaji se ne mogu povezati</string>
+    <string name="no_upstream_notification_title">Modemsko povezivanje nema internet</string>
+    <string name="upstream_roaming_notification_message">U roamingu su mogući dodatni troškovi</string>
+    <string name="upstream_roaming_notification_title">Uključena je žarišna točka ili modemsko povezivanje</string>
+</resources>

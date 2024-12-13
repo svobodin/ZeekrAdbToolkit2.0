@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="network_switch_type_name">
+        <item>ទិន្នន័យ​ទូរសព្ទចល័ត</item>
+        <item>Wi-Fi</item>
+        <item>ប៊្លូធូស</item>
+        <item>អ៊ីសឺរណិត</item>
+        <item>VPN</item>
+    </string-array>
+</resources>

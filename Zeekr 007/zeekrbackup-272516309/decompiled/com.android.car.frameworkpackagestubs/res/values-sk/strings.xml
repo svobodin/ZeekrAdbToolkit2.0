@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zástupný kód aktivity</string>
+    <string name="message_not_supported">Túto akciu nedokáže spracovať žiadna aplikácia</string>
+    <string name="pip_not_supported">Obraz v obraze nie je v tomto zariadení podporovaný</string>
+    <string name="stub_name">Žiadne</string>
+</resources>

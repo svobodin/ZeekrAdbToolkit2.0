@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="diag_button_padding_bottom">@dimen/screen_percentage_12</item>
+    <item type="dimen" name="diag_button_padding_horizontal">@dimen/screen_percentage_15</item>
+    <dimen name="diag_button_size">48.0dip</dimen>
+    <item type="dimen" name="diag_icon_margin_top">@dimen/screen_percentage_10</item>
+    <item type="dimen" name="diag_preferred_padding">@dimen/screen_percentage_15</item>
+</resources>

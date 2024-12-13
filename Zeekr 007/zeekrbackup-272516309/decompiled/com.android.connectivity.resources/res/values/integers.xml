@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="config_allowedUnprivilegedKeepalivePerUid">2</integer>
+    <integer name="config_networkAvoidBadWifi">1</integer>
+    <integer name="config_networkMeteredMultipathPreference">0</integer>
+    <integer name="config_networkNotifySwitchType">0</integer>
+    <integer name="config_networkTransitionTimeout">60000</integer>
+    <integer name="config_networkWakeupPacketMark">0</integer>
+    <integer name="config_networkWakeupPacketMask">0</integer>
+    <integer name="config_reservedPrivilegedKeepaliveSlots">2</integer>
+</resources>

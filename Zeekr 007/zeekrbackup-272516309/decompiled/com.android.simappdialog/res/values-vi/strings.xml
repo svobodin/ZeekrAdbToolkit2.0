@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hộp thoại ứng dụng SIM</string>
+    <string name="install_carrier_app_defer_action">Để sau</string>
+    <string name="install_carrier_app_description">Để SIM mới hoạt động đúng cách, bạn cần phải cài đặt ứng dụng %1$s</string>
+    <string name="install_carrier_app_description_default">Để SIM mới hoạt động đúng cách, bạn cần phải cài đặt ứng dụng của nhà mạng</string>
+    <string name="install_carrier_app_download_action">Tải ứng dụng xuống</string>
+    <string name="install_carrier_app_title">Kích hoạt dịch vụ di động</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Quay lại</string>
+    <string name="suw_more_button_label">Khác</string>
+    <string name="suw_next_button_label">Tiếp theo</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">Բասերի ուժեղացում</string>
+    <string name="ci_extreme">FX booster</string>
+    <string name="classical">Դասական</string>
+    <string name="dance">Պարային</string>
+    <string name="eq_dialog_title">Էկվալայզեր</string>
+    <string name="flat">Միատոն</string>
+    <string name="folk">Ֆոլկ</string>
+    <string name="headset_plug">Այս էֆեկտները ստանալու համար միացրեք ականջակալը։</string>
+    <string name="heavy_metal">Հևի մետալ</string>
+    <string name="hip_hop">Հիփ հոփ</string>
+    <string name="jazz">Ջազ</string>
+    <string name="no_effects">Էֆեկտները հասանելի չեն։</string>
+    <string name="normal">Սովորական</string>
+    <string name="picker_title">Էֆեկտների կառավարման վահանակ</string>
+    <string name="pop">Փոփ</string>
+    <string name="rock">Ռոք</string>
+    <string name="setup">Կարգավորում</string>
+    <string name="user">Օգտատեր</string>
+    <string name="virtualizer_strength">Ծավալային ձայն</string>
+</resources>

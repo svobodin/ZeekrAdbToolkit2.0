@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">സിം ആപ്പ് ഡയലോഗ്</string>
+    <string name="install_carrier_app_defer_action">ഇപ്പോൾ വേണ്ട</string>
+    <string name="install_carrier_app_description">നിങ്ങളുടെ പുതിയ സിം ശരിയായി പ്രവർത്തിക്കുന്നതിന് %1$s ആപ്പ് ഇൻസ്റ്റാൾ ചെയ്യേണ്ടതുണ്ട്</string>
+    <string name="install_carrier_app_description_default">നിങ്ങളുടെ പുതിയ സിം ശരിയായി പ്രവർത്തിക്കുന്നതിന് കാരിയർ ആപ്പ് ഇൻസ്റ്റാൾ ചെയ്യേണ്ടതുണ്ട്</string>
+    <string name="install_carrier_app_download_action">ആപ്പ് ഡൗൺലോഡ് ചെയ്യുക</string>
+    <string name="install_carrier_app_title">മൊബൈൽ സേവനം സജീവമാക്കുക</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">മടങ്ങുക</string>
+    <string name="suw_more_button_label">കൂടുതൽ</string>
+    <string name="suw_next_button_label">അടുത്തത്</string>
+</resources>

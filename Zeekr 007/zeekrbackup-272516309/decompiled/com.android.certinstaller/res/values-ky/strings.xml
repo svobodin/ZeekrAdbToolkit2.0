@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_missing_private_key">Тастыктаманы орнотуу үчүн купуя ачкыч талап кылынат</string>
+    <string name="action_missing_user_cert">Купуя ачкыкты орнотуу үчүн тастыктама талап кылынат</string>
+    <string name="app_name">Тастыктаманы орноткуч</string>
+    <string name="ca_cert_is_added">Тастыктоочу борбордун (ТБ) тастыктамасы орнотулду</string>
+    <string name="ca_certificate">Тастыктоочу борбордун (ТБ) тастыктамасы</string>
+    <string name="cert_missing_error">Орнотуу мүмкүн болгон жок, анткени сертификат файлы табылбады.</string>
+    <string name="cert_not_saved">Тастыктама орнотулган эмес.</string>
+    <string name="cert_read_error">Орнотуу мүмкүн болгон жок, анткени сертификат файлын окуу мүмкүн эмес.</string>
+    <string name="cert_temp_error">Убактылуу бузулуу. Бир аздан кийин кайталап көрүңүз.</string>
+    <string name="cert_too_large_error">Орнотуу мүмкүн болгон жок, анткени сертификат өтө чоң.</string>
+    <string name="certificate">Тастыктама</string>
+    <string name="certificate_capabilities_warning">Эскертүү: Бул тастыктаманы берүүчү түзмөккө жана түзмөктөн болгон бардык трафикти талдайт.</string>
+    <string name="certificate_name">Тастыктаманын аталышы</string>
+    <string name="credential_info">Топтомдо төмөнкүлөр камтылган:</string>
+    <string name="credential_password">Сертификаттарды чыгаруу үчүн сырсөз териңиз.</string>
+    <string name="credential_usage_label">Тастыктама төмөнкү менен колдонулат:</string>
+    <string name="done_label">БҮТТҮ</string>
+    <string name="extracting_pkcs12">Чыгарылууда…</string>
+    <string name="install_done">"%1$s эсептик дайындары Wi-Fi'да сакталган тармактарга кошулду."</string>
+    <string name="install_done_title">Эсептик дайындар орнотулду</string>
+    <string name="invalid_cert">Тастыктама жараксыз.</string>
+    <string name="invalid_certificate_close_button">Жабуу</string>
+    <string name="invalid_certificate_message">Бул файлды %1$s катары колдонууга болбойт</string>
+    <string name="invalid_certificate_title">Бул файлды колдонууга болбойт</string>
+    <string name="n_cacrts">%d CA тастыктамасы</string>
+    <string name="name_char_error">Бир гана тамгалар жана сандарды камтыган ат жазыңыз.</string>
+    <string name="name_credential_dialog_title">Тастыктаманы атаңыз</string>
+    <string name="name_empty_error">Аталышын териңиз.</string>
+    <string name="no_cert_to_saved">Орнотула турган тастыктама жок.</string>
+    <string name="one_cacrt">бир CA тастыктамасы</string>
+    <string name="one_usercrt">бир колдонуучу тастыктамасы</string>
+    <string name="one_userkey">бир колдонуучу ачкычы</string>
+    <string name="only_primary_user_allowed">Сертификаттарды бул түзмөктүн ээси гана орното алат.</string>
+    <string name="p12_description">PKCS12 ачкыч кампасындагы тастыктамалар.</string>
+    <string name="password_empty_error">Сырсөздү териңиз.</string>
+    <string name="password_error">Туура сырсөздү териңиз.</string>
+    <string name="pick_file_title">Сертификат тандаңыз</string>
+    <string name="pkcs12_file_password_dialog_title">%s ичинен чыгарып алуу</string>
+    <string name="pkcs12_password_dialog_title">Сертификатты алып чыгуу</string>
+    <string name="redirect_ca_certificate_close_button">Жабуу</string>
+    <string name="redirect_ca_certificate_title">Жөндөөлөргө өтүп, Тастыктоочу борбордун (ТБ) тастыктамаларын орнотуңуз</string>
+    <string name="redirect_ca_certificate_with_app_info_message">Жөндөөлөргө өтүп, бул %1$s тастыктамасын орнотушуңуз керек. Ишенимдүү уюмдардын Тастыктоочу борборлорунун (ТБ) тастыктамаларын гана колдонуңуз.</string>
+    <string name="select_certificate_usage_title">Тастыктаманын түрүн тандоо</string>
+    <string name="unable_to_save_cert">Сертификат сакталбады. Сертификат сактагыч өчүрүлгөн же ал туура орнотулган эмес.</string>
+    <string name="user_cert_is_added">Колдонуучунун тастыктамасы орнотулду</string>
+    <string name="user_certificate">VPN жана колдонуучунун тастыктамасы</string>
+    <string name="userkey_type">Алгоритм:</string>
+    <string name="wifi_cancel_label">Жокко чыгаруу</string>
+    <string name="wifi_cert_is_added">Wi‑Fi тастыктамасы орнотулду</string>
+    <string name="wifi_certificate">Wi‑Fi тастыктамасы</string>
+    <string name="wifi_config_text">"Аталышы: %1$s
+FQDN: %2$s
+Роуминг консорциумдары: %3$s
+Чөйрө: %4$s
+Уруксаттуу ыкмасы: EAP-%5$s
+"</string>
+    <string name="wifi_detail_label">Чоо-жайы</string>
+    <string name="wifi_detail_title">%s чоо-жайы</string>
+    <string name="wifi_dismiss_label">Этибарга албоо</string>
+    <string name="wifi_install_label">Орнотуу</string>
+    <string name="wifi_installer_detail">%1$s аркылуу тармакка туташуу үчүн Wi-Fi эсептик дайындарын орнотуңуз.</string>
+    <string name="wifi_installer_download_error">Жүктөлүп алынган файлда көйгөйлөр болуп, орнотулбай калды. Файл туура булактан жүктөлүп алынганын текшериңиз.</string>
+    <string name="wifi_installer_fail">Wi-Fi эсептик дайындары орнотулбай калды. Файлды кайра жүктөп көрүңүз.</string>
+    <string name="wifi_installer_fail_no_wifi">Wi-Fi күйгүзүп, кайталап көрүңүз.</string>
+    <string name="wifi_installer_fail_no_wifi_title">Орнотуу жокко чыгарылды</string>
+    <string name="wifi_installer_fail_title">Орнотулбай жатат</string>
+    <string name="wifi_installing_label">Орнотулууда</string>
+    <string name="wifi_no_config">Жок</string>
+    <string name="wifi_sim_config_text">"SIM: %s
+"</string>
+    <string name="wifi_title">Wi-Fi Профили</string>
+    <string name="wifi_tls_config_text">"Кардардын тастыктамасы:
+%1$s
+Негизги: %2$s
+"</string>
+    <string name="wifi_trust_config_text">"Ишеним тастыктамасы:
+%s
+"</string>
+    <string name="wifi_ttls_config_text">"Колдонуучу аты: %s
+"</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Código auxiliar de actividad</string>
+    <string name="message_not_supported">Ninguna app puede procesar esta acción</string>
+    <string name="pip_not_supported">Este dispositivo no admite la función Pantalla en pantalla</string>
+    <string name="stub_name">Ninguno</string>
+</resources>

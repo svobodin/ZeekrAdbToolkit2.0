@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">Ievadiet paroli un pārejiet uz funkciju Dinamiskie sistēmas atjauninājumi</string>
+    <string name="notification_action_cancel">Atcelt</string>
+    <string name="notification_action_discard">Atmest</string>
+    <string name="notification_action_reboot_to_dynsystem">Restartēt</string>
+    <string name="notification_action_reboot_to_origin">Restartēt</string>
+    <string name="notification_dynsystem_in_use">Pašlaik darbojas dinamiska sistēma. Lai izmantotu sākotnējo Android versiju, restartējiet ierīci.</string>
+    <string name="notification_image_validation_failed">Attēla validācija neizdevās. Instalācija tiek priekšlaikus pārtraukta.</string>
+    <string name="notification_install_completed">Dinamiskā sistēma ir gatava. Lai sāktu to izmantot, restartējiet ierīci.</string>
+    <string name="notification_install_failed">Instalēšana neizdevās</string>
+    <string name="notification_install_inprogress">Notiek instalēšana</string>
+    <string name="toast_dynsystem_discarded">Dinamiskā sistēma tika atmesta</string>
+    <string name="toast_failed_to_disable_dynsystem">Neizdevās atspējot dinamisko sistēmu.</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Nevar restartēt vai ielādēt dinamisko sistēmu</string>
+</resources>

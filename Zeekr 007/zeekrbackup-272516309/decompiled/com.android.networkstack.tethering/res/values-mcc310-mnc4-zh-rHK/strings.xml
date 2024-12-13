@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">關閉網絡共享</string>
+    <string name="no_upstream_notification_message">裝置無法連接</string>
+    <string name="no_upstream_notification_title">無法透過網絡共享連線至互聯網</string>
+    <string name="upstream_roaming_notification_message">漫遊時可能需要支付額外費用</string>
+    <string name="upstream_roaming_notification_title">熱點或網絡共享已開啟</string>
+</resources>

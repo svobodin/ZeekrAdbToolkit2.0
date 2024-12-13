@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s: Verizon のサービスエリア外から Verizon Wi-Fi Access に接続することはできません。</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s: Verizon Wi-Fi Access に登録されていません。800-922-0204 までお電話でお問い合わせください。</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s: お使いの Verizon Wi-Fi Access アカウントに問題があります。800-922-0204 までお電話でお問い合わせください。</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s: Verizon Wi-Fi Access にすでに接続しています。</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s: Verizon Wi-Fi Access への接続中に問題が発生しました。800-922-0204 までお電話でお問い合わせください。</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s: お使いの Verizon Wi-Fi Access アカウントに問題があります。800-922-0204 までお電話でお問い合わせください。</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s: 現在地では Verizon Wi-Fi Access はご利用いただけません。しばらくしてからもう一度お試しいただくか、場所を変えてお試しください。</string>
+</resources>

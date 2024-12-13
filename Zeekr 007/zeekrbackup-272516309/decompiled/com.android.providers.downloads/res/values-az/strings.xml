@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Endirmə İdarəçisi</string>
+    <string name="button_cancel_download">Ləğv et</string>
+    <string name="button_queue_for_wifi">Növbəyə sal</string>
+    <string name="button_start_now">İndi başlat</string>
+    <string name="download_error">Uğursuz</string>
+    <string name="download_no_application_title">Fayl açılmır</string>
+    <string name="download_queued">Növbəyə salınıb</string>
+    <string name="download_remaining">%s qalır</string>
+    <string name="download_running">Davam edir</string>
+    <string name="download_running_percent">Davam edir, %s</string>
+    <string name="download_unknown_title">&lt;Başlıqsız></string>
+    <string name="notification_download_complete">Endirmə tamamlandı.</string>
+    <string name="notification_download_failed">Endirmə uğursuz oldu.</string>
+    <string name="notification_need_wifi_for_size">Endirmə həcmi Wi-Fi tələb edir.</string>
+    <string name="notification_paused_in_background">Arxa fonda dayandırıldı.</string>
+    <string name="permdesc_accessAllDownloads">Tətbiqə başqa bir tətbiq vasitəsi ilə başladılan endirmələri göstərmək və dəyişdirmək imkanı verir.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Tətbiqə endirmə idarəçisinə daha çox yer lazım olanda başqa faylları endirmə vasitəsi ilə avtomatik olarak silinməyən keşlər endirməsinə imkan verir.</string>
+    <string name="permdesc_downloadCompletedIntent">Tətbiqə tamamlanmış endirmələr haqqında məlumat göndərməyə imkan verir. Zərərli tətbiqlər bunu faylları endirən tətbiqləri çaşdırmaq üçün istifadə edə bilər.</string>
+    <string name="permdesc_downloadManager">Tətbiqə faylları endirmək üçün endirmə idarçisinə daxil olmağa imkan verir. Zərərli tətbiqlər bundan endirmələri pozmaq və özəl məlumatlara daxil olmaq üçün istifadə edə bilər.</string>
+    <string name="permdesc_downloadManagerAdvanced">Tətbiqə endirmə idarəçisinin inkişaf etmiş funksiyalarına daxil olmaq üçün imkan verir. Zərərli tətbiqlər bunu endirmələri pozmaq və özəl məlumatlara daxil olmaq üçün istifadə edə bilər.</string>
+    <string name="permdesc_downloadWithoutNotification">Bu tətbiq istifadəçiyə hər hansı bir məlumat göstərmədən faylları endirmə idarəçisi vasitəsi ilə endirmək imkanı verir.</string>
+    <string name="permlab_accessAllDownloads">Sistemdəki bütün endirilənlərə gir</string>
+    <string name="permlab_downloadCacheNonPurgeable">Endirmə keşində ehtiyat yer mühafizə et</string>
+    <string name="permlab_downloadCompletedIntent">Endirmə məlumatı göndər.</string>
+    <string name="permlab_downloadManager">Endirmə idarəçisinə daxil ol.</string>
+    <string name="permlab_downloadManagerAdvanced">Ətraflı endirmə idarəçisi funksiyaları.</string>
+    <string name="permlab_downloadWithoutNotification">xəbərdarlıq etmədən faylları endir</string>
+    <string name="root_downloads">Endirmələr</string>
+    <string name="storage_description">Endirmələr</string>
+    <string name="wifi_recommended_body">"Bu %1$s  böyüklükdəki faylı endirməyə başlamaq batareyanızı azalda bilər/və ya mobil data əlaqənizin böyük bir hissəsinin işlədilməsinə gətirib çixara bilər, bu da sizin data planınınızdan asılı olaraq mobil operatorunuz tərəfindən xərcə səbəb ola bilər. 
+ 
+ Növbəti dəfə WiFi şəbəkəsinə qoşulanda bu endirməyə başlamaq üçün %2$s toxunun."</string>
+    <string name="wifi_recommended_title">Daha sonra endirmək üçün növbəyə salmaq istəyirsiniz?</string>
+    <string name="wifi_required_body">"Bu %1$s  endirməni başa çatdırmaq üçün Wi-Fi istifadə etməlisiniz. 
+ 
+ Növbəti dəfə WiFi şəbəkəsinə qoşulanda bu endirməni başlatmaq üçün %2$s  toxunun."</string>
+    <string name="wifi_required_title">Endirmə operator şəbəkə üçün çox böyükdür</string>
+</resources>

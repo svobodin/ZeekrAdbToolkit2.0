@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">Sláðu inn aðgangsorð og haltu áfram í „Breytilegar kerfisuppfærslur“</string>
+    <string name="notification_action_cancel">Hætta við</string>
+    <string name="notification_action_discard">Fleygja</string>
+    <string name="notification_action_reboot_to_dynsystem">Endurræsa</string>
+    <string name="notification_action_reboot_to_origin">Endurræsa</string>
+    <string name="notification_dynsystem_in_use">Tækið keyrir á breytilegu kerfi. Endurræstu til að nota upprunalega Android útgáfu.</string>
+    <string name="notification_image_validation_failed">Ekki tókst að staðfesta diskmynd. Hættu við uppsetninguna.</string>
+    <string name="notification_install_completed">Breytilegt kerfi er tilbúið. Endurræstu tækið til að byrja að nota það.</string>
+    <string name="notification_install_failed">Uppsetning mistókst</string>
+    <string name="notification_install_inprogress">Uppsetning stendur yfir</string>
+    <string name="toast_dynsystem_discarded">Breytilegu kerfi fleygt</string>
+    <string name="toast_failed_to_disable_dynsystem">Ekki tókst að slökkva á breytilegu kerfi</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Ekki tókst að endurræsa eða hlaða breytilegu kerfi</string>
+</resources>

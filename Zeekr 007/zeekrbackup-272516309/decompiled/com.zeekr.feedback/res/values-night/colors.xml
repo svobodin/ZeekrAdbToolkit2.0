@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#7f000000</color>
+    <color name="bg_dialog_color">#ff1c1d21</color>
+    <color name="btn_cancel_color">#cc323439</color>
+    <color name="btn_cancel_text_color">#ffb4b9be</color>
+    <color name="btn_stop_disabled_color">#66d3d7dc</color>
+    <color name="btn_stop_normal_color">#ccd3d7dc</color>
+    <color name="btn_stop_text_disabled_color">#660b0c0d</color>
+    <color name="btn_stop_text_normal_color">#ff0b0c0d</color>
+    <color name="btn_submit_color">#ffb4b9be</color>
+    <color name="btn_submit_text_color">#ff28282e</color>
+    <color name="checkbox_normal_color">#99b4b9be</color>
+    <color name="checkbox_select_color">#ffbe7153</color>
+    <color name="date_text_selected_color">#ffcccccc</color>
+    <color name="ic_right_back_color">#ff207553</color>
+    <color name="ic_right_color">#ffb4b9be</color>
+    <color name="md_theme_dialog_background">#ff28282e</color>
+    <color name="select_background_border_color">#ffc86741</color>
+    <color name="select_background_normal_color">#cc323439</color>
+    <color name="select_background_selected_color">#ff40434a</color>
+    <color name="text_color">#ffb4b9be</color>
+    <color name="text_color_20">#33b4b9be</color>
+    <color name="text_color_40">#66b4b9be</color>
+    <color name="text_color_60">#99b4b9be</color>
+    <color name="time_text_color">#ffc86741</color>
+    <color name="tips_text_color">#99b4b9be</color>
+    <color name="zeekr_gradient_avatar_end_color">#52e1e3e5</color>
+    <color name="zeekr_gradient_avatar_start_color">#2ee1e3e5</color>
+    <color name="zeekr_gradient_end_color">#ffdc825f</color>
+    <color name="zeekr_gradient_outer_end_color">#fff3946f</color>
+    <color name="zeekr_gradient_outer_start_color">#fff69771</color>
+    <color name="zeekr_gradient_start_color">#ffb17153</color>
+    <color name="zeekr_switch_track_off_color">#ff363940</color>
+</resources>

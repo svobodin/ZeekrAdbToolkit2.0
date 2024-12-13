@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SIM kortelės dialogo langas</string>
+    <string name="install_carrier_app_defer_action">Ne dabar</string>
+    <string name="install_carrier_app_description">Norint, kad naujoji SIM kortelė tinkamai veiktų, reikia įdiegti „%1$s“ programą</string>
+    <string name="install_carrier_app_description_default">Norint, kad naujoji SIM kortelė tinkamai veiktų, reikia įdiegti operatoriaus programą</string>
+    <string name="install_carrier_app_download_action">Atsisiųsti programą</string>
+    <string name="install_carrier_app_title">Įjungti mob. ryšio paslaugą</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Atgal</string>
+    <string name="suw_more_button_label">Daugiau</string>
+    <string name="suw_next_button_label">Kitas</string>
+</resources>

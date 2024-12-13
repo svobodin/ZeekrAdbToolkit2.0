@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">Եվս %1$d</item>
+        <item quantity="one">Եվս %1$d</item>
+    </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">%1$d հավելված մի քանի ամիս է, ինչ չի օգտագործվել։ Հպեք՝ մանրամասները տեսնելու համար։</item>
+        <item quantity="one">%1$d հավելված մի քանի ամիս է, ինչ չի օգտագործվել։ Հպեք՝ մանրամասները տեսնելու համար։</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">%1$d հավելված մի քանի ամիս է, ինչ չի օգտագործվել</item>
+        <item quantity="one">%1$d հավելված մի քանի ամիս է, ինչ չի օգտագործվել</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s օր</item>
+        <item quantity="one">%s օր</item>
+    </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">%s օր</item>
+        <item quantity="one">%s օր</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">%s ժամ</item>
+        <item quantity="one">%s ժամ</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">%s րոպե</item>
+        <item quantity="one">%s րոպե</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">%s վրկ</item>
+        <item quantity="one">%s վրկ</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s ժամ</item>
+        <item quantity="one">%s ժամ</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s րոպե</item>
+        <item quantity="one">%s րոպե</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d նոր ծանուցում</item>
+        <item quantity="one">%d նոր ծանուցում</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s հավելված</item>
+        <item quantity="one">%s հավելված</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s հավելված</item>
+        <item quantity="one">%s հավելված</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">Օգտագործվել է %1$d հավելվածի կողմից</item>
+        <item quantity="one">Օգտագործվել է %1$d հավելվածի կողմից</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"Վերջին օգտագործումը՝ %1$s
+%2$s անգամ"</item>
+        <item quantity="one">"Վերջին օգտագործումը՝ %1$s
+%2$s անգամ"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"Վերջին օգտագործումը՝ %1$s
+%2$s անգամ (%3$s անգամ ֆոնային ռեժիմում)"</item>
+        <item quantity="one">"Վերջին օգտագործումը՝ %1$s
+%2$s անգամ (%3$s անգամ ֆոնային ռեժիմում)"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"Վերջին օգտագործումը՝ %1$s
+%2$s անգամ (%3$s անգամ ֆոնային ռեժիմում)
+Տևողությունը՝ %3$s"</item>
+        <item quantity="one">"Վերջին օգտագործումը՝ %1$s
+%2$s անգամ (%3$s անգամ ֆոնային ռեժիմում)
+Տևողությունը՝ %3$s"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"Վերջին օգտագործումը՝ %1$s
+%2$s անգամ
+Տևողությունը՝ %3$s"</item>
+        <item quantity="one">"Վերջին օգտագործումը՝ %1$s
+%2$s անգամ
+Տևողությունը՝ %3$s"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s վայրկյան</item>
+        <item quantity="one">%s վայրկյան</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">%1$d չօգտագործվող հավելված</item>
+        <item quantity="one">%1$d չօգտագործվող հավելված</item>
+    </plurals>
+</resources>

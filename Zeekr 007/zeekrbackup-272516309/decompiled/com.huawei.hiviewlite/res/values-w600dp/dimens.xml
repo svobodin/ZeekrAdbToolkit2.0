@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="hwcolumnsystem_cs_menu_gutter">24.0dip</dimen>
+    <dimen name="hwcolumnsystem_cs_menu_margin">24.0dip</dimen>
+</resources>

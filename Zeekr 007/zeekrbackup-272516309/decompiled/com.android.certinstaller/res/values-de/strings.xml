@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_missing_private_key">Für die Installation von Zertifikaten ist ein privater Schlüssel erforderlich</string>
+    <string name="action_missing_user_cert">Für die Installation von privaten Schlüsseln ist ein Zertifikat erforderlich</string>
+    <string name="app_name">Zertifikats-Installer</string>
+    <string name="ca_cert_is_added">CA-Zertifikat installiert</string>
+    <string name="ca_certificate">CA-Zertifikat</string>
+    <string name="cert_missing_error">Installation nicht möglich, weil die Zertifikatdatei nicht gefunden wurde</string>
+    <string name="cert_not_saved">Das Zertifikat ist nicht installiert.</string>
+    <string name="cert_read_error">Installation nicht möglich, weil die Zertifikatdatei nicht gelesen werden konnte</string>
+    <string name="cert_temp_error">Temporärer Fehler. Versuch es bitte später noch einmal.</string>
+    <string name="cert_too_large_error">Installation nicht möglich, weil das Zertifikat zu groß ist</string>
+    <string name="certificate">Zertifikat</string>
+    <string name="certificate_capabilities_warning">Hinweis: Der Aussteller dieses Zertifikats prüft unter Umständen den gesamten Traffic zum und ausgehend vom Gerät.</string>
+    <string name="certificate_name">Zertifikatname</string>
+    <string name="credential_info">Das Paket enthält Folgendes:</string>
+    <string name="credential_password">Gib das Passwort zum Extrahieren der Zertifikate ein.</string>
+    <string name="credential_usage_label">Verwendung der Anmeldedaten:</string>
+    <string name="done_label">Fertig</string>
+    <string name="extracting_pkcs12">Zertifikate werden extrahiert...</string>
+    <string name="install_done">Die Anmeldedaten für %1$s wurden zu den gespeicherten WLAN-Netzwerken hinzugefügt.</string>
+    <string name="install_done_title">Anmeldedaten installiert</string>
+    <string name="invalid_cert">Das Zertifikat ist ungültig.</string>
+    <string name="invalid_certificate_close_button">Schließen</string>
+    <string name="invalid_certificate_message">Diese Datei kann nicht als %1$s verwendet werden</string>
+    <string name="invalid_certificate_title">Datei kann nicht verwendet werden</string>
+    <string name="n_cacrts">%d CA-Zertifikate</string>
+    <string name="name_char_error">Gib einen Namen ein, der ausschließlich aus Buchstaben und Zahlen besteht.</string>
+    <string name="name_credential_dialog_title">Name für Zertifikat eingeben</string>
+    <string name="name_empty_error">Gib einen Namen ein.</string>
+    <string name="no_cert_to_saved">Kein zu installierendes Zertifikat</string>
+    <string name="one_cacrt">ein CA-Zertifikat</string>
+    <string name="one_usercrt">ein Nutzerzertifikat</string>
+    <string name="one_userkey">ein Nutzerschlüssel</string>
+    <string name="only_primary_user_allowed">Nur der Eigentümer dieses Geräts kann Zertifikate installieren.</string>
+    <string name="p12_description">Zertifikate im PKCS12-Keystore</string>
+    <string name="password_empty_error">Gib das Passwort ein.</string>
+    <string name="password_error">Gib das richtige Passwort ein.</string>
+    <string name="pick_file_title">Zertifikat auswählen</string>
+    <string name="pkcs12_file_password_dialog_title">Zertifikate aus %s extrahieren</string>
+    <string name="pkcs12_password_dialog_title">Zertifikat extrahieren</string>
+    <string name="redirect_ca_certificate_close_button">Schließen</string>
+    <string name="redirect_ca_certificate_title">CA-Zertifikate in Einstellungen installieren</string>
+    <string name="redirect_ca_certificate_with_app_info_message">Dieses Zertifikat von %1$s muss in den Einstellungen installiert werden. Du solltest nur CA-Zertifikate von Organisationen installieren, denen du vertraust.</string>
+    <string name="select_certificate_usage_title">Zertifikat-Typ auswählen</string>
+    <string name="unable_to_save_cert">Das Zertifikat konnte nicht gespeichert werden. Der Speicher für die Anmeldedaten wurde nicht aktiviert oder falsch initialisiert.</string>
+    <string name="user_cert_is_added">Nutzerzertifikat installiert</string>
+    <string name="user_certificate">VPN- &amp; App-Nutzerzertifikat</string>
+    <string name="userkey_type">Algorithmus:</string>
+    <string name="wifi_cancel_label">Abbrechen</string>
+    <string name="wifi_cert_is_added">WLAN-Zertifikat installiert</string>
+    <string name="wifi_certificate">WLAN-Zertifikat</string>
+    <string name="wifi_config_text">"Name: %1$s
+FQDN: %2$s
+Roaming-Konsortien: %3$s
+Bereich: %4$s
+Authentifizierungsmethode: EAP-%5$s
+"</string>
+    <string name="wifi_detail_label">Details</string>
+    <string name="wifi_detail_title">Details für %s</string>
+    <string name="wifi_dismiss_label">Schließen</string>
+    <string name="wifi_install_label">Installieren</string>
+    <string name="wifi_installer_detail">Installiere WLAN-Anmeldedaten, um eine Verbindung mit Netzwerken herzustellen, die über %1$s verfügbar sind.</string>
+    <string name="wifi_installer_download_error">Die heruntergeladene Datei enthält Fehler und kann nicht installiert werden. Vergewissere dich, dass du die Datei von der korrekten Quelle heruntergeladen hast.</string>
+    <string name="wifi_installer_fail">Die WLAN-Anmeldedaten können nicht installiert werden. Lade die Datei erneut herunter.</string>
+    <string name="wifi_installer_fail_no_wifi">Aktiviere WLAN und versuche es noch einmal.</string>
+    <string name="wifi_installer_fail_no_wifi_title">Installation abgebrochen</string>
+    <string name="wifi_installer_fail_title">Installation nicht möglich</string>
+    <string name="wifi_installing_label">Installation</string>
+    <string name="wifi_no_config">Keine</string>
+    <string name="wifi_sim_config_text">"SIM: %s
+"</string>
+    <string name="wifi_title">WLAN-Profile</string>
+    <string name="wifi_tls_config_text">"Clientzertifikat:
+%1$s
+Schlüssel: %2$s
+"</string>
+    <string name="wifi_trust_config_text">"Vertrauenswürdiges Zertifikat:
+%s
+"</string>
+    <string name="wifi_ttls_config_text">"Nutzername: %s
+"</string>
+</resources>

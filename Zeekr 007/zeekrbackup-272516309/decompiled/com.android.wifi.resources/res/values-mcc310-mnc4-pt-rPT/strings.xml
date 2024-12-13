@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s: não é possível estabelecer ligação ao ponto de acesso Wi-Fi da Verizon fora da área de cobertura da Verizon.</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s: não possui uma subscrição do ponto de acesso Wi-Fi da Verizon. Contacte-nos através do número 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s: existe um problema com a sua conta do ponto de acesso Wi-Fi da Verizon. Contacte-nos através do número 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s: já tem ligação ao ponto de acesso Wi-Fi da Verizon.</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s: ocorreu um problema ao estabelecer ligação ao ponto de acesso Wi-Fi da Verizon. Contacte-nos através do número 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s: existe um problema com a sua conta do ponto de acesso Wi-Fi da Verizon. Contacte-nos através do número 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s: o ponto de acesso Wi-Fi da Verizon não está disponível a partir da sua localização. Tente novamente mais tarde ou experimente a partir de uma localização diferente.</string>
+</resources>

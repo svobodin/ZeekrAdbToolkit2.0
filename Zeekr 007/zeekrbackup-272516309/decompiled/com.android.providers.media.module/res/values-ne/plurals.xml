@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">^1 लाई यी ^2 अडियो फाइलहरू मेटाउन दिने हो?</item>
+        <item quantity="one">^1 लाई यो अडियो फाइल मेटाउन दिने हो?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">^1 लाई यी ^2 वस्तुहरू मेटाउन दिने हो?</item>
+        <item quantity="one">^1 लाई यो वस्तु मेटाउन दिने हो?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">^1 लाई यी ^2 फोटोहरू मेटाउन दिने हो?</item>
+        <item quantity="one">^1 लाई यो फोटो मेटाउन दिने हो?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">^1 लाई यी ^2 भिडियोहरू मेटाउन दिने हो?</item>
+        <item quantity="one">^1 लाई यो भिडियो मेटाउन दिने हो?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">थप ^1 वटा अतिरिक्त वस्तु</item>
+        <item quantity="one">थप ^1 अतिरिक्त वस्तु</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">+^1</item>
+        <item quantity="one">+^1</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">^1 वटा अडियो फाइल मेटाइँदै छन्…</item>
+        <item quantity="one">अडियो फाइल मेटाइँदै छ…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">^1 वटा वस्तु मेटाइँदै छन्…</item>
+        <item quantity="one">वस्तु मेटाइँदै छ…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">^1 वटा फोटो मेटाइँदै छन्…</item>
+        <item quantity="one">फोटो मेटाइँदै छ…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">^1 वटा भिडियो मेटाइँदै छन्…</item>
+        <item quantity="one">भिडियो मेटाइँदै छ…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">^1 वटा अडियो फाइल सारेर ट्र्यासमा लगिँदै छन्…</item>
+        <item quantity="one">अडियो फाइल सारेर ट्र्यासमा लगिँदै छ…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">^1 वटा वस्तु सारेर ट्र्यासमा लगिँदै छन्…</item>
+        <item quantity="one">वस्तु सारेर ट्र्यासमा लगिँदै छ…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">^1 वटा फोटो सारेर ट्र्यासमा लगिँदै छन्…</item>
+        <item quantity="one">फोटो सारेर ट्र्यासमा लगिँदै छ…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">^1 वटा भिडियो सारेर ट्र्यासमा लगिँदै छन्…</item>
+        <item quantity="one">भिडियो सारेर ट्र्यासमा लगिँदै छ…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">ट्र्यासबाट ^1 वटा अडियो फाइल सारिँदै छन्…</item>
+        <item quantity="one">ट्र्यासबाट अडियो फाइल सारिँदै छ…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">ट्र्यासबाट ^1 वटा वस्तु सारिँदै छन्…</item>
+        <item quantity="one">ट्र्यासबाट वस्तु सारिँदै छ…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">ट्र्यासबाट ^1 वटा फोटो सारिँदै छन्…</item>
+        <item quantity="one">ट्र्यासबाट फोटो सारिँदै छ…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">ट्र्यासबाट ^1 वटा भिडियो सारिँदै छन्…</item>
+        <item quantity="one">ट्र्यासबाट भिडियो सारिँदै छ…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">^1 वटा अडियो फाइल परिमार्जन गरिँदै छन्…</item>
+        <item quantity="one">अडियो फाइल परिमार्जन गरिँदै छ…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">^1 वटा वस्तु परिमार्जन गरिँदै छन्…</item>
+        <item quantity="one">वस्तु परिमार्जन गरिँदै छ…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">^1 वटा फोटो परिमार्जन गरिँदै छन्…</item>
+        <item quantity="one">फोटो परिमार्जन गरिँदै छ…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">^1 वटा भिडियो परिमार्जन गरिँदै छन्…</item>
+        <item quantity="one">भिडियो परिमार्जन गरिँदै छ…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">^1 लाई यी ^2 अडियो फाइलहरू सारेर रद्दीको टोकरीमा लैजान दिने हो?</item>
+        <item quantity="one">^1 लाई यो अडियो फाइल सारेर रद्दीको टोकरीमा लैजान दिने हो?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">^1 लाई यी ^2 वस्तुहरू सारेर रद्दीको टोकरीमा लैजान दिने हो?</item>
+        <item quantity="one">^1 लाई यो वस्तु सारेर रद्दीको टोकरीमा लैजान दिने हो?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">^1 लाई यी ^2 फोटोहरू सारेर रद्दीको टोकरीमा लैजान दिने हो?</item>
+        <item quantity="one">^1 लाई यो फोटो सारेर रद्दीको टोकरीमा लैजान दिने हो?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">^1 लाई यी ^2 भिडियोहरू सारेर रद्दीको टोकरीमा लैजान दिने हो?</item>
+        <item quantity="one">^1 लाई यो भिडियो सारेर रद्दीको टोकरीमा लैजान दिने हो?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">^1 लाई यी ^2 अडियो फाइलहरू रद्दीको टोकरीबाट निकालेर ल्याउन दिने हो?</item>
+        <item quantity="one">^1 लाई यो अडियो फाइल रद्दीको टोकरीबाट निकालेर ल्याउन दिने हो?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">^1 लाई यी ^2 वस्तुहरू रद्दीको टोकरीबाट निकालेर ल्याउन दिने हो?</item>
+        <item quantity="one">^1 लाई यो वस्तु रद्दीको टोकरीबाट निकालेर ल्याउन दिने हो?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">^1 लाई यी ^2 फोटोहरू रद्दीको टोकरीबाट निकालेर ल्याउन दिने हो?</item>
+        <item quantity="one">^1 लाई यो फोटो रद्दीको टोकरीबाट निकालेर ल्याउन दिने हो?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">^1 लाई यी ^2 भिडियोहरू रद्दीको टोकरीबाट निकालेर ल्याउन दिने हो?</item>
+        <item quantity="one">^1 लाई यो भिडियो रद्दीको टोकरीबाट निकालेर ल्याउन दिने हो?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">^1 लाई यी ^2 अडियो फाइलहरू परिमार्जन गर्न दिने हो?</item>
+        <item quantity="one">^1 लाई यो अडियो फाइल परिमार्जन गर्न दिने हो?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">^1 लाई यी ^2 वस्तुहरू परिमार्जन गर्न दिने हो?</item>
+        <item quantity="one">^1 लाई यो वस्तु परिमार्जन गर्न दिने हो?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">^1 लाई यी ^2 फोटोहरू परिमार्जन गर्न दिने हो?</item>
+        <item quantity="one">^1 लाई यो फोटो परिमार्जन गर्न दिने हो?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">^1 लाई यी ^2 भिडियोहरू परिमार्जन गर्न दिने हो?</item>
+        <item quantity="one">^1 लाई यो भिडियो परिमार्जन गर्न दिने हो?</item>
+    </plurals>
+</resources>

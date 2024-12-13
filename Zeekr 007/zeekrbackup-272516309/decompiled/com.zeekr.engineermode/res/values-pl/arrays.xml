@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>Sint Maarten</item>
+        <item>Karaiby Holenderskie</item>
+        <item>Curaçao</item>
+        <item>Sudan Południowy</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Czas środkowoaustralijski – NT</item>
+        <item>Czas środkowoaustralijski – SA</item>
+        <item>Czas wschodnioaustralijski – QLD</item>
+        <item>Czas wschodnioaustralijski – NSW</item>
+        <item>Górski czas standard. – Dawson Creek</item>
+        <item>Środkowy czas stand. – Saskatchewan</item>
+        <item>Wschodni czas standardowy – Atikokan</item>
+        <item>Atlantycki czas standardowy – Quebec</item>
+        <item>Czas hawajsko-aleucki – Hawaje</item>
+        <item>Czas hawajsko-aleucki – Alaska</item>
+        <item>Czas pacyf. standard. – Metlakatla</item>
+        <item>Górski czas standardowy – Arizona</item>
+        <item>Czas pacyficzny – Kalifornia Dolna</item>
+        <item>Czas górski – Chihuahua</item>
+        <item>Czas środkowy – Tamaulipas</item>
+        <item>Czas górski – Sonora</item>
+        <item>Czas wschodnioafrykański</item>
+        <item>Atlantycki czas standardowy</item>
+        <item>Atlantycki czas standardowy</item>
+        <item>Czas wschodnioeuropejski</item>
+        <item>Czas Kaliningradu</item>
+        <item>Amazonia – Rondônia</item>
+        <item>Brasilia – Pará</item>
+    </string-array>
+</resources>

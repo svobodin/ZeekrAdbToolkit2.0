@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Netzwerkmanager</string>
+    <string name="connected">Verbunden</string>
+    <string name="notification_channel_description_connected">Die Benachrichtigungen werden angezeigt, wenn das Gerät bei einem Captive Portal-Netzwerk authentifiziert wurde</string>
+    <string name="notification_channel_description_network_venue_info">Die Benachrichtigungen werden angezeigt, um auf ein Netzwerk mit einer Seite hinzuweisen, die weitere Informationen zum Netzwerkstandort enthält</string>
+    <string name="notification_channel_name_connected">Captive Portal-Authentifizierung</string>
+    <string name="notification_channel_name_network_venue_info">Informationen zum Netzwerkstandort</string>
+    <string name="tap_for_info">Verbunden/Zum Ansehen der Website tippen</string>
+</resources>

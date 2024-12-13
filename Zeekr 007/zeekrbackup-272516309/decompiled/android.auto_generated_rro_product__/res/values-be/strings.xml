@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="owner_name">Вадзіцель</string>
+    <string name="permlab_accessCoarseLocation">доступ да прыблізнага месцазнаходжання толькі ў асноўным рэжыме</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">Уключыць мікрафон</string>
+</resources>

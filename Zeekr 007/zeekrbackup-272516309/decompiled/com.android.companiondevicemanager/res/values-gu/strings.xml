@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">કમ્પેનિયન ડિવાઇસ મેનેજર</string>
+    <string name="chooser_title">&lt;strong>%2$s&lt;/strong> દ્વારા મેનેજ કરવા માટે કોઈ %1$s પસંદ કરો</string>
+    <string name="confirmation_title">તમારા &lt;strong>%2$s&lt;/strong>ને મેનેજ કરવા માટે &lt;strong>%1$s&lt;/strong>ને મંજૂર કરો</string>
+    <string name="consent_no">મંજૂરી આપશો નહીં</string>
+    <string name="consent_yes">મંજૂરી આપો</string>
+    <string name="profile_name_generic">ડિવાઇસ</string>
+    <string name="profile_name_watch">સ્માર્ટવૉચ</string>
+    <string name="profile_summary">તમારી %1$s મેનેજ કરવા માટે આ ઍપ જરૂરી છે. %2$s</string>
+</resources>

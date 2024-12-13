@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ダウンロード マネージャー</string>
+    <string name="button_cancel_download">キャンセル</string>
+    <string name="button_queue_for_wifi">キューに登録</string>
+    <string name="button_start_now">今すぐ開始</string>
+    <string name="download_error">失敗しました</string>
+    <string name="download_no_application_title">ファイルを開くことができません</string>
+    <string name="download_queued">キューに追加済み</string>
+    <string name="download_remaining">残り%s</string>
+    <string name="download_running">処理中</string>
+    <string name="download_running_percent">処理中（%s）</string>
+    <string name="download_unknown_title">&lt;無題></string>
+    <string name="notification_download_complete">ダウンロードが完了しました。</string>
+    <string name="notification_download_failed">ダウンロードできませんでした。</string>
+    <string name="notification_need_wifi_for_size">Wi-Fi必須のサイズです。</string>
+    <string name="notification_paused_in_background">バックグラウンド一時停止</string>
+    <string name="permdesc_accessAllDownloads">システム上の任意のアプリにより開始されたすべてのダウンロードの表示と変更をアプリに許可します。</string>
+    <string name="permdesc_downloadCacheNonPurgeable">ダウンロード マネージャーで領域が不足しているときに、自動的に削除できないダウンロードキャッシュへのファイルのダウンロードをアプリに許可します。</string>
+    <string name="permdesc_downloadCompletedIntent">ダウンロード完了通知の送信をアプリに許可します。この許可を悪意のあるアプリに利用されると、ファイルをダウンロードする他のアプリの処理が妨害される恐れがあります。</string>
+    <string name="permdesc_downloadManager">ダウンロード マネージャーにアクセスし、ダウンロード マネージャーを使用してファイルをダウンロードすることをアプリに許可します。この許可を悪意のあるアプリに利用されると、ダウンロードに深刻な影響が生じたり個人情報にアクセスされたりする恐れがあります。</string>
+    <string name="permdesc_downloadManagerAdvanced">ダウンロード マネージャーの高度な機能にアクセスすることをアプリに許可します。この許可を悪意のあるアプリに利用されると、ダウンロードに深刻な影響が生じたり個人情報にアクセスされたりする恐れがあります。</string>
+    <string name="permdesc_downloadWithoutNotification">ユーザーへの通知なしでダウンロード マネージャーを使用してファイルをダウンロードすることをアプリに許可します。</string>
+    <string name="permlab_accessAllDownloads">すべてのシステムダウンロードにアクセス</string>
+    <string name="permlab_downloadCacheNonPurgeable">ダウンロードキャッシュの領域を予約</string>
+    <string name="permlab_downloadCompletedIntent">ダウンロード通知を送信します。</string>
+    <string name="permlab_downloadManager">ダウンロード マネージャーにアクセスします。</string>
+    <string name="permlab_downloadManagerAdvanced">ダウンロード マネージャーの高度な機能です。</string>
+    <string name="permlab_downloadWithoutNotification">通知なしでファイルをダウンロードする</string>
+    <string name="root_downloads">ダウンロード</string>
+    <string name="storage_description">ダウンロード</string>
+    <string name="wifi_recommended_body">"この%1$s のダウンロードを今すぐ行うと、電池消費量やデータ通信量が増え、通信プランによっては携帯通信会社の料金が発生します。
+
+[%2$s]をタップすると、次回Wi-Fiネットワーク接続時にダウンロードを行います。"</string>
+    <string name="wifi_recommended_title">キューに登録して後でダウンロードしますか？</string>
+    <string name="wifi_required_body">"この%1$s のダウンロードを完了するにはWi-Fiを使用する必要があります。
+
+[%2$s ]をタップすると、次回Wi-Fiネットワークに接続したときにこのダウンロードを開始します。"</string>
+    <string name="wifi_required_title">ダウンロードするサイズが大きすぎます</string>
+</resources>

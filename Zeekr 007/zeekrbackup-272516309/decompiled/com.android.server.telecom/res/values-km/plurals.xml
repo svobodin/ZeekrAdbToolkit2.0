@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">ការជូនដំណឹងថ្មី %d</item>
+        <item quantity="one">ការជូនដំណឹងថ្មី %d</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">ឧបករណ៍ %1$d បានភ្ជាប់</item>
+        <item quantity="one">ឧបករណ៍ %1$d បានភ្ជាប់</item>
+    </plurals>
+</resources>

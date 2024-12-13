@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s ፦ የVerizon ሽፋን ካለው አካባቢ ውጭ ሆነው ከVerizon Wi-Fi Access ጋር መገናኘት አይችሉም።</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s ፦ ለVerizon Wi-Fi Access ደንበኝነት አልተመዘገቡም። እባክዎ 800-922-0204 ላይ ይደውሉልን።</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s ፦ የእርስዎ Verizon Wi-Fi Access መለያ ጋር ችግር አለበት። እባክዎ 800-922-0204 ላይ ይደውሉልን።</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s ፦ አስቀድመው ከVerizon Wi-Fi Access ጋር ተገናኝተዋል።</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s ፦ እርስዎን ከVerizon Wi-Fi Access ጋር ማገናኘት ላይ ችግር አለ። እባክዎ 800-922-0204 ላይ ይደውሉልን።</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s ፦ የእርስዎ Verizon Wi-Fi Access መለያ ጋር ችግር አለበት። እባክዎ 800-922-0204 ላይ ይደውሉልን።</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s : Verizon Wi-Fi Access ከእርስዎ አካባቢ የሚገኝ አይደለም። በኋላ ላይ እንደገና ይሞክሩ ወይም ከተለየ አካባቢ ይሞክሩ።</string>
+</resources>

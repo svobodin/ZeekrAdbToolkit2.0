@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">부속 기기 관리자</string>
+    <string name="chooser_title">&lt;strong>%2$s&lt;/strong>에서 관리할 %1$s을(를) 선택</string>
+    <string name="confirmation_title">&lt;strong>%1$s&lt;/strong>에서 &lt;strong>%2$s&lt;/strong> 기기를 관리하도록 허용</string>
+    <string name="consent_no">허용 안함</string>
+    <string name="consent_yes">허용</string>
+    <string name="profile_name_generic">기기</string>
+    <string name="profile_name_watch">시계</string>
+    <string name="profile_summary">이 앱은 %1$s 프로필을 관리하는 데 필요합니다. %2$s</string>
+</resources>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">^2 audio-fitxategi ezabatzeko baimena eman nahi diozu ^1 aplikazioari?</item>
+        <item quantity="one">Audio-fitxategi hau ezabatzeko baimena eman nahi diozu ^1 aplikazioari?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">^2 elementu ezabatzeko baimena eman nahi diozu ^1 aplikazioari?</item>
+        <item quantity="one">Elementu hau ezabatzeko baimena eman nahi diozu ^1 aplikazioari?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">^2 argazki ezabatzeko baimena eman nahi diozu ^1 aplikazioari?</item>
+        <item quantity="one">Argazki hau ezabatzeko baimena eman nahi diozu ^1 aplikazioari?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">^2 bideo ezabatzeko baimena eman nahi diozu ^1 aplikazioari?</item>
+        <item quantity="one">Bideo hau ezabatzeko baimena eman nahi diozu ^1 aplikazioari?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">Eta beste ^1 elementu</item>
+        <item quantity="one">Eta beste ^1 elementu</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">+^1</item>
+        <item quantity="one">+^1</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">^1 audio-fitxategi ezabatzen…</item>
+        <item quantity="one">Audio-fitxategia ezabatzen…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">^1 elementu ezabatzen…</item>
+        <item quantity="one">Elementua ezabatzen…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">^1 argazki ezabatzen…</item>
+        <item quantity="one">Argazkia ezabatzen…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">^1 bideo ezabatzen…</item>
+        <item quantity="one">Bideoa ezabatzen…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">^1 audio-fitxategi zaborrontzira eramaten…</item>
+        <item quantity="one">Audio-fitxategia zaborrontzira eramaten…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">^1 elementu zaborrontzira eramaten…</item>
+        <item quantity="one">Elementua zaborrontzira eramaten…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">^1 argazki zaborrontzira eramaten…</item>
+        <item quantity="one">Argazkia zaborrontzira eramaten…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">^1 bideo zaborrontzira eramaten…</item>
+        <item quantity="one">Bideoa zaborrontzira eramaten…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">^1 audio-fitxategi zaborrontzitik ateratzen…</item>
+        <item quantity="one">Audio-fitxategia zaborrontzitik ateratzen…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">^1 elementu zaborrontzitik ateratzen…</item>
+        <item quantity="one">Elementua zaborrontzitik ateratzen…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">^1 argazki zaborrontzitik ateratzen…</item>
+        <item quantity="one">Argazkia zaborrontzitik ateratzen…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">^1 bideo zaborrontzitik ateratzen…</item>
+        <item quantity="one">Bideoa zaborrontzitik ateratzen…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">^1 audio-fitxategi aldatzen…</item>
+        <item quantity="one">Audio-fitxategia aldatzen…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">^1 elementu aldatzen…</item>
+        <item quantity="one">Elementua aldatzen…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">^1 argazki aldatzen…</item>
+        <item quantity="one">Argazkia aldatzen…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">^1 bideo aldatzen…</item>
+        <item quantity="one">Bideoa aldatzen…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">^2 audio-fitxategi zaborrontzira eramateko baimena eman nahi diozu ^1 aplikazioari?</item>
+        <item quantity="one">Audio-fitxategi hau zaborrontzira eramateko baimena eman nahi diozu ^1 aplikazioari?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">^2 elementu zaborrontzira eramateko baimena eman nahi diozu ^1 aplikazioari?</item>
+        <item quantity="one">Elementu hau zaborrontzira eramateko baimena eman nahi diozu ^1 aplikazioari?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">^2 argazki zaborrontzira eramateko baimena eman nahi diozu ^1 aplikazioari?</item>
+        <item quantity="one">Argazki hau zaborrontzira eramateko baimena eman nahi diozu ^1 aplikazioari?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">^2 bideo zaborrontzira eramateko baimena eman nahi diozu ^1 aplikazioari?</item>
+        <item quantity="one">Bideo hau zaborrontzira eramateko baimena eman nahi diozu ^1 aplikazioari?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">^2 audio-fitxategi zaborrontzitik ateratzeko baimena eman nahi diozu ^1 aplikazioari?</item>
+        <item quantity="one">Audio-fitxategi hau zaborrontzitik ateratzeko baimena eman nahi diozu ^1 aplikazioari?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">^2 elementu zaborrontzitik ateratzeko baimena eman nahi diozu ^1 aplikazioari?</item>
+        <item quantity="one">Elementu hau zaborrontzitik ateratzeko baimena eman nahi diozu ^1 aplikazioari?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">^2 argazki zaborrontzitik ateratzeko baimena eman nahi diozu ^1 aplikazioari?</item>
+        <item quantity="one">Argazki hau zaborrontzitik ateratzeko baimena eman nahi diozu ^1 aplikazioari?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">^2 bideo zaborrontzitik ateratzeko baimena eman nahi diozu ^1 aplikazioari?</item>
+        <item quantity="one">Bideo hau zaborrontzitik ateratzeko baimena eman nahi diozu ^1 aplikazioari?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">^2 audio-fitxategiri aldaketak egiteko baimena eman nahi diozu ^1 aplikazioari?</item>
+        <item quantity="one">Audio-fitxategi honi aldaketak egiteko baimena eman nahi diozu ^1 aplikazioari?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">^2 elementuri aldaketak egiteko baimena eman nahi diozu ^1 aplikazioari?</item>
+        <item quantity="one">Elementu honi aldaketak egiteko baimena eman nahi diozu ^1 aplikazioari?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">^2 argazkiri aldaketak egiteko baimena eman nahi diozu ^1 aplikazioari?</item>
+        <item quantity="one">Argazki honi aldaketak egiteko baimena eman nahi diozu ^1 aplikazioari?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">^2 bideori aldaketak egiteko baimena eman nahi diozu ^1 aplikazioari?</item>
+        <item quantity="one">Bideo honi aldaketak egiteko baimena eman nahi diozu ^1 aplikazioari?</item>
+    </plurals>
+</resources>

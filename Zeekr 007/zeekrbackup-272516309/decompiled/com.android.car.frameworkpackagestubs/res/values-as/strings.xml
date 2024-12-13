@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">কাৰ্যকলাপৰ ষ্টাব</string>
+    <string name="message_not_supported">এই কাৰ্যটো কৰিবলৈ কোনো এপ্‌ নাই</string>
+    <string name="pip_not_supported">এই ডিভাইচটোত চিত্ৰৰ ভিতৰত চিত্ৰ সুবিধাটো সমৰ্থিত নহয়</string>
+    <string name="stub_name">নাই</string>
+</resources>

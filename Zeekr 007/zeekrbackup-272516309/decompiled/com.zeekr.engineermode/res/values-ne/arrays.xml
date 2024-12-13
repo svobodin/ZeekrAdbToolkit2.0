@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>सिन्ट मार्टिन</item>
+        <item>क्यारेबियन नेदरल्यान्ड्स</item>
+        <item>कुराकाओ</item>
+        <item>दक्षिण सुडान</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>अस्ट्रेलियन केन्द्रिय - NT</item>
+        <item>अस्ट्रेलियन केन्द्रिय - SA</item>
+        <item>अस्ट्रेलियन पूर्वी - QLD</item>
+        <item>अस्ट्रेलियन पूर्वी - NSW</item>
+        <item>पर्वतीय डिफल्ट - डव्सन क्रीक</item>
+        <item>केन्द्रीय डिफल्ट - सस्कत्चेवान</item>
+        <item>पूर्वी डिफल्ट - अतिकोकान</item>
+        <item>अटलान्टिक डिफल्ट - क्यूबेक</item>
+        <item>हवाई-एलेउटियन - हवाई</item>
+        <item>हवाई-एलेउटियन - अलास्का</item>
+        <item>प्रशान्त डिफल्ट - मेलाक्टला</item>
+        <item>पर्वतीय डिफल्ट - एरिजोना</item>
+        <item>प्रशान्त - बाजा कैलिफोर्निया</item>
+        <item>पर्वतीय - चिहुआहुआ</item>
+        <item>केन्द्रिय - टमौलिपास</item>
+        <item>पर्वत - सोनोरा</item>
+        <item>पूर्वी अफ्रीका समय</item>
+        <item>अट्लान्टिक डिफल्ट समय</item>
+        <item>अट्लान्टिक डिफल्ट समय</item>
+        <item>पूर्वी यूरोपीय समय</item>
+        <item>कलिनिन्ग्राद समय</item>
+        <item>अमेजन - रोन्डोनियाँ</item>
+        <item>ब्रासीलिया - पैरा</item>
+    </string-array>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="disable_tether_notification_message">Kontaktirajte svog administratora za detalje</string>
+    <string name="disable_tether_notification_title">Povezivanje putem mobitela je onemogućeno</string>
+    <string name="no_upstream_notification_disable_button" />
+    <string name="no_upstream_notification_message" />
+    <string name="no_upstream_notification_title" />
+    <string name="notification_channel_tethering_status">Status pristupne tačke i povezivanja putem mobitela</string>
+    <string name="tethered_notification_message">Dodirnite da postavite.</string>
+    <string name="tethered_notification_title">Aktivno je povezivanje putem mobitela ili pristupna tačka</string>
+    <string name="upstream_roaming_notification_message" />
+    <string name="upstream_roaming_notification_title" />
+</resources>

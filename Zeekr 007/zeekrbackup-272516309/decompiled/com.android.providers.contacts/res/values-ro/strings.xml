@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Stocarea datelor din Agendă</string>
+    <string name="debug_dump_database_message">Sunteți pe cale 1) să faceți o copie, pe stocarea internă, a bazei dvs. de date care include toate informațiile referitoare la agendă și întregul jurnal de apeluri și 2) să trimiteți această copie prin e-mail. Nu uitați să ștergeți această copie după ce ați copiat-o de pe dispozitiv sau după ce a fost primit e-mailul.</string>
+    <string name="debug_dump_delete_button">Ștergeți acum</string>
+    <string name="debug_dump_email_body">Vă trimit atașată baza de date cu toate informațiile din agenda mea. Vă rog să o gestionați cu atenție.</string>
+    <string name="debug_dump_email_sender_picker">Alegeți un program pentru a trimite fișierul</string>
+    <string name="debug_dump_email_subject">Atașată baza de date a agendei</string>
+    <string name="debug_dump_start_button">Porniți</string>
+    <string name="debug_dump_title">Copiați baza de date a agendei</string>
+    <string name="default_directory">Agendă</string>
+    <string name="local_invisible_directory">Altul</string>
+    <string name="provider_label">Agendă</string>
+    <string name="sharedUserLabel">Android Core Apps</string>
+    <string name="upgrade_out_of_memory_notification_text">Atingeți pentru a finaliza upgrade-ul.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Actualizarea agendei necesită mai multă memorie.</string>
+    <string name="upgrade_out_of_memory_notification_title">Măriți spațiul de stocare pentru Agendă</string>
+    <string name="voicemail_from_column">"Mesaj vocal de la "</string>
+</resources>

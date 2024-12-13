@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Nonaktifkan hotspot</string>
+    <string name="no_upstream_notification_message">Perangkat tidak dapat tersambung ke internet</string>
+    <string name="no_upstream_notification_title">Hotspot tidak memiliki koneksi internet</string>
+    <string name="upstream_roaming_notification_message">Biaya tambahan mungkin berlaku saat roaming</string>
+    <string name="upstream_roaming_notification_title">Hotspot aktif</string>
+    <string name="upstream_roaming_notification_continue_button">Lanjutkan</string>
+</resources>

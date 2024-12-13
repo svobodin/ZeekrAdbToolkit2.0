@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="network_switch_type_name">
+        <item>ਮੋਬਾਈਲ ਡਾਟਾ</item>
+        <item>ਵਾਈ-ਫਾਈ</item>
+        <item>ਬਲੂਟੁੱਥ</item>
+        <item>ਈਥਰਨੈੱਟ</item>
+        <item>VPN</item>
+    </string-array>
+</resources>

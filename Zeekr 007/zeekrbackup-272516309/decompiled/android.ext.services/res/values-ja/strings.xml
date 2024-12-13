@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_assistant">Android 通知の自動調整</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="tc_notif_code_copied_to_clipboard">コードをコピーしました</string>
+    <string name="tc_notif_copy_code_desc">「%1$s」をコピー</string>
+</resources>

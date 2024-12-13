@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">బాస్‌ను పెంచుతుంది</string>
+    <string name="ci_extreme">FXను పెంచేది</string>
+    <string name="classical">క్లాసికల్</string>
+    <string name="dance">డ్యాన్స్</string>
+    <string name="eq_dialog_title">ఈక్వలైజర్</string>
+    <string name="flat">ఫ్లాట్</string>
+    <string name="folk">జానపదం</string>
+    <string name="headset_plug">ఈ ఎఫెక్ట్‌లను వినేందుకు హెడ్‌ఫోన్స్‌ను ప్లగ్ ఇన్ చేయండి.</string>
+    <string name="heavy_metal">హెవీ మెటల్</string>
+    <string name="hip_hop">హిప్ హాప్</string>
+    <string name="jazz">జాజ్</string>
+    <string name="no_effects">ఎఫెక్ట్‌లు అందుబాటులో లేవు.</string>
+    <string name="normal">సాధారణం</string>
+    <string name="picker_title">సంగీత ఎఫెక్ట్ కంట్రోల్ ప్యానెల్</string>
+    <string name="pop">పాప్</string>
+    <string name="rock">రాక్</string>
+    <string name="setup">సెటప్</string>
+    <string name="user">యూజర్</string>
+    <string name="virtualizer_strength">సరౌండ్ సౌండ్</string>
+</resources>

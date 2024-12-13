@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_summary_active">
+        <item quantity="other">Stahuje se %d souborů</item>
+        <item quantity="one">Stahuje se 1 soubor</item>
+        <item quantity="few">Stahují se %d soubory</item>
+        <item quantity="many">Stahuje se %d souboru</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">%d čekajících souborů</item>
+        <item quantity="one">1 čekající soubor</item>
+        <item quantity="few">%d čekající soubory</item>
+        <item quantity="many">%d čekajícího souboru</item>
+    </plurals>
+</resources>

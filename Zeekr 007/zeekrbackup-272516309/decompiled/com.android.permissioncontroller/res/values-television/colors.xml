@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="grant_permissions_app_color">@color/grant_permissions_white_text_alpha_100</color>
+    <color name="grant_permissions_background_color">#ff263238</color>
+    <color name="grant_permissions_background_color_with_blur">#bb263238</color>
+    <color name="grant_permissions_body_color">@color/grant_permissions_white_text_alpha_70</color>
+    <color name="grant_permissions_button_background_color_focused">#ffe8eaed</color>
+    <color name="grant_permissions_button_background_color_unfocused">#1affffff</color>
+    <color name="grant_permissions_button_color">@color/grant_permissions_white_text_alpha_100</color>
+    <color name="grant_permissions_button_text_color_focused">#ff000000</color>
+    <color name="grant_permissions_button_text_color_unfocused">@color/grant_permissions_white_text_alpha_70</color>
+    <color name="grant_permissions_focus_highlight">#26eeeeee</color>
+    <color name="grant_permissions_progress_color">@color/grant_permissions_white_text_alpha_100</color>
+    <color name="grant_permissions_title_color">@color/grant_permissions_white_text_alpha_70</color>
+    <color name="grant_permissions_white_text_alpha_100">@color/off_white</color>
+    <color name="grant_permissions_white_text_alpha_70">#b2eeeeee</color>
+    <color name="lb_action_fragment_background">#ff111111</color>
+    <color name="lb_content_breadcrumb_text_color">#88f1f1f1</color>
+    <color name="lb_content_description_text_color">#88f1f1f1</color>
+    <color name="lb_content_title_text_color">#fff1f1f1</color>
+    <color name="lb_dialog_activity_background">#77000000</color>
+    <color name="lb_header_banner_color">#ff1f292d</color>
+    <color name="lb_preference_decor_list_background">#ff202124</color>
+    <color name="off_white">#ffeeeeee</color>
+    <color name="settings_category_text_color">#ff51aaff</color>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sim App Dialog</string>
+    <string name="install_carrier_app_defer_action">Huwag ngayon</string>
+    <string name="install_carrier_app_description">Para mapagana nang maayos ang iyong bagong SIM, kakailanganin mong i-install ang %1$s app</string>
+    <string name="install_carrier_app_description_default">Para mapagana nang maayos ang iyong bagong SIM, kakailanganin mong i-install ang app ng carrier</string>
+    <string name="install_carrier_app_download_action">I-download ang app</string>
+    <string name="install_carrier_app_title">I-activate ang mobile service</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Bumalik</string>
+    <string name="suw_more_button_label">Higit pa</string>
+    <string name="suw_next_button_label">Susunod</string>
+</resources>

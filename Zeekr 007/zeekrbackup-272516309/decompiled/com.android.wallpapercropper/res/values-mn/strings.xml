@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crop_wallpaper">Ханын зургийг тайрах</string>
+    <string name="wallpaper_instructions">Ханын зургийг тохируулах</string>
+    <string name="wallpaper_load_fail">Зургийг ханын зураг болгож ачаалж чадсангүй</string>
+</resources>

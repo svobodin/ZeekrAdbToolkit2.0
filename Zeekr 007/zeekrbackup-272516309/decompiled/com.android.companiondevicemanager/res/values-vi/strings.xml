@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Companion Device Manager</string>
+    <string name="chooser_title">Chọn một %1$s sẽ do &lt;strong>%2$s&lt;/strong> quản lý</string>
+    <string name="confirmation_title">Cho phép &lt;strong>%1$s&lt;/strong> quản lý &lt;strong>%2$s&lt;/strong> của bạn</string>
+    <string name="consent_no">Không cho phép</string>
+    <string name="consent_yes">Cho phép</string>
+    <string name="profile_name_generic">thiết bị</string>
+    <string name="profile_name_watch">đồng hồ</string>
+    <string name="profile_summary">Cần có ứng dụng này để quản lý %1$s của bạn. %2$s</string>
+</resources>

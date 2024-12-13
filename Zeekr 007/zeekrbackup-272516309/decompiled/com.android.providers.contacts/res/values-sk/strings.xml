@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Úložisko kontaktov</string>
+    <string name="debug_dump_database_message">Práve sa chystáte 1) vytvoriť v internom ukladacom priestore kópiu svojej databázy, ktorá obsahuje všetky informácie týkajúce sa kontaktov a všetky hovory, a 2) poslať túto databázu e-mailom. Nezabudnite odstrániť kópiu hneď po úspešnom skopírovaní do zariadenia alebo doručení e-mailu.</string>
+    <string name="debug_dump_delete_button">Odstrániť</string>
+    <string name="debug_dump_email_body">V prílohe je databáza s informáciami o všetkých mojich kontaktoch. Zaobchádzajte s ňou opatrne.</string>
+    <string name="debug_dump_email_sender_picker">Vyberte program na odoslanie súboru</string>
+    <string name="debug_dump_email_subject">Databáza kontaktov v prílohe</string>
+    <string name="debug_dump_start_button">Spustiť</string>
+    <string name="debug_dump_title">Kopírovanie databázy kontaktov</string>
+    <string name="default_directory">Kontakty</string>
+    <string name="local_invisible_directory">Iné</string>
+    <string name="provider_label">Kontakty</string>
+    <string name="sharedUserLabel">Android Core Apps</string>
+    <string name="upgrade_out_of_memory_notification_text">Klepnutím dokončite inováciu.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Inovácia kontaktov vyžaduje viac pamäte.</string>
+    <string name="upgrade_out_of_memory_notification_title">Prebieha inovácia úložiska pre kontakty</string>
+    <string name="voicemail_from_column">"Hlasová správa od "</string>
+</resources>

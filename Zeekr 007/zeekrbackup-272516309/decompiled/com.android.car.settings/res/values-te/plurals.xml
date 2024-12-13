@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">కెమెరా యాప్‌లు</item>
+        <item quantity="one">కెమెరా యాప్</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">ఈమెయిల్ క్లయింట్ యాప్‌లు</item>
+        <item quantity="one">ఈమెయిల్ క్లయింట్ యాప్</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">ఫోన్ యాప్‌లు</item>
+        <item quantity="one">ఫోన్ యాప్</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d ప్రయత్నాలు</item>
+        <item quantity="one">%d ప్రయత్నం</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d యాప్‌లు</item>
+        <item quantity="one">%d యాప్</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">కనీసం %d యాప్‌లు</item>
+        <item quantity="one">కనీసం %d యాప్</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d కొత్త నోటిఫికేషన్‌లు</item>
+        <item quantity="one">%d కొత్త నోటిఫికేషన్</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d పరికరాలు కనెక్ట్ చేయబడ్డాయి</item>
+        <item quantity="one">%1$d పరికరం కనెక్ట్ చేయబడింది</item>
+    </plurals>
+</resources>

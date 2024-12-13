@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Hotspotni faolsizlantirish</string>
+    <string name="no_upstream_notification_message">Qurilmalar internetga ulana olmayapti</string>
+    <string name="no_upstream_notification_title">Hotspot internetga ulanmagan</string>
+    <string name="upstream_roaming_notification_message">Rouming vaqtida qoʻshimcha haq olinishi mumkin</string>
+    <string name="upstream_roaming_notification_title">Hotspot yoniq</string>
+    <string name="upstream_roaming_notification_continue_button">Davom etish</string>
+</resources>

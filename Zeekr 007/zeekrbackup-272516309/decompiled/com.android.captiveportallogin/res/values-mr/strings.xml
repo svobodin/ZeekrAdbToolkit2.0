@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">नेटवर्क मध्‍ये साइन इन करा</string>
+    <string name="action_bar_title">%1$sमध्‍ये साइन इन करा</string>
+    <string name="action_do_not_use_network">हे नेटवर्क वापरू नका</string>
+    <string name="action_use_network">हे नेटवर्क जसेच्या तसे वापरा</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">फाइल डाउनलोडची प्रगती दाखवणार्‍या सूचना</string>
+    <string name="channel_description_downloads">पूर्ण झालेली किंवा रद्द केलेली डाउनलोड दाखवणार्‍या सूचना</string>
+    <string name="channel_name_download_progress">डाउनलोड प्रगती</string>
+    <string name="channel_name_downloads">डाउनलोड</string>
+    <string name="custom_scheme_example">उदाहरणार्थ, लॉगिन पेजला ऑथेंटिकेशनसाठी ठरावीक अ‍ॅप्लिकेशनची गरज असू शकते</string>
+    <string name="custom_scheme_warning">तुम्ही सामील होण्याचा प्रयत्न करत असलेले नेटवर्क दुसरे अ‍ॅप्लिकेशन उघडण्याची विनंती करत आहे.</string>
+    <string name="download_completed">डाउनलोड पूर्ण झाले</string>
+    <string name="downloading_paramfile">%1$s डाउनलोड करत आहे</string>
+    <string name="error_continue_via_browser">तरीही ब्राउझरमार्फत सुरू ठेवा</string>
+    <string name="error_downloading_paramfile">%1$s डाउनलोड करता आली नाही</string>
+    <string name="no_bypass_error_vpnwarning">त्यासोबतच, डिव्हाइस सध्या VPN रन करत असल्यामुळे ही एरर बायपास करता येणे शक्य नाही.</string>
+    <string name="ok">ठीक आहे</string>
+    <string name="page_info">पेज माहिती</string>
+    <string name="page_info_address">पत्ता:</string>
+    <string name="ssl_error_date_invalid">या प्रमाणपत्राची तारीख चुकीची आहे.</string>
+    <string name="ssl_error_example">उदाहरणार्थ, लॉगिन पृष्‍ठ कदाचित दर्शविलेल्या संस्थेच्या मालकीचे नसावे.</string>
+    <string name="ssl_error_expired">हे प्रमाणपत्र एक्स्पायर झाले आहे.</string>
+    <string name="ssl_error_invalid">हे प्रमाणपत्र चुकीचे आहे.</string>
+    <string name="ssl_error_mismatch">साइटचे नाव प्रमाणपत्रावरील नावाशी जुळत नाही.</string>
+    <string name="ssl_error_not_yet_valid">हे प्रमाणपत्र अजून योग्य नाही.</string>
+    <string name="ssl_error_unknown">अज्ञात प्रमाणपत्र एरर.</string>
+    <string name="ssl_error_untrusted">हे प्रमाणपत्र विश्वसनीय संस्थेने दिलेले नाही</string>
+    <string name="ssl_error_view_certificate">प्रमाणपत्र पहा</string>
+    <string name="ssl_error_warning">ज्या नेटवर्कमध्‍ये तुम्ही सामील होण्याचा प्रयत्न करीत आहात त्यात सुरक्षितता समस्या आहेत.</string>
+    <string name="ssl_security_warning_title">सुरक्षितता चेतावणी</string>
+    <string name="status_bar_notification_info_overflow">९९९+</string>
+</resources>

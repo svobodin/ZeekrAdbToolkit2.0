@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">[Šĥéļļ one]</string>
+    <string name="bugreport_add_details_to_zip_failed">"[Çöûļðñ'ţ åðð ɓûĝ ŕéþöŕţ ðéţåîļš ţö žîþ ƒîļé one two three four five]"</string>
+    <string name="bugreport_confirm">"[βûĝ ŕéþöŕţš çöñţåîñ ðåţå ƒŕöḿ ţĥé šýšţéḿ'š Våŕîöûš ļöĝ ƒîļéš, ŵĥîçĥ ḿåý îñçļûðé ðåţå ýöû çöñšîðéŕ šéñšîţîVé (šûçĥ åš åþþ-ûšåĝé åñð ļöçåţîöñ ðåţå). Öñļý šĥåŕé ɓûĝ ŕéþöŕţš ŵîţĥ þéöþļé åñð åþþš ýöû ţŕûšţ. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen]"</string>
+    <string name="bugreport_confirm_dont_repeat">"[Ðöñ'ţ šĥöŵ åĝåîñ one two three]"</string>
+    <string name="bugreport_finished_pending_screenshot_text">[Ţåþ ţö šĥåŕé ýöûŕ ɓûĝ ŕéþöŕţ ŵîţĥöûţ å šçŕééñšĥöţ öŕ ŵåîţ ƒöŕ ţĥé šçŕééñšĥöţ ţö ƒîñîšĥ one two three four five six seven eight nine]</string>
+    <string name="bugreport_finished_text">[Ţåþ ţö šĥåŕé ýöûŕ ɓûĝ ŕéþöŕţ one two three four]</string>
+    <string name="bugreport_finished_title">[βûĝ ŕéþöŕţ #%d çåþţûŕéð one two three]</string>
+    <string name="bugreport_in_progress_title">[βûĝ ŕéþöŕţ #%d îš ɓéîñĝ ĝéñéŕåţéð one two three four]</string>
+    <string name="bugreport_info_action">[Ðéţåîļš one two]</string>
+    <string name="bugreport_info_description">[βûĝ šûḿḿåŕý one two]</string>
+    <string name="bugreport_info_dialog_title">[βûĝ ŕéþöŕţ #%d ðéţåîļš one two three]</string>
+    <string name="bugreport_info_name">[Fîļéñåḿé one two]</string>
+    <string name="bugreport_info_title">[βûĝ ţîţļé one two]</string>
+    <string name="bugreport_intent_chooser_title">[Šĥåŕé βûĝ ŕéþöŕţ one two three]</string>
+    <string name="bugreport_notification_channel">[βûĝ ŕéþöŕţš one two]</string>
+    <string name="bugreport_screenshot_action">[Šçŕééñšĥöţ one two]</string>
+    <string name="bugreport_screenshot_failed">[Šçŕééñšĥöţ çöûļð ñöţ ɓé ţåķéñ. one two three four]</string>
+    <string name="bugreport_screenshot_taken">[Šçŕééñšĥöţ ţåķéñ šûççéššƒûļļý. one two three four]</string>
+    <string name="bugreport_storage_title">[βûĝ ŕéþöŕţš one two]</string>
+    <string name="bugreport_unnamed">[ûññåḿéð one two]</string>
+    <string name="bugreport_unreadable_text">[βûĝ ŕéþöŕţ ƒîļé çöûļð ñöţ ɓé ŕéåð one two three four]</string>
+    <string name="bugreport_updating_title">[Åððîñĝ ðéţåîļš ţö ţĥé ɓûĝ ŕéþöŕţ one two three four]</string>
+    <string name="bugreport_updating_wait">[Þļéåšé ŵåîţ… one two three]</string>
+    <string name="save">[ŠåVé one]</string>
+    <string name="status_bar_notification_info_overflow">[999+ one]</string>
+</resources>

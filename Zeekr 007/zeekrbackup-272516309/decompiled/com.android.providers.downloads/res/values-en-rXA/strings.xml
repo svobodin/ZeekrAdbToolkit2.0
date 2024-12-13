@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">[Ðöŵñļöåð Ḿåñåĝéŕ one two three]</string>
+    <string name="button_cancel_download">[Çåñçéļ one two]</string>
+    <string name="button_queue_for_wifi">[qûéûé one]</string>
+    <string name="button_start_now">[Šţåŕţ ñöŵ one two]</string>
+    <string name="download_error">[Ûñšûççéššƒûļ one two]</string>
+    <string name="download_no_application_title">"[Çåñ'ţ öþéñ ƒîļé one two three]"</string>
+    <string name="download_queued">[qûéûéð one two]</string>
+    <string name="download_remaining">[%s ļéƒţ one]</string>
+    <string name="download_running">[Îñ þŕöĝŕéšš one two]</string>
+    <string name="download_running_percent">[Îñ þŕöĝŕéšš, %s one two]</string>
+    <string name="download_unknown_title">[&lt;Untitled>]</string>
+    <string name="notification_download_complete">[Ðöŵñļöåð çöḿþļéţé. one two three]</string>
+    <string name="notification_download_failed">[Ðöŵñļöåð ûñšûççéššƒûļ. one two three]</string>
+    <string name="notification_need_wifi_for_size">[Ðöŵñļöåð šîžé ŕéQûîŕéš Ŵî-Fî. one two three four]</string>
+    <string name="notification_paused_in_background">[Þåûšéð îñ ɓåçķĝŕöûñð. one two three]</string>
+    <string name="permdesc_accessAllDownloads">[Åļļöŵš ţĥé åþþ ţö Vîéŵ åñð ḿöðîƒý åļļ ðöŵñļöåðš îñîţîåţéð ɓý åñý åþþ öñ ţĥé šýšţéḿ. one two three four five six seven eight nine]</string>
+    <string name="permdesc_downloadCacheNonPurgeable">"[Åļļöŵš ţĥé åþþ ţö ðöŵñļöåð ƒîļéš ţö ţĥé ðöŵñļöåð çåçĥé, ŵĥîçĥ çåñ'ţ ɓé åûţöḿåţîçåļļý ðéļéţéð ŵĥéñ ţĥé ðöŵñļöåð ḿåñåĝéŕ ñééðš ḿöŕé šþåçé. one two three four five six seven eight nine ten eleven twelve thirteen]"</string>
+    <string name="permdesc_downloadCompletedIntent">[Åļļöŵš ţĥé åþþ ţö šéñð ñöţîƒîçåţîöñš åɓöûţ çöḿþļéţéð ðöŵñļöåðš. Ḿåļîçîöûš åþþš çåñ ûšé ţĥîš ţö çöñƒûšé öţĥéŕ åþþš ţĥåţ ðöŵñļöåð ƒîļéš. one two three four five six seven eight nine ten eleven twelve thirteen]</string>
+    <string name="permdesc_downloadManager">[Åļļöŵš ţĥé åþþ ţö åççéšš ţĥé ðöŵñļöåð ḿåñåĝéŕ åñð ţö ûšé îţ ţö ðöŵñļöåð ƒîļéš. Ḿåļîçîöûš åþþš çåñ ûšé ţĥîš ţö ðîšŕûþţ ðöŵñļöåðš åñð åççéšš þŕîVåţé îñƒöŕḿåţîöñ. one two three four five six seven eight nine ten eleven twelve thirteen fourteen]</string>
+    <string name="permdesc_downloadManagerAdvanced">"[Åļļöŵš ţĥé åþþ ţö åççéšš ţĥé ðöŵñļöåð ḿåñåĝéŕ'š åðVåñçéð ƒûñçţîöñš. Ḿåļîçîöûš åþþš çåñ ûšé ţĥîš ţö ðîšŕûþţ ðöŵñļöåðš åñð åççéšš þŕîVåţé îñƒöŕḿåţîöñ. one two three four five six seven eight nine ten eleven twelve thirteen fourteen]"</string>
+    <string name="permdesc_downloadWithoutNotification">[Åļļöŵš ţĥé åþþ ţö ðöŵñļöåð ƒîļéš ţĥŕöûĝĥ ţĥé ðöŵñļöåð ḿåñåĝéŕ ŵîţĥöûţ åñý ñöţîƒîçåţîöñ ɓéîñĝ šĥöŵñ ţö ţĥé ûšéŕ. one two three four five six seven eight nine ten eleven twelve]</string>
+    <string name="permlab_accessAllDownloads">[Åççéšš åļļ šýšţéḿ ðöŵñļöåðš one two three four]</string>
+    <string name="permlab_downloadCacheNonPurgeable">[ŔéšéŕVé šþåçé îñ ţĥé ðöŵñļöåð çåçĥé one two three four]</string>
+    <string name="permlab_downloadCompletedIntent">[Šéñð ðöŵñļöåð ñöţîƒîçåţîöñš. one two three four]</string>
+    <string name="permlab_downloadManager">[Åççéšš ðöŵñļöåð ḿåñåĝéŕ. one two three]</string>
+    <string name="permlab_downloadManagerAdvanced">[ÅðVåñçéð ðöŵñļöåð ḿåñåĝéŕ ƒûñçţîöñš. one two three four five]</string>
+    <string name="permlab_downloadWithoutNotification">[ðöŵñļöåð ƒîļéš ŵîţĥöûţ ñöţîƒîçåţîöñ one two three four]</string>
+    <string name="root_downloads">[Ðöŵñļöåðš one two]</string>
+    <string name="storage_description">[Ðöŵñļöåðš one two]</string>
+    <string name="wifi_recommended_body">"[Šţåŕţîñĝ ţĥîš %1$s ðöŵñļöåð ñöŵ ḿåý šĥöŕţéñ ýöûŕ ɓåţţéŕý ļîƒé åñð/öŕ ŕéšûļţ îñ éхçéššîVé ûšåĝé öƒ ýöûŕ ḿöɓîļé ðåţå çöññéçţîöñ, ŵĥîçĥ çåñ ļéåð ţö çĥåŕĝéš ɓý ýöûŕ ḿöɓîļé öþéŕåţöŕ ðéþéñðîñĝ öñ ýöûŕ ðåţå þļåñ.
+
+ Ţöûçĥ %2$s ţö šţåŕţ ţĥîš ðöŵñļöåð ţĥé ñéхţ ţîḿé ýöû'ŕé çöññéçţéð ţö å Ŵî-Fî ñéţŵöŕķ. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight]"</string>
+    <string name="wifi_recommended_title">[qûéûé ƒöŕ ðöŵñļöåð ļåţéŕ¿ one two three]</string>
+    <string name="wifi_required_body">"[Ýöû ḿûšţ ûšé Ŵî-Fî ţö çöḿþļéţé ţĥîš %1$s ðöŵñļöåð. 
+
+Ţöûçĥ %2$s ţö šţåŕţ ţĥîš ðöŵñļöåð ţĥé ñéхţ ţîḿé ýöû'ŕé çöññéçţéð ţö å Ŵî-Fî ñéţŵöŕķ. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two]"</string>
+    <string name="wifi_required_title">[Ðöŵñļöåð ţöö ļåŕĝé ƒöŕ öþéŕåţöŕ ñéţŵöŕķ one two three four five]</string>
+</resources>

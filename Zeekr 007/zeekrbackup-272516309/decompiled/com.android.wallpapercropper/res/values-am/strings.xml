@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crop_wallpaper">የግድግዳ ወረቀት ይከርክሙ</string>
+    <string name="wallpaper_instructions">የግድግዳ ወረቀት አዘጋጅ</string>
+    <string name="wallpaper_load_fail">ምስሉን እንደ ግድግዳ ወረቀት መጫን አልተቻለም</string>
+</resources>

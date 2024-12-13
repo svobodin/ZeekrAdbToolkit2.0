@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Модем болгохыг унтраах</string>
+    <string name="no_upstream_notification_message">Төхөөрөмжүүд холбогдох боломжгүй байна</string>
+    <string name="no_upstream_notification_title">Модемд интернэт алга байна</string>
+    <string name="upstream_roaming_notification_message">Роумингийн үеэр нэмэлт төлбөр нэхэмжилж болзошгүй</string>
+    <string name="upstream_roaming_notification_title">Сүлжээний цэг эсвэл модем болгох асаалттай байна</string>
+</resources>

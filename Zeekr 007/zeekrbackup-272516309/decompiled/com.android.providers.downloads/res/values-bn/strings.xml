@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ডাউনলোড ম্যানেজার</string>
+    <string name="button_cancel_download">বাতিল করুন</string>
+    <string name="button_queue_for_wifi">সারি</string>
+    <string name="button_start_now">এখন শুরু করুন</string>
+    <string name="download_error">অসফল</string>
+    <string name="download_no_application_title">ফাইল খোলা যাবে না</string>
+    <string name="download_queued">সারিবদ্ধ</string>
+    <string name="download_remaining">%s বাকি</string>
+    <string name="download_running">প্রগতিতে রয়েছে</string>
+    <string name="download_running_percent">প্রগতিতে রয়েছে, %s</string>
+    <string name="download_unknown_title">&lt;শিরোনামহীন></string>
+    <string name="notification_download_complete">ডাউনলোড সম্পূর্ণ হয়েছে।</string>
+    <string name="notification_download_failed">ডাউনলোড অসফল।</string>
+    <string name="notification_need_wifi_for_size">ডাউনলোড বড় হওয়ায় ওয়াই-ফাই লাগবে।</string>
+    <string name="notification_paused_in_background">পশ্চাদপটে বিরাম দেওয়া আছে।</string>
+    <string name="permdesc_accessAllDownloads">সিস্টেমে যেকোনও অ্যাপ্লিকেশন দ্বারা সূচিত সকল ডাউনলোড প্রদর্শন ও পরিবর্তনের জন্য অ্যাপ্লিকেশনটিকে অনুমতি দেয়।</string>
+    <string name="permdesc_downloadCacheNonPurgeable">অ্যাপ্লিকেশনটিকে ডাউনলোড ক্যাশে থেকে ফাইলগুলি ডাউনলোড করার অনুমতি দেয়, যখন ডাউনলোড ম্যানেজার আরও বেশি জায়গা চাইবে তখন ডাউনলোড ক্যাশে অটোমেটিক মোছা যাবে না।</string>
+    <string name="permdesc_downloadCompletedIntent">অ্যাপ্লিকেশানটিকে সম্পূর্ণ হওয়া ডাউনলোডগুলির জন্য বিজ্ঞপ্তি পাঠানোর অনুমতি দেয়। অন্য যে অ্যাপ্লিকেশানগুলি ফাইল ডাউনলোড করে সেগুলিকে বিভ্রান্ত করতে ক্ষতিকারক অ্যাপ্লিকেশানগুলি এটি ব্যবহার করতে পারে।</string>
+    <string name="permdesc_downloadManager">অ্যাপ্লিকেশানটিকে ডাউনলোড ম্যানেজার অ্যাক্সেস করার এবং এটি ব্যবহার করে ফাইল ডাউনলোড করার অনুমতি দেয়। ক্ষতিকারক অ্যাপ্লিকেশানগুলি ডাউনলোড ব্যাহত এবং ব্যক্তিগত তথ্য অ্যাক্সেস করার জন্য এটি ব্যবহার করতে পারে।</string>
+    <string name="permdesc_downloadManagerAdvanced">অ্যাপ্লিকেশানটিকে ডাউনলোড ম্যানেজারের উন্নত কার্যকারিতাগুলি অ্যাক্সেস করার অনুমতি দেয়। ক্ষতিকারক অ্যাপ্লিকেশানগুলি ডাউনলোড ব্যাহত এবং ব্যক্তিগত তথ্য অ্যাক্সেস করার জন্য এটি ব্যবহার করতে পারে।</string>
+    <string name="permdesc_downloadWithoutNotification">ব্যবহারকারীকে কোনও বিজ্ঞপ্তি না প্রদর্শন করা ছাড়াই অ্যাপ্লিকেশনটিকে ডাউনলোড ম্যানেজারের মাধ্যমে ফাইল ডাউনলোড করার অনুমতি দেয়।</string>
+    <string name="permlab_accessAllDownloads">সব সিস্টেম ডাউনলোড অ্যাক্সেস করুন</string>
+    <string name="permlab_downloadCacheNonPurgeable">ডাউনলোড ক্যাশেতে জায়গা সংরক্ষিত রাখুন</string>
+    <string name="permlab_downloadCompletedIntent">ডাউনলোডের বিজ্ঞপ্তিগুলি পাঠান।</string>
+    <string name="permlab_downloadManager">ডাউনলোড ম্যানেজার অ্যাক্সেস করুন।</string>
+    <string name="permlab_downloadManagerAdvanced">উন্নত ডাউনলোড ম্যানেজার কার্যকারিতা।</string>
+    <string name="permlab_downloadWithoutNotification">বিজ্ঞপ্তি ছাড়াই ফাইল ডাউনলোড করুন</string>
+    <string name="root_downloads">ডাউনলোড</string>
+    <string name="storage_description">ডাউনলোডগুলি</string>
+    <string name="wifi_recommended_body">"এই %1$s  ডাউনলোড শুরু করলে আপনার বেশি ব্যাটারি খরচ হতে পারে এবং/অথবা আপনার মোবাইল ডেটা মাত্রাতিরিক্ত ব্যবহার হতে পারে, যার ফলে আপনার মোবাইল অপারেটর আপনার ডেটা প্ল্যানের উপর নির্ভর করে চার্জ করতে পারে।
+
+ পরে কখনও Wi-Fi নেটওয়ার্কে সংযুক্ত হলে তখন এই ডাউনলোড শুরু করতে %2$s টাচ করুন।"</string>
+    <string name="wifi_recommended_title">পরে ডাউনলোডের জন্য সারিবদ্ধ করবেন?</string>
+    <string name="wifi_required_body">"এই %1$s  ডাউনলোড সম্পূর্ণ করতে আপনাকে অবশ্যই ওয়াই-ফাই ব্যবহার করতে হবে।
+
+আপনি পরবর্তীতে যখন ওয়াই-ফাই নেটওয়ার্কে সংযুক্ত হবেন তখন এই ডাউনলোড শুরু করতে %2$s  স্পর্শ করুন।"</string>
+    <string name="wifi_required_title">অপারেটর নেটওয়ার্কের জন্য ডাউনলোড অত্যন্ত বড়</string>
+</resources>

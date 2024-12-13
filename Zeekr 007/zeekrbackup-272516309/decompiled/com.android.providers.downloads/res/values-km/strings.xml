@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">កម្មវិធីគ្រប់គ្រង​ការទាញ​យក</string>
+    <string name="button_cancel_download">បោះ​បង់​</string>
+    <string name="button_queue_for_wifi">ជួរ</string>
+    <string name="button_start_now">ចាប់ផ្ដើម​ឥឡូវ</string>
+    <string name="download_error">បាន​បរាជ័យ</string>
+    <string name="download_no_application_title">មិន​អាច​បើក​ឯកសារ</string>
+    <string name="download_queued">​បាន​ដាក់​ក្នុង​ជួរ</string>
+    <string name="download_remaining">នៅសល់ %s</string>
+    <string name="download_running">កំពុង​ដំណើរការ</string>
+    <string name="download_running_percent">កំពុង​ដំណើរការ %s</string>
+    <string name="download_unknown_title">&lt;Untitled></string>
+    <string name="notification_download_complete">បាន​បញ្ចប់​ការ​ទាញ​យក។</string>
+    <string name="notification_download_failed">ការ​ទាញ​យក​បាន​បរាជ័យ។</string>
+    <string name="notification_need_wifi_for_size">ទំហំ​ការ​ទាញ​យក​ត្រូវការ​វ៉ាយហ្វាយ។</string>
+    <string name="notification_paused_in_background">បាន​ផ្អាក​នៅ​ផ្ទៃ​ខាងក្រោយ។</string>
+    <string name="permdesc_accessAllDownloads">អនុញ្ញាត​ឲ្យ​កម្មវិធី​មើល និង​កែ​ការ​ទាញ​យក​ទាំងអស់​ដែល​បាន​ចាប់ផ្ដើម​ដោយ​កម្មវិធី​ណាមួយ​នៅ​លើ​ប្រព័ន្ធ។</string>
+    <string name="permdesc_downloadCacheNonPurgeable">អនុញ្ញាត​ឲ្យ​កម្មវិធី​ទាញ​យក​ឯកសារ​ទៅកាន់​ឃ្លាំង​ទាញ​យក ដែល​មិន​អាច​លុប​ដោយ​ស្វ័យប្រវត្តិ ពេល​កម្មវិធី​ទាញ​យក​ត្រូវការ​ទំហំ​ច្រើន។</string>
+    <string name="permdesc_downloadCompletedIntent">អនុញ្ញាត​ឲ្យ​កម្មវិធី​ផ្ញើ​ការ​ជូនដំណឹង​អំពី​ការ​បញ្ចប់​ការ​ទាញ​យក។ កម្មវិធី​មិន​ល្អ​អាច​ប្រើ​វា​ដើម្បី​រារាំង​កម្មវិធី​ទាញ​យក​ឯកសារ​ផ្សេងទៀត។</string>
+    <string name="permdesc_downloadManager">អនុញ្ញាត​ឲ្យ​កម្មវិធី​ប្រើ​កម្មវិធី​ទាញ​យក ដើម្បី​ទាញ​យក​ឯកសារ។ កម្មវិធី​មិន​ល្អ​ផ្សេងទៀត​អាច​ប្រើ​ដើម្បី​បង្អាក់​ការ​ទាញ​យក និង​ការ​ប្រើ​ព័ត៌មាន​ឯកជន។</string>
+    <string name="permdesc_downloadManagerAdvanced">អនុញ្ញាត​ឲ្យ​កម្មវិធី​ប្រើ​មុខងារ​កម្រិត​ខ្ពស់​របស់​កម្មវិធី​ទាញ​យក​ការ​គ្រប់គ្រង។ កម្មវិធី​មិន​ល្អ​អាច​ប្រើ​វា​ដើម្បី​បង្អាក់​ការ​ទាញ​យក និង​ការ​ប្រើ​ព័ត៌មាន​ឯកជន។</string>
+    <string name="permdesc_downloadWithoutNotification">អនុញ្ញាត​ឲ្យ​កម្មវិធី​ទាញ​យក​ឯកសារ​តាម​កម្មវិធី​ទាញ​យក​ការ​គ្រប់គ្រង​​ដោយ​មិន​បាច់​មាន​ការ​ជូន​ដំណឹង​ទៅ​អ្នកប្រើ។</string>
+    <string name="permlab_accessAllDownloads">ដំណើរការ​ទាញ​យក​​ប្រព័ន្ធ​ទាំងអស់</string>
+    <string name="permlab_downloadCacheNonPurgeable">បម្រុងទុក​ទំហំ​នៅ​ក្នុង​ឃ្លាំង​ទាញ​យក</string>
+    <string name="permlab_downloadCompletedIntent">ផ្ញើ​ព័ត៌មាន​ការ​ទាញ​យក។</string>
+    <string name="permlab_downloadManager">ប្រើ​កម្មវិធី​គ្រប់គ្រង​ការ​ទាញ​យក។</string>
+    <string name="permlab_downloadManagerAdvanced">មុខងារ​កម្មវិធី​គ្រប់គ្រង​ការ​ទាញ​យក​កម្រិត​ខ្ពស់។</string>
+    <string name="permlab_downloadWithoutNotification">ទាញ​យក​ឯកសារ​ដោយ​មិន​បាច់​ជូនដំណឹង</string>
+    <string name="root_downloads">ទាញ​យក</string>
+    <string name="storage_description">ទាញយក</string>
+    <string name="wifi_recommended_body">"ចាប់ផ្ដើម​ការ​ទាញ​យក %1$s  ឥឡូវ​អាច​បណ្ដាលឲ្យ​ថ្ម​របស់​អ្នក​មាន​អាយុ​ខ្លី និង/ឬ​បង្ហាញ​ថា​លើស​ការ​ប្រើ​នៃ​តំណ​ភ្ជាប់​ទិន្នន័យ​ទូរស័ព្ទ​របស់​អ្នក ដែល​អាច​គិត​ប្រាក់​ដោយ​ប្រតិបត្តិករ​ទូរស័ព្ទ​អាស្រ័យ​តាម​គម្រោង​ទិន្នន័យ​របស់​អ្នក។
+
+ ប៉ះ %2$s ខាងក្រោម​ដើម្បី​ចាប់ផ្ដើម​ការ​ទាញ​យក​នេះ​នៅ​ពេល​អ្នក​បាន​តភ្ជាប់​បណ្ដាញ​វ៉ាយហ្វាយ។"</string>
+    <string name="wifi_recommended_title">ដាក់​ជា​ជួរ​ដើម្បី​ទាញ​យក​បន្ទាប់?</string>
+    <string name="wifi_required_body">"អ្នក​ត្រូវតែ​ប្រើ​វ៉ាយហ្វាយ​ដើម្បី​បញ្ចប់​ការ​ទាញ​យក %1$s  ។ 
+
+ប៉ះ %2$s  ដើម្បី​ចាប់ផ្ដើម​ការ​ទាញ​យក​នេះ​នៅ​ពេល​អ្នក​បាន​តភ្ជាប់​បណ្ដាញ​វ៉ាយហ្វាយ។"</string>
+    <string name="wifi_required_title">ការ​ទាញ​យក​គឺ​ធំ​ពេក​សម្រាប់​បណ្ដាញ​ប្រតិបត្តិករ</string>
+</resources>

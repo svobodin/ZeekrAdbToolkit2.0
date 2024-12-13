@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">સંપર્કો સ્ટોરેજ</string>
+    <string name="debug_dump_database_message">તમે 1) તમારા ડેટાબેસની કૉપિ આંતરિક સ્ટોરેજ પર કરવામાં છો કે જેમાં બધા સંપર્કોથી સંબંધિત માહિતી અને તમામ કૉલ લૉગ શામેલ છે અને 2) તેને ઇમેઇલ કરવામાં છો. જેમ જ તમે ઉપકરણ પરથી તેની સફળતાપૂર્વક કૉપિ કરી લો અથવા ઇમેઇલ પ્રાપ્ત થઈ જાય તે પછી કૉપિને કાઢી નાખવાનું યાદ રાખો.</string>
+    <string name="debug_dump_delete_button">હમણાં કાઢી નાખો</string>
+    <string name="debug_dump_email_body">જોડેલ છે તે મારી બધી સંપર્ક માહિતી સાથેનો મારો સંપર્કો ડેટાબેસ છે. સાવધાનીથી રાખો.</string>
+    <string name="debug_dump_email_sender_picker">તમારી ફાઇલ મોકલવા માટે એક પ્રોગ્રામ પસંદ કરો</string>
+    <string name="debug_dump_email_subject">સંપર્કો Db જોડ્યો</string>
+    <string name="debug_dump_start_button">પ્રારંભ કરો</string>
+    <string name="debug_dump_title">સંપર્કો ડેટાબેસ કૉપિ કરો</string>
+    <string name="default_directory">સંપર્કો</string>
+    <string name="local_invisible_directory">અન્ય</string>
+    <string name="provider_label">સંપર્કો</string>
+    <string name="sharedUserLabel">Android Core ઍપ્લિકેશનો</string>
+    <string name="upgrade_out_of_memory_notification_text">અપગ્રેડ પૂર્ણ કરવા માટે ટૅપ કરો.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">સંપર્કો અપગ્રેડને વધુ મેમરીની જરૂર છે.</string>
+    <string name="upgrade_out_of_memory_notification_title">સંપર્કો માટે સ્ટોરેજને અપગ્રેડ કરી રહ્યાં છે</string>
+    <string name="voicemail_from_column">"આમના તરફથી વૉઇસમેઇલ "</string>
+</resources>

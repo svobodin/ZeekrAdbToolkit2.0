@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_summary_active">
+        <item quantity="other">[%d ƒîļéš ðöŵñļöåðîñĝ one two three]</item>
+        <item quantity="one">[1 ƒîļé ðöŵñļöåðîñĝ one two three]</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">[%d ƒîļéš ŵåîţîñĝ one two three]</item>
+        <item quantity="one">[1 ƒîļé ŵåîţîñĝ one two three]</item>
+    </plurals>
+</resources>

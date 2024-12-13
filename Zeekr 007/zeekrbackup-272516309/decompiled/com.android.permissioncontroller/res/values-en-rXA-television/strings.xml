@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="current_permission_template">[%1$s / %2$s one]</string>
+    <string name="additional_permissions_decor_title">[Åððîţîöñåļ þéŕḿîššîöñš one two three]</string>
+    <string name="app_permissions_decor_title">[Åþþ þéŕḿîššîöñš one two three]</string>
+    <string name="grant_dialog_button_deny_dont_ask_again">"[Ðéñý åñð ðöñ'ţ åšķ åĝåîñ one two three]"</string>
+    <string name="grant_dialog_how_to_change">[Ýöû çåñ çĥåñĝé ţĥîš ļåţéŕ îñ Šéţţîñĝš > Åþþš one two three four five]</string>
+    <string name="manage_permissions_decor_title">[Åþþ þéŕḿîššîöñš one two three]</string>
+    <string name="permission_apps_decor_title">[%1$s þéŕḿîššîöñš one two]</string>
+    <string name="preference_show_system_apps">[Šĥöŵ šýšţéḿ åþþš one two three]</string>
+    <string name="system_apps_decor_title">[%1$s þéŕḿîššîöñš one two]</string>
+</resources>

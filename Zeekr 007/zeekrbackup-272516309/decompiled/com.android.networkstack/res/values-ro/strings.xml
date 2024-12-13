@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Manager de rețea</string>
+    <string name="connected">Conectată</string>
+    <string name="notification_channel_description_connected">Notificări afișate atunci când dispozitivul se autentifică la o rețea cu portal captiv</string>
+    <string name="notification_channel_description_network_venue_info">Notificări afișate pentru a indica faptul că o rețea are o pagină cu informații despre locație</string>
+    <string name="notification_channel_name_connected">Autentificare cu portal captiv</string>
+    <string name="notification_channel_name_network_venue_info">Informații despre locația rețelei</string>
+    <string name="tap_for_info">Conectat / atingeți pentru a vedea site-ul</string>
+</resources>

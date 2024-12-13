@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">ബാസ് വർദ്ധിപ്പിക്കൽ</string>
+    <string name="ci_extreme">FX ബൂസ്റ്റർ</string>
+    <string name="classical">ക്ലാസിക്കൽ</string>
+    <string name="dance">നൃത്തം</string>
+    <string name="eq_dialog_title">ഈക്വലൈസർ</string>
+    <string name="flat">ഫ്ലാറ്റ്</string>
+    <string name="folk">ഫോക്ക്</string>
+    <string name="headset_plug">ഈ ഇഫക്‌ടുകൾക്ക് ഹെഡ്ഫോണുകൾ പ്ലഗ്-ഇൻ ചെയ്യുക.</string>
+    <string name="heavy_metal">ഹെവി മെറ്റൽ</string>
+    <string name="hip_hop">ഹിപ്പ് ഹോപ്പ്</string>
+    <string name="jazz">ജാസ്</string>
+    <string name="no_effects">ഇഫക്‌ടുകൾ ലഭ്യമല്ല.</string>
+    <string name="normal">സാധാരണ</string>
+    <string name="picker_title">മ്യൂസിക് ഇഫക്ട് നിയന്ത്രണ പാനൽ</string>
+    <string name="pop">പോപ്പ്</string>
+    <string name="rock">റോക്ക്</string>
+    <string name="setup">സജ്ജീകരിക്കുക</string>
+    <string name="user">ഉപയോക്താവ്</string>
+    <string name="virtualizer_strength">സറൗണ്ട് സൗണ്ട്</string>
+</resources>

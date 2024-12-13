@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">நெட்வொர்க்கில் உள்நுழையவும்</string>
+    <string name="action_bar_title">%1$s இல் உள்நுழைக</string>
+    <string name="action_do_not_use_network">இந்த நெட்வொர்க்கைப் பயன்படுத்த வேண்டாம்</string>
+    <string name="action_use_network">இந்த நெட்வொர்க்கைப் பயன்படுத்து</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">ஃபைல் பதிவிறக்கங்களின் செயல்நிலையைக் காட்டும் அறிவிப்புகள்</string>
+    <string name="channel_description_downloads">நிறைவடைந்த/ரத்துசெய்த பதிவிறக்கங்களைக் காட்டும் அறிவிப்புகள்</string>
+    <string name="channel_name_download_progress">பதிவிறக்கத்தின் செயல்நிலை</string>
+    <string name="channel_name_downloads">பதிவிறக்கங்கள்</string>
+    <string name="custom_scheme_example">எடுத்துக்காட்டாக, உள்நுழைவுப் பக்கத்தில் அங்கீகரிப்பிற்கு, குறிப்பிட்ட ஆப்ஸ் தேவைப்படலாம்</string>
+    <string name="custom_scheme_warning">நீங்கள் இணைய விரும்பும் நெட்வொர்க் மற்றொரு ஆப்ஸைத் திறக்கக் கோருகிறது.</string>
+    <string name="download_completed">பதிவிறக்கப்பட்டது</string>
+    <string name="downloading_paramfile">%1$s ஐப் பதிவிறக்குகிறது</string>
+    <string name="error_continue_via_browser">பரவாயில்லை, உலாவி வழியாகத் தொடர்க</string>
+    <string name="error_downloading_paramfile">%1$s ஐப் பதிவிறக்க முடியவில்லை</string>
+    <string name="no_bypass_error_vpnwarning">மேலும், சாதனம் தற்போது VPNனில் இயங்குவதால் இந்தப் பிழையைத் தவிர்க்க முடியாது.</string>
+    <string name="ok">சரி</string>
+    <string name="page_info">பக்கத் தகவல்</string>
+    <string name="page_info_address">முகவரி:</string>
+    <string name="ssl_error_date_invalid">இந்தச் சான்றிதழில் தவறான தேதி உள்ளது.</string>
+    <string name="ssl_error_example">எடுத்துக்காட்டாக, உள்நுழைவுப் பக்கமானது காட்டப்படும் அமைப்பிற்குச் சொந்தமானதாக இல்லாமல் இருக்கலாம்.</string>
+    <string name="ssl_error_expired">இந்தச் சான்றிதழ் காலாவதியாகிவிட்டது.</string>
+    <string name="ssl_error_invalid">இந்தச் சான்றிதழ் செல்லாதது.</string>
+    <string name="ssl_error_mismatch">சான்றிதழிலுள்ள பெயருடன் வலைதளத்தின் பெயர் பொருந்தவில்லை.</string>
+    <string name="ssl_error_not_yet_valid">இந்தச் சான்றிதழ் இன்னும் செல்லாததாக உள்ளது.</string>
+    <string name="ssl_error_unknown">சான்றிதழில் அறியப்படாத பிழை உள்ளது.</string>
+    <string name="ssl_error_untrusted">இந்தச் சான்றிதழ் நம்பகமான நிறுவனத்தால் அங்கீகரிக்கப்படவில்லை.</string>
+    <string name="ssl_error_view_certificate">சான்றிதழைக் காட்டு</string>
+    <string name="ssl_error_warning">நீங்கள் சேர முயற்சிக்கும் நெட்வொர்க்கில் பாதுகாப்புச் சிக்கல்கள் உள்ளன.</string>
+    <string name="ssl_security_warning_title">பாதுகாப்பு எச்சரிக்கை</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>
