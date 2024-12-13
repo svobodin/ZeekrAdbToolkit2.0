@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">Vui lòng nhập mật khẩu và tiếp tục dùng Bản cập nhật hệ thống động</string>
+    <string name="notification_action_cancel">Hủy</string>
+    <string name="notification_action_discard">Hủy</string>
+    <string name="notification_action_reboot_to_dynsystem">Khởi động lại</string>
+    <string name="notification_action_reboot_to_origin">Khởi động lại</string>
+    <string name="notification_dynsystem_in_use">Thiết bị đang chạy một hệ thống động. Hãy khởi động lại để sử dụng Android phiên bản gốc.</string>
+    <string name="notification_image_validation_failed">Không xác thực được ảnh ổ đĩa. Hủy cài đặt.</string>
+    <string name="notification_install_completed">Hệ thống động đã sẵn sàng. Để bắt đầu sử dụng hệ thống này, hãy khởi động lại thiết bị của bạn.</string>
+    <string name="notification_install_failed">Không cài đặt được</string>
+    <string name="notification_install_inprogress">Đang cài đặt</string>
+    <string name="toast_dynsystem_discarded">Đã hủy hệ thống động</string>
+    <string name="toast_failed_to_disable_dynsystem">Không vô hiệu hóa được hệ thống động</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Không thể khởi động lại hoặc tải hệ thống động</string>
+</resources>

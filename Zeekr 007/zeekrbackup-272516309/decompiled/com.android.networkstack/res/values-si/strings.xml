@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">ජාල කළමනාකරු</string>
+    <string name="connected">සම්බන්ධ විය</string>
+    <string name="notification_channel_description_connected">උපාංගය සාර්ථකව පිවිසුම් දොරටු ජාලයකට සත්‍යාපනය කර ඇති විට දැනුම් දීම් පෙන්වයි</string>
+    <string name="notification_channel_description_network_venue_info">ජාලයට ස්ථාන තොරතුරු පිටුවක් ඇති බව දැක්වීමට දැනුම් දීම් පෙන්වයි</string>
+    <string name="notification_channel_name_connected">පිවිසුම් දොරටු සත්‍යාපනය</string>
+    <string name="notification_channel_name_network_venue_info">ජාල ස්ථාන තොරතුරු</string>
+    <string name="tap_for_info">සම්බන්ධිතයි / වෙබ් අඩවිය බැලීමට තට්ටු කරන්න</string>
+</resources>

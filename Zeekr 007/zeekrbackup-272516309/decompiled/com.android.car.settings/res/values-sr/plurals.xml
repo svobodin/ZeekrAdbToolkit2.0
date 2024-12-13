@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">Апликације за камеру</item>
+        <item quantity="one">Апликације за камеру</item>
+        <item quantity="few">Апликације за камеру</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">Апликације имејл клијента</item>
+        <item quantity="one">Апликације имејл клијента</item>
+        <item quantity="few">Апликације имејл клијента</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">Апликације за телефон</item>
+        <item quantity="one">Апликације за телефон</item>
+        <item quantity="few">Апликације за телефон</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d покушаја</item>
+        <item quantity="one">%d покушај</item>
+        <item quantity="few">%d покушаја</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d апликација</item>
+        <item quantity="one">%d апликација</item>
+        <item quantity="few">%d апликације</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">Најмање %d апликација</item>
+        <item quantity="one">Најмање %d апликација</item>
+        <item quantity="few">Најмање %d апликације</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нових обавештења</item>
+        <item quantity="one">%d ново обавештење</item>
+        <item quantity="few">%d нова обавештења</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">Повезано је %1$d уређаја</item>
+        <item quantity="one">Повезан је %1$d уређај</item>
+        <item quantity="few">Повезана су %1$d уређаја</item>
+    </plurals>
+</resources>

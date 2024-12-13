@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">Fotografske aplikacije</item>
+        <item quantity="one">Fotografske aplikacije</item>
+        <item quantity="two">Fotografske aplikacije</item>
+        <item quantity="few">Fotografske aplikacije</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">E-poštni odjemalci</item>
+        <item quantity="one">E-poštni odjemalci</item>
+        <item quantity="two">E-poštni odjemalci</item>
+        <item quantity="few">E-poštni odjemalci</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">Aplikacije za klicanje</item>
+        <item quantity="one">Aplikacije za klicanje</item>
+        <item quantity="two">Aplikacije za klicanje</item>
+        <item quantity="few">Aplikacije za klicanje</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d poskusov</item>
+        <item quantity="one">%d poskus</item>
+        <item quantity="two">%d poskusa</item>
+        <item quantity="few">%d poskusi</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d aplikacij</item>
+        <item quantity="one">%d aplikacija</item>
+        <item quantity="two">%d aplikaciji</item>
+        <item quantity="few">%d aplikacije</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">Najmanj %d aplikacij</item>
+        <item quantity="one">Najmanj %d aplikacija</item>
+        <item quantity="two">Najmanj %d aplikaciji</item>
+        <item quantity="few">Najmanj %d aplikacije</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obvestil</item>
+        <item quantity="one">%d novo obvestilo</item>
+        <item quantity="two">%d novi obvestili</item>
+        <item quantity="few">%d nova obvestila</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">Povezanih je %1$d naprav</item>
+        <item quantity="one">Povezana je %1$d naprava</item>
+        <item quantity="two">Povezani sta %1$d napravi</item>
+        <item quantity="few">Povezane so %1$d naprave</item>
+    </plurals>
+</resources>

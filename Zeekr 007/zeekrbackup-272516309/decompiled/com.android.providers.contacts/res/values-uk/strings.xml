@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">"Пам'ять контактів"</string>
+    <string name="debug_dump_database_message">Ви збираєтеся: 1) скопіювати у внутрішню пам’ять свою базу даних, яка містить усю інформацію про контакти та весь журнал дзвінків; 2) надіслати копію електронною поштою. Не забудьте видалити копію, щойно її буде перенесено з пристрою або отримано електронним листом.</string>
+    <string name="debug_dump_delete_button">Видалити зараз</string>
+    <string name="debug_dump_email_body">У вкладенні – база даних моїх контактів з усією інформацією про мої контакти. Працюйте з нею обережно.</string>
+    <string name="debug_dump_email_sender_picker">Виберіть програму для надсилання файлу</string>
+    <string name="debug_dump_email_subject">У вкладенні – база даних контактів</string>
+    <string name="debug_dump_start_button">Почати</string>
+    <string name="debug_dump_title">Копіювати базу даних контактів</string>
+    <string name="default_directory">Контакти</string>
+    <string name="local_invisible_directory">Інші</string>
+    <string name="provider_label">Контакти</string>
+    <string name="sharedUserLabel">Android Core Apps</string>
+    <string name="upgrade_out_of_memory_notification_text">Торкніться, щоб завершити оновлення.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Оновлення контактів потребує більше пам’яті.</string>
+    <string name="upgrade_out_of_memory_notification_title">Оновлення пам’яті для контактів</string>
+    <string name="voicemail_from_column">"Голосова пошта від "</string>
+</resources>

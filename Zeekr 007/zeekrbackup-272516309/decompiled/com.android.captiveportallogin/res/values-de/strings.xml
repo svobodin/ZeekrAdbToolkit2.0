@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Im Netzwerk anmelden</string>
+    <string name="action_bar_title">In %1$s anmelden</string>
+    <string name="action_do_not_use_network">Netzwerk nicht verwenden</string>
+    <string name="action_use_network">Netzwerk im Istzustand verwenden</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">Benachrichtigungen zum Fortschritt von Dateidownloads</string>
+    <string name="channel_description_downloads">Benachrichtigungen zu abgeschlossenen oder abgebrochenen Downloads</string>
+    <string name="channel_name_download_progress">Downloadfortschritt</string>
+    <string name="channel_name_downloads">Downloads</string>
+    <string name="custom_scheme_example">So kann es zum Beispiel sein, dass die Anmeldeseite eine spezifische App zur Authentifizierung benötigt.</string>
+    <string name="custom_scheme_warning">Das Netzwerk, zu dem du eine Verbindung herstellen möchtest, verlangt, dass du eine andere App öffnest.</string>
+    <string name="download_completed">Download abgeschlossen</string>
+    <string name="downloading_paramfile">%1$s wird heruntergeladen</string>
+    <string name="error_continue_via_browser">Trotzdem in einem Browser fortfahren</string>
+    <string name="error_downloading_paramfile">%1$s konnte nicht heruntergeladen werden</string>
+    <string name="no_bypass_error_vpnwarning">Außerdem ist es nicht möglich, diese Fehlermeldung zu umgehen, weil auf dem Gerät derzeit ein VPN ausgeführt wird.</string>
+    <string name="ok">Ok</string>
+    <string name="page_info">Seiteninformationen</string>
+    <string name="page_info_address">Adresse:</string>
+    <string name="ssl_error_date_invalid">Dieses Zertifikat hat ein ungültiges Datum.</string>
+    <string name="ssl_error_example">Beispiel: Die Log-in-Seite gehört eventuell nicht zur angezeigten Organisation.</string>
+    <string name="ssl_error_expired">Dieses Zertifikat ist abgelaufen.</string>
+    <string name="ssl_error_invalid">Dieses Zertifikat ist ungültig.</string>
+    <string name="ssl_error_mismatch">Der Name der Website stimmt nicht mit dem Namen auf dem Zertifikat überein.</string>
+    <string name="ssl_error_not_yet_valid">Dieses Zertifikat ist noch nicht gültig.</string>
+    <string name="ssl_error_unknown">Unbekannter Zertifikatfehler.</string>
+    <string name="ssl_error_untrusted">Dieses Zertifikat stammt nicht von einer vertrauenswürdigen Stelle.</string>
+    <string name="ssl_error_view_certificate">Zertifikat ansehen</string>
+    <string name="ssl_error_warning">Im Netzwerk, zu dem du eine Verbindung herstellen möchtest, liegen Sicherheitsprobleme vor.</string>
+    <string name="ssl_security_warning_title">Sicherheitswarnung</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

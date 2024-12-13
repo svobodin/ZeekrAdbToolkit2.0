@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Spis kontaktów</string>
+    <string name="debug_dump_database_message">Zamierzasz: 1) utworzyć w pamięci wewnętrznej kopię bazy danych ze wszystkimi informacjami o kontaktach i rejestrem połączeń, 2) wysłać ją e-mailem. Pamiętaj, by usunąć kopię zaraz po zapisaniu jej na innym nośniku lub odebraniu e-maila.</string>
+    <string name="debug_dump_delete_button">Usuń teraz</string>
+    <string name="debug_dump_email_body">W załączniku przesyłam moją bazę danych kontaktów, która zawiera wszystkie informacje o moich kontaktach. Proszę zachować ostrożność.</string>
+    <string name="debug_dump_email_sender_picker">Wybierz program, którego użyjesz do wysłania pliku</string>
+    <string name="debug_dump_email_subject">W załączniku baza danych kontaktów</string>
+    <string name="debug_dump_start_button">Rozpocznij</string>
+    <string name="debug_dump_title">Kopiuj bazę danych kontaktów</string>
+    <string name="default_directory">Kontakty</string>
+    <string name="local_invisible_directory">Inne</string>
+    <string name="provider_label">Kontakty</string>
+    <string name="sharedUserLabel">Aplikacje główne Androida</string>
+    <string name="upgrade_out_of_memory_notification_text">Kliknij, by ukończyć uaktualnienie.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Uaktualnienie kontaktów wymaga więcej pamięci.</string>
+    <string name="upgrade_out_of_memory_notification_title">Pamięć na uaktualnienie kontaktów</string>
+    <string name="voicemail_from_column">"Poczta głosowa od "</string>
+</resources>

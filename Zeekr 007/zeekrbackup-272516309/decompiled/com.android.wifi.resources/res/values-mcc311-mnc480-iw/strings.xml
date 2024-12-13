@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">‏%1$s : לא ניתן להתחבר לגישת Wi-Fi של Verizon מחוץ לאזור הכיסוי של Verizon.</string>
+    <string name="wifi_eap_error_message_code_32761">‏%1$s : לא נרשמת לגישת Wi-Fi של Verizon. עליך להתקשר אלינו למספר 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32762">‏%1$s : יש בעיה עם החשבון שלך לגישת Wi-Fi של Verizon. עליך להתקשר אלינו למספר 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32763">‏%1$s : כבר יש לך חיבור לגישת Wi-Fi של Verizon.</string>
+    <string name="wifi_eap_error_message_code_32764">‏%1$s : יש בעיה בהתחברות לגישת Wi-Fi של Verizon. עליך להתקשר אלינו למספר 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32765">‏%1$s : יש בעיה עם החשבון שלך לגישת Wi-Fi של Verizon. עליך להתקשר אלינו למספר 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32766">‏%1$s : גישת Wi-Fi של Verizon לא זמינה מהמיקום שלך. אפשר לנסות שוב מאוחר יותר או לנסות ממיקום אחר.</string>
+</resources>

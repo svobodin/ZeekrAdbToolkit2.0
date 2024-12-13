@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">নেটৱৰ্ক মেনেজাৰ</string>
+    <string name="connected">সংযোগ কৰা হৈছে</string>
+    <string name="notification_channel_description_connected">ডিভাইচটোৱে কোনো কেপটিভ প’ৰ্টেল নেটৱর্কত সফলতাৰে বিশ্বাসযোগ্যতা প্ৰমাণীকৰণ কৰিলে জাননীসমূহ দেখুওৱা হয়</string>
+    <string name="notification_channel_description_network_venue_info">নেটৱৰ্কৰ এখন স্থলীৰ তথ্য পৃষ্ঠা থকাটো দৰ্শাবলৈ জাননীসমূহ দেখুওৱা হয়</string>
+    <string name="notification_channel_name_connected">কেপটিভ প’ৰ্টেলৰ প্ৰমাণীকৰণ</string>
+    <string name="notification_channel_name_network_venue_info">নেটৱৰ্ক স্থলীৰ তথ্য</string>
+    <string name="tap_for_info">সংযুক্ত / ৱেবছাইট চাবলৈ টিপক</string>
+</resources>

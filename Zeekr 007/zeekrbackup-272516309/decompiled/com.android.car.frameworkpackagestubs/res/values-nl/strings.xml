@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Activiteitsstub</string>
+    <string name="message_not_supported">Geen enkele app kan deze actie verwerken</string>
+    <string name="pip_not_supported">Scherm-in-scherm wordt niet ondersteund op dit apparaat</string>
+    <string name="stub_name">Geen</string>
+</resources>

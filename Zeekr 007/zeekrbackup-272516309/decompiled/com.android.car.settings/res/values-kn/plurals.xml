@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">ಕ್ಯಾಮರಾ ಆ್ಯಪ್‌ಗಳು</item>
+        <item quantity="one">ಕ್ಯಾಮರಾ ಆ್ಯಪ್‌ಗಳು</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">ಇಮೇಲ್ ಕ್ಲೈಂಟ್ ಆ್ಯಪ್‌ಗಳು</item>
+        <item quantity="one">ಇಮೇಲ್ ಕ್ಲೈಂಟ್ ಆ್ಯಪ್‌ಗಳು</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">ಫೋನ್ ಆ್ಯಪ್‌ಗಳು</item>
+        <item quantity="one">ಫೋನ್ ಆ್ಯಪ್‌ಗಳು</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d ಪ್ರಯತ್ನಗಳು</item>
+        <item quantity="one">%d ಪ್ರಯತ್ನಗಳು</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d ಆ್ಯಪ್‌ಗಳು</item>
+        <item quantity="one">%d ಆ್ಯಪ್‌ಗಳು</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">ಕನಿಷ್ಠ %d ಆ್ಯಪ್‌ಗಳು</item>
+        <item quantity="one">ಕನಿಷ್ಠ %d ಆ್ಯಪ್‌ಗಳು</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d ಹೊಸ ಅಧಿಸೂಚನೆಗಳು</item>
+        <item quantity="one">%d ಹೊಸ ಅಧಿಸೂಚನೆಗಳು</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d ಸಾಧನಗಳನ್ನು ಸಂಪರ್ಕಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">%1$d ಸಾಧನಗಳನ್ನು ಸಂಪರ್ಕಿಸಲಾಗಿದೆ</item>
+    </plurals>
+</resources>

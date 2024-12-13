@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kidirisha cha Programu ya SIM</string>
+    <string name="install_carrier_app_defer_action">Si sasa</string>
+    <string name="install_carrier_app_description">Ili SIM yako mpya ifanye kazi vizuri, utahitajika kusakinisha programu ya %1$s</string>
+    <string name="install_carrier_app_description_default">Ili SIM yako mpya ifanye kazi vizuri, utahitajika kusakinisha programu ya mtoa huduma</string>
+    <string name="install_carrier_app_download_action">Pakua programu</string>
+    <string name="install_carrier_app_title">Washa huduma ya simu za mkononi</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Rudi nyuma</string>
+    <string name="suw_more_button_label">Zaidi</string>
+    <string name="suw_next_button_label">Endelea</string>
+</resources>

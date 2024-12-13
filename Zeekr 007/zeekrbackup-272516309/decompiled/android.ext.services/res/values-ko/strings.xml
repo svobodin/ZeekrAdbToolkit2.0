@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_assistant">Android 적응형 알림</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="tc_notif_code_copied_to_clipboard">코드 복사됨</string>
+    <string name="tc_notif_copy_code_desc">“%1$s“ 복사</string>
+</resources>

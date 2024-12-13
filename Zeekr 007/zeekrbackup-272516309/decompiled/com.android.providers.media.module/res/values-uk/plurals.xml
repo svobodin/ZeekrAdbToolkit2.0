@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">Дозволити додатку ^1 видалити ^2 аудіофайлу?</item>
+        <item quantity="one">Дозволити додатку ^1 видалити ^2 аудіофайл?</item>
+        <item quantity="few">Дозволити додатку ^1 видалити ^2 аудіофайли?</item>
+        <item quantity="many">Дозволити додатку ^1 видалити ^2 аудіофайлів?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">Дозволити додатку ^1 видалити ^2 елемента?</item>
+        <item quantity="one">Дозволити додатку ^1 видалити ^2 елемент?</item>
+        <item quantity="few">Дозволити додатку ^1 видалити ^2 елементи?</item>
+        <item quantity="many">Дозволити додатку ^1 видалити ^2 елементів?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">Дозволити додатку ^1 видалити ^2 фотографії?</item>
+        <item quantity="one">Дозволити додатку ^1 видалити ^2 фотографію?</item>
+        <item quantity="few">Дозволити додатку ^1 видалити ^2 фотографії?</item>
+        <item quantity="many">Дозволити додатку ^1 видалити ^2 фотографій?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">Дозволити додатку ^1 видалити ^2 відео?</item>
+        <item quantity="one">Дозволити додатку ^1 видалити ^2 відео?</item>
+        <item quantity="few">Дозволити додатку ^1 видалити ^2 відео?</item>
+        <item quantity="many">Дозволити додатку ^1 видалити ^2 відео?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">Ще ^1 додаткового елемента</item>
+        <item quantity="one">Ще ^1 додатковий елемент</item>
+        <item quantity="few">Ще ^1 додаткові елементи</item>
+        <item quantity="many">Ще ^1 додаткових елементів</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">+^1</item>
+        <item quantity="one">+^1</item>
+        <item quantity="few">+^1</item>
+        <item quantity="many">+^1</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">Видалення ^1 аудіофайлу…</item>
+        <item quantity="one">Видалення ^1 аудіофайлу…</item>
+        <item quantity="few">Видалення ^1 аудіофайлів…</item>
+        <item quantity="many">Видалення ^1 аудіофайлів…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">"Видалення ^1 об'єкта…"</item>
+        <item quantity="one">"Видалення ^1 об'єкта…"</item>
+        <item quantity="few">"Видалення ^1 об'єктів…"</item>
+        <item quantity="many">"Видалення ^1 об'єктів…"</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">Видалення ^1 фотографії…</item>
+        <item quantity="one">Видалення ^1 фотографії…</item>
+        <item quantity="few">Видалення ^1 фотографій…</item>
+        <item quantity="many">Видалення ^1 фотографій…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">Видалення ^1 відео…</item>
+        <item quantity="one">Видалення ^1 відео…</item>
+        <item quantity="few">Видалення ^1 відео…</item>
+        <item quantity="many">Видалення ^1 відео…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">Переміщення ^1 аудіофайлу в кошик…</item>
+        <item quantity="one">Переміщення ^1 аудіофайлу в кошик…</item>
+        <item quantity="few">Переміщення ^1 аудіофайлів у кошик…</item>
+        <item quantity="many">Переміщення ^1 аудіофайлів у кошик…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">"Переміщення ^1 об'єкта в кошик…"</item>
+        <item quantity="one">"Переміщення ^1 об'єкта в кошик…"</item>
+        <item quantity="few">"Переміщення ^1 об'єктів у кошик…"</item>
+        <item quantity="many">"Переміщення ^1 об'єктів у кошик…"</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">Переміщення ^1 фотографії в кошик…</item>
+        <item quantity="one">Переміщення ^1 фотографії в кошик…</item>
+        <item quantity="few">Переміщення ^1 фотографій у кошик…</item>
+        <item quantity="many">Переміщення ^1 фотографій у кошик…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">Переміщення ^1 відео в кошик…</item>
+        <item quantity="one">Переміщення ^1 відео в кошик…</item>
+        <item quantity="few">Переміщення ^1 відео в кошик…</item>
+        <item quantity="many">Переміщення ^1 відео в кошик…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">Відновлення ^1 аудіофайлу з кошика…</item>
+        <item quantity="one">Відновлення ^1 аудіофайлу з кошика…</item>
+        <item quantity="few">Відновлення ^1 аудіофайлів із кошика…</item>
+        <item quantity="many">Відновлення ^1 аудіофайлів із кошика…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">"Відновлення ^1 об'єкта з кошика…"</item>
+        <item quantity="one">"Відновлення ^1 об'єкта з кошика…"</item>
+        <item quantity="few">"Відновлення ^1 об'єктів із кошика…"</item>
+        <item quantity="many">"Відновлення ^1 об'єктів із кошика…"</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">Відновлення ^1 фотографії з кошика…</item>
+        <item quantity="one">Відновлення ^1 фотографії з кошика…</item>
+        <item quantity="few">Відновлення ^1 фотографій із кошика…</item>
+        <item quantity="many">Відновлення ^1 фотографій із кошика…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">Відновлення ^1 відео з кошика…</item>
+        <item quantity="one">Відновлення ^1 відео з кошика…</item>
+        <item quantity="few">Відновлення ^1 відео з кошика…</item>
+        <item quantity="many">Відновлення ^1 відео з кошика…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">Змінення ^1 аудіофайлу…</item>
+        <item quantity="one">Змінення ^1 аудіофайлу…</item>
+        <item quantity="few">Змінення ^1 аудіофайлів…</item>
+        <item quantity="many">Змінення ^1 аудіофайлів…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">"Змінення ^1 об'єкта…"</item>
+        <item quantity="one">"Змінення ^1 об'єкта…"</item>
+        <item quantity="few">"Змінення ^1 об'єктів…"</item>
+        <item quantity="many">"Змінення ^1 об'єктів…"</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">Змінення ^1 фотографії…</item>
+        <item quantity="one">Змінення ^1 фотографії…</item>
+        <item quantity="few">Змінення ^1 фотографій…</item>
+        <item quantity="many">Змінення ^1 фотографій…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">Змінення ^1 відео…</item>
+        <item quantity="one">Змінення ^1 відео…</item>
+        <item quantity="few">Змінення ^1 відео…</item>
+        <item quantity="many">Змінення ^1 відео…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">Дозволити додатку ^1 перемістити ^2 аудіофайлу в кошик?</item>
+        <item quantity="one">Дозволити додатку ^1 перемістити ^2 аудіофайл у кошик?</item>
+        <item quantity="few">Дозволити додатку ^1 перемістити ^2 аудіофайли в кошик?</item>
+        <item quantity="many">Дозволити додатку ^1 перемістити ^2 аудіофайлів у кошик?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">Дозволити додатку ^1 перемістити ^2 елемента в кошик?</item>
+        <item quantity="one">Дозволити додатку ^1 перемістити ^2 елемент у кошик?</item>
+        <item quantity="few">Дозволити додатку ^1 перемістити ^2 елементи в кошик?</item>
+        <item quantity="many">Дозволити додатку ^1 перемістити ^2 елементів у кошик?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">Дозволити додатку ^1 перемістити ^2 фотографії в кошик?</item>
+        <item quantity="one">Дозволити додатку ^1 перемістити ^2 фотографію в кошик?</item>
+        <item quantity="few">Дозволити додатку ^1 перемістити ^2 фотографії в кошик?</item>
+        <item quantity="many">Дозволити додатку ^1 перемістити ^2 фотографій у кошик?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">Дозволити додатку ^1 перемістити ^2 відео в кошик?</item>
+        <item quantity="one">Дозволити додатку ^1 перемістити ^2 відео в кошик?</item>
+        <item quantity="few">Дозволити додатку ^1 перемістити ^2 відео в кошик?</item>
+        <item quantity="many">Дозволити додатку ^1 перемістити ^2 відео в кошик?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">Дозволити додатку ^1 відновити ^2 аудіофайлу?</item>
+        <item quantity="one">Дозволити додатку ^1 відновити ^2 аудіофайл?</item>
+        <item quantity="few">Дозволити додатку ^1 відновити ^2 аудіофайли?</item>
+        <item quantity="many">Дозволити додатку ^1 відновити ^2 аудіофайлів?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">Дозволити додатку ^1 відновити ^2 елемента?</item>
+        <item quantity="one">Дозволити додатку ^1 відновити ^2 елемент?</item>
+        <item quantity="few">Дозволити додатку ^1 відновити ^2 елементи?</item>
+        <item quantity="many">Дозволити додатку ^1 відновити ^2 елементів?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">Дозволити додатку ^1 відновити ^2 фотографії?</item>
+        <item quantity="one">Дозволити додатку ^1 відновити ^2 фотографію?</item>
+        <item quantity="few">Дозволити додатку ^1 відновити ^2 фотографії?</item>
+        <item quantity="many">Дозволити додатку ^1 відновити ^2 фотографій?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">Дозволити додатку ^1 відновити ^2 відео?</item>
+        <item quantity="one">Дозволити додатку ^1 відновити ^2 відео?</item>
+        <item quantity="few">Дозволити додатку ^1 відновити ^2 відео?</item>
+        <item quantity="many">Дозволити додатку ^1 відновити ^2 відео?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">Дозволити додатку ^1 змінити ^2 аудіофайлу?</item>
+        <item quantity="one">Дозволити додатку ^1 змінити ^2 аудіофайл?</item>
+        <item quantity="few">Дозволити додатку ^1 змінити ^2 аудіофайли?</item>
+        <item quantity="many">Дозволити додатку ^1 змінити ^2 аудіофайлів?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">Дозволити додатку ^1 змінити ^2 елемента?</item>
+        <item quantity="one">Дозволити додатку ^1 змінити ^2 елемент?</item>
+        <item quantity="few">Дозволити додатку ^1 змінити ^2 елементи?</item>
+        <item quantity="many">Дозволити додатку ^1 змінити ^2 елементів?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">Дозволити додатку ^1 змінити ^2 фотографії?</item>
+        <item quantity="one">Дозволити додатку ^1 змінити ^2 фотографію?</item>
+        <item quantity="few">Дозволити додатку ^1 змінити ^2 фотографії?</item>
+        <item quantity="many">Дозволити додатку ^1 змінити ^2 фотографій?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">Дозволити додатку ^1 змінити ^2 відео?</item>
+        <item quantity="one">Дозволити додатку ^1 змінити ^2 відео?</item>
+        <item quantity="few">Дозволити додатку ^1 змінити ^2 відео?</item>
+        <item quantity="many">Дозволити додатку ^1 змінити ^2 відео?</item>
+    </plurals>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">ہاٹ اسپاٹ آف کریں</string>
+    <string name="no_upstream_notification_message">آلات انٹرنیٹ سے منسلک نہیں ہو سکتے</string>
+    <string name="no_upstream_notification_title">ہاٹ اسپاٹ میں انٹرنیٹ نہیں ہے</string>
+    <string name="upstream_roaming_notification_message">رومنگ کے دوران اضافی چارجز لاگو ہو سکتے ہیں</string>
+    <string name="upstream_roaming_notification_title">ہاٹ اسپاٹ آن ہے</string>
+    <string name="upstream_roaming_notification_continue_button">جاری رکھیں</string>
+</resources>

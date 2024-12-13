@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Activity Stub</string>
+    <string name="message_not_supported">Không ứng dụng nào xử lý được thao tác này</string>
+    <string name="pip_not_supported">Thiết bị này không hỗ trợ tính năng Hình trong hình</string>
+    <string name="stub_name">Không</string>
+</resources>

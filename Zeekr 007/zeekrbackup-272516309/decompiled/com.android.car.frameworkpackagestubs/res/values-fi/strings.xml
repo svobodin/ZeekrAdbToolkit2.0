@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lyhyt toiminta</string>
+    <string name="message_not_supported">Yksikään sovellus ei voi käsitellä tätä toimintoa.</string>
+    <string name="pip_not_supported">Pikkuruutua ei tueta tällä laitteella</string>
+    <string name="stub_name">–</string>
+</resources>

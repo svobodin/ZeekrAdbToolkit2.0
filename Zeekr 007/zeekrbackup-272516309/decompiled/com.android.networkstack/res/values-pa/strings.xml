@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">ਨੈੱਟਵਰਕ ਪ੍ਰਬੰਧਕ</string>
+    <string name="connected">ਕਨੈਕਟ ਹੈ</string>
+    <string name="notification_channel_description_connected">"ਡੀਵਾਈਸ ਦੇ ਸਫਲਤਾਪੂਰਵਕ ਕਨੈਕਟ ਹੋਣ ਅਤੇ ਕੈਪਟਿਵ ਪੋਰਟਲ ਨੈੱਟਵਰਕ 'ਤੇ ਪ੍ਰਮਾਣਿਤ ਹੋਣ 'ਤੇ ਸੂਚਨਾਵਾਂ ਦਿਖਾਈਆਂ ਜਾਂਦੀਆਂ ਹਨ"</string>
+    <string name="notification_channel_description_network_venue_info">ਇਹ ਦੱਸਣ ਲਈ ਸੂਚਨਾਵਾਂ ਦਿਖਾਈਆਂ ਜਾਂਦੀਆਂ ਹਨ ਕਿ ਨੈੱਟਵਰਕ ਕੋਲ ਸਥਾਨ ਬਾਰੇ ਜਾਣਕਾਰੀ ਵਾਲਾ ਪੰਨਾ ਹੈ</string>
+    <string name="notification_channel_name_connected">ਕੈਪਟਿਵ ਪੋਰਟਲ ਪ੍ਰਮਾਣੀਕਰਨ</string>
+    <string name="notification_channel_name_network_venue_info">ਨੈੱਟਵਰਕ ਸਥਾਨ ਬਾਰੇ ਜਾਣਕਾਰੀ</string>
+    <string name="tap_for_info">ਕਨੈਕਟ ਕੀਤਾ ਗਿਆ / ਵੈੱਬਸਾਈਟ ਨੂੰ ਦੇਖਣ ਲਈ ਟੈਪ ਕਰੋ</string>
+</resources>

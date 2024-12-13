@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Társeszközök kezelője</string>
+    <string name="chooser_title">A(z) &lt;strong>%2$s&lt;/strong> alkalmazással kezelni kívánt %1$s kiválasztása</string>
+    <string name="confirmation_title">A(z) &lt;strong>%1$s&lt;/strong> engedélyezése a(z) &lt;strong>%2$s&lt;/strong> kezelésére</string>
+    <string name="consent_no">Tiltás</string>
+    <string name="consent_yes">Engedélyezés</string>
+    <string name="profile_name_generic">eszköz</string>
+    <string name="profile_name_watch">óra</string>
+    <string name="profile_summary">Szükség van erre az alkalmazásra a következő kezeléséhez: %1$s. %2$s</string>
+</resources>

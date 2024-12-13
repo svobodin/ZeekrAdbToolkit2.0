@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Activity Stub</string>
+    <string name="message_not_supported">يتعذر هذا الإجراء على أي تطبيق.</string>
+    <string name="pip_not_supported">لا تتوفّر ميزة \"نافذة ضمن النافذة\" على هذا الجهاز.</string>
+    <string name="stub_name">بدون</string>
+</resources>

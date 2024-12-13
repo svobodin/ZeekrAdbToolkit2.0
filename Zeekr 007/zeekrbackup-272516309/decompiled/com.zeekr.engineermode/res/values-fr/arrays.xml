@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>Saint-Martin</item>
+        <item>Antilles hollandaises</item>
+        <item>Curaçao</item>
+        <item>Soudan du Sud</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Heure centr. Austr. (Terr. Nord)</item>
+        <item>Heure centr. Austr. (Aus. Mérid.)</item>
+        <item>Heure Est Australie (Queensland)</item>
+        <item>Heure Est Austr. (N-Galles Sud)</item>
+        <item>Heure stand. mont. (Dawson Creek)</item>
+        <item>Heure stand. cent. (Saskatchewan)</item>
+        <item>Heure standard Est (Atikokan)</item>
+        <item>Heure stand. Atlantique (Québec)</item>
+        <item>Heure Hawaï-Aléoutiennes (Hawaï)</item>
+        <item>Heure Hawaï-Aléoutiennes (Alaska)</item>
+        <item>Heure stand. Pacif. (Metlakatla)</item>
+        <item>Heure stand. montagnes (Arizona)</item>
+        <item>Heure Pacifique (Baja California)</item>
+        <item>Heure montagnes (Chihuahua)</item>
+        <item>Heure centr. Mexique (Tamaulipas)</item>
+        <item>Heure montagnes (Sonora)</item>
+        <item>"Heure d'Afrique de l'Est"</item>
+        <item>"Heure standard de l'Atlantique"</item>
+        <item>"Heure standard de l'Atlantique"</item>
+        <item>"Heure d'Europe de l'Est"</item>
+        <item>Heure de Kaliningrad</item>
+        <item>Amazonie – Rondônia</item>
+        <item>Brasilia – Pará</item>
+    </string-array>
+</resources>

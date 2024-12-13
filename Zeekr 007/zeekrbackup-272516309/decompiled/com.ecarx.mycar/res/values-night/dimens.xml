@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="tire_left_margin_start">@dimen/dp_17</item>
+    <item type="dimen" name="tire_right_margin_end">@dimen/dp_17</item>
+</resources>

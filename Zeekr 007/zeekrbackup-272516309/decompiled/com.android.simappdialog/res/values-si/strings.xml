@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sim App Dialog</string>
+    <string name="install_carrier_app_defer_action">දැන් නොවේ</string>
+    <string name="install_carrier_app_description">ඔබේ නව SIM නිසි ලෙස වැඩ කිරීමට, ඔබට %1$s යෙදුම ස්ථාපනය කිරීමට අවශ්‍ය වනු ඇත</string>
+    <string name="install_carrier_app_description_default">ඔබේ නව SIM නිසි ලෙස වැඩ කිරීමට, ඔබට වාහක යෙදුම ස්ථාපනය කිරීමට අවශ්‍ය වනු ඇත</string>
+    <string name="install_carrier_app_download_action">යෙදුම බාගන්න</string>
+    <string name="install_carrier_app_title">ජංගම සේවාව සක්‍රිය කරන්න</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">ආපසු</string>
+    <string name="suw_more_button_label">තවත්</string>
+    <string name="suw_next_button_label">ඊළඟ</string>
+</resources>

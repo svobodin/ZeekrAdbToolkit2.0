@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">আপনার পাসওয়ার্ড লিখে ডায়নামিক সিস্টেম আপডেট করা চালিয়ে যান</string>
+    <string name="notification_action_cancel">বাতিল করুন</string>
+    <string name="notification_action_discard">বাতিল করুন</string>
+    <string name="notification_action_reboot_to_dynsystem">রিস্টার্ট করুন</string>
+    <string name="notification_action_reboot_to_origin">রিস্টার্ট করুন</string>
+    <string name="notification_dynsystem_in_use">বর্তমানে ডায়নামিক সিস্টেম চালানো হচ্ছে। আসল Android ভার্সন ব্যবহার করার জন্য রিস্টার্ট করুন।</string>
+    <string name="notification_image_validation_failed">ইমেজ যাচাই করা যায়নি। ইনস্টলেশন বন্ধ করুন।</string>
+    <string name="notification_install_completed">ডায়নামিক সিস্টেম রেডি হয়ে গেছে। সেটি ব্যবহার করা শুরু করতে আপনার ডিভাইস রিস্টার্ট করুন।</string>
+    <string name="notification_install_failed">ইনস্টল করা যায়নি</string>
+    <string name="notification_install_inprogress">ইনস্টল করা হচ্ছে</string>
+    <string name="toast_dynsystem_discarded">ডায়নামিক সিস্টেম বাতিল করা হয়েছে</string>
+    <string name="toast_failed_to_disable_dynsystem">ডায়নামিক সিস্টেম বন্ধ করা যায়নি</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">ডায়নামিক সিস্টেম রিস্টার্ট বা লোড করা যাচ্ছে না</string>
+</resources>

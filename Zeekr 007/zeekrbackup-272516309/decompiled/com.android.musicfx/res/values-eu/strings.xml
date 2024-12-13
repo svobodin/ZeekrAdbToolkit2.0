@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">Baxuak indartzeko aukera</string>
+    <string name="ci_extreme">FX indartzeko aukera</string>
+    <string name="classical">Klasikoa</string>
+    <string name="dance">Dantza</string>
+    <string name="eq_dialog_title">Ekualizadorea</string>
+    <string name="flat">Laua</string>
+    <string name="folk">Folka</string>
+    <string name="headset_plug">Efektuak entzuteko, konektatu entzungailuak.</string>
+    <string name="heavy_metal">Heavy metal-a</string>
+    <string name="hip_hop">Hip-hopa</string>
+    <string name="jazz">Jazza</string>
+    <string name="no_effects">Efektuak ez daude erabilgarri.</string>
+    <string name="normal">Normala</string>
+    <string name="picker_title">Musika-efektuen kontrol-panela</string>
+    <string name="pop">Popa</string>
+    <string name="rock">Rocka</string>
+    <string name="setup">Konfigurazioa</string>
+    <string name="user">Erabiltzailea</string>
+    <string name="virtualizer_strength">Soinu inguratzailea</string>
+</resources>

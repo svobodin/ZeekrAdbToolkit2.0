@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="certificate_name" />
+    <item type="id" name="certificate_usage" />
+    <item type="id" name="certificate_usage_group" />
+    <item type="id" name="credential_installed_content" />
+    <item type="id" name="credential_password" />
+    <item type="id" name="error" />
+    <item type="id" name="user_certificate" />
+    <item type="id" name="wifi_certificate" />
+    <item type="id" name="wifi_info" />
+</resources>

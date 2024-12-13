@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">"Vols permetre que ^1 suprimeixi ^2 fitxers d'àudio?"</item>
+        <item quantity="one">"Vols permetre que ^1 suprimeixi aquest fitxer d'àudio?"</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">Vols permetre que ^1 suprimeixi ^2 elements?</item>
+        <item quantity="one">Vols permetre que ^1 suprimeixi aquest element?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">Vols permetre que ^1 suprimeixi ^2 fotos?</item>
+        <item quantity="one">Vols permetre que ^1 suprimeixi aquesta foto?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">Vols permetre que ^1 suprimeixi ^2 vídeos?</item>
+        <item quantity="one">Vols permetre que ^1 suprimeixi aquest vídeo?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">^1 elements addicionals més</item>
+        <item quantity="one">^1 element addicional més</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">^1 més</item>
+        <item quantity="one">^1 més</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">"S'estan suprimint ^1 fitxers d'àudio…"</item>
+        <item quantity="one">"S'està suprimint el fitxer d'àudio…"</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">"S'estan suprimint ^1 elements…"</item>
+        <item quantity="one">"S'està suprimint l'element…"</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">"S'estan suprimint ^1 fotos…"</item>
+        <item quantity="one">"S'està suprimint la foto…"</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">"S'estan suprimint ^1 vídeos…"</item>
+        <item quantity="one">"S'està suprimint el vídeo…"</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">"S'estan movent ^1 fitxers d'àudio a la paperera…"</item>
+        <item quantity="one">"S'està movent el fitxer d'àudio a la paperera…"</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">"S'estan movent ^1 elements a la paperera…"</item>
+        <item quantity="one">"S'està movent l'element a la paperera…"</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">"S'estan movent ^1 fotos a la paperera…"</item>
+        <item quantity="one">"S'està movent la foto a la paperera…"</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">"S'estan movent ^1 vídeos a la paperera…"</item>
+        <item quantity="one">"S'està movent el vídeo a la paperera…"</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">"S'estan traient ^1 fitxers d'àudio de la paperera…"</item>
+        <item quantity="one">"S'està traient el fitxer d'àudio de la paperera…"</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">"S'estan traient ^1 elements de la paperera…"</item>
+        <item quantity="one">"S'està traient l'element de la paperera…"</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">"S'estan traient ^1 fotos de la paperera…"</item>
+        <item quantity="one">"S'està traient la foto de la paperera…"</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">"S'estan traient ^1 vídeos de la paperera…"</item>
+        <item quantity="one">"S'està traient el vídeo de la paperera…"</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">"S'estan modificant ^1 fitxers d'àudio…"</item>
+        <item quantity="one">"S'està modificant el fitxer d'àudio…"</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">"S'estan modificant ^1 elements…"</item>
+        <item quantity="one">"S'està modificant l'element…"</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">"S'estan modificant ^1 fotos…"</item>
+        <item quantity="one">"S'està modificant la foto…"</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">"S'estan modificant ^1 vídeos…"</item>
+        <item quantity="one">"S'està modificant el vídeo…"</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">"Vols permetre que ^1 mogui ^2 fitxers d'àudio a la paperera?"</item>
+        <item quantity="one">"Vols permetre que ^1 mogui aquest fitxer d'àudio a la paperera?"</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">Vols permetre que ^1 mogui ^2 elements a la paperera?</item>
+        <item quantity="one">Vols permetre que ^1 mogui aquest element a la paperera?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">Vols permetre que ^1 mogui ^2 fotos a la paperera?</item>
+        <item quantity="one">Vols permetre que ^1 mogui aquesta foto a la paperera?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">Vols permetre que ^1 mogui ^2 vídeos a la paperera?</item>
+        <item quantity="one">Vols permetre que ^1 mogui aquest vídeo a la paperera?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">"Vols permetre que ^1 tregui ^2 fitxers d'àudio de la paperera?"</item>
+        <item quantity="one">"Vols permetre que ^1 tregui aquest fitxer d'àudio de la paperera?"</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">Vols permetre que ^1 tregui ^2 elements de la paperera?</item>
+        <item quantity="one">Vols permetre que ^1 tregui aquest element de la paperera?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">Vols permetre que ^1 tregui ^2 fotos de la paperera?</item>
+        <item quantity="one">Vols permetre que ^1 tregui aquesta foto de la paperera?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">Vols permetre que ^1 tregui ^2 vídeos de la paperera?</item>
+        <item quantity="one">Vols permetre que ^1 tregui aquest vídeo de la paperera?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">"Vols permetre que ^1 modifiqui ^2 fitxers d'àudio?"</item>
+        <item quantity="one">"Vols permetre que ^1 modifiqui aquest fitxer d'àudio?"</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">Vols permetre que ^1 modifiqui ^2 elements?</item>
+        <item quantity="one">Vols permetre que ^1 modifiqui aquest element?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">Vols permetre que ^1 modifiqui ^2 fotos?</item>
+        <item quantity="one">Vols permetre que ^1 modifiqui aquesta foto?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">Vols permetre que ^1 modifiqui ^2 vídeos?</item>
+        <item quantity="one">Vols permetre que ^1 modifiqui aquest vídeo?</item>
+    </plurals>
+</resources>

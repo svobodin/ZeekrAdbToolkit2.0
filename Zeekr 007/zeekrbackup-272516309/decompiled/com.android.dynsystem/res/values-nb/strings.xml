@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">Skriv inn passordet ditt, og fortsett til dynamiske systemoppdateringer</string>
+    <string name="notification_action_cancel">Avbryt</string>
+    <string name="notification_action_discard">Forkast</string>
+    <string name="notification_action_reboot_to_dynsystem">Start på nytt</string>
+    <string name="notification_action_reboot_to_origin">Start på nytt</string>
+    <string name="notification_dynsystem_in_use">Kjører et dynamisk system nå. Start på nytt for å bruke den opprinnelige Android-versjonen.</string>
+    <string name="notification_image_validation_failed">Kunne ikke validere diskbildet. Avbryt installeringen.</string>
+    <string name="notification_install_completed">Det dynamiske systemet er klart. Start enheten din på nytt for å begynne å bruke det.</string>
+    <string name="notification_install_failed">Installeringen mislyktes</string>
+    <string name="notification_install_inprogress">Installeringen pågår</string>
+    <string name="toast_dynsystem_discarded">Det dynamiske systemet er forkastet</string>
+    <string name="toast_failed_to_disable_dynsystem">Kunne ikke slå av det dynamiske systemet</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Det dynamiske systemet kan ikke startes på nytt eller lastes inn</string>
+</resources>

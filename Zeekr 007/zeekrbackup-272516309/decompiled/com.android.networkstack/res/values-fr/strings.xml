@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Gestionnaire de réseaux</string>
+    <string name="connected">Connecté</string>
+    <string name="notification_channel_description_connected">"Notifications affichées lorsque l'appareil a bien été connecté et authentifié sur un réseau avec portail captif"</string>
+    <string name="notification_channel_description_network_venue_info">"Notifications affichées pour indiquer que le réseau comporte une page d'informations sur le lieu auquel il est associé"</string>
+    <string name="notification_channel_name_connected">Authentification sur le portail captif</string>
+    <string name="notification_channel_name_network_venue_info">Informations sur un lieu lié au réseau</string>
+    <string name="tap_for_info">Connecté/Appuyer pour afficher le site Web</string>
+</resources>

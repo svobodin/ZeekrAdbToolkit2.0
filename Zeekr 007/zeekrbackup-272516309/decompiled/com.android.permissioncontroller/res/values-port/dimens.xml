@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="car_ui_app_styled_dialog_height_max">1056.0dip</dimen>
+    <dimen name="car_ui_app_styled_dialog_width_max">768.0dip</dimen>
+</resources>

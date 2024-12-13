@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">Zasoby systemowe dotyczące łączności</string>
+    <string name="mobile_no_internet">Sieć komórkowa nie ma dostępu do internetu</string>
+    <string name="network_available_sign_in">Zaloguj się do sieci</string>
+    <string name="network_partial_connectivity">%1$s ma ograniczoną łączność</string>
+    <string name="network_partial_connectivity_detailed">Kliknij, by mimo to nawiązać połączenie</string>
+    <string name="network_switch_metered">Zmieniono na połączenie typu %1$s</string>
+    <string name="network_switch_metered_detail">Urządzenie korzysta z połączenia typu %1$s, gdy %2$s nie dostępu do internetu. Mogą zostać naliczone opłaty.</string>
+    <string name="network_switch_metered_toast">Przełączono z połączenia typu %1$s na %2$s.</string>
+    <string name="network_switch_type_name_unknown">nieznany typ sieci</string>
+    <string name="other_networks_no_internet">Sieć nie ma dostępu do internetu</string>
+    <string name="private_dns_broken_detailed">Brak dostępu do prywatnego serwera DNS</string>
+    <string name="wifi_available_sign_in">Zaloguj się w sieci Wi-Fi</string>
+    <string name="wifi_no_internet">%1$s nie ma dostępu do internetu</string>
+    <string name="wifi_no_internet_detailed">Kliknij, by wyświetlić opcje</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="generic_cancel">අවලංගු කර.</string>
+    <string name="generic_yes">ඔව්</string>
+    <string name="current_permission_template">%1$s / %2$s</string>
+    <string name="grant_dialog_button_deny_dont_ask_again">ප්‍රතික්ෂේප කරන්න, නැවත අසන්න එපා</string>
+    <string name="preference_show_system_apps">පද්ධති යෙදුම් පෙන්වන්න</string>
+    <string name="permission_summary_enforced_by_policy">වෙනස් කළ නොහැකිය</string>
+</resources>

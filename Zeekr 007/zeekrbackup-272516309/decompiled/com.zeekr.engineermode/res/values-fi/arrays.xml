@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>Sint Maarten</item>
+        <item>Alankomaiden Karibian saaret</item>
+        <item>Curaçao</item>
+        <item>Etelä-Sudan</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Keski-Australian aika – NT</item>
+        <item>Keski-Australian aika – SA</item>
+        <item>Itä-Australian aika – QLD</item>
+        <item>Itä-Australian aika – NSW</item>
+        <item>Kalliovuoret – Dawson Creek</item>
+        <item>Keskinen norm. – Saskatchewan</item>
+        <item>Itäinen normaaliaika – Atikokan</item>
+        <item>Atlantin normaaliaika – Quebec</item>
+        <item>Hawaiji ja Aleutit – Havaiji</item>
+        <item>Hawaiji ja Aleutit – Alaska</item>
+        <item>Tyynenmeren norm. – Metlakatla</item>
+        <item>Kalliovuort. norm.aika – Arizona</item>
+        <item>Tyynimeri – Baja California</item>
+        <item>Kalliovuoret – Chihuahua</item>
+        <item>Keskinen – Tamaulipas</item>
+        <item>Kalliovuoret – Sonora</item>
+        <item>Itä-Afrikan aika</item>
+        <item>Kanadan Atlantin normaaliaika</item>
+        <item>Kanadan Atlantin normaaliaika</item>
+        <item>Itä-Euroopan aika</item>
+        <item>Kaliningradin aika</item>
+        <item>Amazon – Rondônia</item>
+        <item>Brasilia – Pará</item>
+    </string-array>
+</resources>

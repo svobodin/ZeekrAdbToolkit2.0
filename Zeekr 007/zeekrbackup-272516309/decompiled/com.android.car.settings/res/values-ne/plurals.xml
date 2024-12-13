@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">क्यामेरा एपहरू</item>
+        <item quantity="one">क्यामेरा एप</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">इमेल क्लाइन्ट एपहरू</item>
+        <item quantity="one">इमेल क्लाइन्ट एप</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">फोन एपहरू</item>
+        <item quantity="one">फोन एप</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d औँ प्रयास</item>
+        <item quantity="one">%d औँ प्रयास</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d वटा एप</item>
+        <item quantity="one">%d एप</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">न्यूनतम %d वटा एप</item>
+        <item quantity="one">न्यूनतम %d वटा एप</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d नयाँ सूचनाहरू</item>
+        <item quantity="one">%d नयाँ सूचना</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d डिभाइस कनेक्ट गरिएको छ</item>
+        <item quantity="one">%1$d यन्त्र जडान गरियो</item>
+    </plurals>
+</resources>

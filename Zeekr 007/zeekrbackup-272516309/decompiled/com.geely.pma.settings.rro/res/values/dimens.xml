@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="energy_rear_plug_margin_end">70.0dip</dimen>
+    <dimen name="energy_rear_plug_margin_top">313.0dip</dimen>
+</resources>

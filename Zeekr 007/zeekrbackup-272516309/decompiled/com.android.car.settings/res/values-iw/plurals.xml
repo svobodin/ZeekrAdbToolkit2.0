@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">אפליקציות מצלמה</item>
+        <item quantity="one">אפליקציית מצלמה</item>
+        <item quantity="two">אפליקציות מצלמה</item>
+        <item quantity="many">אפליקציות מצלמה</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">אפליקציות של תוכנת אימייל</item>
+        <item quantity="one">אפליקציה של תוכנת אימייל</item>
+        <item quantity="two">אפליקציות של תוכנת אימייל</item>
+        <item quantity="many">אפליקציות של תוכנת אימייל</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">אפליקציות טלפון</item>
+        <item quantity="one">אפליקציית טלפון</item>
+        <item quantity="two">אפליקציות טלפון</item>
+        <item quantity="many">אפליקציות טלפון</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d ניסיונות</item>
+        <item quantity="one">ניסיון אחד (%d)</item>
+        <item quantity="two">%d ניסיונות</item>
+        <item quantity="many">%d ניסיונות</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d אפליקציות</item>
+        <item quantity="one">אפליקציה אחת (%d)</item>
+        <item quantity="two">%d אפליקציות</item>
+        <item quantity="many">%d אפליקציות</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">לפחות %d אפליקציות</item>
+        <item quantity="one">אפליקציה אחת (%d) לפחות</item>
+        <item quantity="two">לפחות %d אפליקציות</item>
+        <item quantity="many">לפחות %d אפליקציות</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d התראות חדשות</item>
+        <item quantity="one">התראה חדשה אחת (%d)</item>
+        <item quantity="two">%d התראות חדשות</item>
+        <item quantity="many">%d התראות חדשות</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">‏%1$d מכשירים מחוברים</item>
+        <item quantity="one">מכשיר אחד מחובר</item>
+        <item quantity="two">‏%1$d מכשירים מחוברים</item>
+        <item quantity="many">‏%1$d מכשירים מחוברים</item>
+    </plurals>
+</resources>

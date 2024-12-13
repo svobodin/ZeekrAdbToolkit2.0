@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SIM kartes lietotnes dialoglodziņš</string>
+    <string name="install_carrier_app_defer_action">Vēlāk</string>
+    <string name="install_carrier_app_description">Lai jaunā SIM karte darbotos pareizi, jums būs jāinstalē lietotne %1$s.</string>
+    <string name="install_carrier_app_description_default">Lai jaunā SIM karte darbotos pareizi, jums būs jāinstalē mobilo sakaru operatora lietotne.</string>
+    <string name="install_carrier_app_download_action">Lejupielādēt lietotni</string>
+    <string name="install_carrier_app_title">Aktivizējiet mobilo pakalpojumu</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Atpakaļ</string>
+    <string name="suw_more_button_label">Vairāk</string>
+    <string name="suw_next_button_label">Tālāk</string>
+</resources>

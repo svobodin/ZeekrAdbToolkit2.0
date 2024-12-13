@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="id" name="loading" id="0x7f010000" />
+    <public type="id" name="webview" id="0x7f010001" />
+    <public type="layout" name="main" id="0x7f020000" />
+    <public type="layout" name="main_car" id="0x7f020001" />
+    <public type="string" name="app_label" id="0x7f030000" />
+    <public type="string" name="cannot_open_link" id="0x7f030001" />
+    <public type="string" name="turn_on_storage_permission" id="0x7f030002" />
+</resources>

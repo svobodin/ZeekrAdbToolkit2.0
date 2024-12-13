@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.AppCompat" parent="@style/Base.V26.Theme.AppCompat" />
+    <style name="Base.Theme.AppCompat.Light" parent="@style/Base.V26.Theme.AppCompat.Light" />
+    <style name="Base.Widget.AppCompat.Toolbar" parent="@style/Base.V26.Widget.AppCompat.Toolbar" />
+    <style name="BottomDialogStyle" parent="@style/Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:backgroundDimAmount">0.6</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowEnterAnimation">@anim/dialog_bottom_in</item>
+        <item name="android:windowExitAnimation">@anim/dialog_bottom_out</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Widget.Design.AppBarLayout" parent="@android:style/Widget">
+        <item name="android:background">?colorPrimary</item>
+        <item name="android:stateListAnimator">@animator/design_appbar_state_list_animator</item>
+        <item name="android:touchscreenBlocksFocus">true</item>
+        <item name="android:keyboardNavigationCluster">true</item>
+    </style>
+    <style name="colorTabLayout">
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_width">@dimen/px104</item>
+        <item name="android:layout_height">@dimen/px52</item>
+        <item name="android:layout_marginTop">@dimen/px6</item>
+        <item name="android:layout_marginBottom">@dimen/px6</item>
+        <item name="android:defaultFocusHighlightEnabled">false</item>
+    </style>
+    <style name="commonButtonStyle">
+        <item name="android:textSize">@dimen/px32</item>
+        <item name="android:textColor">@color/cl_white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/bg_common_button</item>
+        <item name="android:layout_width">@dimen/px408</item>
+        <item name="android:layout_height">@dimen/px103</item>
+        <item name="android:defaultFocusHighlightEnabled">false</item>
+    </style>
+    <style name="commonButtonStyleDialog">
+        <item name="android:textSize">@dimen/px24</item>
+        <item name="android:textColor">@color/cl_white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/bg_common_button</item>
+        <item name="android:layout_width">@dimen/px408</item>
+        <item name="android:layout_height">@dimen/px64</item>
+        <item name="android:defaultFocusHighlightEnabled">false</item>
+    </style>
+    <style name="commonButtonStyleUnable">
+        <item name="android:textSize">@dimen/px32</item>
+        <item name="android:textColor">#ff383a3d</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/bg_common_button_unable</item>
+        <item name="android:layout_width">@dimen/px400</item>
+        <item name="android:layout_height">@dimen/px96</item>
+        <item name="android:defaultFocusHighlightEnabled">false</item>
+    </style>
+    <style name="commonButtonStyleUnableDialog">
+        <item name="android:textSize">@dimen/px24</item>
+        <item name="android:textColor">#ff383a3d</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/bg_dialog_common_button_unable</item>
+        <item name="android:layout_width">@dimen/px408</item>
+        <item name="android:layout_height">@dimen/px64</item>
+        <item name="android:defaultFocusHighlightEnabled">false</item>
+    </style>
+    <style name="dialogSegmentText">
+        <item name="android:textSize">@dimen/px20</item>
+        <item name="android:textColor">@color/segment_default_text_color</item>
+        <item name="android:gravity">center</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_width">@dimen/px168</item>
+        <item name="android:layout_height">@dimen/px66</item>
+        <item name="android:layout_marginTop">@dimen/px19</item>
+        <item name="android:layout_marginBottom">@dimen/px19</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:defaultFocusHighlightEnabled">false</item>
+    </style>
+    <style name="keyCustomInjectLayoutRight">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:focusable">true</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_below">@id/title_view</item>
+        <item name="android:layout_marginStart">@dimen/px24</item>
+        <item name="android:defaultFocusHighlightEnabled">false</item>
+    </style>
+    <style name="layoutGamepadSetting">
+        <item name="android:background">@drawable/bg_gamepad_setting_item</item>
+        <item name="android:focusable">true</item>
+        <item name="android:layout_width">@dimen/px320</item>
+        <item name="android:layout_height">@dimen/px100</item>
+        <item name="android:layout_marginTop">@dimen/px48</item>
+        <item name="android:paddingStart">@dimen/px16</item>
+        <item name="android:paddingEnd">@dimen/px40</item>
+        <item name="android:layout_marginStart">@dimen/px24</item>
+        <item name="android:layout_marginEnd">@dimen/px24</item>
+        <item name="android:elevation">@dimen/px4</item>
+        <item name="android:defaultFocusHighlightEnabled">false</item>
+    </style>
+    <style name="segmentText">
+        <item name="android:textSize">@dimen/px32</item>
+        <item name="android:textColor">@color/segment_text_color</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">@dimen/px208</item>
+        <item name="android:layout_height">@dimen/px54</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_marginStart">@dimen/px6</item>
+        <item name="android:defaultFocusHighlightEnabled">false</item>
+    </style>
+    <style name="Base.V26.Theme.AppCompat" parent="@style/Base.V23.Theme.AppCompat">
+        <item name="colorError">?android:colorError</item>
+    </style>
+    <style name="Base.V26.Theme.AppCompat.Light" parent="@style/Base.V23.Theme.AppCompat.Light">
+        <item name="colorError">?android:colorError</item>
+    </style>
+    <style name="Base.V26.Widget.AppCompat.Toolbar" parent="@style/Base.V7.Widget.AppCompat.Toolbar">
+        <item name="android:touchscreenBlocksFocus">true</item>
+        <item name="android:keyboardNavigationCluster">true</item>
+    </style>
+</resources>

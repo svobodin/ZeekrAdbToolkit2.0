@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="owner_name">راننده</string>
+    <string name="permlab_accessCoarseLocation">دسترسی به مکان تقریبی فقط در پیش‌زمینه</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">روشن کردن میکروفون</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="disable_tether_notification_message">ವಿವರಗಳಿಗಾಗಿ ನಿಮ್ಮ ನಿರ್ವಾಹಕರನ್ನು ಸಂಪರ್ಕಿಸಿ</string>
+    <string name="disable_tether_notification_title">ಟೆಥರಿಂಗ್ ಅನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ</string>
+    <string name="no_upstream_notification_disable_button" />
+    <string name="no_upstream_notification_message" />
+    <string name="no_upstream_notification_title" />
+    <string name="notification_channel_tethering_status">ಹಾಟ್‌ಸ್ಪಾಟ್ ಮತ್ತು ಟೆಥರಿಂಗ್‌ ಸ್ಥಿತಿ</string>
+    <string name="tethered_notification_message">ಸೆಟಪ್ ಮಾಡಲು ಟ್ಯಾಪ್ ಮಾಡಿ.</string>
+    <string name="tethered_notification_title">ಟೆಥರಿಂಗ್ ಅಥವಾ ಹಾಟ್‌ಸ್ಪಾಟ್ ಸಕ್ರಿಯವಾಗಿದೆ</string>
+    <string name="upstream_roaming_notification_message" />
+    <string name="upstream_roaming_notification_title" />
+</resources>

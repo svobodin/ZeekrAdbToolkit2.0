@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">כניסה לרשת</string>
+    <string name="action_bar_title">‏כניסה אל %1$s</string>
+    <string name="action_do_not_use_network">לא להשתמש ברשת הזו</string>
+    <string name="action_use_network">שימוש ברשת הזו כפי שהיא</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">התראות שמוצגת בהן ההתקדמות של הורדות קבצים</string>
+    <string name="channel_description_downloads">התראות שמוצגות בהן הורדות שהושלמו או בוטלו</string>
+    <string name="channel_name_download_progress">התקדמות ההורדה</string>
+    <string name="channel_name_downloads">הורדות</string>
+    <string name="custom_scheme_example">לדוגמה, ייתכן שבדף ההתחברות יהיה צורך באפליקציה מסוימת לאימות</string>
+    <string name="custom_scheme_warning">הרשת שניסית להתחבר אליה מבקשת לפתוח אפליקציה אחרת.</string>
+    <string name="download_completed">ההורדה הושלמה</string>
+    <string name="downloading_paramfile">‏מתבצעת הורדה של %1$s</string>
+    <string name="error_continue_via_browser">להמשיך בכל זאת באמצעות דפדפן</string>
+    <string name="error_downloading_paramfile">‏לא ניתן היה להוריד את %1$s</string>
+    <string name="no_bypass_error_vpnwarning">‏בנוסף, אי אפשר לעקוף את השגיאה הזו מפני שהמכשיר מריץ עכשיו VPN.</string>
+    <string name="ok">אישור</string>
+    <string name="page_info">פרטי דף</string>
+    <string name="page_info_address">כתובת:</string>
+    <string name="ssl_error_date_invalid">לאישור זה יש תאריך בלתי חוקי.</string>
+    <string name="ssl_error_example">לדוגמה, ייתכן שדף ההתחברות אינו שייך לארגון המוצג.</string>
+    <string name="ssl_error_expired">פג התוקף של האישור הזה.</string>
+    <string name="ssl_error_invalid">האישור הזה לא חוקי.</string>
+    <string name="ssl_error_mismatch">שם האתר לא תואם לשם באישור.</string>
+    <string name="ssl_error_not_yet_valid">האישור הזה אינו חוקי עדיין.</string>
+    <string name="ssl_error_unknown">שגיאת אישור לא ידועה.</string>
+    <string name="ssl_error_untrusted">האישור הזה לא התקבל מרשות אמינה.</string>
+    <string name="ssl_error_view_certificate">הצגת אישור</string>
+    <string name="ssl_error_warning">יש בעיות אבטחה ברשת שאליה בחרת להתחבר.</string>
+    <string name="ssl_security_warning_title">אזהרת אבטחה</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jardueren stub-a</string>
+    <string name="message_not_supported">Ez dago hori egin dezakeen aplikaziorik</string>
+    <string name="pip_not_supported">Gailu honek ez du onartzen pantaila txiki gainjarria</string>
+    <string name="stub_name">Bat ere ez</string>
+</resources>

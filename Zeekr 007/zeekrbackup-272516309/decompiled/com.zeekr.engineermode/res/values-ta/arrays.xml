@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>செயின்ட் மார்ட்டீன்</item>
+        <item>கரீபியன் நெதர்லாந்து</item>
+        <item>க்யூராகோ</item>
+        <item>தெற்கு சூடான்</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>ஆஸ்திரேலியன் மத்திய நேரம் - NT</item>
+        <item>ஆஸ்திரேலியன் மத்திய நேரம் - SA</item>
+        <item>ஆஸ்திரேலியன் ஈஸ்டர்ன் நேரம் - QLD</item>
+        <item>ஆஸ்திரேலியன் ஈஸ்டர்ன் நேரம் - NSW</item>
+        <item>மவுண்டன் தர நேரம் - டாவ்சன் கிரீக்</item>
+        <item>சென்ட்ரல் தர நேரம் - சாஸ்கட்சுவான்</item>
+        <item>ஈஸ்டர்ன் தர நேரம் - அட்டிகோகன்</item>
+        <item>அட்லாண்டிக் தர நேரம் - கியூபெக்</item>
+        <item>ஹவாய் அலெசுயன் நேரம் - ஹவாய்</item>
+        <item>ஹவாய் அலெசுயன் - அலாஸ்கா</item>
+        <item>பசிபிக் தர நேரம் - மெட்லகேட்லா</item>
+        <item>மவுண்டன் தர நேரம் - அரிசோனா</item>
+        <item>பசிபிக் - பஜா கலிபோர்னியா</item>
+        <item>மவுண்டன் - சிஹூவாஹுவா</item>
+        <item>சென்ட்ரல் - டமுலிபஸ்</item>
+        <item>மவுண்டன் - சோனாரா</item>
+        <item>கிழக்கு ஆஃப்ரிக்க நேரம்</item>
+        <item>அட்லாண்டிக் தர நேரம்</item>
+        <item>அட்லாண்டிக் தர நேரம்</item>
+        <item>ஈஸ்டர்ன் ஐரோப்பிய நேரம்</item>
+        <item>கலினின்கிராடு நேரம்</item>
+        <item>அமேசான் - ரான்டோனியா</item>
+        <item>பிரேசிலியா - பெரா</item>
+    </string-array>
+</resources>

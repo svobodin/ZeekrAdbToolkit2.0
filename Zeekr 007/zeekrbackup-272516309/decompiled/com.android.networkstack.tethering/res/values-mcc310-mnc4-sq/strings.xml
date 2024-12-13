@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Çaktivizo ndarjen e internetit</string>
+    <string name="no_upstream_notification_message">Pajisjet nuk mund të lidhen</string>
+    <string name="no_upstream_notification_title">Ndarja e internetit nuk ka internet</string>
+    <string name="upstream_roaming_notification_message">Mund të zbatohen tarifime shtesë kur je në roaming</string>
+    <string name="upstream_roaming_notification_title">Zona e qasjes për internet ose ndarja e internetit është aktive</string>
+</resources>

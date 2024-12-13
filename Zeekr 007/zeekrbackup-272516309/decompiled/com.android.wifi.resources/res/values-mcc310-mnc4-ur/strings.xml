@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">‏%1$s : آپ Verizon کوریج علاقہ کے باہر سے Verizon Wi-Fi رسائی کے لیے منسلک نہیں کر سکتے ہیں۔</string>
+    <string name="wifi_eap_error_message_code_32761">‏%1$s : آپ Verizon Wi-Fi رسائی کے رکن نہیں ہیں۔ براہ کرم ہمیں 0204-922-800 پر کال کریں۔</string>
+    <string name="wifi_eap_error_message_code_32762">‏%1$s : آپ کے Verizon Wi-Fi رسائی اکاؤنٹ کے ساتھ ایک مسئلہ ہے۔ براہ کرم ہمیں 0204-922-800 پر کال کریں۔</string>
+    <string name="wifi_eap_error_message_code_32763">‏%1$s : آپ پہلے سے ہی Verizon Wi-Fi رسائی سے منسلک ہیں۔</string>
+    <string name="wifi_eap_error_message_code_32764">‏%1$s : آپ کو Verizon Wi-Fi رسائی سے منسلک ہونے میں ایک مسئلہ ہے۔ براہ کرم ہمیں 0204-922-800 پر کال کریں۔</string>
+    <string name="wifi_eap_error_message_code_32765">‏%1$s : آپ کے Verizon Wi-Fi رسائی اکاؤنٹ کے ساتھ ایک مسئلہ ہے۔ براہ کرم ہمیں 0204-922-800 پر کال کریں۔</string>
+    <string name="wifi_eap_error_message_code_32766">‏%1$s : Verizon Wi-Fi رسائی آپ کے مقام سے دستیاب نہیں ہے۔ بعد میں دوبارہ کوشش کریں یا دوسرے مقام سے کوشش کر کے دیکھیں۔</string>
+</resources>

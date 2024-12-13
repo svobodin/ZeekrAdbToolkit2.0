@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>Сінт-Мартен</item>
+        <item>Карыбскія Нідэрланды</item>
+        <item>Кюрасаа</item>
+        <item>Паўднёвы Судан</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Аўстралійскі цэнтральны час - NT</item>
+        <item>Аўстралійскі цэнтральны час - SA</item>
+        <item>Усходнеаўстрал. час - Квінсленд</item>
+        <item>Ўсходнеаўстралійскі час - NSW</item>
+        <item>Горны стандарт. час - Досан-Крык</item>
+        <item>Цэнтр. стандарт. час - Саскачэван</item>
+        <item>Усходні стандарт. час - Ацікакан</item>
+        <item>Атлантычны станд. час - Квебек</item>
+        <item>Гавайска-алеуцкі час - Гаваі</item>
+        <item>Гавайска-алеуцкі час - Аляска</item>
+        <item>Стандартны ціхаакіянскі час - Метлакатла</item>
+        <item>Горны стандартны час - Арызона</item>
+        <item>Ціхаакіянскі час - Баха Каліфорнія</item>
+        <item>Горны час - Чыўаўа</item>
+        <item>Цэнтральны час - Тамаулипас</item>
+        <item>Горны час - Санора</item>
+        <item>Усходнеафрыканскі час</item>
+        <item>Атлантычны стандартны час</item>
+        <item>Атлантычны стандартны час</item>
+        <item>Усходнееўрапейскі час</item>
+        <item>Калінінградскі час</item>
+        <item>Амазонка – Рандонія</item>
+        <item>Бразіліа - Пара</item>
+    </string-array>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s : Det går inte att ansluta till Verizon wifi Access om du befinner dig utanför Verizons täckningsområde.</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s : Du prenumererar inte på Verizon wifi Access. Ring oss på 800 922 0204.</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s : Ett fel har uppstått i Verizon wifi Access-kontot. Ring oss på 800 922 0204.</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s : Du är redan ansluten till Verizon wifi Access.</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s : Det gick inte att ansluta till Verizon wifi Access. Ring oss på 800 922 0204.</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s : Ett fel har uppstått i Verizon wifi Access-kontot. Ring oss på 800 922 0204.</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s : Verizon wifi Access är inte tillgängligt där du befinner dig. Försök igen senare eller anslut från en annan plats.</string>
+</resources>

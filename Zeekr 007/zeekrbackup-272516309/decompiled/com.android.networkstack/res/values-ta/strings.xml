@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">நெட்வொர்க் நிர்வாகி</string>
+    <string name="connected">இணைக்கப்பட்டது</string>
+    <string name="notification_channel_description_connected">கேப்டிவ் போர்டல் நெட்வொர்க்கில் சாதனம் வெற்றிகரமாக அங்கீகரிக்கப்பட்டதும் அறிவிப்புகள் காட்டப்படும்</string>
+    <string name="notification_channel_description_network_venue_info">நெட்வொர்க்கிற்கு முகவரித் தகவல் பக்கம் இருப்பதைக் குறிப்பிட அறிவிப்புகள் காட்டப்படும்</string>
+    <string name="notification_channel_name_connected">கேப்டிவ் போர்டல் அங்கீகரிப்பு</string>
+    <string name="notification_channel_name_network_venue_info">நெட்வொர்க் முகவரித் தகவல்</string>
+    <string name="tap_for_info">இணைக்கப்பட்டுள்ளது/இணையதளத்தைப் பார்க்க, தட்டவும்</string>
+</resources>

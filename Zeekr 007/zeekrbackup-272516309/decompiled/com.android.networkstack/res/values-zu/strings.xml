@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Umphathi wenethiwekhi</string>
+    <string name="connected">Ixhunyiwe</string>
+    <string name="notification_channel_description_connected">Izaziso eziboniswa lapho idivayisi igunyazwe ngokuphumelelayo kunethiwekhi yephothali yabathunjiweyo</string>
+    <string name="notification_channel_description_network_venue_info">Izaziso eziboniswa ukubonisa ukuthi inethiwekhi inekhasi lolwazi lwendawo</string>
+    <string name="notification_channel_name_connected">Ukugunyaza iphothali yabathunjiweyo</string>
+    <string name="notification_channel_name_network_venue_info">Ulwazi lwendawo yenethiwekhi</string>
+    <string name="tap_for_info">Ixhunyiwe / Thepha ukuze ubuke iwebhusayithi</string>
+</resources>

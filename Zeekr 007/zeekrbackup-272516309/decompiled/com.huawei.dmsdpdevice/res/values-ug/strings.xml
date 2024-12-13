@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Screen_notification_text">قۇلۇپ ئېچىپ ئىشلىتىڭ.</string>
+    <string name="Screen_notification_title">‏%s كامېرا ئىشلەتمەكچى</string>
+    <string name="accessibility_back_preview">ئارقا كامېرادىن كۆرەك</string>
+    <string name="accessibility_falsh_mode_off">چىراق ئېتىك</string>
+    <string name="accessibility_falsh_mode_torch">چىراق ئىزچىل ئوچۇق</string>
+    <string name="accessibility_front_preview">ئالدى كامېرادىن كۆرەك</string>
+    <string name="accessibility_stop_sharing_to_source">كامېرا ئورتاقلىشىشنى توختىتىش</string>
+    <string name="app_name_for_libdmsdpcamera">تارقاق كامېرا</string>
+    <string name="capsule_dialog_content">كامېرا %s بىلەن ئۇلاندى.</string>
+    <string name="capsule_dialog_negative_btn">ئۈزۈش</string>
+    <string name="lens_wide">كەڭ بۇلۇڭ</string>
+    <string name="notification_content_text">بۇ ئۈسكۈنە كامېراسىنى %s ئىشلەتمەكچى. قۇلۇپ ئاچسىڭىز ئورتاقلىنىدۇ.</string>
+    <string name="notification_content_theme">تارقاق ئۈسكۈنە باشقۇرۇش</string>
+    <string name="notification_content_title">ئۈسكۈنە ئۇلىنىشى</string>
+    <string name="permission_dialog_content">بۇ ئۈسكۈنە كامېراسىنى %s ئىشلەتمەكچى. رۇخسەتمۇ؟</string>
+    <string name="permission_dialog_hint">بۇ ئىجازەت كامېرا ئورتاقلىشىش ئۈچۈن ئىشلىتىلىدۇ.</string>
+    <string name="permission_dialog_negative_btn">چەكلەش</string>
+    <string name="res_allow">رۇخسەت</string>
+    <string name="res_cancel">بىكار قىلىش</string>
+    <string name="res_ok">جەزملەش</string>
+    <string name="res_reject">چەكلەش (%s)</string>
+    <string name="res_stop_use_camera">كامېرا ئىشلىتىشنى توختىتامسىز؟</string>
+    <string name="res_toast">نۆۋەتتە %s كامېرا ئىشلىتىشنى توختاتتى.</string>
+    <string name="sink_back_to_desktop">ئۈستەليۈزىگە قايتىش</string>
+    <string name="sink_stop_sharing">ئورتاقلىشىشنى توختىتىش</string>
+    <string name="sink_stop_sharing_or_not">‏%1$s بىلەن كامېرا ئورتاقلىشىشنى توختىتامسىز؟</string>
+    <string name="source_connection_service_exception">ئۈسكۈنە ئۈزۈك، قايتا ئۇلاڭ.</string>
+    <string name="source_sharing_status_text">كامېرا %1$s بىلەن ئورتاقلاندى</string>
+    <string name="source_stop_sharing_tip">‏%1$s بۇ ئۈسكۈنە كامېراسىنى ئىشلىتىشنى توختاتتى.</string>
+</resources>

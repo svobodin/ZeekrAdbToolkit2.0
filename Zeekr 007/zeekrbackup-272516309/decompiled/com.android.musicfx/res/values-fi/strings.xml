@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">Basson tehostus</string>
+    <string name="ci_extreme">FX booster</string>
+    <string name="classical">Klassinen</string>
+    <string name="dance">Dance</string>
+    <string name="eq_dialog_title">Taajuuskorjain</string>
+    <string name="flat">Tasainen</string>
+    <string name="folk">Folk</string>
+    <string name="headset_plug">Liitä kuulokkeet kuullaksesi tehosteet.</string>
+    <string name="heavy_metal">Hevimetalli</string>
+    <string name="hip_hop">Hiphop</string>
+    <string name="jazz">Jazz</string>
+    <string name="no_effects">Tehosteet eivät ole käytettävissä.</string>
+    <string name="normal">Normaali</string>
+    <string name="picker_title">Musiikkitehoste-ohjauspaneeli</string>
+    <string name="pop">Pop</string>
+    <string name="rock">Rock</string>
+    <string name="setup">Käyttöönotto</string>
+    <string name="user">Käyttäjä</string>
+    <string name="virtualizer_strength">Surround-ääni</string>
+</resources>

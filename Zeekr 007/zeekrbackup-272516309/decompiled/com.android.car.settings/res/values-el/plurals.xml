@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">Εφαρμογές κάμερας</item>
+        <item quantity="one">Εφαρμογή κάμερας</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">Εφαρμογές πελάτες ηλεκτρονικού ταχυδρομείου</item>
+        <item quantity="one">Εφαρμογή πελάτης ηλεκτρονικού ταχυδρομείου</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">Εφαρμογές τηλεφώνου</item>
+        <item quantity="one">Εφαρμογή τηλεφώνου</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d προσπάθειες</item>
+        <item quantity="one">%d προσπάθεια</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d εφαρμογές</item>
+        <item quantity="one">%d εφαρμογή</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">Τουλάχιστον σε %d εφαρμογές</item>
+        <item quantity="one">Τουλάχιστον σε %d εφαρμογή</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d νέες ειδοποιήσεις</item>
+        <item quantity="one">%d νέα ειδοποίηση</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d συσκευές συνδέθηκαν</item>
+        <item quantity="one">%1$d συσκευή συνδέθηκε</item>
+    </plurals>
+</resources>

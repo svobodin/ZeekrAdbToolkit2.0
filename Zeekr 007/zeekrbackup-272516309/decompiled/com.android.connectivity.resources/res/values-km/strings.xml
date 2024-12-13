@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">ធនធាន​តភ្ជាប់​ប្រព័ន្ធ</string>
+    <string name="mobile_no_internet">បណ្ដាញ​ទូរសព្ទ​ចល័ត​មិនមានការតភ្ជាប់​អ៊ីនធឺណិតទេ</string>
+    <string name="network_available_sign_in">ចូលទៅបណ្តាញ</string>
+    <string name="network_partial_connectivity">%1$s មានការតភ្ជាប់​មានកម្រិត</string>
+    <string name="network_partial_connectivity_detailed">មិន​អី​ទេ ចុច​​ភ្ជាប់​ចុះ</string>
+    <string name="network_switch_metered">បានប្តូរទៅ %1$s</string>
+    <string name="network_switch_metered_detail">ឧបករណ៍​ប្រើ %1$s នៅ​ពេល​ដែល %2$s មិនមាន​ការ​តភ្ជាប់​អ៊ីនធឺណិត។ អាច​គិតថ្លៃ​លើការ​ប្រើប្រាស់​ទិន្នន័យ។</string>
+    <string name="network_switch_metered_toast">បានប្តូរពី %1$s ទៅ %2$s</string>
+    <string name="network_switch_type_name_unknown">ប្រភេទបណ្តាញដែលមិនស្គាល់</string>
+    <string name="other_networks_no_internet">បណ្ដាញ​មិនមាន​ការតភ្ជាប់​អ៊ីនធឺណិតទេ</string>
+    <string name="private_dns_broken_detailed">មិនអាច​ចូលប្រើ​ម៉ាស៊ីនមេ DNS ឯកជន​បានទេ</string>
+    <string name="wifi_available_sign_in">ចូល​បណ្ដាញ​វ៉ាយហ្វាយ</string>
+    <string name="wifi_no_internet">%1$s មិនមាន​ការតភ្ជាប់អ៊ីនធឺណិត​ទេ</string>
+    <string name="wifi_no_internet_detailed">ប៉ះសម្រាប់ជម្រើស</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">கம்பேனியன் சாதன நிர்வாகி</string>
+    <string name="chooser_title">&lt;strong>%2$s&lt;/strong> ஆப்ஸ் நிர்வகிக்கக்கூடிய %1$s ஐத் தேர்ந்தெடுங்கள்</string>
+    <string name="confirmation_title">உங்கள் &lt;strong>%2$s&lt;/strong> ஐ நிர்வகிக்க &lt;strong>%1$s&lt;/strong> ஆப்ஸை அனுமதியுங்கள்</string>
+    <string name="consent_no">அனுமதிக்க வேண்டாம்</string>
+    <string name="consent_yes">அனுமதி</string>
+    <string name="profile_name_generic">சாதனம்</string>
+    <string name="profile_name_watch">வாட்ச்</string>
+    <string name="profile_summary">உங்கள் %1$s சுயவிவரத்தை நிர்வகிக்க இந்த ஆப்ஸ் தேவைப்படுகிறது. %2$s</string>
+</resources>

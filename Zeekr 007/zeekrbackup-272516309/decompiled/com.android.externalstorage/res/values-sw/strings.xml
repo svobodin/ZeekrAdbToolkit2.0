@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Hifadhi ya Nje</string>
+    <string name="root_documents">Hati</string>
+    <string name="root_internal_storage">Hifadhi ya ndani</string>
+    <string name="storage_description">Hifadhi ya ndani</string>
+</resources>

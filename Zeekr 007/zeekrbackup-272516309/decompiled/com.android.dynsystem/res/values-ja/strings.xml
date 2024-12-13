@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">パスワードを入力し、Dynamic System Updates に移動してください</string>
+    <string name="notification_action_cancel">キャンセル</string>
+    <string name="notification_action_discard">破棄</string>
+    <string name="notification_action_reboot_to_dynsystem">再起動</string>
+    <string name="notification_action_reboot_to_origin">再起動</string>
+    <string name="notification_dynsystem_in_use">現在、動的システムを実行しています。元の Android バージョンを使用するには再起動してください。</string>
+    <string name="notification_image_validation_failed">イメージの検証に失敗しました。インストールを中止してください。</string>
+    <string name="notification_install_completed">動的システムの準備ができました。使い始めるには、デバイスを再起動してください。</string>
+    <string name="notification_install_failed">インストールに失敗しました</string>
+    <string name="notification_install_inprogress">インストールしています</string>
+    <string name="toast_dynsystem_discarded">動的システムを破棄しました</string>
+    <string name="toast_failed_to_disable_dynsystem">動的システムを無効にできませんでした</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">動的システムの再起動や読み込みを行えません</string>
+</resources>

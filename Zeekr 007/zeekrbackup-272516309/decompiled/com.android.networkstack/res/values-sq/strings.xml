@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Menaxheri i rrjetit</string>
+    <string name="connected">U lidh</string>
+    <string name="notification_channel_description_connected">Njoftimet shfaqen kur pajisja është vërtetuar me sukses në një rrjet të një portali të izoluar</string>
+    <string name="notification_channel_description_network_venue_info">Njoftimet e shfaqura për të treguar se rrjeti ka një faqe me informacione për vendin</string>
+    <string name="notification_channel_name_connected">Vërtetimi i portalit të izoluar</string>
+    <string name="notification_channel_name_network_venue_info">Informacionet për vendin e rrjetit</string>
+    <string name="tap_for_info">Lidhur / Trokit për të parë faqen e internetit</string>
+</resources>

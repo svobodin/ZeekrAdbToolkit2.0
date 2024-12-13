@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SIM-картанын колдонмосунун диалогу</string>
+    <string name="install_carrier_app_defer_action">Азыр эмес</string>
+    <string name="install_carrier_app_description">Жаңы SIM картаңыз талаптагыдай иштеши үчүн, %1$s колдонмосун орнотуп алышыңыз керек</string>
+    <string name="install_carrier_app_description_default">Жаңы SIM картаңыз талаптагыдай иштеши үчүн, байланыш операторунун колдонмосун орнотуп алышыңыз керек</string>
+    <string name="install_carrier_app_download_action">Колдонмону жүктөп алуу</string>
+    <string name="install_carrier_app_title">Мобилдик кызматты жандыруу</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Артка</string>
+    <string name="suw_more_button_label">Дагы</string>
+    <string name="suw_next_button_label">Кийинки</string>
+</resources>

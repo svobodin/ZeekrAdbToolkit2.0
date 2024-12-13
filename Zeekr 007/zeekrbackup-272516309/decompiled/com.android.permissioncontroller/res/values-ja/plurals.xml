@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">他 %1$d 件</item>
+        <item quantity="one">他 %1$d 件</item>
+    </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">数か月使用していないアプリが %1$d 個あります。タップしてご確認ください</item>
+        <item quantity="one">数か月使用していないアプリが %1$d 個あります。タップしてご確認ください</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">数か月使用していないアプリが %1$d 個あります</item>
+        <item quantity="one">数か月使用していないアプリが %1$d 個あります</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s日</item>
+        <item quantity="one">1日</item>
+    </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">%s日</item>
+        <item quantity="one">1日</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">%s時間</item>
+        <item quantity="one">1時間</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">%s分</item>
+        <item quantity="one">1分</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">%s秒</item>
+        <item quantity="one">1秒</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s時間</item>
+        <item quantity="one">1時間</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s分</item>
+        <item quantity="one">1分</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d 件の新しい通知</item>
+        <item quantity="one">%d 件の新しい通知</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s 個のアプリ</item>
+        <item quantity="one">1 個のアプリ</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s 個のアプリ</item>
+        <item quantity="one">1 個のアプリ</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">%1$d 件のアプリが使用</item>
+        <item quantity="one">1 件のアプリが使用</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"前回のアクセス: %1$s
+アクセス回数: %2$s 回"</item>
+        <item quantity="one">"前回のアクセス: %1$s
+アクセス回数: %2$s 回"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"前回のアクセス: %1$s
+アクセス数: %2$s 回（バックグラウンドで %3$s 回）"</item>
+        <item quantity="one">"前回のアクセス: %1$s
+アクセス数: %2$s 回（バックグラウンドで %3$s 回）"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"前回のアクセス: %1$s
+アクセス回数: %2$s 回（バックグラウンドで %3$s 回）
+時間: %3$s"</item>
+        <item quantity="one">"前回のアクセス: %1$s
+アクセス回数: %2$s 回（バックグラウンドで %3$s 回）
+時間: %3$s"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"前回のアクセス: %1$s
+アクセス回数: %2$s 回
+時間: %3$s"</item>
+        <item quantity="one">"前回のアクセス: %1$s
+アクセス回数: %2$s 回
+時間: %3$s"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s秒</item>
+        <item quantity="one">1秒</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">使用されていないアプリ: %1$d 個</item>
+        <item quantity="one">使用されていないアプリ: %1$d 個</item>
+    </plurals>
+</resources>

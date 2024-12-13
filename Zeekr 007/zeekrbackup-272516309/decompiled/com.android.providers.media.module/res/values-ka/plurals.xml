@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">აძლევთ უფლებას ^1-ს, წაშალოს ^2 აუდიოფაილი?</item>
+        <item quantity="one">აძლევთ უფლებას ^1-ს, წაშალოს ეს აუდიოფაილი?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">აძლევთ უფლებას ^1-ს, წაშალოს ^2 ერთეული?</item>
+        <item quantity="one">აძლევთ უფლებას ^1-ს, წაშალოს ეს ერთეული?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">აძლევთ უფლებას ^1-ს, წაშალოს ^2 ფოტო?</item>
+        <item quantity="one">აძლევთ უფლებას ^1-ს, წაშალოს ეს ფოტო?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">აძლევთ უფლებას ^1-ს, წაშალოს ^2 ვიდეო?</item>
+        <item quantity="one">აძლევთ უფლებას ^1-ს, წაშალოს ეს ვიდეო?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">და კიდევ ^1 დამატებითი ერთეული</item>
+        <item quantity="one">და კიდევ ^1 დამატებითი ერთეული</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">+^1</item>
+        <item quantity="one">+^1</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">მიმდინარეობს ^1 აუდიოფაილის წაშლა…</item>
+        <item quantity="one">მიმდინარეობს აუდიოფაილის წაშლა…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">მიმდინარეობს ^1 ერთეულის წაშლა…</item>
+        <item quantity="one">მიმდინარეობს ერთეულის წაშლა…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">მიმდინარეობს ^1 ფოტოს წაშლა…</item>
+        <item quantity="one">მიმდინარეობს ფოტოს წაშლა…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">მიმდინარეობს ^1 ვიდეოს წაშლა…</item>
+        <item quantity="one">მიმდინარეობს ვიდეოს წაშლა…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">მიმდინარეობს ^1 აუდიოფაილის წაშლილებში გადატანა…</item>
+        <item quantity="one">მიმდინარეობს აუდიოფაილის წაშლილებში გადატანა…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">მიმდინარეობს ^1 ერთეულის წაშლილებში გადატანა…</item>
+        <item quantity="one">მიმდინარეობს ერთეულის წაშლილებში გადატანა…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">მიმდინარეობს ^1 ფოტოს წაშლილებში გადატანა…</item>
+        <item quantity="one">მიმდინარეობს ფოტოს წაშლილებში გადატანა…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">მიმდინარეობს ^1 ვიდეოს წაშლილებში გადატანა…</item>
+        <item quantity="one">მიმდინარეობს ვიდეოს წაშლილებში გადატანა…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">მიმდინარეობს ^1 აუდიოფაილის წაშლილებიდან გადმოტანა…</item>
+        <item quantity="one">მიმდინარეობს აუდიოფაილის წაშლილებიდან გადმოტანა…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">მიმდინარეობს ^1 ერთეულის წაშლილებიდან გადმოტანა…</item>
+        <item quantity="one">მიმდინარეობს ერთეულის წაშლილებიდან გადმოტანა…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">მიმდინარეობს ^1 ფოტოს წაშლილებიდან გადმოტანა…</item>
+        <item quantity="one">მიმდინარეობს ფოტოს წაშლილებიდან გადმოტანა…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">მიმდინარეობს ^1 ვიდეოს წაშლილებიდან გადმოტანა…</item>
+        <item quantity="one">მიმდინარეობს ვიდეოს წაშლილებიდან გადმოტანა…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">მიმდინარეობს ^1 აუდიოფაილის მოდიფიკაცია…</item>
+        <item quantity="one">მიმდინარეობს აუდიოფაილის მოდიფიკაცია…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">მიმდინარეობს ^1 ერთეულის მოდიფიკაცია…</item>
+        <item quantity="one">მიმდინარეობს ერთეულის მოდიფიკაცია…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">მიმდინარეობს ^1 ფოტოს მოდიფიკაცია…</item>
+        <item quantity="one">მიმდინარეობს ფოტოს მოდიფიკაცია…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">მიმდინარეობს ^1 ვიდეოს მოდიფიკაცია…</item>
+        <item quantity="one">მიმდინარეობს ვიდეოს მოდიფიკაცია…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">აძლევთ უფლებას ^1-ს, გადაიტანოს ^2 აუდიოფაილი წაშლილებში?</item>
+        <item quantity="one">აძლევთ უფლებას ^1-ს, გადაიტანოს ეს აუდიოფაილი წაშლილებში?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">აძლევთ უფლებას ^1-ს, გადაიტანოს ^2 ერთეული წაშლილებში?</item>
+        <item quantity="one">აძლევთ უფლებას ^1-ს, გადაიტანოს ეს ერთეული წაშლილებში?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">აძლევთ უფლებას ^1-ს, გადაიტანოს ^2 ფოტო წაშლილებში?</item>
+        <item quantity="one">აძლევთ უფლებას ^1-ს, გადაიტანოს ეს ფოტო წაშლილებში?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">აძლევთ უფლებას ^1-ს, გადაიტანოს ^2 ვიდეო წაშლილებში?</item>
+        <item quantity="one">აძლევთ უფლებას ^1-ს, გადაიტანოს ეს ვიდეო წაშლილებში?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">აძლევთ უფლებას ^1-ს, გადმოიტანოს ^2 აუდიოფაილი წაშლილებიდან?</item>
+        <item quantity="one">აძლევთ უფლებას ^1-ს, გადმოიტანოს ეს აუდიოფაილი წაშლილებიდან?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">აძლევთ უფლებას ^1-ს, გადმოიტანოს ^2 ერთეული წაშლილებიდან?</item>
+        <item quantity="one">აძლევთ უფლებას ^1-ს, გადმოიტანოს ეს ერთეული წაშლილებიდან?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">აძლევთ უფლებას ^1-ს, გადმოიტანოს ^2 ფოტო წაშლილებიდან?</item>
+        <item quantity="one">აძლევთ უფლებას ^1-ს, გადმოიტანოს ეს ფოტო წაშლილებიდან?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">აძლევთ უფლებას ^1-ს, გადმოიტანოს ^2 ვიდეო წაშლილებიდან?</item>
+        <item quantity="one">აძლევთ უფლებას ^1-ს, გადმოიტანოს ეს ვიდეო წაშლილებიდან?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">აძლევთ უფლებას ^1-ს, შეცვალოს ^2 აუდიოფაილი?</item>
+        <item quantity="one">აძლევთ უფლებას ^1-ს, შეცვალოს ეს აუდიოფაილი?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">აძლევთ უფლებას ^1-ს, შეცვალოს ^2 ერთეული?</item>
+        <item quantity="one">აძლევთ უფლებას ^1-ს, შეცვალოს ეს ერთეული?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">აძლევთ უფლებას ^1-ს, შეცვალოს ^2 ფოტო?</item>
+        <item quantity="one">აძლევთ უფლებას ^1-ს, შეცვალოს ეს ფოტო?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">აძლევთ უფლებას ^1-ს, შეცვალოს ^2 ვიდეო?</item>
+        <item quantity="one">აძლევთ უფლებას ^1-ს, შეცვალოს ეს ვიდეო?</item>
+    </plurals>
+</resources>

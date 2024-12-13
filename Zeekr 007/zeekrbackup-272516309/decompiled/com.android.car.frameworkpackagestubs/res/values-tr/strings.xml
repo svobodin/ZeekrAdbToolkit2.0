@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">İşlem Saplaması</string>
+    <string name="message_not_supported">İşlemi gerçekleştirebilecek uygulama yok</string>
+    <string name="pip_not_supported">Pencere içinde pencere işlevi bu cihazda desteklenmiyor</string>
+    <string name="stub_name">Yok</string>
+</resources>

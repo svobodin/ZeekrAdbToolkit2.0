@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="disable_tether_notification_message">Aby uzyskać szczegółowe informacje, skontaktuj się z administratorem</string>
+    <string name="disable_tether_notification_title">Tethering został wyłączony</string>
+    <string name="no_upstream_notification_disable_button" />
+    <string name="no_upstream_notification_message" />
+    <string name="no_upstream_notification_title" />
+    <string name="notification_channel_tethering_status">Hotspot i tethering – stan</string>
+    <string name="tethered_notification_message">Kliknij, by skonfigurować</string>
+    <string name="tethered_notification_title">Aktywny tethering lub punkt dostępu</string>
+    <string name="upstream_roaming_notification_message" />
+    <string name="upstream_roaming_notification_title" />
+</resources>

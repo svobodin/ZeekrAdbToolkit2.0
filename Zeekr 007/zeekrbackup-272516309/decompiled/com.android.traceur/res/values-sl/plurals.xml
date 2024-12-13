@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obvestil</item>
+        <item quantity="one">%d novo obvestilo</item>
+        <item quantity="two">%d novi obvestili</item>
+        <item quantity="few">%d nova obvestila</item>
+    </plurals>
+    <plurals name="num_categories_selected">
+        <item quantity="other">%d izbranih</item>
+        <item quantity="one">%d izbrana</item>
+        <item quantity="two">%d izbrani</item>
+        <item quantity="few">%d izbrane</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">Povezanih je %1$d naprav</item>
+        <item quantity="one">Povezana je %1$d naprava</item>
+        <item quantity="two">Povezani sta %1$d napravi</item>
+        <item quantity="few">Povezane so %1$d naprave</item>
+    </plurals>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <bool name="abc_allow_stacked_button_bar">false</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="color_picker_preference_default_show_preview">true</bool>
+    <bool name="config_materialPreferenceIconSpaceReserved">false</bool>
+    <bool name="dialog_preference_default_show_dialog_button_bar_divider">false</bool>
+    <bool name="dialog_preference_default_show_dialog_header">false</bool>
+    <bool name="dialog_preference_default_show_value_as_summary">false</bool>
+    <bool name="elevation_shadow_view_emulate_parallel_light_default_value">false</bool>
+    <bool name="hasKitKat">true</bool>
+    <bool name="mtrl_btn_textappearance_all_caps">true</bool>
+    <bool name="number_picker_preference_default_use_input_method">false</bool>
+    <bool name="number_picker_preference_default_wrap_selector_wheel">true</bool>
+    <bool name="preKitKat">false</bool>
+    <bool name="seek_bar_preference_default_show_progress">true</bool>
+    <bool name="test_fake_install_flow">false</bool>
+    <bool name="two_state_preference_default_disable_dependents_state">false</bool>
+    <bool name="validateable_dialog_preference_default_validate_on_focus_lost">true</bool>
+    <bool name="validateable_dialog_preference_default_validate_on_value_change">true</bool>
+</resources>

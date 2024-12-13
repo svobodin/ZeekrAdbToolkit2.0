@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">%1$d ទៀត</item>
+        <item quantity="one">%1$d ទៀត</item>
+    </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">កម្មវិធី %1$d មិនត្រូវបានប្រើប្រាស់​រយៈពេល​ពីរបីខែហើយ។ សូមចុច ដើម្បី​ពិនិត្យមើល</item>
+        <item quantity="one">កម្មវិធី %1$d មិនត្រូវបាន​ប្រើប្រាស់​រយៈពេល​ពីរបីខែ​ហើយ។ សូមចុច ដើម្បី​ពិនិត្យមើល</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">កម្មវិធី %1$d មិនត្រូវបាន​ប្រើប្រាស់​រយៈពេល​ពីរបីខែហើយ</item>
+        <item quantity="one">កម្មវិធី %1$d មិនត្រូវបាន​ប្រើប្រាស់​រយៈពេល​ពីរបីខែ​ហើយ</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s ថ្ងៃ</item>
+        <item quantity="one">1 ថ្ងៃ</item>
+    </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">%s ថ្ងៃ</item>
+        <item quantity="one">1 ថ្ងៃ</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">%s ម៉ោង</item>
+        <item quantity="one">1 ម៉ោង</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">%s ន</item>
+        <item quantity="one">1 ន</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">%s វិ</item>
+        <item quantity="one">1 វិ</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s ម៉ោង</item>
+        <item quantity="one">1 ម៉ោង</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s នាទី</item>
+        <item quantity="one">1 នាទី</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">ការជូនដំណឹងថ្មី %d</item>
+        <item quantity="one">ការជូនដំណឹងថ្មី %d</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">កម្មវិធី %s</item>
+        <item quantity="one">កម្មវិធី 1</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">កម្មវិធី %s</item>
+        <item quantity="one">កម្មវិធី 1</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">បាន​ប្រើដោយ​កម្មវិធី %1$d</item>
+        <item quantity="one">បាន​ប្រើដោយ​កម្មវិធី 1</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"ការចូលប្រើ​ចុងក្រោយ៖ %1$s
+ការចូលប្រើ %2$s ដង"</item>
+        <item quantity="one">"ការចូលប្រើ​ចុងក្រោយ៖ %1$s
+ការចូលប្រើ %2$s ដង"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"ការចូលប្រើ​ចុងក្រោយ៖ %1$s
+ការចូលប្រើ %2$s ដង (%3$s ដងនៅផ្ទៃខាងក្រោយ)"</item>
+        <item quantity="one">"ការចូលប្រើ​ចុងក្រោយ៖ %1$s
+ការចូលប្រើ %2$s ដង (%3$s ដងនៅផ្ទៃខាងក្រោយ)"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"ការចូលប្រើ​ចុងក្រោយ៖ %1$s
+ការចូលប្រើ %2$s ដង (%3$s ដងនៅផ្ទៃខាងក្រោយ)
+រយៈពេល៖ %3$s"</item>
+        <item quantity="one">"ការចូលប្រើ​ចុងក្រោយ៖ %1$s
+ការចូលប្រើ %2$s ដង (%3$s ដងនៅផ្ទៃខាងក្រោយ)
+រយៈពេល៖ %3$s"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"ការចូលប្រើចុងក្រោយ៖ %1$s
+ការចូលប្រើ %2$s ដង
+រយៈពេល៖ %3$s"</item>
+        <item quantity="one">"ការចូលប្រើ​ចុងក្រោយ៖ %1$s
+ការចូលប្រើ %2$s ដង
+រយៈពេល៖ %3$s"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s វិនាទី</item>
+        <item quantity="one">1 វិនាទី</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">កម្មវិធី​ដែលមិនប្រើ​ចំនួន %1$d</item>
+        <item quantity="one">កម្មវិធី​ដែលមិនប្រើ​ចំនួន %1$d</item>
+    </plurals>
+</resources>

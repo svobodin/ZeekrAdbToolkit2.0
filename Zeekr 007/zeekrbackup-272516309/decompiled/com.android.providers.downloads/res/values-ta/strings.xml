@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">பதிவிறக்க நிர்வாகி</string>
+    <string name="button_cancel_download">ரத்துசெய்</string>
+    <string name="button_queue_for_wifi">வரிசை</string>
+    <string name="button_start_now">இப்போது தொடங்கு</string>
+    <string name="download_error">தோல்வி</string>
+    <string name="download_no_application_title">ஃபைலைத் திறக்க முடியவில்லை</string>
+    <string name="download_queued">வரிசைப்படுத்தப்பட்டது</string>
+    <string name="download_remaining">%s மீதமுள்ளது</string>
+    <string name="download_running">செயலிலுள்ளது</string>
+    <string name="download_running_percent">செயலில், %s</string>
+    <string name="download_unknown_title">&lt;பெயரிடப்படாதது></string>
+    <string name="notification_download_complete">பதிவிறக்கம் முடிந்தது.</string>
+    <string name="notification_download_failed">பதிவிறக்கம் தோல்வி.</string>
+    <string name="notification_need_wifi_for_size">பதிவிறக்க அளவு வைஃபைக்குத் தேவை.</string>
+    <string name="notification_paused_in_background">பின்புலத்தில் இடைநிறுத்தப்பட்டது.</string>
+    <string name="permdesc_accessAllDownloads">அமைப்பில் உள்ள எந்தப் பயன்பாட்டினாலும் தொடங்கப்படும் எல்லா பதிவிறக்கங்களையும் கண்டு மாற்றுவதற்குப் ஆப்ஸை அனுமதிக்கிறது.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">பதிவிறக்க நிர்வாகிக்கு அதிகப்படியான இடம் தேவைப்படும்போது தானாகவே நீக்கப்படாத, தற்காலிகச் சேமிப்பில் ஃபைல்களைப் பதிவிறக்க ஆப்ஸை அனுமதிக்கிறது.</string>
+    <string name="permdesc_downloadCompletedIntent">முடிந்த பதிவிறக்கங்கள் குறித்த அறிவிப்புகளை அனுப்புவதற்குப் ஆப்ஸை அனுமதிக்கிறது. ஃபைல்களைப் பதிவிறக்கும் பிற பயன்பாடுகளைக் குழப்புவதற்கு தீங்கிழைக்கும் ஆப்ஸ் இதைப் பயன்படுத்தலாம்.</string>
+    <string name="permdesc_downloadManager">பதிவிறக்க நிர்வாகியை அணுகவும், ஃபைல்களைப் பதிவிறக்குவதற்காக அதைப் பயன்படுத்தவும் ஆப்ஸை அனுமதிக்கிறது. பதிவிறக்கங்களைத் தடைசெய்யவும், தனிப்பட்டத் தகவலை அணுகவும் தீங்கிழைக்கும் ஆப்ஸ் இதைப் பயன்படுத்தலாம்.</string>
+    <string name="permdesc_downloadManagerAdvanced">பதிவிறக்க நிர்வாகியின் மேம்பட்ட செயல்பாடுகளை அணுகுவதற்குப் ஆப்ஸை அனுமதிக்கிறது. பதிவிறக்கங்களைத் தடைசெய்யவும், தனிப்பட்டத் தகவலை அணுகவும் தீங்கிழைக்கும் ஆப்ஸ் இதைப் பயன்படுத்தலாம்.</string>
+    <string name="permdesc_downloadWithoutNotification">எந்த அறிவிப்பையும் பயனருக்குக் காட்டாமல் பதிவிறக்க நிர்வாகியின் மூலம் ஃபைல்களைப் பதிவிறக்கப் ஆப்ஸை அனுமதிக்கிறது.</string>
+    <string name="permlab_accessAllDownloads">அமைப்பின் எல்லா பதிவிறக்கங்களையும் அணுகுதல்</string>
+    <string name="permlab_downloadCacheNonPurgeable">தற்காலிகச் சேமிப்பில் இடத்தை முன்பதிவு செய்தல்</string>
+    <string name="permlab_downloadCompletedIntent">பதிவிறக்க அறிவிப்புகளை அனுப்பவும்.</string>
+    <string name="permlab_downloadManager">பதிவிறக்க நிர்வாகியை அணுகவும்.</string>
+    <string name="permlab_downloadManagerAdvanced">மேம்பட்ட பதிவிறக்க நிர்வாகி செயல்பாடுகள்.</string>
+    <string name="permlab_downloadWithoutNotification">அறிவிப்பு இல்லாமல் ஃபைல்களைப் பதிவிறக்குதல்</string>
+    <string name="root_downloads">பதிவிறக்கங்கள்</string>
+    <string name="storage_description">பதிவிறக்கங்கள்</string>
+    <string name="wifi_recommended_body">"%1$s  அளவிலான இந்தப் பதிவிறக்கத்தை இப்போது தொடங்குவது உங்கள் பேட்டரியின் ஆயுளைக் குறைக்கலாம் மற்றும்/அல்லது உங்கள் மொபைல் டேட்டா இணைப்பை அதிகமாகப் பயன்படுத்த நேரிடலாம், இதன் காரணமாக உங்கள் தரவு திட்டத்தைப் பொறுத்து உங்கள் மொபைல் ஆபரேட்டர் பேமெண்ட்கள் விதிக்கலாம்.
+
+அடுத்த முறை நீங்கள் வைஃபை நெட்வொர்க்கில் இணைந்தவுடன் இந்தப் பதிவிறக்கத்தைத் தொடங்குவதற்கு %2$s ஐத் தொடவும்."</string>
+    <string name="wifi_recommended_title">பின்னர் பதிவிறக்க வரிசைப்படுத்தவா?</string>
+    <string name="wifi_required_body">"%1$s  பதிவிறக்கத்தை முடிக்க நீங்கள் வைஃபை ஐப் பயன்படுத்த வேண்டும். 
+
+அடுத்த முறை நீங்கள் வைஃபை நெட்வொர்க்குடன் இணைந்தவுடன் பதிவிறக்கத்தைத் தொடங்குவதற்கு %2$s  ஐத் தொடவும்."</string>
+    <string name="wifi_required_title">ஆபரேட்டர் நெட்வொர்க்கில் மிக அதிக அளவில் பதிவிறக்கப்படுகிறது</string>
+</resources>

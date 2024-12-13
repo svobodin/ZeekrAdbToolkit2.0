@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">नेटवर्क मैनेजर</string>
+    <string name="connected">नेटवर्क से कनेक्ट हो गया है</string>
+    <string name="notification_channel_description_connected">डिवाइस के कैप्टिव पोर्टल नेटवर्क से पुष्टि होने के बाद सूचनाएं दिखती हैं</string>
+    <string name="notification_channel_description_network_venue_info">किसी नेटवर्क पर उस जगह के बारे में बताने वाले पेज की जानकारी दिखाने वाली सूचनाएं</string>
+    <string name="notification_channel_name_connected">कैप्टिव पोर्टल की मदद से पुष्टि करना</string>
+    <string name="notification_channel_name_network_venue_info">नेटवर्क पर उस जगह के बारे में जानकारी</string>
+    <string name="tap_for_info">कनेक्ट है / वेबसाइट देखने के लिए टैप करें</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">डाउनलोड व्यवस्थापक</string>
+    <string name="button_cancel_download">रद्द करा</string>
+    <string name="button_queue_for_wifi">रांग</string>
+    <string name="button_start_now">आता सुरू करा</string>
+    <string name="download_error">अयशस्वी</string>
+    <string name="download_no_application_title">फाइल उघडू शकत नाही</string>
+    <string name="download_queued">रांगेत लावलेला</string>
+    <string name="download_remaining">%s बाकी</string>
+    <string name="download_running">प्रगतीपथावर</string>
+    <string name="download_running_percent">प्रगतीपथावर, %s</string>
+    <string name="download_unknown_title">&lt;अशीर्षकांकित></string>
+    <string name="notification_download_complete">डाउनलोड पूर्ण.</string>
+    <string name="notification_download_failed">डाउनलोड अयशस्वी.</string>
+    <string name="notification_need_wifi_for_size">डाउनलोड आकारामानास वाय-फाय आवश्‍यक अस‍ते.</string>
+    <string name="notification_paused_in_background">पार्श्वभूमीत विराम दिला.</string>
+    <string name="permdesc_accessAllDownloads">अ‍ॅपला सिस्‍टीम वरील कोणत्‍याही अ‍ॅपद्वारे आरंभ केलेले सर्व डाउनलोड पाहण्‍याची आणि सुधारित करण्‍याची अनुमती देते.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">अ‍ॅपला डाउनलोडवर कॅशेवर, डाउनलोड व्‍यवस्‍थापकास जास्त स्‍थानाची आवश्‍यकता असते तेव्‍हा ज्या स्‍वयंचलितपणे हटविल्‍या जाऊ शकत नाहीत त्या फाइल डाउनलोड करण्‍याची अनुमती देते.</string>
+    <string name="permdesc_downloadCompletedIntent">अ‍ॅपला पूर्ण झालेल्‍या डाउनलोड विषयी सूचना पाठविण्‍यास अनुमती देते. डाउनलोड करणार्‍या अन्य अ‍ॅप्‍सचा गोंधळ करण्‍यासाठी दुर्भावनापूर्ण अ‍ॅप्‍स याचा वापर करू शकतात.</string>
+    <string name="permdesc_downloadManager">अ‍ॅपला डाउनलोड व्‍यवस्‍थापकामध्‍ये प्रवेश करण्‍याची आणि फाइल डाउनलोड करण्‍यासाठी त्याचा वापर करण्‍याची अनुमती देते. दुर्भावनापूर्ण अ‍ॅप्‍स याचा डाउनलोड विदारित करण्‍यासाठी आणि खाजगी माहितीमध्‍ये प्रवेश करण्‍यासाठी वापर करू शकतात.</string>
+    <string name="permdesc_downloadManagerAdvanced">अ‍ॅपला डाउनलोड व्‍यवस्‍थापकाच्या प्रगत कार्यांमध्‍ये प्रवेश करण्‍याची अनुमती देते. दुर्भावनापूर्ण अ‍ॅप्‍स याचा डाउनलोड विदारित करण्‍यासाठी आणि खाजगी माहितीमध्‍ये प्रवेश करण्‍यासाठी वापर करू शकतात.</string>
+    <string name="permdesc_downloadWithoutNotification">अ‍ॅपला वापरकर्त्यास कोणतीही सूचना न दर्शविता डाउनलोड व्यवस्‍थापकाद्वारे फाइल डाउनलोड करण्‍याची अनुमती देते.</string>
+    <string name="permlab_accessAllDownloads">सर्व सिस्‍टीम डाउनलोड अ‍ॅक्सेस करा</string>
+    <string name="permlab_downloadCacheNonPurgeable">डाउनलोड कॅशेमधील स्‍थान आरक्षित करा</string>
+    <string name="permlab_downloadCompletedIntent">डाउनलोड सूचना पाठवा.</string>
+    <string name="permlab_downloadManager">डाउनलोड व्यवस्थापक अ‍ॅक्सेस करा.</string>
+    <string name="permlab_downloadManagerAdvanced">प्रगत डाऊनलोड व्यवस्थापक कार्ये.</string>
+    <string name="permlab_downloadWithoutNotification">सूचनेशिवाय फाइल डाउनलोड करा</string>
+    <string name="root_downloads">डाउनलोड</string>
+    <string name="storage_description">डाउनलोड</string>
+    <string name="wifi_recommended_body">"हे %1$s  डाउनलोड सुरू करण्याने तुमचे बॅटरी आयुष्‍य कमी होऊ शकते आणि/किंवा त्‍याचा परिणाम तुमच्या मोबाइल डेटा कनेक्‍शनचा अत्‍याधिक वापर करण्‍यात होऊ शकतो, ज्‍यामुळे आपल्‍या मोबाइल डेटा योजनेवर आधारित आपल्‍या मोबाइल ऑपरेटरद्वारे शुल्‍क आकारले जाऊ शकते.पुढील वेळी तुम्ही वाय-फाय नेटवर्कशी कनेक्‍ट होता तेव्‍हा हे डाउनलोड सुरू करण्‍यासाठी 
+
+ स्‍पर्श करा %2$s"</string>
+    <string name="wifi_recommended_title">नंतर डाउनलोड करा साठी रांग लावायची?</string>
+    <string name="wifi_required_body">"तुम्ही हे %1$s  डाउनलोड पूर्ण करण्‍यासाठी वाय-फाय चा वापर करणे आवश्‍यक आहे. पुढील वेळी तुम्ही वाय-फाय ला कनेक्‍ट होता तेव्‍हा हे डाउनलोड सुरू करण्‍यासाठी 
+
+ स्‍पर्श करा %2$s ."</string>
+    <string name="wifi_required_title">ऑपरेटर नेटवर्कसाठी डाउनलोड खूप मोठे आहे</string>
+</resources>

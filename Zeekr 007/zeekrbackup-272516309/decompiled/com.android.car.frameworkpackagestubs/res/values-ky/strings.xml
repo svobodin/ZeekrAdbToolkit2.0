@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Аракеттер тилкеси</string>
+    <string name="message_not_supported">Бул аракетти бир да колдонмо аткарбайт</string>
+    <string name="pip_not_supported">Бул түзмөктө сүрөттөгү сүрөт режими колдоого алынбайт</string>
+    <string name="stub_name">Жок</string>
+</resources>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">Թույլատրե՞լ ^1 հավելվածին ջնջել ^2 աուդիո ֆայլ</item>
+        <item quantity="one">Թույլատրե՞լ ^1 հավելվածին ջնջել ^2 աուդիո ֆայլ</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">Թույլատրե՞լ ^1 հավելվածին ջնջել ^2 տարր</item>
+        <item quantity="one">Թույլատրե՞լ ^1 հավելվածին ջնջել ^2 տարր</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">Թույլատրե՞լ ^1 հավելվածին ջնջել ^2 լուսանկար</item>
+        <item quantity="one">Թույլատրե՞լ ^1 հավելվածին ջնջել ^2 լուսանկար</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">Թույլատրե՞լ ^1 հավելվածին ջնջել ^2 տեսանյութ</item>
+        <item quantity="one">Թույլատրե՞լ ^1 հավելվածին ջնջել ^2 տեսանյութ</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">Ու ևս ^1 լրացուցիչ տարր</item>
+        <item quantity="one">Ու ևս ^1 լրացուցիչ տարր</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">+^1</item>
+        <item quantity="one">+^1</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">^1 աուդիո ֆայլ ջնջվում է…</item>
+        <item quantity="one">^1 աուդիո ֆայլ ջնջվում է…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">^1 տարր ջնջվում է…</item>
+        <item quantity="one">^1 տարր ջնջվում է…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">^1 լուսանկար ջնջվում է…</item>
+        <item quantity="one">^1 լուսանկար ջնջվում է…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">^1 տեսանյութ ջնջվում է…</item>
+        <item quantity="one">^1 տեսանյութ ջնջվում է…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">^1 աուդիո ֆայլ տեղափոխվում է աղբարկղ…</item>
+        <item quantity="one">^1 աուդիո ֆայլ տեղափոխվում է աղբարկղ…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">^1 տարր տեղափոխվում է աղբարկղ…</item>
+        <item quantity="one">^1 տարր տեղափոխվում է աղբարկղ…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">^1 լուսանկար տեղափոխվում է աղբարկղ…</item>
+        <item quantity="one">^1 լուսանկար տեղափոխվում է աղբարկղ…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">^1 տեսանյութ տեղափոխվում է աղբարկղ…</item>
+        <item quantity="one">^1 տեսանյութ տեղափոխվում է աղբարկղ…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">^1 աուդիո ֆայլ վերականգնվում է աղբարկղից…</item>
+        <item quantity="one">^1 աուդիո ֆայլ վերականգնվում է աղբարկղից…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">^1 տարր վերականգնվում է աղբարկղից…</item>
+        <item quantity="one">^1 տարր վերականգնվում է աղբարկղից…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">^1 լուսանկար վերականգնվում է աղբարկղից…</item>
+        <item quantity="one">^1 լուսանկար վերականգնվում է աղբարկղից…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">^1 տեսանյութ վերականգնվում է աղբարկղից…</item>
+        <item quantity="one">^1 տեսանյութ վերականգնվում է աղբարկղից…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">^1 աուդիո ֆայլ փոփոխվում է…</item>
+        <item quantity="one">^1 աուդիո ֆայլ փոփոխվում է…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">^1 տարր փոփոխվում է…</item>
+        <item quantity="one">^1 տարր փոփոխվում է…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">^1 լուսանկար փոփոխվում է…</item>
+        <item quantity="one">^1 լուսանկար փոփոխվում է…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">^1 տեսանյութ փոփոխվում է…</item>
+        <item quantity="one">^1 տեսանյութ փոփոխվում է…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">Թույլատրե՞լ ^1 հավելվածին տեղափոխել ^2 աուդիո ֆայլ աղբարկղ</item>
+        <item quantity="one">Թույլատրե՞լ ^1 հավելվածին տեղափոխել ^2 աուդիո ֆայլ աղբարկղ</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">Թույլատրե՞լ ^1 հավելվածին տեղափոխել ^2 տարր աղբարկղ</item>
+        <item quantity="one">Թույլատրե՞լ ^1 հավելվածին տեղափոխել ^2 տարր աղբարկղ</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">Թույլատրե՞լ ^1 հավելվածին տեղափոխել ^2 լուսանկար աղբարկղ</item>
+        <item quantity="one">Թույլատրե՞լ ^1 հավելվածին տեղափոխել ^2 լուսանկար աղբարկղ</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">Թույլատրե՞լ ^1 հավելվածին տեղափոխել ^2 տեսանյութ աղբարկղ</item>
+        <item quantity="one">Թույլատրե՞լ ^1 հավելվածին տեղափոխել ^2 տեսանյութ աղբարկղ</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">Թույլատրե՞լ ^1 հավելվածին վերականգնել^2 աուդիո ֆայլ աղբարկղից</item>
+        <item quantity="one">Թույլատրե՞լ ^1 հավելվածին վերականգնել^2 աուդիո ֆայլ աղբարկղից</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">Թույլատրե՞լ ^1 հավելվածին վերականգնել ^2 տարր աղբարկղից</item>
+        <item quantity="one">Թույլատրե՞լ ^1 հավելվածին վերականգնել ^2 տարր աղբարկղից</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">Թույլատրե՞լ ^1 հավելվածին վերականգնել ^2 լուսանկար աղբարկղից</item>
+        <item quantity="one">Թույլատրե՞լ ^1 հավելվածին վերականգնել ^2 լուսանկար աղբարկղից</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">Թույլատրե՞լ ^1 հավելվածին վերականգնել ^2 տեսանյութ աղբարկղից</item>
+        <item quantity="one">Թույլատրե՞լ ^1 հավելվածին վերականգնել ^2 տեսանյութ աղբարկղից</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">Թույլատրե՞լ ^1 հավելվածին վերականգնել ^2 աուդիո ֆայլ աղբարկղից</item>
+        <item quantity="one">Թույլատրե՞լ ^1 հավելվածին վերականգնել ^2 աուդիո ֆայլ աղբարկղից</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">Թույլատրե՞լ ^1 հավելվածին փոփոխել ^2 տարր</item>
+        <item quantity="one">Թույլատրե՞լ ^1 հավելվածին փոփոխել ^2 տարր</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">Թույլատրե՞լ ^1 հավելվածին փոփոխել ^2 լուսանկար</item>
+        <item quantity="one">Թույլատրե՞լ ^1 հավելվածին փոփոխել ^2 լուսանկար</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">Թույլատրե՞լ ^1 հավելվածին փոփոխել ^2 տեսանյութ</item>
+        <item quantity="one">Թույլատրե՞լ ^1 հավելվածին փոփոխել ^2 տեսանյութ</item>
+    </plurals>
+</resources>

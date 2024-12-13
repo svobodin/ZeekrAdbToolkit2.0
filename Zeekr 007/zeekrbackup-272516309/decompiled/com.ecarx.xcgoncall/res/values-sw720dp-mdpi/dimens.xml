@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="attention_view_height">44.0dip</dimen>
+    <dimen name="attention_view_width">51.0dip</dimen>
+    <dimen name="ecall_banner_sos_margin">57.0dip</dimen>
+    <dimen name="hang_up_view_margin">220.0dip</dimen>
+    <dimen name="notification_title_text_size">30.0sp</dimen>
+</resources>

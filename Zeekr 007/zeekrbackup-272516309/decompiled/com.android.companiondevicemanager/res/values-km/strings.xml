@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">កម្មវិធី​គ្រប់​គ្រង​ឧបករណ៍ដៃគូ</string>
+    <string name="chooser_title">ជ្រើសរើស %1$s ដើម្បីឱ្យស្ថិតក្រោម​ការគ្រប់គ្រងរបស់ &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">អនុញ្ញាតឱ្យ &lt;strong>%1$s&lt;/strong> គ្រប់គ្រង &lt;strong>%2$s&lt;/strong> របស់អ្នក</string>
+    <string name="consent_no">កុំអនុញ្ញាត</string>
+    <string name="consent_yes">អនុញ្ញាត</string>
+    <string name="profile_name_generic">ឧបករណ៍</string>
+    <string name="profile_name_watch">នាឡិកា</string>
+    <string name="profile_summary">ត្រូវការកម្មវិធីនេះ ដើម្បីគ្រប់គ្រង %1$s របស់អ្នក។ %2$s</string>
+</resources>

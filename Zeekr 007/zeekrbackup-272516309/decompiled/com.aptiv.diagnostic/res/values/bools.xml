@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="anc_for_remote_amp_status">false</bool>
+    <bool name="beep_status">false</bool>
+    <bool name="clarifi_status">true</bool>
+    <bool name="dts_for_internal_amp_status">true</bool>
+    <bool name="master_mute_status">false</bool>
+    <bool name="natural_sound_status">false</bool>
+    <bool name="qli_status">false</bool>
+</resources>

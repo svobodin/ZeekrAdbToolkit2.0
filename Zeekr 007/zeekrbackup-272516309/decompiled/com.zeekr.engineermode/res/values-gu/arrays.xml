@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>સિંટ માર્ટેન</item>
+        <item>કેરેબિયન નેધરલેન્ડ્ઝ</item>
+        <item>ક્યુરાસાઓ</item>
+        <item>દક્ષિણ સુદાન</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>ઓસ્ટ્રેલિયન સેન્ટ્રલ - NT</item>
+        <item>ઓસ્ટ્રેલિયન સેન્ટ્રલ - SA</item>
+        <item>ઓસ્ટ્રેલિયન પૂર્વીય - QLD</item>
+        <item>"ઓસ્ટ્રેલિયન પૂર્વીય -  NSW"</item>
+        <item>માઉન્ટેન સ્ટૅન્ડર્ડ - ડૉવ્સન ક્રીક</item>
+        <item>મધ્ય સ્ટૅન્ડર્ડ - સાસ્કેચમેન</item>
+        <item>ઇસ્ટર્ન સ્ટૅન્ડર્ડ - એટિકોકેન</item>
+        <item>એટલાન્ટિક સ્ટૅન્ડર્ડ - ક્યૂબેક</item>
+        <item>હવાઈ-એલ્યુશિઅન - હવાઈ</item>
+        <item>હવાઈ-એલ્યુશિઅન - અલાસ્કા</item>
+        <item>પેસિફિક સ્ટૅન્ડર્ડ - મેટલાકાટ્લા</item>
+        <item>માઉન્ટેન સ્ટૅન્ડર્ડ - એરિઝોના</item>
+        <item>પેસિફિક - બાજા કેલિફોર્નિયા</item>
+        <item>માઉન્ટેન - ચિહુઆહુઆ</item>
+        <item>સેન્ટ્રલ - ટેમાઉલિપાસ</item>
+        <item>માઉન્ટેન - સોનોરા</item>
+        <item>પૂર્વ આફ્રિકા સમય</item>
+        <item>અટલાન્ટિક સ્ટૅન્ડર્ડ સમય</item>
+        <item>અટલાન્ટિક સ્ટૅન્ડર્ડ સમય</item>
+        <item>પૂર્વી યુરોપિયન સમય</item>
+        <item>કેલાઇનિંગ્રૅડ સમય</item>
+        <item>એમેઝોન - રોન્ડોનિયા</item>
+        <item>બ્રાસિલિયા - પેરા</item>
+    </string-array>
+</resources>

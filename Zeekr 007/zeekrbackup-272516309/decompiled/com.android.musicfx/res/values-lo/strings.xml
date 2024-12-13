@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">ເພີ່ມສຽງເບສ</string>
+    <string name="ci_extreme">FX booster</string>
+    <string name="classical">ຄລາດສິກ</string>
+    <string name="dance">ເຕັ້ນ</string>
+    <string name="eq_dialog_title">ຕົວປັບແຕ່ງສຽງ</string>
+    <string name="flat">ແຟລດ</string>
+    <string name="folk">ໂຟກ</string>
+    <string name="headset_plug">ໃສ່ຫູຟັງສຳລັບເອັບເຟັກເຫຼົ່ານີ້.</string>
+    <string name="heavy_metal">ເຮວີ ເມທັລ</string>
+    <string name="hip_hop">ຮິບ​ຮັອບ</string>
+    <string name="jazz">ແຈສ</string>
+    <string name="no_effects">ບໍ່ສາມາດໃຊ້ເອັບເຟັກໄດ້.</string>
+    <string name="normal">ປົກກະຕິ</string>
+    <string name="picker_title">ແຜງຄວບຄຸມເອັບເຟັກເພງ</string>
+    <string name="pop">ປັອບ</string>
+    <string name="rock">ຣັອກ</string>
+    <string name="setup">ການຕັ້ງຄ່າ</string>
+    <string name="user">ຜູ້ໃຊ້</string>
+    <string name="virtualizer_strength">ສຽງຮອບທິດທາງ</string>
+</resources>

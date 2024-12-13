@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">聯絡人儲存空間</string>
+    <string name="debug_dump_database_message">您即將要 1) 把您的資料庫 (包括所有聯絡人相關資料及所有通話記錄) 複製到內部儲存空間，然後 2) 以電郵寄出。當您成功從裝置複製這個資料庫的副本或收到電子郵件後，別忘記立即刪除這個副本。</string>
+    <string name="debug_dump_delete_button">立即刪除</string>
+    <string name="debug_dump_email_body">附上我的通訊錄資料庫，其中包括我所有的聯絡人資料，請謹慎處理。</string>
+    <string name="debug_dump_email_sender_picker">選擇要傳送檔案的程式</string>
+    <string name="debug_dump_email_subject">附上通訊錄資料庫</string>
+    <string name="debug_dump_start_button">開始</string>
+    <string name="debug_dump_title">複製通訊錄資料庫</string>
+    <string name="default_directory">通訊錄</string>
+    <string name="local_invisible_directory">其他</string>
+    <string name="provider_label">通訊錄</string>
+    <string name="sharedUserLabel">Android 核心應用程式</string>
+    <string name="upgrade_out_of_memory_notification_text">輕按即可完成升級。</string>
+    <string name="upgrade_out_of_memory_notification_ticker">需要更多記憶體才能將通訊錄升級。</string>
+    <string name="upgrade_out_of_memory_notification_title">正在升級通訊錄儲存空間</string>
+    <string name="voicemail_from_column">"留言來自 "</string>
+</resources>

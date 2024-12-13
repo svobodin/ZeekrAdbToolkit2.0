@@ -1,0 +1,1265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="air_car_pm_level">
+        <item>@drawable/icon_air_car_pm_level_1</item>
+        <item>@drawable/icon_air_car_pm_level_2</item>
+        <item>@drawable/icon_air_car_pm_level_3</item>
+        <item>@drawable/icon_air_car_pm_level_4</item>
+        <item>@drawable/icon_air_car_pm_level_5</item>
+        <item>@drawable/icon_air_car_pm_level_6</item>
+        <item>@drawable/icon_air_car_pm_level_0</item>
+    </array>
+    <array name="air_icon_dark">
+        <item>@drawable/drawable_aps_select_off_dark</item>
+        <item>@drawable/drawable_aps_select_on_dark</item>
+    </array>
+    <array name="air_icon_day">
+        <item>@drawable/drawable_aps_select_off</item>
+        <item>@drawable/drawable_aps_select_on</item>
+    </array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Без анимации</item>
+        <item>Анимация 0,5x</item>
+        <item>Анимация 1x</item>
+        <item>Анимация 1,5x</item>
+        <item>Анимация 2x</item>
+        <item>Анимация 5x</item>
+        <item>Анимация 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_values">
+        <item>0</item>
+        <item>.5</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Стандартное ограничение</item>
+        <item>Без фоновых процессов</item>
+        <item>Не более одного процесса</item>
+        <item>Не более 2 процессов</item>
+        <item>Не более 3 процессов</item>
+        <item>Не более 4 процессов</item>
+    </string-array>
+    <string-array name="app_process_limit_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <array name="background_style1">
+        <item>@drawable/rounded_ripple</item>
+    </array>
+    <array name="background_style2">
+        <item>@drawable/left_rounded_ripple</item>
+        <item>@drawable/right_rounded_ripple</item>
+    </array>
+    <array name="background_style3">
+        <item>@drawable/left_rounded_ripple</item>
+        <item>@drawable/square_ripple</item>
+        <item>@drawable/right_rounded_ripple</item>
+    </array>
+    <array name="background_style4">
+        <item>@drawable/left_rounded_ripple</item>
+        <item>@drawable/square_ripple</item>
+        <item>@drawable/square_ripple</item>
+        <item>@drawable/right_rounded_ripple</item>
+    </array>
+    <array name="battery_charging_dark">
+        <item>@drawable/drawable_status_bar_battery_charging_dark_0</item>
+        <item>@drawable/drawable_status_bar_battery_charging_dark_1</item>
+        <item>@drawable/drawable_status_bar_battery_charging_dark_2</item>
+        <item>@drawable/drawable_status_bar_battery_charging_dark_3</item>
+        <item>@drawable/drawable_status_bar_battery_charging_dark_4</item>
+        <item>@drawable/drawable_status_bar_battery_charging_dark_5</item>
+        <item>@drawable/drawable_status_bar_battery_charging_dark_6</item>
+        <item>@drawable/drawable_status_bar_battery_charging_dark_7</item>
+        <item>@drawable/drawable_status_bar_battery_charging_dark_8</item>
+        <item>@drawable/drawable_status_bar_battery_charging_dark_9</item>
+        <item>@drawable/drawable_status_bar_battery_charging_dark_10</item>
+    </array>
+    <array name="battery_charging_day">
+        <item>@drawable/drawable_status_bar_battery_charging_day_0</item>
+        <item>@drawable/drawable_status_bar_battery_charging_day_1</item>
+        <item>@drawable/drawable_status_bar_battery_charging_day_2</item>
+        <item>@drawable/drawable_status_bar_battery_charging_day_3</item>
+        <item>@drawable/drawable_status_bar_battery_charging_day_4</item>
+        <item>@drawable/drawable_status_bar_battery_charging_day_5</item>
+        <item>@drawable/drawable_status_bar_battery_charging_day_6</item>
+        <item>@drawable/drawable_status_bar_battery_charging_day_7</item>
+        <item>@drawable/drawable_status_bar_battery_charging_day_8</item>
+        <item>@drawable/drawable_status_bar_battery_charging_day_9</item>
+        <item>@drawable/drawable_status_bar_battery_charging_day_10</item>
+    </array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <array name="battery_normal_dark">
+        <item>@drawable/drawable_status_bar_battery_normal_dark_0</item>
+        <item>@drawable/drawable_status_bar_battery_normal_dark_1</item>
+        <item>@drawable/drawable_status_bar_battery_normal_dark_2</item>
+        <item>@drawable/drawable_status_bar_battery_normal_dark_3</item>
+        <item>@drawable/drawable_status_bar_battery_normal_dark_4</item>
+        <item>@drawable/drawable_status_bar_battery_normal_dark_5</item>
+        <item>@drawable/drawable_status_bar_battery_normal_dark_6</item>
+        <item>@drawable/drawable_status_bar_battery_normal_dark_7</item>
+        <item>@drawable/drawable_status_bar_battery_normal_dark_8</item>
+        <item>@drawable/drawable_status_bar_battery_normal_dark_9</item>
+        <item>@drawable/drawable_status_bar_battery_normal_dark_10</item>
+    </array>
+    <array name="battery_normal_day">
+        <item>@drawable/drawable_status_bar_battery_normal_day_0</item>
+        <item>@drawable/drawable_status_bar_battery_normal_day_1</item>
+        <item>@drawable/drawable_status_bar_battery_normal_day_2</item>
+        <item>@drawable/drawable_status_bar_battery_normal_day_3</item>
+        <item>@drawable/drawable_status_bar_battery_normal_day_4</item>
+        <item>@drawable/drawable_status_bar_battery_normal_day_5</item>
+        <item>@drawable/drawable_status_bar_battery_normal_day_6</item>
+        <item>@drawable/drawable_status_bar_battery_normal_day_7</item>
+        <item>@drawable/drawable_status_bar_battery_normal_day_8</item>
+        <item>@drawable/drawable_status_bar_battery_normal_day_9</item>
+        <item>@drawable/drawable_status_bar_battery_normal_day_10</item>
+    </array>
+    <string-array name="battery_options">
+        <item>Всегда показывать процент заряда</item>
+        <item>Показывать процент во время зарядки (по умолчанию)</item>
+        <item>Не показывать этот значок</item>
+    </string-array>
+    <integer-array name="batterymeter_bolt_points">
+        <item>73</item>
+        <item>0</item>
+        <item>392</item>
+        <item>0</item>
+        <item>201</item>
+        <item>259</item>
+        <item>442</item>
+        <item>259</item>
+        <item>4</item>
+        <item>703</item>
+        <item>157</item>
+        <item>334</item>
+        <item>0</item>
+        <item>334</item>
+    </integer-array>
+    <integer-array name="batterymeter_color_levels">
+        <item>15</item>
+        <item>100</item>
+    </integer-array>
+    <array name="batterymeter_color_values">
+        <item>?android:colorError</item>
+        <item>@android:color/white</item>
+    </array>
+    <integer-array name="batterymeter_plus_points">
+        <item>3</item>
+        <item>0</item>
+        <item>5</item>
+        <item>0</item>
+        <item>5</item>
+        <item>3</item>
+        <item>8</item>
+        <item>3</item>
+        <item>8</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>8</item>
+        <item>3</item>
+        <item>8</item>
+        <item>3</item>
+        <item>5</item>
+        <item>0</item>
+        <item>5</item>
+        <item>0</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+    </integer-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Выбор системы (по умолчанию)</item>
+        <item>16 бит/отсчет</item>
+        <item>24 бит/отсчет</item>
+        <item>32 бит/отсчет</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Выбор системы (по умолчанию)</item>
+        <item>16 бит/отсчет</item>
+        <item>24 бит/отсчет</item>
+        <item>32 бит/отсчет</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Выбор системы (по умолчанию)</item>
+        <item>Моно</item>
+        <item>Стерео</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Выбор системы (по умолчанию)</item>
+        <item>Моно</item>
+        <item>Стерео</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Оптимизировать качество звука</item>
+        <item>Баланс качества звука и скорости подключения</item>
+        <item>Оптимизировать скорость подключения</item>
+        <item>Лучший возможный результат (адаптивный битрейт)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Оптимизировать качество звука (990/909 Кбит/с)</item>
+        <item>Баланс качества звука и скорости подключения (660/606 кбит/с)</item>
+        <item>Оптимизировать скорость подключения (330/303 Кбит/с)</item>
+        <item>Лучший возможный результат (адаптивный битрейт)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_values">
+        <item>1000</item>
+        <item>1001</item>
+        <item>1002</item>
+        <item>1003</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Выбор системы (по умолчанию)</item>
+        <item>44,1 кГц</item>
+        <item>48 кГц</item>
+        <item>88,2 кГц</item>
+        <item>96 кГц</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Выбор системы (по умолчанию)</item>
+        <item>44,1 кГц</item>
+        <item>48 кГц</item>
+        <item>88,2 кГц</item>
+        <item>96 кГц</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Выбор системы (по умолчанию)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Аудиокодек: Qualcomm® aptX™</item>
+        <item>Аудиокодек: Qualcomm® aptX™ HD</item>
+        <item>LDAC</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Выбор системы (по умолчанию)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Аудиокодек: Qualcomm® aptX™</item>
+        <item>Аудиокодек: Qualcomm® aptX™ HD</item>
+        <item>LDAC</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_values">
+        <item>1000000</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, активно</item>
+        <item>, активно (A2DP)</item>
+        <item>, активно (HSP/HFP)</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_version_values">
+        <item>avrcp15</item>
+        <item>avrcp13</item>
+        <item>avrcp14</item>
+        <item>avrcp16</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.5 (по умолчанию)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.4</item>
+        <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bluetooth_map_version_values">
+        <item>map12</item>
+        <item>map13</item>
+        <item>map14</item>
+    </string-array>
+    <string-array name="bluetooth_map_versions">
+        <item>MAP 1.2 (по умолчанию)</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
+    </string-array>
+    <integer-array name="branch_integer_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </integer-array>
+    <string-array name="branch_string_array">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Отключено</item>
+        <item>Включены фильтры</item>
+        <item>Включено</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_values">
+        <item>disabled</item>
+        <item>filtered</item>
+        <item>full</item>
+    </string-array>
+    <array name="bt_icon_bg_colors">
+        <item>@color/bt_color_bg_1</item>
+        <item>@color/bt_color_bg_2</item>
+        <item>@color/bt_color_bg_3</item>
+        <item>@color/bt_color_bg_4</item>
+        <item>@color/bt_color_bg_5</item>
+        <item>@color/bt_color_bg_6</item>
+        <item>@color/bt_color_bg_7</item>
+    </array>
+    <array name="bt_icon_fg_colors">
+        <item>@color/bt_color_icon_1</item>
+        <item>@color/bt_color_icon_2</item>
+        <item>@color/bt_color_icon_3</item>
+        <item>@color/bt_color_icon_4</item>
+        <item>@color/bt_color_icon_5</item>
+        <item>@color/bt_color_icon_6</item>
+        <item>@color/bt_color_icon_7</item>
+    </array>
+    <string-array name="cached_apps_freezer_entries">
+        <item>@string/cached_apps_freezer_device_default</item>
+        <item>@string/cached_apps_freezer_enabled</item>
+        <item>@string/cached_apps_freezer_disabled</item>
+    </string-array>
+    <string-array name="cached_apps_freezer_values">
+        <item>device_default</item>
+        <item>enabled</item>
+        <item>disabled</item>
+    </string-array>
+    <string-array name="chinese_zodiac_array">
+        <item>Год Петуха</item>
+        <item>Год Собаки</item>
+        <item>Год Кабана</item>
+        <item>Год Крысы</item>
+        <item>Год Быка</item>
+        <item>Год Тигра</item>
+        <item>Год Зайца</item>
+        <item>Год Дракона</item>
+        <item>Год Змеи</item>
+        <item>Год Лошади</item>
+        <item>Год Овцы</item>
+        <item>Год Обезьяны</item>
+    </string-array>
+    <string-array name="clock_options">
+        <item>Часы, минуты и секунды</item>
+        <item>Часы и минуты (по умолчанию)</item>
+        <item>Не показывать этот значок</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Улучшенные цвета</item>
+        <item>Натуральные цвета, привычные глазу</item>
+        <item>Цвета, оптимизированные для цифрового контента</item>
+    </string-array>
+    <integer-array name="color_mode_ids">
+        <item>0</item>
+        <item>-1</item>
+        <item>7</item>
+    </integer-array>
+    <string-array name="color_mode_names">
+        <item>Насыщенный (по умолчанию)</item>
+        <item>Естественный</item>
+        <item>Стандартный</item>
+    </string-array>
+    <integer-array name="config_cameraLaunchGestureVibePattern">
+        <item>0</item>
+        <item>400</item>
+    </integer-array>
+    <string-array name="config_carSystemUIOverlayViewsMediators">
+        <item>@string/config_notificationPanelViewMediator</item>
+    </string-array>
+    <array name="config_controlsPreferredPackages" />
+    <integer-array name="config_doze_brightness_sensor_to_brightness">
+        <item>-1</item>
+        <item>2</item>
+        <item>5</item>
+        <item>27</item>
+        <item>28</item>
+    </integer-array>
+    <integer-array name="config_doze_brightness_sensor_to_scrim_opacity">
+        <item>-1</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <array name="config_face_auth_props" />
+    <integer-array name="config_notification_snooze_times">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+    </integer-array>
+    <string-array name="config_pluginWhitelist">
+        <item>com.android.systemui</item>
+    </string-array>
+    <string-array name="config_quickSettingsAutoAdd">
+        <item>accessibility_display_inversion_enabled:inversion</item>
+    </string-array>
+    <array name="config_roundedCornerBottomDrawableArray">
+        <item>@drawable/rounded_corner_bottom</item>
+        <item>@drawable/rounded_corner_bottom_secondary</item>
+    </array>
+    <array name="config_roundedCornerDrawableArray">
+        <item>@drawable/rounded</item>
+        <item>@drawable/rounded_secondary</item>
+    </array>
+    <array name="config_roundedCornerMultipleRadiusArray">
+        <item>@bool/config_roundedCornerMultipleRadius</item>
+        <item>@bool/config_roundedCornerMultipleRadiusSecondary</item>
+    </array>
+    <array name="config_roundedCornerTopDrawableArray">
+        <item>@drawable/rounded_corner_top</item>
+        <item>@drawable/rounded_corner_top_secondary</item>
+    </array>
+    <array name="config_statusBarIconsToExclude">
+        <item>@android:string/policylab_limitPassword</item>
+        <item>@android:string/policydesc_limitPassword</item>
+    </array>
+    <string-array name="config_systemUIServiceComponents">
+        <item>com.android.systemui.util.NotificationChannels</item>
+        <item>com.android.systemui.keyguard.KeyguardViewMediator</item>
+        <item>com.android.systemui.recents.Recents</item>
+        <item>com.android.systemui.volume.VolumeUI</item>
+        <item>com.android.systemui.statusbar.phone.StatusBar</item>
+        <item>com.android.systemui.usb.StorageNotification</item>
+        <item>com.android.systemui.power.PowerUI</item>
+        <item>com.android.systemui.media.RingtonePlayer</item>
+        <item>com.android.systemui.keyboard.KeyboardUI</item>
+        <item>com.android.systemui.shortcut.ShortcutKeyDispatcher</item>
+        <item>@string/config_systemUIVendorServiceComponent</item>
+        <item>com.android.systemui.util.leak.GarbageMonitor$Service</item>
+        <item>com.android.systemui.LatencyTester</item>
+        <item>com.android.systemui.globalactions.GlobalActionsComponent</item>
+        <item>com.android.systemui.ScreenDecorations</item>
+        <item>com.android.systemui.biometrics.AuthController</item>
+        <item>com.android.systemui.SliceBroadcastRelayHandler</item>
+        <item>com.android.systemui.statusbar.notification.InstantAppNotifier</item>
+        <item>com.android.systemui.theme.ThemeOverlayController</item>
+        <item>com.android.systemui.accessibility.WindowMagnification</item>
+        <item>com.android.systemui.accessibility.SystemActions</item>
+        <item>com.android.systemui.toast.ToastUI</item>
+        <item>com.android.systemui.wmshell.WMShell</item>
+    </string-array>
+    <string-array name="config_systemUIServiceComponentsExclude">
+        <item>com.android.systemui.util.NotificationChannels</item>
+        <item>com.android.systemui.volume.VolumeUI</item>
+        <item>com.android.systemui.power.PowerUI</item>
+        <item>com.android.systemui.media.RingtonePlayer</item>
+        <item>com.android.systemui.keyboard.KeyboardUI</item>
+        <item>com.android.systemui.shortcut.ShortcutKeyDispatcher</item>
+        <item>com.android.systemui.globalactions.GlobalActionsComponent</item>
+        <item>com.android.systemui.recents.Recents</item>
+        <item>com.android.systemui.LatencyTester</item>
+        <item>com.android.systemui.SliceBroadcastRelayHandler</item>
+        <item>com.android.systemui.statusbar.notification.InstantAppNotifier</item>
+        <item>com.android.systemui.accessibility.WindowMagnification</item>
+        <item>com.android.systemui.accessibility.SystemActions</item>
+        <item>com.android.systemui.statusbar.phone.StatusBar</item>
+    </string-array>
+    <string-array name="config_systemUIServiceComponentsInclude">
+        <item>com.zeekr.systemui.statusbar.pma.StatusBarForPMA</item>
+        <item>com.android.car.window.SystemUiOverlayWindowManager</item>
+        <item>com.zeekr.systemui.statusbar.multi.MultiScreenDock</item>
+    </string-array>
+    <string-array name="config_systemUIServiceComponentsPerUser">
+        <item>com.android.systemui.util.NotificationChannels</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Отключено</item>
+        <item>Показывать области наложения</item>
+        <item>Выделять области определенного цвета</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_values">
+        <item>false</item>
+        <item>show</item>
+        <item>show_deuteranomaly</item>
+    </string-array>
+    <array name="doze_brightness_sensor_name_posture_mapping" />
+    <integer-array name="doze_single_tap_uses_prox_posture_mapping">
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+    </integer-array>
+    <array name="dvr_state_icon">
+        <item>@drawable/drawable_dvr_select_stop</item>
+        <item>@drawable/drawable_dvr_select_start</item>
+        <item>@drawable/drawable_dvr_select_stop</item>
+        <item>@drawable/drawable_dvr_select_ergent</item>
+        <item>@drawable/drawable_dvr_select_error</item>
+        <item>@drawable/drawable_dvr_select_prepare</item>
+    </array>
+    <array name="dvr_state_icon_dark">
+        <item>@drawable/drawable_dvr_select_stop_dark</item>
+        <item>@drawable/drawable_dvr_select_start_dark</item>
+        <item>@drawable/drawable_dvr_select_stop_dark</item>
+        <item>@drawable/drawable_dvr_select_ergent_dark</item>
+        <item>@drawable/drawable_dvr_select_error_dark</item>
+        <item>@drawable/drawable_dvr_select_prepare_dark</item>
+    </array>
+    <string-array name="dvr_tips">
+        <item>Video capture system failed!</item>
+        <item>Recording failed. DVR cannot record and take pictures!</item>
+        <item>AVM error. DVR cannot save panoramic image!</item>
+        <item>Slow DVR U disk write speed. It is recommended to format to recover the speed</item>
+        <item>DVR cannot work because U disk is not inserted.</item>
+        <item>DVR cannot work because U disk cannot be written. Please replace U disk</item>
+        <item>U disk does not meet the requirements of the DVR. Please use U disk with storage capacity >128GB and speed >10Mb/s</item>
+        <item>Available space of DVR is less than 64G. DVR cannot record or take photos. Please clear excess private space</item>
+        <item>Please wait Check recording</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Нет</item>
+        <item>Logcat</item>
+        <item>Systrace (графика)</item>
+        <item>Список вызовов в glGetError</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_values">
+        <item>0</item>
+        <item>1</item>
+        <item>systrace</item>
+        <item>error</item>
+    </string-array>
+    <string-array name="event_track_scene_mode">
+        <item>Отдых</item>
+        <item>Мойка</item>
+        <item>Питомец</item>
+        <item>Кемпинг</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Не использовать проверку HDCP</item>
+        <item>Использовать проверку HDCP только для DRM-контента</item>
+        <item>Всегда использовать проверку HDCP</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Никогда не проверять</item>
+        <item>Проверять только DRM-контент</item>
+        <item>Всегда проверять</item>
+    </string-array>
+    <string-array name="hdcp_checking_values">
+        <item>never</item>
+        <item>drm-only</item>
+        <item>always</item>
+    </string-array>
+    <string-array name="lockscreen_num_pad_klondike">
+        <item>+</item>
+        <item></item>
+        <item>ABC</item>
+        <item>DEF</item>
+        <item>GHI</item>
+        <item>JKL</item>
+        <item>MNO</item>
+        <item>PQRS</item>
+        <item>TUV</item>
+        <item>WXYZ</item>
+    </string-array>
+    <string-array name="lunar_first_of_month">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+    <string-array name="lunar_str">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="month_string_array">
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="nav_bar_button_values">
+        <item>clipboard</item>
+        <item>key</item>
+        <item>menu_ime</item>
+        <item>space</item>
+    </string-array>
+    <string-array name="nav_bar_buttons">
+        <item>Буфер обмена</item>
+        <item>Код клавиши</item>
+        <item>Подтвердить поворот, переключить раскладку</item>
+        <item>Нет</item>
+    </string-array>
+    <string-array name="nav_bar_layouts">
+        <item>Обычная</item>
+        <item>Компактная</item>
+        <item>Со сдвигом влево</item>
+        <item>Со сдвигом вправо</item>
+    </string-array>
+    <string-array name="nav_bar_layouts_values">
+        <item>default</item>
+        <item>left;back,home,recent;right</item>
+        <item>left,back,home,recent,right;space;space</item>
+        <item>space;space;left,back,home,recent,right</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Нет</item>
+        <item>480p</item>
+        <item>480p (защита)</item>
+        <item>720p</item>
+        <item>720p (защита)</item>
+        <item>1080p</item>
+        <item>1080p (защита)</item>
+        <item>4K</item>
+        <item>4K (защита)</item>
+        <item>4K (масштабирование)</item>
+        <item>4K (масштабирование, защита)</item>
+        <item>720p, 1080p (два экрана)</item>
+    </string-array>
+    <string-array name="overlay_display_devices_values">
+        <item></item>
+        <item>720x480/142</item>
+        <item>720x480/142,secure</item>
+        <item>1280x720/213</item>
+        <item>1280x720/213,secure</item>
+        <item>1920x1080/320</item>
+        <item>1920x1080/320,secure</item>
+        <item>3840x2160/320</item>
+        <item>3840x2160/320,secure</item>
+        <item>1920x1080/320|3840x2160/640</item>
+        <item>1920x1080/320|3840x2160/640,secure</item>
+        <item>1280x720/213;1920x1080/320</item>
+    </string-array>
+    <array name="proximity_sensor_posture_mapping" />
+    <array name="proximity_sensor_secondary_posture_mapping" />
+    <array name="satellite_icon_signal_dark">
+        <item>@drawable/ic_status_satellite_state_sleep_dark</item>
+        <item>@drawable/ic_status_satellite_level_dark_1</item>
+        <item>@drawable/ic_status_satellite_level_dark_2</item>
+        <item>@drawable/ic_status_satellite_level_dark_3</item>
+        <item>@drawable/ic_status_satellite_level_dark_4</item>
+        <item>@drawable/ic_status_satellite_state_error_dark</item>
+    </array>
+    <array name="satellite_icon_signal_day">
+        <item>@drawable/ic_status_satellite_state_sleep</item>
+        <item>@drawable/ic_status_satellite_level_1</item>
+        <item>@drawable/ic_status_satellite_level_2</item>
+        <item>@drawable/ic_status_satellite_level_3</item>
+        <item>@drawable/ic_status_satellite_level_4</item>
+        <item>@drawable/ic_status_satellite_state_error</item>
+    </array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Отключено</item>
+        <item>64 КБ</item>
+        <item>256 КБ</item>
+        <item>1 МБ</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Отключено</item>
+        <item>Буфер: макс. 64 КБ</item>
+        <item>Буфер: макс. 256 КБ</item>
+        <item>Буфер: макс. 1 МБ</item>
+        <item>Буфер: макс. 4 МБ</item>
+        <item>Буфер: максимум 8 МБ</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Отключено</item>
+        <item>64 КБ</item>
+        <item>256 КБ</item>
+        <item>1 МБ</item>
+        <item>4 МБ</item>
+        <item>8 МБ</item>
+    </string-array>
+    <string-array name="select_logd_size_values">
+        <item>32768</item>
+        <item>65536</item>
+        <item>262144</item>
+        <item>1048576</item>
+        <item>4194304</item>
+        <item>8388608</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Отключено</item>
+        <item>Все буферы журналов</item>
+        <item>Все, кроме буферов системного журнала</item>
+        <item>только буфер журнала ядра</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Отключено</item>
+        <item>Все</item>
+        <item>Все, кроме системных</item>
+        <item>только ядро</item>
+    </string-array>
+    <string-array name="select_logpersist_values">
+        <item></item>
+        <item>all</item>
+        <item>default,security,kernel</item>
+        <item>kernel</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Отключено</item>
+        <item>Непрямоугольное усечение синим</item>
+        <item>Тест. команды рисования зеленым</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_values">
+        <item>hide</item>
+        <item>region</item>
+        <item>highlight</item>
+    </string-array>
+    <array name="signal_icon_2g_dark">
+        <item>@drawable/ic_connectivity_signalstrength_2g_0_dark</item>
+        <item>@drawable/ic_connectivity_signalstrength_2g_1_dark</item>
+        <item>@drawable/ic_connectivity_signalstrength_2g_2_dark</item>
+        <item>@drawable/ic_connectivity_signalstrength_2g_3_dark</item>
+        <item>@drawable/ic_connectivity_signalstrength_2g_4_dark</item>
+        <item>@drawable/ic_connectivity_signalstrength_no_dark</item>
+    </array>
+    <array name="signal_icon_2g_day">
+        <item>@drawable/ic_connectivity_signalstrength_2g_0_day</item>
+        <item>@drawable/ic_connectivity_signalstrength_2g_1_day</item>
+        <item>@drawable/ic_connectivity_signalstrength_2g_2_day</item>
+        <item>@drawable/ic_connectivity_signalstrength_2g_3_day</item>
+        <item>@drawable/ic_connectivity_signalstrength_2g_4_day</item>
+        <item>@drawable/ic_connectivity_signalstrength_no_day</item>
+    </array>
+    <array name="signal_icon_3g_dark">
+        <item>@drawable/ic_connectivity_signalstrength_3g_0_dark</item>
+        <item>@drawable/ic_connectivity_signalstrength_3g_1_dark</item>
+        <item>@drawable/ic_connectivity_signalstrength_3g_2_dark</item>
+        <item>@drawable/ic_connectivity_signalstrength_3g_3_dark</item>
+        <item>@drawable/ic_connectivity_signalstrength_3g_4_dark</item>
+        <item>@drawable/ic_connectivity_signalstrength_no_dark</item>
+    </array>
+    <array name="signal_icon_3g_day">
+        <item>@drawable/ic_connectivity_signalstrength_3g_0_day</item>
+        <item>@drawable/ic_connectivity_signalstrength_3g_1_day</item>
+        <item>@drawable/ic_connectivity_signalstrength_3g_2_day</item>
+        <item>@drawable/ic_connectivity_signalstrength_3g_3_day</item>
+        <item>@drawable/ic_connectivity_signalstrength_3g_4_day</item>
+        <item>@drawable/ic_connectivity_signalstrength_no_day</item>
+    </array>
+    <array name="signal_icon_4g_dark">
+        <item>@drawable/ic_connectivity_signalstrength_4g_0_dark</item>
+        <item>@drawable/ic_connectivity_signalstrength_4g_1_dark</item>
+        <item>@drawable/ic_connectivity_signalstrength_4g_2_dark</item>
+        <item>@drawable/ic_connectivity_signalstrength_4g_3_dark</item>
+        <item>@drawable/ic_connectivity_signalstrength_4g_4_dark</item>
+        <item>@drawable/ic_connectivity_signalstrength_no_dark</item>
+    </array>
+    <array name="signal_icon_4g_day">
+        <item>@drawable/ic_connectivity_signalstrength_4g_0_day</item>
+        <item>@drawable/ic_connectivity_signalstrength_4g_1_day</item>
+        <item>@drawable/ic_connectivity_signalstrength_4g_2_day</item>
+        <item>@drawable/ic_connectivity_signalstrength_4g_3_day</item>
+        <item>@drawable/ic_connectivity_signalstrength_4g_4_day</item>
+        <item>@drawable/ic_connectivity_signalstrength_no_day</item>
+    </array>
+    <array name="signal_icon_4g_plus_dark">
+        <item>@drawable/ic_connectivity_signalstrength_4g_plus_0_dark</item>
+        <item>@drawable/ic_connectivity_signalstrength_4g_plus_1_dark</item>
+        <item>@drawable/ic_connectivity_signalstrength_4g_plus_2_dark</item>
+        <item>@drawable/ic_connectivity_signalstrength_4g_plus_3_dark</item>
+        <item>@drawable/ic_connectivity_signalstrength_4g_plus_4_dark</item>
+        <item>@drawable/ic_connectivity_signalstrength_no_dark</item>
+    </array>
+    <array name="signal_icon_4g_plus_day">
+        <item>@drawable/ic_connectivity_signalstrength_4g_plus_0_day</item>
+        <item>@drawable/ic_connectivity_signalstrength_4g_plus_1_day</item>
+        <item>@drawable/ic_connectivity_signalstrength_4g_plus_2_day</item>
+        <item>@drawable/ic_connectivity_signalstrength_4g_plus_3_day</item>
+        <item>@drawable/ic_connectivity_signalstrength_4g_plus_4_day</item>
+        <item>@drawable/ic_connectivity_signalstrength_no_day</item>
+    </array>
+    <array name="signal_icon_5g_dark">
+        <item>@drawable/ic_connectivity_signalstrength_5g_0_dark</item>
+        <item>@drawable/ic_connectivity_signalstrength_5g_1_dark</item>
+        <item>@drawable/ic_connectivity_signalstrength_5g_2_dark</item>
+        <item>@drawable/ic_connectivity_signalstrength_5g_3_dark</item>
+        <item>@drawable/ic_connectivity_signalstrength_5g_4_dark</item>
+        <item>@drawable/ic_connectivity_signalstrength_no_dark</item>
+    </array>
+    <array name="signal_icon_5g_day">
+        <item>@drawable/ic_connectivity_signalstrength_5g_0_day</item>
+        <item>@drawable/ic_connectivity_signalstrength_5g_1_day</item>
+        <item>@drawable/ic_connectivity_signalstrength_5g_2_day</item>
+        <item>@drawable/ic_connectivity_signalstrength_5g_3_day</item>
+        <item>@drawable/ic_connectivity_signalstrength_5g_4_day</item>
+        <item>@drawable/ic_connectivity_signalstrength_no_day</item>
+    </array>
+    <string-array name="simulate_color_space_entries">
+        <item>@string/daltonizer_mode_disabled</item>
+        <item>@string/daltonizer_mode_monochromacy</item>
+        <item>@string/daltonizer_mode_deuteranomaly</item>
+        <item>@string/daltonizer_mode_protanomaly</item>
+        <item>@string/daltonizer_mode_tritanomaly</item>
+    </string-array>
+    <string-array name="simulate_color_space_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="solar_festival">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="solar_term">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="special_festivals">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="status_bar_air_quality">
+        <item>Чисто</item>
+        <item>Хорошо</item>
+        <item>Норма</item>
+        <item>Пыльно</item>
+        <item>Грязно</item>
+        <item>Ужасно</item>
+        <item>Нет</item>
+    </string-array>
+    <string-array name="tile_states_airplane">
+        <item>Функция недоступна</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_alarm">
+        <item>Функция недоступна</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_battery">
+        <item>Функция недоступна</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_bt">
+        <item>Функция недоступна</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_cameratoggle">
+        <item>Функция недоступна</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_cast">
+        <item>Функция недоступна</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_cell">
+        <item>Функция недоступна</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_controls">
+        <item>Функция недоступна</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_dark">
+        <item>Функция недоступна</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_default">
+        <item>@string/tile_unavailable</item>
+        <item>@string/switch_bar_off</item>
+        <item>@string/switch_bar_on</item>
+    </string-array>
+    <string-array name="tile_states_dnd">
+        <item>Функция недоступна</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_flashlight">
+        <item>Функция недоступна</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_hotspot">
+        <item>Функция недоступна</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_internet">
+        <item>Функция недоступна</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_inversion">
+        <item>Функция недоступна</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_location">
+        <item>Функция недоступна</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_mictoggle">
+        <item>Функция недоступна</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_night">
+        <item>Функция недоступна</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_reduce_brightness">
+        <item>Функция недоступна</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_reverse">
+        <item>Функция недоступна</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_rotation">
+        <item>Функция недоступна</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_saver">
+        <item>Функция недоступна</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_screenrecord">
+        <item>Функция недоступна</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_wallet">
+        <item>Функция недоступна</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_wifi">
+        <item>Функция недоступна</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_work">
+        <item>Функция недоступна</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Отключено</item>
+        <item>На экране в виде полос</item>
+        <item>В adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="track_frame_time_values">
+        <item>false</item>
+        <item>visual_bars</item>
+        <item>true</item>
+    </string-array>
+    <string-array name="tradition_festival">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Без анимации</item>
+        <item>Анимация 0,5x</item>
+        <item>Анимация 1x</item>
+        <item>Анимация 1,5x</item>
+        <item>Анимация 2x</item>
+        <item>Анимация 5x</item>
+        <item>Анимация 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_values">
+        <item>0</item>
+        <item>.5</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <integer-array name="trunk_integer_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </integer-array>
+    <string-array name="trunk_string_array">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="tts_demo_string_langs">
+        <item>eng</item>
+        <item>fra</item>
+        <item>deu</item>
+        <item>ita</item>
+        <item>spa</item>
+        <item>kor</item>
+    </string-array>
+    <string-array name="tts_demo_strings">
+        <item>This is an example of speech synthesis in English.</item>
+        <item>Voici un échantillon de synthèse vocale en français.</item>
+        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
+        <item>Questo è un esempio di sintesi vocale in italiano.</item>
+        <item>Este es un ejemplo de síntesis de voz en español.</item>
+        <item>이것은 한국어 음성 합성의 예입니다.</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Очень медленная</item>
+        <item>Медленная</item>
+        <item>Обычная</item>
+        <item>Умеренно быстрая</item>
+        <item>Быстрая</item>
+        <item>Очень быстрая</item>
+        <item>Ускоренная</item>
+        <item>Сильно ускоренная</item>
+        <item>Максимальная</item>
+    </string-array>
+    <string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>Зарядка</item>
+        <item>MTP</item>
+        <item>PTP</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Источник аудио</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="usb_configuration_values">
+        <item>none</item>
+        <item>mtp</item>
+        <item>ptp</item>
+        <item>rndis</item>
+        <item>audio_source</item>
+        <item>midi</item>
+    </string-array>
+    <string-array name="week_string_array">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Поиск...</item>
+        <item>Подключение...</item>
+        <item>Аутентификация...</item>
+        <item>Получение IP-адреса...</item>
+        <item>Подключено</item>
+        <item>Приостановлено</item>
+        <item>Отключение...</item>
+        <item>Нет подключения</item>
+        <item>Сбой</item>
+        <item>Заблокировано</item>
+        <item>Временно избегать плохого соединения</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Поиск...</item>
+        <item>Соединение с сетью %1$s…</item>
+        <item>Аутентификация в сети %1$s...</item>
+        <item>Получение IP-адреса от %1$s…</item>
+        <item>Подключено к %1$s</item>
+        <item>Приостановлено</item>
+        <item>Отключение от %1$s…</item>
+        <item>Нет подключения</item>
+        <item>Сбой</item>
+        <item>Заблокировано</item>
+        <item>Временно избегать плохого соединения</item>
+    </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>Поиск…</item>
+        <item>Подключение…</item>
+        <item>Аутентификация…</item>
+        <item>Получение IP-адреса…</item>
+        <item>Подключено</item>
+        <item>Приостановлено</item>
+        <item>Отключение…</item>
+        <item>Не подключено</item>
+        <item>Сбой</item>
+        <item>Заблокировано</item>
+        <item>Временно отключено из-за плохого соединения</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Без анимации</item>
+        <item>Анимация 0,5x</item>
+        <item>Анимация 1x</item>
+        <item>Анимация 1,5x</item>
+        <item>Анимация 2x</item>
+        <item>Анимация 5x</item>
+        <item>Анимация 10x</item>
+    </string-array>
+    <string-array name="window_animation_scale_values">
+        <item>0</item>
+        <item>.5</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="year_view_week_string_array">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+</resources>

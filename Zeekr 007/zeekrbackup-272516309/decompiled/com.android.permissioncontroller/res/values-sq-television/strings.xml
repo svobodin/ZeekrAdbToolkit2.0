@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="current_permission_template">%1$s / %2$s</string>
+    <string name="additional_permissions_decor_title">Lejet shtesë</string>
+    <string name="app_permissions_decor_title">Lejet e aplikacionit</string>
+    <string name="grant_dialog_button_deny_dont_ask_again">Refuzo dhe mos pyet përsëri</string>
+    <string name="grant_dialog_how_to_change">Këtë mund ta ndryshosh më vonë te Cilësimet > Aplikacionet</string>
+    <string name="manage_permissions_decor_title">Lejet e aplikacionit</string>
+    <string name="permission_apps_decor_title">Lejet për %1$s</string>
+    <string name="preference_show_system_apps">Shfaq aplikacionet e sistemit</string>
+    <string name="system_apps_decor_title">Lejet për %1$s</string>
+</resources>

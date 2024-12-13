@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Opslag contacten</string>
+    <string name="debug_dump_database_message">Je staat op het punt 1) een kopie van je database met alle contactgegevens en oproeplogboeken te maken in de interne opslag, en 2) deze te e-mailen. Verwijder de kopie zodra je deze van het apparaat hebt gekopieerd of de e-mail is ontvangen.</string>
+    <string name="debug_dump_delete_button">Nu verwijderen</string>
+    <string name="debug_dump_email_body">Bijgevoegd is mijn contactendatabase met al mijn contactgegevens. Ga hier zorgvuldig mee om.</string>
+    <string name="debug_dump_email_sender_picker">Selecteer een programma om je bestand te verzenden</string>
+    <string name="debug_dump_email_subject">Contactendatabase bijgevoegd</string>
+    <string name="debug_dump_start_button">Starten</string>
+    <string name="debug_dump_title">Contactendatabase kopiëren</string>
+    <string name="default_directory">Contacten</string>
+    <string name="local_invisible_directory">Overig</string>
+    <string name="provider_label">Contacten</string>
+    <string name="sharedUserLabel">Kernapps van Android</string>
+    <string name="upgrade_out_of_memory_notification_text">Tik om de upgrade te voltooien.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Voor het bijwerken van contacten is meer geheugen nodig.</string>
+    <string name="upgrade_out_of_memory_notification_title">Opslag voor contacten bijwerken</string>
+    <string name="voicemail_from_column">"Voicemail van "</string>
+</resources>

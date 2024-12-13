@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Gestor de baixades</string>
+    <string name="button_cancel_download">Cancel·la</string>
+    <string name="button_queue_for_wifi">Cua</string>
+    <string name="button_start_now">Inicia ara</string>
+    <string name="download_error">Incorrecte</string>
+    <string name="download_no_application_title">No es pot obrir el fitxer</string>
+    <string name="download_queued">En cua</string>
+    <string name="download_remaining">Temps restant: %s</string>
+    <string name="download_running">En curs</string>
+    <string name="download_running_percent">En curs, %s</string>
+    <string name="download_unknown_title">&lt;Sense títol></string>
+    <string name="notification_download_complete">Baixada completa.</string>
+    <string name="notification_download_failed">Baixada incorrecta.</string>
+    <string name="notification_need_wifi_for_size">Mida baixad. req. Wi-Fi.</string>
+    <string name="notification_paused_in_background">Posada en pausa de fons.</string>
+    <string name="permdesc_accessAllDownloads">"Permet que l'aplicació consulti i modifiqui totes les baixades iniciades per una aplicació al sistema."</string>
+    <string name="permdesc_downloadCacheNonPurgeable">"Permet que l'aplicació baixi fitxers a la memòria cau de baixada que no es poden suprimir automàticament quan el gestor de baixades necessita més espai."</string>
+    <string name="permdesc_downloadCompletedIntent">"Permet que l'aplicació enviï notificacions sobre les baixades completades. Les aplicacions malicioses poden fer-ho servir per confondre altres aplicacions que baixen fitxers."</string>
+    <string name="permdesc_downloadManager">"Permet que l'aplicació accedeixi al gestor de baixades i que el faci servir per baixar fitxers. Les aplicacions malicioses poden fer-ho servir per interrompre baixades i per accedir a informació privada."</string>
+    <string name="permdesc_downloadManagerAdvanced">"Permet que l'aplicació accedeixi a les funcions avançades del gestor de baixades. Les aplicacions malicioses poden fer-ho servir per interrompre les baixades i per accedir a informació privada."</string>
+    <string name="permdesc_downloadWithoutNotification">"Permet que l'aplicació baixi fitxers mitjançant el gestor de baixades sense que l'usuari en rebi cap notificació."</string>
+    <string name="permlab_accessAllDownloads">Accedeix a totes les baixades del sistema</string>
+    <string name="permlab_downloadCacheNonPurgeable">Reserva espai a la memòria cau de baixada</string>
+    <string name="permlab_downloadCompletedIntent">Envia notificacions de baixades.</string>
+    <string name="permlab_downloadManager">Accediu al gestor de baixades.</string>
+    <string name="permlab_downloadManagerAdvanced">Funcions avançades del gestor de baixades.</string>
+    <string name="permlab_downloadWithoutNotification">baixa fitxers sense notificació</string>
+    <string name="root_downloads">Baixades</string>
+    <string name="storage_description">Baixades</string>
+    <string name="wifi_recommended_body">"Si inic. la baixada (%1$s ), pot escurçar-se la durada de la bat. i/o fer-se ús excessiu de la conn. de dades mòb., amb càrrecs de l'oper. segons el pla de dades.
+
+ Toca %2$s per inic. baix. quan hi hagi Wi-Fi."</string>
+    <string name="wifi_recommended_title">Vols posar-lo en cua per baixar-lo més tard?</string>
+    <string name="wifi_required_body">"Has de fer servir Wi-Fi per completar aquesta baixada de %1$s . 
+
+Toca %2$s  per iniciar aquesta baixada la propera vegada que estiguis connectat a una xarxa Wi-Fi."</string>
+    <string name="wifi_required_title">"Baixada massa gran per a la xarxa de l'operador"</string>
+</resources>

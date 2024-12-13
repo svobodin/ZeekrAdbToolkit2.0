@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s : Verizon কভারেজ এলাকার বাইরে আপনি Verizon Wi-Fi Access-এর সাথে কানেক্ট করতে পারবেন না।</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s : আপনি Verizon Wi-Fi Access সাবস্ক্রাইব করেননি। ৮০০-৯২২-০২০৪ নম্বরে যোগাযোগ করুন।</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s : আপনার Verizon Wi-Fi Access অ্যাকাউন্ট নিয়ে কোনও সমস্যা হয়েছে। ৮০০-৯২২-০২০৪ নম্বরে যোগাযোগ করুন।</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s : আপনি আগে থেকে Verizon Wi-Fi Access-এর সাথে কানেক্ট করেছেন।</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s : আপনার Verizon Wi-Fi Access-এর সাথে কানেক্ট করতে কোনও সমস্যা হয়েছে। ৮০০-৯২২-০২০৪ নম্বরে যোগাযোগ করুন।</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s : আপনার Verizon Wi-Fi Access অ্যাকাউন্ট নিয়ে কোনও সমস্যা হয়েছে। ৮০০-৯২২-০২০৪ নম্বরে যোগাযোগ করুন।</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s : আপনার লোকেশনে Verizon Wi-Fi Access উপলভ্য নেই। পরে আবার চেষ্টা করুন বা অন্য লোকেশন থেকে চেষ্টা করুন।</string>
+</resources>

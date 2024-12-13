@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ቀፎ</string>
+    <string name="bugreport_add_details_to_zip_failed">የሳንካ ሪፖርት ዝርዝሮችን ወደ ዚፕ ፋይል ማከል አልተቻለም</string>
+    <string name="bugreport_confirm">የሳንካ ሪፖርቶች ከተለያዩ የስርዓቱ የምዝግብ ማስታወሻ ፋይሎች የመጣ ውሂብ ይዘዋል፣ እነዚህም እርስዎ ሚስጥራዊነት ያለው ብለው የሚቆጥሯቸው (እንደ የመተግበሪያ አጠቃቀም እና የአካባቢ ውሂብ ያለ) ሊያካትቱ ይችላሉ። የሳንካ ሪፖርቶች ለሚያምኗቸው ሰዎች እና መተግበሪያዎች ብቻ ያጋሩ።</string>
+    <string name="bugreport_confirm_dont_repeat">ዳግም አታሳይ</string>
+    <string name="bugreport_finished_pending_screenshot_text">የእርስዎን የሳንካ ሪፖርት ያለ ቅጽበታዊ ማያ ገጽ ለማጋራት መታ ያድርጉ ወይም ቅጽበታዊ ማያ ገጹ እስኪጨርስ ይጠብቁ</string>
+    <string name="bugreport_finished_text">የሳንካ ሪፖርትዎን ለማጋራት መታ ያድርጉ</string>
+    <string name="bugreport_finished_title">የሳንካ ሪፖርት #%d ተወስዷል</string>
+    <string name="bugreport_in_progress_title">የሳንካ ሪፖርት #%d እየተመነጨ ነው</string>
+    <string name="bugreport_info_action">ዝርዝሮች</string>
+    <string name="bugreport_info_description">የሳንካ ማጠቃለያ</string>
+    <string name="bugreport_info_dialog_title">የሳንካ ሪፖርት #%d ዝርዝሮች</string>
+    <string name="bugreport_info_name">የፋይል ስም</string>
+    <string name="bugreport_info_title">የሳንካ ርዕስ</string>
+    <string name="bugreport_intent_chooser_title">የሳንካ ሪፖርት አጋራ</string>
+    <string name="bugreport_notification_channel">የሳንካ ሪፖርቶች</string>
+    <string name="bugreport_screenshot_action">ቅጽበታዊ ገጽ እይታ</string>
+    <string name="bugreport_screenshot_failed">ቅጽበታዊ ገጽ እይታ ሊነሳ አይችልም</string>
+    <string name="bugreport_screenshot_taken">ቅጽበታዊ ገጽ እይታ በተሳካ ሁኔታ ተነስቷል</string>
+    <string name="bugreport_storage_title">የሳንካ ሪፖርቶች</string>
+    <string name="bugreport_unnamed">ያልተሰየመ</string>
+    <string name="bugreport_unreadable_text">የሳንካ ሪፖርት ፋይል ሊነበብ አልተቻለም</string>
+    <string name="bugreport_updating_title">ዝርዝሮችን ወደ የሳንካ ሪፖርቱ በማከል ላይ</string>
+    <string name="bugreport_updating_wait">እባክዎ ይጠብቁ…</string>
+    <string name="save">አስቀምጥ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="GrantPermissions" parent="@style/Theme.Leanback">
+        <item name="android:backgroundDimAmount">0.2</item>
+        <item name="android:windowBackground">@drawable/dialog_background</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@style/Animation.Snackbar</item>
+    </style>
+    <style name="RequestRole" parent="@android:style/Theme.DeviceDefault.Settings">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:alertDialogTheme">@style/RequestRoleDialog</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:navigationBarDividerColor">@null</item>
+    </style>
+    <style name="RequestRoleItem" parent="@style/RequestRoleItemBase">
+        <item name="android:paddingHorizontal">@dimen/request_role_padding</item>
+    </style>
+    <style name="RequestRoleTitle" parent="@style/RequestRoleTitleBase">
+        <item name="android:paddingBottom">20.0dip</item>
+        <item name="android:paddingHorizontal">@dimen/request_role_padding</item>
+    </style>
+    <style name="RequestRoleTitleIcon">
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">0.0dip</item>
+    </style>
+    <style name="Settings" parent="@style/Theme.Leanback">
+        <item name="android:backgroundDimAmount">0.8</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="preferenceTheme">@style/PreferenceThemeOverlayLeanback.Permissions</item>
+    </style>
+    <style name="Theme.PermissionController.Settings" parent="@style/Settings" />
+    <style name="Animation.Snackbar" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/snackbar_enter</item>
+        <item name="android:windowExitAnimation">@anim/snackbar_exit</item>
+    </style>
+    <style name="GrantPermissions.ActionItem" parent="@style/GrantPermissions">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/tv_grant_button_text_color</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:background">@drawable/dialog_action_button_background</item>
+        <item name="android:paddingLeft">@dimen/action_dialog_button_padding_left</item>
+        <item name="android:paddingTop">@dimen/action_dialog_button_padding_top</item>
+        <item name="android:paddingRight">@dimen/action_dialog_button_padding_right</item>
+        <item name="android:paddingBottom">@dimen/action_dialog_button_padding_bottom</item>
+        <item name="android:layout_margin">@dimen/action_dialog_button_margin</item>
+        <item name="android:minHeight">@dimen/action_dialog_button_min_height</item>
+        <item name="android:lineSpacingMultiplier">1.0</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+    <style name="GrantPermissions.BodyText" parent="@style/GrantPermissions">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/grant_permissions_body_color</item>
+        <item name="android:lineSpacingMultiplier">1.465</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="GrantPermissions.BreadcrumbText" parent="@style/GrantPermissions">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/grant_permissions_progress_color</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+    <style name="GrantPermissions.TitleText" parent="@style/GrantPermissions">
+        <item name="android:textSize">24.0sp</item>
+        <item name="android:textColor">@color/grant_permissions_title_color</item>
+        <item name="android:lineSpacingMultiplier">1.221</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="LeanbackPreference.Category.Permissions" parent="@style/LeanbackPreference.Category">
+        <item name="layout">@layout/preference_permissions_category</item>
+    </style>
+    <style name="LeanbackPreference.Permissions" parent="@style/LeanbackPreference">
+        <item name="layout">@layout/preference_permissions</item>
+    </style>
+    <style name="LeanbackPreference.SwitchPreference.Permissions" parent="@style/LeanbackPreference.SwitchPreference">
+        <item name="layout">@layout/preference_permissions_switch</item>
+    </style>
+    <style name="PreferenceThemeOverlayLeanback.Permissions" parent="@style/PreferenceThemeOverlayLeanback">
+        <item name="preferenceCategoryStyle">@style/LeanbackPreference.Category.Permissions</item>
+        <item name="preferenceStyle">@style/LeanbackPreference.Permissions</item>
+        <item name="switchPreferenceStyle">@style/LeanbackPreference.SwitchPreference.Permissions</item>
+    </style>
+    <style name="RequestRoleButtonBar">
+        <item name="android:padding">@dimen/request_role_padding</item>
+    </style>
+    <style name="RequestRoleDialog" parent="@android:style/Theme.DeviceDefault.Dialog.Alert">
+        <item name="android:buttonBarStyle">@style/RequestRoleButtonBar</item>
+    </style>
+</resources>

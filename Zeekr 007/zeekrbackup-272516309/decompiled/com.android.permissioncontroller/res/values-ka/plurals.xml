@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">%1$d კიდევ</item>
+        <item quantity="one">%1$d კიდევ</item>
+    </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">%1$d აპი რამდენიმე თვეა გამოუყენებელია. შეეხეთ გადასახედად</item>
+        <item quantity="one">%1$d აპი რამდენიმე თვეა გამოუყენებელია. შეეხეთ გადასახედად</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">%1$d აპი რამდენიმე თვეა გამოუყენებელია</item>
+        <item quantity="one">%1$d აპი რამდენიმე თვეა გამოუყენებელია</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s დღე</item>
+        <item quantity="one">1 დღე</item>
+    </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">%s დღე</item>
+        <item quantity="one">1 დღე</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">%s სთ</item>
+        <item quantity="one">1 საათი</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">%s წთ</item>
+        <item quantity="one">1 წთ</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">%s წმ</item>
+        <item quantity="one">1 წმ</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s საათი</item>
+        <item quantity="one">1 საათი</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s წუთი</item>
+        <item quantity="one">1 წუთი</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d ახალი შეტყობინება</item>
+        <item quantity="one">%d ახალი შეტყობინება</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s აპი</item>
+        <item quantity="one">1 აპი</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s აპი</item>
+        <item quantity="one">1 აპი</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">იყენებს %1$d აპი</item>
+        <item quantity="one">იყენებს 1 აპი</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"ბოლო წვდომა: %1$s
+%2$s წვდომა"</item>
+        <item quantity="one">"ბოლო წვდომა: %1$s
+%2$s წვდომა"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"ბოლო წვდომა: %1$s
+%2$s წვდომა (%3$s ფონურ რეჟიმში)"</item>
+        <item quantity="one">"ბოლო წვდომა: %1$s
+%2$s წვდომა (%3$s ფონურ რეჟიმში)"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"ბოლო წვდომა: %1$s
+%2$s წვდომა (%3$s ფონურ რეჟიმში)
+ხანგრძლივობა: %3$s"</item>
+        <item quantity="one">"ბოლო წვდომა: %1$s
+%2$s წვდომა (%3$s ფონურ რეჟიმში)
+ხანგრძლივობა: %3$s"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"ბოლო წვდომა: %1$s
+%2$s წვდომა
+ხანგრძლივობა: %3$s"</item>
+        <item quantity="one">"ბოლო წვდომა: %1$s
+%2$s წვდომა
+ხანგრძლივობა: %3$s"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s წამი</item>
+        <item quantity="one">1 წამი</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">%1$d გამოუყენებელი აპი</item>
+        <item quantity="one">%1$d გამოუყენებელი აპი</item>
+    </plurals>
+</resources>

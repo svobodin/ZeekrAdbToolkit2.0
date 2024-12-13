@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="disable_tether_notification_message">Za podrobnosti se obrnite na skrbnika</string>
+    <string name="disable_tether_notification_title">Povezava z internetom prek mobilnega telefona je onemogočena</string>
+    <string name="no_upstream_notification_disable_button" />
+    <string name="no_upstream_notification_message" />
+    <string name="no_upstream_notification_title" />
+    <string name="notification_channel_tethering_status">Stanje dostopne točke in povezave z internetom prek mobilnega telefona</string>
+    <string name="tethered_notification_message">Dotaknite se, če želite nastaviti.</string>
+    <string name="tethered_notification_title">Povezava z internetom prek mobilnega telefona ali dostopna točka je aktivna</string>
+    <string name="upstream_roaming_notification_message" />
+    <string name="upstream_roaming_notification_title" />
+</resources>

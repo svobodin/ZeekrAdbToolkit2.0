@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_missing_private_key">Einkalykill er nauðysnlegur til að setja upp vottorð</string>
+    <string name="action_missing_user_cert">Vottorð er nauðsynlegt til að setja upp einkalykil</string>
+    <string name="app_name">Uppsetningarforrit fyrir vottorð</string>
+    <string name="ca_cert_is_added">CA-vottorð er uppsett</string>
+    <string name="ca_certificate">CA-vottorð</string>
+    <string name="cert_missing_error">Uppsetning mistókst því að vottorðsskráin fannst ekki.</string>
+    <string name="cert_not_saved">Vottorðið er ekki uppsett.</string>
+    <string name="cert_read_error">Uppsetning mistókst því að ekki tókst að lesa vottorðsskrána.</string>
+    <string name="cert_temp_error">Tímabundin villa. Reyndu aftur síðar.</string>
+    <string name="cert_too_large_error">Uppsetning mistókst því að vottorðsskráin er of stór.</string>
+    <string name="certificate">Vottorð</string>
+    <string name="certificate_capabilities_warning">Athugaðu að útgefandi þessa vottorðs getur fylgst með allri umferð til og frá tækinu.</string>
+    <string name="certificate_name">Heiti vottorðs</string>
+    <string name="credential_info">Pakkinn inniheldur:</string>
+    <string name="credential_password">Sláðu inn aðgangsorðið til að sækja vottorðin.</string>
+    <string name="credential_usage_label">Notkun skilríkja:</string>
+    <string name="done_label">LOKIÐ</string>
+    <string name="extracting_pkcs12">Dregur út…</string>
+    <string name="install_done">%1$s skilríkjum hefur verið bætt við vistuð Wi-Fi net.</string>
+    <string name="install_done_title">Skilríki sett upp</string>
+    <string name="invalid_cert">Vottorðið er ógilt.</string>
+    <string name="invalid_certificate_close_button">Loka</string>
+    <string name="invalid_certificate_message">Ekki er hægt að nota þessa skrá sem %1$s</string>
+    <string name="invalid_certificate_title">Ekki er hægt að nota þessa skrá</string>
+    <string name="n_cacrts">%d CA-vottorð</string>
+    <string name="name_char_error">Sláðu inn heiti með bókstöfum og tölustöfum eingöngu.</string>
+    <string name="name_credential_dialog_title">Gefðu þessu vottorði heiti</string>
+    <string name="name_empty_error">Sláðu inn heiti.</string>
+    <string name="no_cert_to_saved">Ekkert vottorð til að setja upp.</string>
+    <string name="one_cacrt">eitt CA-vottorð</string>
+    <string name="one_usercrt">eitt notandavottorð</string>
+    <string name="one_userkey">einn notandalykill</string>
+    <string name="only_primary_user_allowed">Aðeins eigandi þessa tækis má setja upp vottorð.</string>
+    <string name="p12_description">Vottorð í PKCS12-lyklageymslu.</string>
+    <string name="password_empty_error">Sláðu inn aðgangsorðið.</string>
+    <string name="password_error">Sláðu inn rétt aðgangsorð.</string>
+    <string name="pick_file_title">Veldu vottorð</string>
+    <string name="pkcs12_file_password_dialog_title">Draga út úr %s</string>
+    <string name="pkcs12_password_dialog_title">Draga út vottorð</string>
+    <string name="redirect_ca_certificate_close_button">Loka</string>
+    <string name="redirect_ca_certificate_title">Settu upp CA-vottorð í stillingum</string>
+    <string name="redirect_ca_certificate_with_app_info_message">Þetta vottorð frá %1$s þarf að setja upp í stillingum. Þú skalt aðeins setja upp CA-vottorð frá fyrirtækjum og stofnunum sem þú treystir.</string>
+    <string name="select_certificate_usage_title">Veldu tegund vottorðs</string>
+    <string name="unable_to_save_cert">Ekki tókst að vista vottorðið. Skilríkjageymslan hefur ekki verið gerð virk eða er rangt frumstillt.</string>
+    <string name="user_cert_is_added">Notandavottorð er uppsett</string>
+    <string name="user_certificate">Vottorð VPN og forritsnotanda</string>
+    <string name="userkey_type">Reiknirit:</string>
+    <string name="wifi_cancel_label">Hætta við</string>
+    <string name="wifi_cert_is_added">Wi‑Fi vottorð er uppsett</string>
+    <string name="wifi_certificate">Wi‑Fi vottorð</string>
+    <string name="wifi_config_text">"Heiti: %1$s
+FQDN: %2$s
+Reikihópar: %3$s
+Svæði: %4$s
+Auðkenningaraðferð: EAP-%5$s
+"</string>
+    <string name="wifi_detail_label">Upplýsingar</string>
+    <string name="wifi_detail_title">Upplýsingar um %s</string>
+    <string name="wifi_dismiss_label">Hunsa</string>
+    <string name="wifi_install_label">Setja upp</string>
+    <string name="wifi_installer_detail">Settu upp Wi-Fi skilríki til að tengjast netum sem bjóðast í gegnum %1$s.</string>
+    <string name="wifi_installer_download_error">Vandamál eru með sóttu skrána og ekki er hægt að setja hana upp. Gakktu úr skugga um að þú hafir sótt skrána frá réttum stað.</string>
+    <string name="wifi_installer_fail">Ekki er hægt að setja upp Wi-Fi skilríki. Prófaðu að sækja skrána aftur.</string>
+    <string name="wifi_installer_fail_no_wifi">Kveiktu á Wi-Fi og reyndu aftur.</string>
+    <string name="wifi_installer_fail_no_wifi_title">Hætt við uppsetningu</string>
+    <string name="wifi_installer_fail_title">Ekki tókst að setja upp</string>
+    <string name="wifi_installing_label">Setur upp</string>
+    <string name="wifi_no_config">Ekkert</string>
+    <string name="wifi_sim_config_text">"SIM: %s
+"</string>
+    <string name="wifi_title">Wi-Fi snið</string>
+    <string name="wifi_tls_config_text">"Biðlaravottorð:
+%1$s
+Lykill: %2$s
+"</string>
+    <string name="wifi_trust_config_text">"Treysta vottorði:
+%s
+"</string>
+    <string name="wifi_ttls_config_text">"Notandanafn: %s
+"</string>
+</resources>

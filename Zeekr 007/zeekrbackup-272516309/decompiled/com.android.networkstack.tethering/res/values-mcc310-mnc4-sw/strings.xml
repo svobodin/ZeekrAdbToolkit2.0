@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Zima kipengele cha kusambaza mtandao</string>
+    <string name="no_upstream_notification_message">Imeshindwa kuunganisha vifaa</string>
+    <string name="no_upstream_notification_title">Kipengele cha kusambaza mtandao hakina intaneti</string>
+    <string name="upstream_roaming_notification_message">"Huenda ukatozwa gharama za ziada ukitumia mitandao ya ng'ambo"</string>
+    <string name="upstream_roaming_notification_title">Umewasha kipengele cha kusambaza mtandao au mtandao pepe</string>
+</resources>

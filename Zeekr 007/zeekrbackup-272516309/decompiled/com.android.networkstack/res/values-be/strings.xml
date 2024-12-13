@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Менеджар сетак</string>
+    <string name="connected">Падключана</string>
+    <string name="notification_channel_description_connected">Апавяшчэнні, якія паказваюцца, калі прылада паспяхова прайшла аўтэнтыфікацыю на вэб-старонцы аўтарызацыі ў сетцы</string>
+    <string name="notification_channel_description_network_venue_info">Апавяшчэнні, якія паказваюцца, калі ў сетцы ёсць старонка з інфармацыяй пра яе месцазнаходжанне</string>
+    <string name="notification_channel_name_connected">Аўтэнтыфікацыя на старонцы аўтарызацыі</string>
+    <string name="notification_channel_name_network_venue_info">Інфармацыя пра месцазнаходжанне сеткі</string>
+    <string name="tap_for_info">Падключана / Націсніце для прагляду вэб-сайта</string>
+</resources>

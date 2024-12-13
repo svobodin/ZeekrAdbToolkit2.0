@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="pma_icon_cannot_detect_available_nfckey" id="0x7f010000" />
+    <public type="drawable" name="pma_icon_cannot_detect_available_nfckey_night" id="0x7f010001" />
+</resources>

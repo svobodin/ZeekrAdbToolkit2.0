@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="lmp_base_padding">6.0dip</dimen>
+    <dimen name="lmp_base_padding_big">12.0dip</dimen>
+    <dimen name="lmp_base_padding_out">20.0dip</dimen>
+    <dimen name="lmp_base_padding_small">2.0dip</dimen>
+    <dimen name="lmp_base_padding_view">10.0dip</dimen>
+    <dimen name="lmp_error_external_margin">40.0dip</dimen>
+    <dimen name="lmp_error_icon_size">40.0dip</dimen>
+    <dimen name="lmp_error_text_size">18.0sp</dimen>
+    <dimen name="lmp_loading">70.0dip</dimen>
+    <dimen name="lmp_playedsign_size">10.0dip</dimen>
+    <dimen name="lmp_player_action_size">60.0dip</dimen>
+    <dimen name="lmp_player_progress_height">4.0dip</dimen>
+    <dimen name="lmp_player_progress_height_selected">7.0dip</dimen>
+    <dimen name="lmp_player_progress_thumb">16.0dip</dimen>
+    <dimen name="lmp_playercontent_height">32.0dip</dimen>
+    <dimen name="lmp_playercontent_radius">4.0dip</dimen>
+    <dimen name="lmp_playercontent_text">18.0dip</dimen>
+    <dimen name="lmp_playercontent_width">110.0dip</dimen>
+    <dimen name="lmp_state_text">14.0sp</dimen>
+    <dimen name="lmp_subtitle_text">20.0sp</dimen>
+    <dimen name="lmp_title_text">33.0sp</dimen>
+</resources>

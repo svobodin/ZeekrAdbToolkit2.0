@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_summary_active">
+        <item quantity="other">"S'estan baixant %d fitxers"</item>
+        <item quantity="one">"S'està baixant 1 fitxer"</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">%d fitxers en espera</item>
+        <item quantity="one">1 fitxer en espera</item>
+    </plurals>
+</resources>

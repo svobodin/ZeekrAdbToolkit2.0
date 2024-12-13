@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Laita hotspot pois päältä</string>
+    <string name="no_upstream_notification_message">Laitteet eivät voi yhdistää internetiin</string>
+    <string name="no_upstream_notification_title">Hotspotilla ei ole internetyhteyttä</string>
+    <string name="upstream_roaming_notification_message">Roaming voi aiheuttaa lisämaksuja</string>
+    <string name="upstream_roaming_notification_title">Hotspot on päällä</string>
+    <string name="upstream_roaming_notification_continue_button">Jatka</string>
+</resources>

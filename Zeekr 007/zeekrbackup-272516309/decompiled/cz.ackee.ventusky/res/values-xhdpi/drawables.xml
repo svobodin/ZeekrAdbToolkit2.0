@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="common_full_open_on_phone">false</item>
+    <item type="drawable" name="common_google_signin_btn_icon_dark_normal_background">false</item>
+    <item type="drawable" name="common_google_signin_btn_icon_light_normal_background">false</item>
+    <item type="drawable" name="common_google_signin_btn_text_dark_normal_background">false</item>
+    <item type="drawable" name="common_google_signin_btn_text_light_normal_background">false</item>
+    <item type="drawable" name="googleg_disabled_color_18">false</item>
+    <item type="drawable" name="googleg_standard_color_18">false</item>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">Systemverbindungsressourcen</string>
+    <string name="mobile_no_internet">Mobiles Netzwerk hat keinen Internetzugriff</string>
+    <string name="network_available_sign_in">Im Netzwerk anmelden</string>
+    <string name="network_partial_connectivity">Schlechte Verbindung mit %1$s</string>
+    <string name="network_partial_connectivity_detailed">Tippen, um die Verbindung trotzdem herzustellen</string>
+    <string name="network_switch_metered">Zu %1$s gewechselt</string>
+    <string name="network_switch_metered_detail">Auf dem Gerät werden %1$s genutzt, wenn über %2$s kein Internet verfügbar ist. Eventuell fallen Gebühren an.</string>
+    <string name="network_switch_metered_toast">Von \"%1$s\" zu \"%2$s\" gewechselt</string>
+    <string name="network_switch_type_name_unknown">ein unbekannter Netzwerktyp</string>
+    <string name="other_networks_no_internet">Netzwerk hat keinen Internetzugriff</string>
+    <string name="private_dns_broken_detailed">Auf den privaten DNS-Server kann nicht zugegriffen werden</string>
+    <string name="wifi_available_sign_in">In WLAN anmelden</string>
+    <string name="wifi_no_internet">%1$s hat keinen Internetzugriff</string>
+    <string name="wifi_no_internet_detailed">Für Optionen tippen</string>
+</resources>

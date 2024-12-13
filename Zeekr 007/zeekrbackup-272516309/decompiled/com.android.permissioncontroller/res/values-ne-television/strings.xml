@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="current_permission_template">%1$s / %2$s</string>
+    <string name="additional_permissions_decor_title">अतिरिक्त अनुमति</string>
+    <string name="app_permissions_decor_title">एपसम्बन्धी अनुमति</string>
+    <string name="grant_dialog_button_deny_dont_ask_again">अस्वीकार गर्नुहोस् र अब उप्रान्त नसोध्नुहोला</string>
+    <string name="grant_dialog_how_to_change">तपाईं यसलाई सेटिङ > एपमा गई पछि बदल्न सक्नुहुन्छ</string>
+    <string name="manage_permissions_decor_title">एपसम्बन्धी अनुमति</string>
+    <string name="permission_apps_decor_title">%1$s सम्बन्धी अनुमति</string>
+    <string name="preference_show_system_apps">प्रणालीका एपहरू देखाउनुहोस्</string>
+    <string name="system_apps_decor_title">%1$s सम्बन्धी अनुमति</string>
+</resources>

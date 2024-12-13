@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">నెట్‌వర్క్ మేనేజర్</string>
+    <string name="connected">కనెక్ట్ చేయబడింది</string>
+    <string name="notification_channel_description_connected">క్యాప్టివ్ పోర్టల్ నెట్‌వర్క్‌కి పరికరం విజయవంతంగా ప్రామాణీకరించబడినప్పుడు చూపించబడే నోటిఫికేషన్‌లు</string>
+    <string name="notification_channel_description_network_venue_info">నెట్‌వర్క్‌లో వేదిక సమాచార పేజీ ఉందని సూచించడానికి నోటిఫికేషన్‌లు చూపబడతాయి</string>
+    <string name="notification_channel_name_connected">క్యాప్టివ్ పోర్టల్ ప్రామాణీకరణ</string>
+    <string name="notification_channel_name_network_venue_info">నెట్‌వర్క్ వేదిక సమాచారం</string>
+    <string name="tap_for_info">కనెక్టెడ్ / వెబ్‌సైట్‌ను చూడటానికి ట్యాప్ చేయండి.</string>
+</resources>

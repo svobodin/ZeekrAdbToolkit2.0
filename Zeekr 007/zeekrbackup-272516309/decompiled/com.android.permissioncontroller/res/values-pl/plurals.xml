@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">Jeszcze %1$d</item>
+        <item quantity="one">Jeszcze %1$d</item>
+        <item quantity="few">Jeszcze %1$d</item>
+        <item quantity="many">Jeszcze %1$d</item>
+    </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">%1$d aplikacji nie było używane od kilku miesięcy. Kliknij, by sprawdzić.</item>
+        <item quantity="one">%1$d aplikacja nie była używana od kilku miesięcy. Kliknij, by sprawdzić.</item>
+        <item quantity="few">%1$d aplikacje nie były używane od kilku miesięcy. Kliknij, by sprawdzić.</item>
+        <item quantity="many">%1$d aplikacji nie było używanych od kilku miesięcy. Kliknij, by sprawdzić.</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">%1$d aplikacji nie było używane od kilku miesięcy</item>
+        <item quantity="one">%1$d aplikacja nie była używana od kilku miesięcy</item>
+        <item quantity="few">%1$d aplikacje nie były używane od kilku miesięcy</item>
+        <item quantity="many">%1$d aplikacji nie było używanych od kilku miesięcy</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s dnia</item>
+        <item quantity="one">1 dzień</item>
+        <item quantity="few">%s dni</item>
+        <item quantity="many">%s dni</item>
+    </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">%s dnia</item>
+        <item quantity="one">1 dzień</item>
+        <item quantity="few">%s dni</item>
+        <item quantity="many">%s dni</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">%s godziny</item>
+        <item quantity="one">1 godzina</item>
+        <item quantity="few">%s godziny</item>
+        <item quantity="many">%s godzin</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">%s min</item>
+        <item quantity="one">1 min</item>
+        <item quantity="few">%s min</item>
+        <item quantity="many">%s min</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">%s s</item>
+        <item quantity="one">1 s</item>
+        <item quantity="few">%s s</item>
+        <item quantity="many">%s s</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s godziny</item>
+        <item quantity="one">1 godzina</item>
+        <item quantity="few">%s godziny</item>
+        <item quantity="many">%s godzin</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s minuty</item>
+        <item quantity="one">1 minuta</item>
+        <item quantity="few">%s minuty</item>
+        <item quantity="many">%s minut</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nowego powiadomienia</item>
+        <item quantity="one">%d nowe powiadomienie</item>
+        <item quantity="few">%d nowe powiadomienia</item>
+        <item quantity="many">%d nowych powiadomień</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s aplikacji</item>
+        <item quantity="one">1 aplikacja</item>
+        <item quantity="few">%s aplikacje</item>
+        <item quantity="many">%s aplikacji</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s aplikacji</item>
+        <item quantity="one">1 aplikacja</item>
+        <item quantity="few">%s aplikacje</item>
+        <item quantity="many">%s aplikacji</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">Używane przez %1$d aplikacji</item>
+        <item quantity="one">Używane przez 1 aplikację</item>
+        <item quantity="few">Używany przez %1$d aplikacje</item>
+        <item quantity="many">Używane przez %1$d aplikacji</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"Ostatnie użycie: %1$s
+%2$s użycia"</item>
+        <item quantity="one">"Ostatnie użycie: %1$s
+%2$s użycie"</item>
+        <item quantity="few">"Ostatnie użycie: %1$s
+%2$s użycia"</item>
+        <item quantity="many">"Ostatnie użycie: %1$s
+%2$s użyć"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"Ostatnie użycie: %1$s
+%2$s użycia (%3$s w tle)"</item>
+        <item quantity="one">"Ostatnie użycie: %1$s
+%2$s użycie (%3$s w tle)"</item>
+        <item quantity="few">"Ostatnie użycie: %1$s
+%2$s użycia (%3$s w tle)"</item>
+        <item quantity="many">"Ostatnie użycie: %1$s
+%2$s użyć (%3$s w tle)"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"Ostatnie użycie: %1$s
+%2$s użycia (%3$s w tle)
+Czas trwania: %3$s"</item>
+        <item quantity="one">"Ostatnie użycie: %1$s
+%2$s użycie (%3$s w tle)
+Czas trwania: %3$s"</item>
+        <item quantity="few">"Ostatnie użycie: %1$s
+%2$s użycia (%3$s w tle)
+Czas trwania: %3$s"</item>
+        <item quantity="many">"Ostatnie użycie: %1$s
+%2$s użyć (%3$s w tle)
+Czas trwania: %3$s"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"Ostatnie użycie: %1$s
+%2$s użycia
+Czas trwania: %3$s"</item>
+        <item quantity="one">"Ostatnie użycie: %1$s
+%2$s użycie
+Czas trwania: %3$s"</item>
+        <item quantity="few">"Ostatnie użycie: %1$s
+%2$s użycia
+Czas trwania: %3$s"</item>
+        <item quantity="many">"Ostatnie użycie: %1$s
+%2$s użyć
+Czas trwania: %3$s"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s sekundy</item>
+        <item quantity="one">1 sekunda</item>
+        <item quantity="few">%s sekundy</item>
+        <item quantity="many">%s sekund</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">%1$d nieużywanej aplikacji</item>
+        <item quantity="one">%1$d nieużywana aplikacja</item>
+        <item quantity="few">%1$d nieużywane aplikacje</item>
+        <item quantity="many">%1$d nieużywanych aplikacji</item>
+    </plurals>
+</resources>

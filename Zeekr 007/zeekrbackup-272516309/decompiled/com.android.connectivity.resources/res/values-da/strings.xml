@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">Systemets forbindelsesressourcer</string>
+    <string name="mobile_no_internet">Mobilnetværket har ingen internetadgang</string>
+    <string name="network_available_sign_in">Log ind på netværk</string>
+    <string name="network_partial_connectivity">%1$s har begrænset forbindelse</string>
+    <string name="network_partial_connectivity_detailed">Tryk for at oprette forbindelse alligevel</string>
+    <string name="network_switch_metered">Der blev skiftet til %1$s</string>
+    <string name="network_switch_metered_detail">Enheden benytter %1$s, når der ikke er internetadgang via %2$s. Der opkræves muligvis betaling.</string>
+    <string name="network_switch_metered_toast">Der blev skiftet fra %1$s til %2$s</string>
+    <string name="network_switch_type_name_unknown">en ukendt netværkstype</string>
+    <string name="other_networks_no_internet">Netværket har ingen internetadgang</string>
+    <string name="private_dns_broken_detailed">Der er ikke adgang til den private DNS-server</string>
+    <string name="wifi_available_sign_in">Log ind på Wi-Fi-netværk</string>
+    <string name="wifi_no_internet">%1$s har ingen internetforbindelse</string>
+    <string name="wifi_no_internet_detailed">Tryk for at se valgmuligheder</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s: Nem kapcsolódhat a Verizon Wi-Fi-hozzáférési szolgáltatásához a Verizon lefedettségi területén kívülről.</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s: Nem fizetett elő a Verizon Wi-Fi-hozzáférési szolgáltatására. Hívjon minket a következő telefonszámon: 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s: Valami gond van Verizon Wi-Fi-hozzáférési fiókjával. Hívjon minket a következő telefonszámon: 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s: Már kapcsolódott a Verizon Wi-Fi-hozzáférési szolgáltatásához.</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s: Valami probléma történt a Verizon Wi-Fi-hozzáférési szolgáltatásához való kapcsolódás során. Hívjon minket a következő telefonszámon: 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s: Valami gond van Verizon Wi-Fi-hozzáférési fiókjával. Hívjon minket a következő telefonszámon: 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s: A Verizon Wi-Fi-hozzáférési szolgáltatása nem áll rendelkezésre az Ön tartózkodási helyén. Próbálja újra, vagy próbáljon meg máshol csatlakozni.</string>
+</resources>

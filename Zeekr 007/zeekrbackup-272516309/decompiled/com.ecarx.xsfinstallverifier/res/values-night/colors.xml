@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="btn_common_text_color_disabled">@color/white_20</color>
+    <color name="btn_common_text_color_normal">@color/white</color>
+    <color name="btn_switch_unchecked_color">#ff333333</color>
+    <color name="day_or_night_main_color">@android:color/black</color>
+    <color name="day_or_night_main_reverse_color">@android:color/white</color>
+    <color name="md_theme_dialog_background">#ff28282e</color>
+    <color name="navigation_bar_tint_list_checked">@color/white</color>
+    <color name="navigation_bar_tint_list_normal">@color/white_50</color>
+    <color name="refresh_view_tv_tip_text_color">@color/white_70</color>
+    <color name="scroll_thumb_bg">@color/white_60</color>
+    <color name="scrollbar_thumb_bg_color">@color/white_60</color>
+    <color name="window_background">#ff15181d</color>
+    <color name="zeekr_gradient_avatar_end_color">#52e1e3e5</color>
+    <color name="zeekr_gradient_avatar_start_color">#2ee1e3e5</color>
+    <color name="zeekr_gradient_end_color">#ffdc825f</color>
+    <color name="zeekr_gradient_outer_end_color">#fff3946f</color>
+    <color name="zeekr_gradient_outer_start_color">#fff69771</color>
+    <color name="zeekr_gradient_start_color">#ffb17153</color>
+    <color name="zeekr_switch_track_off_color">#ff363940</color>
+</resources>

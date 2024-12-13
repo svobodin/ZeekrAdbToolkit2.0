@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">Aplikacje aparatu</item>
+        <item quantity="one">Aplikacja aparatu</item>
+        <item quantity="few">Aplikacje aparatu</item>
+        <item quantity="many">Aplikacje aparatu</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">Klienty poczty e-mail</item>
+        <item quantity="one">Klient poczty e-mail</item>
+        <item quantity="few">Klienty poczty e-mail</item>
+        <item quantity="many">Klienty poczty e-mail</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">Aplikacje telefonu</item>
+        <item quantity="one">Aplikacja telefonu</item>
+        <item quantity="few">Aplikacje telefonu</item>
+        <item quantity="many">Aplikacje telefonu</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d próby</item>
+        <item quantity="one">%d próba</item>
+        <item quantity="few">%d próby</item>
+        <item quantity="many">%d prób</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d aplikacji</item>
+        <item quantity="one">%d aplikacja</item>
+        <item quantity="few">%d aplikacje</item>
+        <item quantity="many">%d aplikacji</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">Co najmniej %d aplikacji</item>
+        <item quantity="one">Co najmniej %d aplikacja</item>
+        <item quantity="few">Co najmniej %d aplikacje</item>
+        <item quantity="many">Co najmniej %d aplikacji</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nowego powiadomienia</item>
+        <item quantity="one">%d nowe powiadomienie</item>
+        <item quantity="few">%d nowe powiadomienia</item>
+        <item quantity="many">%d nowych powiadomień</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d urządzenia podłączonego</item>
+        <item quantity="one">%1$d urządzenie podłączone</item>
+        <item quantity="few">%1$d urządzenia podłączone</item>
+        <item quantity="many">%1$d urządzeń podłączonych</item>
+    </plurals>
+</resources>

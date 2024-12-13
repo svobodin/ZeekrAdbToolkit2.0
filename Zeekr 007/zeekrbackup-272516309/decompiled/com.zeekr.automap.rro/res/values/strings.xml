@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">导航</string>
+    <string name="permission_Location">定位</string>
+    <string name="permission_audio">录制</string>
+    <string name="permission_ignore">关闭</string>
+    <string name="permission_phone">电话</string>
+    <string name="permission_storage">存储</string>
+</resources>

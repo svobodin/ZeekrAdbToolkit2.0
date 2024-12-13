@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">Rendszerkapcsolat erőforrásai</string>
+    <string name="mobile_no_internet">A mobilhálózaton nincs internet-hozzáférés</string>
+    <string name="network_available_sign_in">Bejelentkezés a hálózatba</string>
+    <string name="network_partial_connectivity">A(z) %1$s hálózat korlátozott kapcsolatot biztosít</string>
+    <string name="network_partial_connectivity_detailed">Koppintson, ha mindenképpen csatlakozni szeretne</string>
+    <string name="network_switch_metered">Átváltva erre: %1$s</string>
+    <string name="network_switch_metered_detail">%1$s használata, ha nincs internet-hozzáférés %2$s-kapcsolaton keresztül. A szolgáltató díjat számíthat fel.</string>
+    <string name="network_switch_metered_toast">Átváltva %1$s-hálózatról erre: %2$s</string>
+    <string name="network_switch_type_name_unknown">ismeretlen hálózati típus</string>
+    <string name="other_networks_no_internet">A hálózaton nincs internet-hozzáférés</string>
+    <string name="private_dns_broken_detailed">A privát DNS-kiszolgálóhoz nem lehet hozzáférni</string>
+    <string name="wifi_available_sign_in">Bejelentkezés Wi-Fi hálózatba</string>
+    <string name="wifi_no_internet">A(z) %1$s hálózaton nincs internet-hozzáférés</string>
+    <string name="wifi_no_internet_detailed">Koppintson a beállítások megjelenítéséhez</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Upravitelj omrežij</string>
+    <string name="connected">Povezava je vzpostavljena</string>
+    <string name="notification_channel_description_connected">Obvestila, ki so prikazana, ko naprava uspešno vzpostavi povezavo z omrežjem prestreznega portala in preveri pristnost</string>
+    <string name="notification_channel_description_network_venue_info">Obvestila, ki so prikazana, ko ima omrežje stran z informacijami o prizorišču</string>
+    <string name="notification_channel_name_connected">Preverjanje pristnosti za prestrezni portal</string>
+    <string name="notification_channel_name_network_venue_info">Informacije o prizorišču v omrežju</string>
+    <string name="tap_for_info">Povezano / Dotaknite se za ogled spletnega mesta</string>
+</resources>

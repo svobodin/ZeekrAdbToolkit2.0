@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>Синт-Мартен</item>
+        <item>Кариб Нидерланддары</item>
+        <item>Кюрасао</item>
+        <item>Түштүк Судан</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Борбордук Австралиялык – NT</item>
+        <item>Борбордук Австралиялык – SA</item>
+        <item>Чыгыш Австралия – QLD</item>
+        <item>Чыгыш Австралия – NSW</item>
+        <item>Тоо убакыты – Доусон булуңу</item>
+        <item>Борбордук убакыт – Саскачеван</item>
+        <item>Чыгыш убакыт алкагы – Атикокан</item>
+        <item>Атлантика убакыт алкагы – Квебек</item>
+        <item>Гавайи-Алеут – Гавайи</item>
+        <item>Гавайи-Алеут – Аляска</item>
+        <item>Тынч Океан убакыты – Метлакатла</item>
+        <item>Тоо убакыты – Аризона</item>
+        <item>Тынч Океан – Төмөнкү Калифорния</item>
+        <item>Тоолуу – Чихуахуа</item>
+        <item>Борбордук – Тамаулипас</item>
+        <item>Тоолуу – Сонора</item>
+        <item>Чыгыш Африка убакыты</item>
+        <item>Атлантика убакыт алкагы</item>
+        <item>Атлантика убакыт алкагы</item>
+        <item>Чыгыш Европа убакыт алкагы</item>
+        <item>Калининград убакыты</item>
+        <item>Амазон – Рондония</item>
+        <item>Бразилиа – Пара</item>
+    </string-array>
+</resources>

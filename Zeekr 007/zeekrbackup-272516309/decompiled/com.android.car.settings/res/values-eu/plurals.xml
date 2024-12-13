@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">Kamera-aplikazioak</item>
+        <item quantity="one">Kamera-aplikazioa</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">Posta-bezeroaren aplikazioak</item>
+        <item quantity="one">Posta-bezeroaren aplikazioa</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">Telefono-aplikazioak</item>
+        <item quantity="one">Telefono-aplikazioa</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d saiakera</item>
+        <item quantity="one">%d saiakera</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d aplikazio</item>
+        <item quantity="one">%d aplikazio</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">Gutxienez %d aplikazio</item>
+        <item quantity="one">Gutxienez %d aplikazio</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d jakinarazpen berri</item>
+        <item quantity="one">%d jakinarazpen berri</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d gailu daude konektatuta</item>
+        <item quantity="one">%1$d gailu dago konektatuta</item>
+    </plurals>
+</resources>

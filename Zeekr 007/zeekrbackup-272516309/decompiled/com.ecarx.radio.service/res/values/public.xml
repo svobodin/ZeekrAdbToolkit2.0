@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="logo_radio" id="0x7f010000" />
+    <public type="id" name="activity_test_radio" id="0x7f020000" />
+    <public type="id" name="btnSetfreq" id="0x7f020001" />
+    <public type="id" name="txt_band" id="0x7f020002" />
+    <public type="id" name="txt_carousel" id="0x7f020003" />
+    <public type="id" name="txt_fav_list" id="0x7f020004" />
+    <public type="id" name="txt_fre" id="0x7f020005" />
+    <public type="id" name="txt_fre_list" id="0x7f020006" />
+    <public type="id" name="txt_name" id="0x7f020007" />
+    <public type="id" name="txt_status" id="0x7f020008" />
+    <public type="layout" name="activity_test_radio" id="0x7f030000" />
+    <public type="string" name="app_name" id="0x7f040000" />
+</resources>

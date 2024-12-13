@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Hotspot kikapcsolása</string>
+    <string name="no_upstream_notification_message">Az eszközök nem tudnak csatlakozni az internethez</string>
+    <string name="no_upstream_notification_title">A hotspot nem csatlakozik az internethez</string>
+    <string name="upstream_roaming_notification_message">Roaming során további díjak léphetnek fel</string>
+    <string name="upstream_roaming_notification_title">A hotspot be van kapcsolva</string>
+    <string name="upstream_roaming_notification_continue_button">Tovább</string>
+</resources>

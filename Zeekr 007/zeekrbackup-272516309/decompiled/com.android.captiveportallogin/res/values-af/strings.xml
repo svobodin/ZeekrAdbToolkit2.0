@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Meld by netwerk aan</string>
+    <string name="action_bar_title">Meld aan by %1$s</string>
+    <string name="action_do_not_use_network">Moenie hierdie netwerk gebruik nie</string>
+    <string name="action_use_network">Gebruik hierdie netwerk nes dit is</string>
+    <string name="app_name">CaptivePortal-aanmelding</string>
+    <string name="channel_description_download_progress">Kennisgewings wat die vordering van lêeraflaaie wys</string>
+    <string name="channel_description_downloads">Kennisgewings wat voltooide of gekanselleerde aflaaie wys</string>
+    <string name="channel_name_download_progress">Aflaaivordering</string>
+    <string name="channel_name_downloads">Aflaaie</string>
+    <string name="custom_scheme_example">"Byvoorbeeld, die aanmeldbladsy kan dalk 'n spesifieke program vir stawing vereis"</string>
+    <string name="custom_scheme_warning">"Die netwerk waarby jy probeer aansluit, vra dat jy 'n ander program oopmaak."</string>
+    <string name="download_completed">Aflaai is voltooi</string>
+    <string name="downloading_paramfile">Laai tans %1$s af</string>
+    <string name="error_continue_via_browser">Gaan in elk geval deur blaaier voort</string>
+    <string name="error_downloading_paramfile">Kon %1$s nie aflaai nie</string>
+    <string name="no_bypass_error_vpnwarning">"Daarbenewens is dit nie moontlik om hierdie fout te omseil nie omdat die toestel tans 'n VPN laat loop."</string>
+    <string name="ok">OK</string>
+    <string name="page_info">Bladsy-inligting</string>
+    <string name="page_info_address">Adres:</string>
+    <string name="ssl_error_date_invalid">"Hierdie sertifikaat het 'n ongeldige datum."</string>
+    <string name="ssl_error_example">Byvoorbeeld, die aanmeldbladsy behoort dalk nie aan die organisasie wat gewys word nie.</string>
+    <string name="ssl_error_expired">Hierdie sertifikaat het verval.</string>
+    <string name="ssl_error_invalid">Hierdie sertifikaat is ongeldig.</string>
+    <string name="ssl_error_mismatch">Die naam van die werf stem nie ooreen met die naam op die sertifikaat nie.</string>
+    <string name="ssl_error_not_yet_valid">Hierdie sertifikaat is nog nie geldig nie.</string>
+    <string name="ssl_error_unknown">Onbekende sertifikaatfout.</string>
+    <string name="ssl_error_untrusted">"Hierdie sertifikaat is nie van 'n betroubare owerheid nie."</string>
+    <string name="ssl_error_view_certificate">Bekyk sertifikaat</string>
+    <string name="ssl_error_warning">Die netwerk waarby jy probeer aansluit, het sekuriteitkwessies.</string>
+    <string name="ssl_security_warning_title">Sekuriteitswaarskuwing</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

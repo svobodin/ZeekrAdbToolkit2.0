@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Log ind på netværk</string>
+    <string name="action_bar_title">Log ind på %1$s</string>
+    <string name="action_do_not_use_network">Brug ikke dette netværk</string>
+    <string name="action_use_network">Brug dette netværk, som det er</string>
+    <string name="app_name">Login til captive portal</string>
+    <string name="channel_description_download_progress">Notifikationer, der viser status på fildownloads</string>
+    <string name="channel_description_downloads">Notifikationer, der viser gennemførte eller annullerede downloads</string>
+    <string name="channel_name_download_progress">Status på download</string>
+    <string name="channel_name_downloads">Downloads</string>
+    <string name="custom_scheme_example">Loginsiden kan f.eks. kræve, at en bestemt app anvendes til godkendelse</string>
+    <string name="custom_scheme_warning">Det netværk, du forsøger at oprette forbindelse til, anmoder om at åbne en anden app.</string>
+    <string name="download_completed">Downloaden er gennemført</string>
+    <string name="downloading_paramfile">Downloader %1$s</string>
+    <string name="error_continue_via_browser">Fortsæt alligevel via browseren</string>
+    <string name="error_downloading_paramfile">%1$s kunne ikke downloades</string>
+    <string name="no_bypass_error_vpnwarning">Du kan heller ikke se bort fra denne fejl, da enheden i øjeblikket kører en VPN.</string>
+    <string name="ok">OK</string>
+    <string name="page_info">Sideoplysninger</string>
+    <string name="page_info_address">Adresse:</string>
+    <string name="ssl_error_date_invalid">Dette certifikat har en ugyldig dato.</string>
+    <string name="ssl_error_example">Det er f.eks. ikke sikkert, at loginsiden tilhører den anførte organisation.</string>
+    <string name="ssl_error_expired">Dette certifikat er udløbet.</string>
+    <string name="ssl_error_invalid">Dette certifikat er ugyldigt.</string>
+    <string name="ssl_error_mismatch">Navnet på websitet stemmer ikke overens med navnet på certifikatet.</string>
+    <string name="ssl_error_not_yet_valid">Dette certifikat er ikke gyldigt endnu.</string>
+    <string name="ssl_error_unknown">Ukendt certifikatfejl.</string>
+    <string name="ssl_error_untrusted">Dette certifikat stammer ikke fra en pålidelig kilde.</string>
+    <string name="ssl_error_view_certificate">Se certifikat</string>
+    <string name="ssl_error_warning">Der er sikkerhedsproblemer på det netværk, du forsøger at logge ind på.</string>
+    <string name="ssl_security_warning_title">Sikkerhedsadvarsel</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

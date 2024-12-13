@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">সম্পৰ্কসমূহৰ ষ্ট’ৰেজ</string>
+    <string name="debug_dump_database_message">আপুনি এই কাৰ্যবোৰ কৰিবলৈ লৈছে ১) আটাইবোৰ সম্পৰ্ক সম্বন্ধীয় তথ্য় আৰু কল লগ সন্নিবিষ্ট থকা আপোনাৰ ডেটাবেছক আভ্য়ন্তৰীণ ষ্ট’ৰেজলৈ প্ৰতিলিপি কৰা আৰু ২) ইয়াক ইমেইল কৰা। ডিভাইচৰ পৰা সফলতাৰে প্ৰতিলিপি কৰাৰ বা ইমেইল পোৱাৰ পিছত উক্ত প্ৰতিলিপি মচিবলৈ নাপাহৰিব।</string>
+    <string name="debug_dump_delete_button">এতিয়াই মচক</string>
+    <string name="debug_dump_email_body">মোৰ সকলো সম্পৰ্ক তথ্য়সহ মোৰ সম্পৰ্কসূচী সংলগ্ন কৰা হ’ল। সাবধানে চলাব।</string>
+    <string name="debug_dump_email_sender_picker">"আপোনাৰ ফাইল পঠাবলৈ কোনো প্ৰ'গ্ৰাম বাছনি কৰক"</string>
+    <string name="debug_dump_email_subject">সম্পৰ্কসূচী Db সংলগ্ন কৰা হ’ল</string>
+    <string name="debug_dump_start_button">আৰম্ভ কৰক</string>
+    <string name="debug_dump_title">সম্পৰ্কসূচীৰ ডেটাবেছ প্ৰতিলিপি কৰক</string>
+    <string name="default_directory">সম্পর্কসূচী</string>
+    <string name="local_invisible_directory">অন্যান্য</string>
+    <string name="provider_label">সম্পর্কবোৰ</string>
+    <string name="sharedUserLabel">Android Core এপসমূহ</string>
+    <string name="upgrade_out_of_memory_notification_text">আপগ্ৰেড প্ৰক্ৰিয়া সম্পূৰ্ণ কৰিবলৈ টিপক।</string>
+    <string name="upgrade_out_of_memory_notification_ticker">"সম্পৰ্কসূচী আপগ্ৰেড কৰিবলৈ অধিক মেম'ৰিৰ প্ৰয়োজন।"</string>
+    <string name="upgrade_out_of_memory_notification_title">সম্পৰ্কসূচীৰ বাবে ষ্ট’ৰেজ আপগ্ৰেড কৰি থকা হৈছে</string>
+    <string name="voicemail_from_column">"ইয়াৰ পৰা অহা ভইচমেল "</string>
+</resources>

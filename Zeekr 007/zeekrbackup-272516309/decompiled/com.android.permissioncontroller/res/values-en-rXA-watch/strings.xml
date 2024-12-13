@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="current_permission_template">[%1$s / %2$s one]</string>
+    <string name="permission_summary_enforced_by_policy">"[Çåñ'ţ ɓé çĥåñĝéð one two three]"</string>
+    <string name="grant_dialog_button_deny_dont_ask_again">"[Ðéñý, ðöñ'ţ åšķ åĝåîñ one two three]"</string>
+    <string name="preference_show_system_apps">[Šĥöŵ šýšţéḿ åþþš one two three]</string>
+    <string name="generic_cancel">[Çåñçéļ one two]</string>
+    <string name="generic_yes">[Ýéš one]</string>
+</resources>

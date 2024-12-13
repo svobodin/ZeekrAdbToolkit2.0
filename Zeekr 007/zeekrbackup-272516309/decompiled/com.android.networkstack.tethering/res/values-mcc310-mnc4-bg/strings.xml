@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Изключване на тетъринга</string>
+    <string name="no_upstream_notification_message">Устройствата не могат да установят връзка</string>
+    <string name="no_upstream_notification_title">Тетърингът няма връзка с интернет</string>
+    <string name="upstream_roaming_notification_message">Възможно е да ви бъдат начислени допълнителни такси при роуминг</string>
+    <string name="upstream_roaming_notification_title">Точката за достъп или тетърингът са включени</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>సెయింట్ మార్టెన్</item>
+        <item>కరీబియన్ నెదర్లాండ్స్</item>
+        <item>క్యూరసావ్</item>
+        <item>దక్షిణ సూడాన్</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>ఆస్ట్రేలియన్ సెంట్రల్ - NT</item>
+        <item>ఆస్ట్రేలియన్ సెంట్రల్ - SA</item>
+        <item>ఆస్ట్రేలియన్ ఈస్ట్రన్ - QLD</item>
+        <item>ఆస్ట్రేలియన్ ఈస్ట్రన్ - NSW</item>
+        <item>మౌంటెయిన్ స్టాండర్డ్ - డాసన్ క్రీక్</item>
+        <item>సెంట్రల్ స్టాండర్డ్ - సస్కాచ్‌వెన్</item>
+        <item>ఈస్ట్రన్ స్టాండర్డ్ - అటికొకన్</item>
+        <item>అట్లాంటిక్ స్టాండర్డ్ - క్యుబెక్</item>
+        <item>హవాయి-అలుషియన్ - హవాయి</item>
+        <item>హవాయి-అలుషియన్ - అలాస్కా</item>
+        <item>పసిఫిక్ స్టాండర్డ్ - మెట్లకట్ల</item>
+        <item>మౌంటెయిన్ స్టాండర్డ్ - అరిజోనా</item>
+        <item>పసిఫిక్ - బాజా కాలిఫోర్నియా</item>
+        <item>మౌంటెయిన్ - చువావా</item>
+        <item>సెంట్రల్ - తమాలిపస్</item>
+        <item>మౌంటెయిన్ - సొనొర</item>
+        <item>తూర్పు ఆఫ్రికా సమయం</item>
+        <item>అట్లాంటిక్ స్టాండర్డ్ సమయం</item>
+        <item>అట్లాంటిక్ స్టాండర్డ్ సమయం</item>
+        <item>తూర్పు యూరోపియన్ సమయం</item>
+        <item>కలినిన్‌గ్రాడ్ సమయం</item>
+        <item>అమెజాన్ - రాండోనియా</item>
+        <item>బ్రెసిలియా - పారా</item>
+    </string-array>
+</resources>

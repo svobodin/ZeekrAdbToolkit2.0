@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="owner_name">Vairuotojas</string>
+    <string name="permlab_accessCoarseLocation">pasiekti apytikslę vietovę, tik kai programa veikia priekiniame plane</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">Įjungti mikrofoną</string>
+</resources>

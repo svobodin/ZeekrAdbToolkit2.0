@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Netstjórnun</string>
+    <string name="connected">Tengt</string>
+    <string name="notification_channel_description_connected">Tilkynningar eru sýndar þegar tæki hefur fengið auðkenningu á neti með innskráningarsíðu</string>
+    <string name="notification_channel_description_network_venue_info">Tilkynningar eru sýndar til að gefa til kynna að net innihaldi upplýsingasíðu um vettvang</string>
+    <string name="notification_channel_name_connected">Auðkenning á innskráningarsíðu</string>
+    <string name="notification_channel_name_network_venue_info">Upplýsingar nets um vettvang</string>
+    <string name="tap_for_info">Tengt / Ýttu til að skoða vefsvæði</string>
+</resources>

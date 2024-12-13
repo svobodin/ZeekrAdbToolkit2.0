@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">Basversterking</string>
+    <string name="ci_extreme">FX-booster</string>
+    <string name="classical">Klassiek</string>
+    <string name="dance">Dance</string>
+    <string name="eq_dialog_title">Equalizer</string>
+    <string name="flat">Vlak</string>
+    <string name="folk">Folk</string>
+    <string name="headset_plug">Gebruik een hoofdtelefoon om deze effecten te beluisteren.</string>
+    <string name="heavy_metal">Heavy metal</string>
+    <string name="hip_hop">Hiphop</string>
+    <string name="jazz">Jazz</string>
+    <string name="no_effects">Effecten niet beschikbaar.</string>
+    <string name="normal">Normaal</string>
+    <string name="picker_title">Dashboard voor muziekeffecten</string>
+    <string name="pop">Pop</string>
+    <string name="rock">Rock</string>
+    <string name="setup">Instellen</string>
+    <string name="user">Gebruiker</string>
+    <string name="virtualizer_strength">Surround sound</string>
+</resources>

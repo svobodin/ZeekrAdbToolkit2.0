@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="@style/Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="android:navigationBarColor">@color/hour_vh_background</item>
+        <item name="android:forceDarkAllowed">false</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="preferenceTheme">@style/PreferenceTheme</item>
+    </style>
+</resources>

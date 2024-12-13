@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Okno aplikacji do obsługi karty SIM</string>
+    <string name="install_carrier_app_defer_action">Nie teraz</string>
+    <string name="install_carrier_app_description">Aby nowa karta SIM działała prawidłowo, musisz zainstalować aplikację %1$s</string>
+    <string name="install_carrier_app_description_default">Aby nowa karta SIM działała prawidłowo, musisz zainstalować aplikację operatora</string>
+    <string name="install_carrier_app_download_action">Pobierz aplikację</string>
+    <string name="install_carrier_app_title">Aktywuj usługę sieci</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Wstecz</string>
+    <string name="suw_more_button_label">Więcej</string>
+    <string name="suw_next_button_label">Dalej</string>
+</resources>

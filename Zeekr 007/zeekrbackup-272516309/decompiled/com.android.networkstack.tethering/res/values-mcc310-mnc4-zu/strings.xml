@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Vala ukusebenzisa ifoni njengemodemu</string>
+    <string name="no_upstream_notification_message">Amadivayisi awakwazi ukuxhumeka</string>
+    <string name="no_upstream_notification_title">Ukusebenzisa ifoni njengemodemu akunayo i-inthanethi</string>
+    <string name="upstream_roaming_notification_message">Kungaba nezinkokhelo ezengeziwe uma uzula</string>
+    <string name="upstream_roaming_notification_title">I-hotspot noma ukusebenzisa ifoni njengemodemu kuvuliwe</string>
+</resources>

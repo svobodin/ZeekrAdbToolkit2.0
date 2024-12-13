@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="media_source_name_selected">#ffa65b3a</color>
+    <color name="media_source_name_text_color">#9985898c</color>
+    <color name="media_source_window_color">#ff1d1f24</color>
+</resources>

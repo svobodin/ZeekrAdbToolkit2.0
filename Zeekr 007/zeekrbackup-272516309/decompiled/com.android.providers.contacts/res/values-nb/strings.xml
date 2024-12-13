@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Kontaktlager</string>
+    <string name="debug_dump_database_message">Du er i ferd med å 1) lage en kopi av databasen som omfatter all kontaktrelatert informasjon og alle anropslogger til den interne lagringsplassen, og 2) sende kopien med e-post. Husk å slette kopien så snart du har kopiert den fra enheten eller når e-posten er mottatt.</string>
+    <string name="debug_dump_delete_button">Slett nå</string>
+    <string name="debug_dump_email_body">Vedlagt er kontaktdatabasen min med informasjon om alle kontaktene mine. Håndteres med varsomhet.</string>
+    <string name="debug_dump_email_sender_picker">Velg et program for å sende filen</string>
+    <string name="debug_dump_email_subject">Kontaktdatabasen er vedlagt</string>
+    <string name="debug_dump_start_button">Start</string>
+    <string name="debug_dump_title">Kopiér kontaktdatabasen</string>
+    <string name="default_directory">Kontakter</string>
+    <string name="local_invisible_directory">Annet</string>
+    <string name="provider_label">Kontakter</string>
+    <string name="sharedUserLabel">Kjerneapper for Android</string>
+    <string name="upgrade_out_of_memory_notification_text">Trykk for å fullføre oppgraderingen.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Du har ikke nok minne til å oppgradere kontaktene.</string>
+    <string name="upgrade_out_of_memory_notification_title">Oppgraderer lagring for kontakter</string>
+    <string name="voicemail_from_column">"Talemelding fra "</string>
+</resources>

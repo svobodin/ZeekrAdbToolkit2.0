@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>ਸਿੰਟ ਮਾਰਟੇਨ</item>
+        <item>ਕੈਰੇਬੀਅਨ ਨੀਂਦਰਲੈਂਡਸ</item>
+        <item>ਕੁਰਾਸਾਓ</item>
+        <item>ਦੱਖਣੀ ਸੁਡਾਨ</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>ਆੱਸਟ੍ਰੇਲੀਅਨ ਸੈਂਟਰਲ - NT</item>
+        <item>ਆੱਸਟ੍ਰੇਲੀਅਨ ਸੈਂਟਰਲ - SA</item>
+        <item>ਆੱਸਟ੍ਰੇਲੀਅਨ ਪੂਰਬੀ - QLD</item>
+        <item>ਆੱਸਟ੍ਰੇਲੀਅਨ ਪੂਰਬੀ - NSW</item>
+        <item>ਮਾਊਂਟੇਨ ਸਟੈਂਡਰਡ - ਡੌਸਨ ਕ੍ਰੀਕ</item>
+        <item>ਸੈਂਟਰਲ ਸਟੈਂਡਰਡ - ਸਸਕੈਚਵਾਨ</item>
+        <item>ਪੂਰਬੀ ਸਟੈਂਡਰਡ - ਐਟੀਕੋਕਨ</item>
+        <item>ਅਟਲਾਂਟਿਕ ਸਟੈਂਡਰਡ - ਕਿਊਬੈਕ</item>
+        <item>ਹਵਾਈ-ਅਲੈਯੂਟੀਅਨ-ਹਵਾਈ</item>
+        <item>ਹਵਾਈ-ਅਲੈਯੂਟੀਅਨ-ਅਲਾਸਕਾ</item>
+        <item>ਪੈਸਿਫਿਕ ਸਟੈਂਡਰਡ - ਮੈਟਲਾਕਟਲਾ</item>
+        <item>ਮਾਊਂਟੇਨ ਸਟੈਂਡਰਡ - ਐਰੀਜ਼ੋਨਾ</item>
+        <item>ਪੈਸਿਫਿਕ - ਬਾਜਾ ਕੈਲੀਫੋਰਨੀਆ</item>
+        <item>ਮਾਊਂਟੇਨ - ਚਿਹੁਆਹੁਆ</item>
+        <item>ਸੈਂਟਰਲ - ਤਮੌਲੀਪਾਸ</item>
+        <item>ਮਾਊਂਟੇਨ - ਸੋਨੋਰਾ</item>
+        <item>ਪੂਰਬੀ ਅਫਰੀਕਾ ਸਮਾਂ</item>
+        <item>ਅਟਲਾਂਟਿਕ ਸਟੈਂਡਰਡ ਸਮਾਂ</item>
+        <item>ਅਟਲਾਂਟਿਕ ਸਟੈਂਡਰਡ ਸਮਾਂ</item>
+        <item>ਪੂਰਬੀ ਯੂਰੋਪੀਅਨ ਸਮਾਂ</item>
+        <item>ਕਲਿੰਗ੍ਰੈਡ ਸਮਾਂ</item>
+        <item>ਅਮੈਜ਼ੋਨ - ਰੰਡੋਨੀਆ</item>
+        <item>ਬ੍ਰਾਜ਼ੀਲੀਆ - ਪੈਰਾ</item>
+    </string-array>
+</resources>

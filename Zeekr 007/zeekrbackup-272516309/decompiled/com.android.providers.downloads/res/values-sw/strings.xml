@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Kidhibiti Vipakuliwa</string>
+    <string name="button_cancel_download">Ghairi</string>
+    <string name="button_queue_for_wifi">Foleni</string>
+    <string name="button_start_now">Anza sasa</string>
+    <string name="download_error">Haijafanikiwa</string>
+    <string name="download_no_application_title">Imeshindwa kufungua faili</string>
+    <string name="download_queued">Zilizowekwa kwenye foleni</string>
+    <string name="download_remaining">Zimesalia %s</string>
+    <string name="download_running">Unaendelea</string>
+    <string name="download_running_percent">Inaendelea, %s</string>
+    <string name="download_unknown_title">&lt;Haina Kichwa></string>
+    <string name="notification_download_complete">Upakuaji umekamilika</string>
+    <string name="notification_download_failed">Kupakua hakukuwezekana.</string>
+    <string name="notification_need_wifi_for_size">Ukubwa wa kipakuzi uhitaji Wi-Fi</string>
+    <string name="notification_paused_in_background">Imesitishwa katika usuli.</string>
+    <string name="permdesc_accessAllDownloads">Huruhusu programu kuona na kurekebisha vipakuliwa vyote vilivyoanzishwa na programu yoyote kwenye mfumo.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Huruhusu programu kupakua faili hadi akiba ya vipakuliwa ambayo haiwezi kufutwa kiotomatiki wakati kidhibiti upakuaji kinahitaji nafasi zaidi.</string>
+    <string name="permdesc_downloadCompletedIntent">Huruhusu programu kutuma notisi kuhusu vipakuliwa vilivyokamilika. Programu hasidi zinaweza kutumia hii kuchanganya programu zingine ambazo hupakua faili.</string>
+    <string name="permdesc_downloadManager">Huruhusu programu kufikia kidhibiti vipakuliwa na kukitumia ili kupakua faili. Programu hasidi zinaweza kutumia hii ili kutatiza vipakuliwa na kufikia maelezo ya kibinafsi.</string>
+    <string name="permdesc_downloadManagerAdvanced">Huruhusu programu kufikia vitendaji mahiri vya kidhibiti vipakuliwa. Programu hasidi zinaweza kutumia hii ili kutatiza vipakuliwa na kufikia maelezo ya kibinafsi.</string>
+    <string name="permdesc_downloadWithoutNotification">Huruhusu programu kupakua faili kupitia kidhibiti vipakuliwa bila mtumiaji kuonyeshwa arifa yoyote.</string>
+    <string name="permlab_accessAllDownloads">Fikia vipakuliwa vyote vya mfumo</string>
+    <string name="permlab_downloadCacheNonPurgeable">Weka nafasi katika akiba ya upakuaji</string>
+    <string name="permlab_downloadCompletedIntent">Tuma arifa za vipakuliwa.</string>
+    <string name="permlab_downloadManager">Fikia kidhibiti cha vipakuliwa.</string>
+    <string name="permlab_downloadManagerAdvanced">Hatua za kina zinazoweza kufanywa na kidhibiti vipakuliwa.</string>
+    <string name="permlab_downloadWithoutNotification">kupakua faili bila kutoa arifa</string>
+    <string name="root_downloads">Vipakuliwa</string>
+    <string name="storage_description">Vipakuliwa</string>
+    <string name="wifi_recommended_body">"Kuanza kupakua kipakuzi hiki cha %1$s  kunaweza kufupisha maisha ya betri yako na / au kusababisha matumizi makubwa ya muunganisho wa data wa simu yako ya mkononi, jambo ambalo linaweza kusababisha kutozwa na mtoa huduma wako wa simu ya mkononi kulingana na mpango wako wa data. 
+ 
+ Guza %2$s ili kuanza kupakua wakati utakapokuwa umeunganishwa na mtandao wa Wi-Fi."</string>
+    <string name="wifi_recommended_title">Weka katika foleni ya kupakulia baadaye?</string>
+    <string name="wifi_required_body">"Lazima utumia Wi-Fi ili ukamilishe kipakuzi cha %1$s . 
+
+Gusa %2$s  ili kuanzisha upakuaji huu wakati utakapounganishwa tena kwenye mtandao wa Wi-Fi."</string>
+    <string name="wifi_required_title">Kipakuzi ni kikubwa zaidi kwa mtandao wa mtoa huduma</string>
+</resources>

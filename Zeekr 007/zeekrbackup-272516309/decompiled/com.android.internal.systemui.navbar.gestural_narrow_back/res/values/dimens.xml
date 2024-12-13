@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="config_backGestureInset">18.0dip</dimen>
+    <dimen name="navigation_bar_frame_height">48.0dip</dimen>
+    <dimen name="navigation_bar_gesture_height">32.0dip</dimen>
+    <dimen name="navigation_bar_height">16.0dip</dimen>
+    <dimen name="navigation_bar_height_landscape">16.0dip</dimen>
+    <dimen name="navigation_bar_width">16.0dip</dimen>
+</resources>

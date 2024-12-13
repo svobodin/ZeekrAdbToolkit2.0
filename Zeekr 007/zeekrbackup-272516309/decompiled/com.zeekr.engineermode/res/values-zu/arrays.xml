@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>I-Sint Maarten</item>
+        <item>I-Caribbean Netherlands</item>
+        <item>I-Curaçao</item>
+        <item>I-South Sudan</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>esase-Australian Central - NT</item>
+        <item>esase-Australia Central - SA</item>
+        <item>esase-Australia Eastern - QLD</item>
+        <item>esase-Australia Eastern- NSW</item>
+        <item>esase-Mountain Standard - Dawson Creek</item>
+        <item>esase-Central Standard - Saskatchewan</item>
+        <item>esase-Eastern Standard - Atikokan</item>
+        <item>esase-Atlantic Standard - Quebec</item>
+        <item>esase-Hawaii-Aleutian - Hawaii</item>
+        <item>esase-Hawaii-Aleutian - Alaska</item>
+        <item>esase-Pacific Standard - Metlakatla</item>
+        <item>esase-Mountain Standard - Arizona</item>
+        <item>esase-Pacific - Baja California</item>
+        <item>esase-Mountain - Chihuahua</item>
+        <item>esase-Central - Tamaulipas</item>
+        <item>esase-Mountain - Sonora</item>
+        <item>esase-East Africa Time</item>
+        <item>esase-Atlantic Standard Time</item>
+        <item>esase-Atlantic Standard Time</item>
+        <item>esase-Eastern European Time</item>
+        <item>esase-Kaliningrad Time</item>
+        <item>esase-Amazon - Rondônia</item>
+        <item>esase-Brasilia - Pará</item>
+    </string-array>
+</resources>

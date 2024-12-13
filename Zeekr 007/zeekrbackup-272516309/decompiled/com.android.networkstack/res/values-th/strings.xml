@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">ตัวจัดการเครือข่าย</string>
+    <string name="connected">เชื่อมต่อแล้ว</string>
+    <string name="notification_channel_description_connected">การแจ้งเตือนที่แสดงเมื่ออุปกรณ์ผ่านการตรวจสอบสิทธิ์สำหรับการเข้าถึงเครือข่ายแคพทีฟพอร์ทัลได้สำเร็จ</string>
+    <string name="notification_channel_description_network_venue_info">การแจ้งเตือนที่แสดงเพื่อบ่งชี้ว่าเครือข่ายมีหน้าข้อมูลสถานที่</string>
+    <string name="notification_channel_name_connected">การตรวจสอบสิทธิ์แคพทีฟพอร์ทัล</string>
+    <string name="notification_channel_name_network_venue_info">ข้อมูลสถานที่ของเครือข่าย</string>
+    <string name="tap_for_info">เชื่อมต่อแล้ว/แตะเพื่อดูเว็บไซต์</string>
+</resources>

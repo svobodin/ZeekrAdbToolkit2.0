@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">^1 колдонмосу ^2 аудио файлды өчүрсүнбү?</item>
+        <item quantity="one">^1 колдонмосу бул аудио файлды өчүрсүнбү?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">^1 колдонмосу ^2 нерсени өчүрсүнбү?</item>
+        <item quantity="one">^1 колдонмосу бул нерсени өчүрсүнбү?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">^1 бул ^2 сүрөттү өчүрсүнбү?</item>
+        <item quantity="one">^1 бул сүрөттү өчүрсүнбү?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">^1 колдонмосу ^2 видеону өчүрсүнбү?</item>
+        <item quantity="one">^1 колдонмосу бул видеону өчүрсүнбү?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">Дагы ^1 нерсе</item>
+        <item quantity="one">Дагы ^1 нерсе</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">дагы ^1</item>
+        <item quantity="one">дагы ^1</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">^1 аудио файл өчүрүлүүдө…</item>
+        <item quantity="one">Аудио файл өчүрүлүүдө…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">^1 элемент жок кылынууда…</item>
+        <item quantity="one">Элемент жок кылынууда…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">^1 сүрөт жок кылынууда…</item>
+        <item quantity="one">Сүрөт жок кылынууда…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">^1 видео жок кылынууда…</item>
+        <item quantity="one">Видео жок кылынууда…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">^1 аудио файл таштандыга ыргытылууда…</item>
+        <item quantity="one">Аудио файл таштандыга ыргытылууда…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">^1 элемент таштандыга ыргытылууда…</item>
+        <item quantity="one">Элемент таштандыга ыргытылууда…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">^1 сүрөт таштандыга ыргытылууда…</item>
+        <item quantity="one">Сүрөт таштандыга ыргытылууда…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">^1 видео таштандыга ыргытылууда…</item>
+        <item quantity="one">Видео таштандыга ыргытылууда…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">^1 аудио файл калыбына келтирилүүдө…</item>
+        <item quantity="one">Аудио файл калыбына келтирилүүдө…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">^1 элемент калыбына келтирилүүдө…</item>
+        <item quantity="one">Элемент калыбына келтирилүүдө…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">^1 сүрөт калыбына келтирилүүдө…</item>
+        <item quantity="one">Сүрөт калыбына келтирилүүдө…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">^1 видео калыбына келтирилүүдө…</item>
+        <item quantity="one">Видео калыбына келтирилүүдө…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">^1 аудио файл өзгөртүлүүдө…</item>
+        <item quantity="one">Аудио файл өзгөртүлүүдө…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">^1 элемент өзгөртүлүүдө…</item>
+        <item quantity="one">Элемент өзгөртүлүүдө…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">^1 сүрөт өзгөртүлүүдө…</item>
+        <item quantity="one">Сүрөт өзгөртүлүүдө…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">^1 видео өзгөртүлүүдө…</item>
+        <item quantity="one">Видео өзгөртүлүүдө…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">^1 бул ^2 аудио файлды таштандыга ыргытсынбы?</item>
+        <item quantity="one">^1 бул аудио файлды таштандыга ыргытсынбы?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">^1 бул ^2 нерсени таштандыга ыргытсынбы?</item>
+        <item quantity="one">^1 бул нерсени таштандыга ыргытсынбы?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">^1 ^2 сүрөттү таштандыга ыргытсынбы?</item>
+        <item quantity="one">^1 бул сүрөттү таштандыга ыргытсынбы?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">^1 бул ^2 видеону таштандыга ыргытсынбы?</item>
+        <item quantity="one">^1 бул видеону таштандыга ыргытсынбы?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">^1 колдонмосу ^2 аудио файлды калыбына келтирсинби?</item>
+        <item quantity="one">^1 колдонмосу бул аудио файлды калыбына келтирсинби?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">^1 колдонмосу ^2 нерсени калыбына келтирсинби?</item>
+        <item quantity="one">^1 колдонмосу бул нерсени калыбына келтирсинби?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">^1 бул ^2 сүрөттү калыбына келтирсинби?</item>
+        <item quantity="one">^1 бул сүрөттү калыбына келтирсинби?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">^1 колдонмосу ^2 видеону калыбына келтирсинби?</item>
+        <item quantity="one">^1 колдонмосу бул видеону калыбына келтирсинби?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">^1 колдонмосу ^2 аудио файлды өзгөртсүнбү?</item>
+        <item quantity="one">^1 колдонмосу бул аудио файлды өзгөртсүнбү?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">^1 колдонмосу ^2 нерсени өзгөртсүнбү?</item>
+        <item quantity="one">^1 колдонмосу бул нерсени өзгөртсүнбү?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">^1 бул ^2 сүрөттү өзгөртсүнбү?</item>
+        <item quantity="one">^1 бул сүрөттү өзгөртсүнбү?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">^1 колдонмосу ^2 видеону өзгөртсүнбү?</item>
+        <item quantity="one">^1 колдонмосу бул видеону өзгөртсүнбү?</item>
+    </plurals>
+</resources>

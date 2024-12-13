@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Activity Stub</string>
+    <string name="message_not_supported">Ezt nem tudják elvégezni az alkalmazások</string>
+    <string name="pip_not_supported">A Kép a képben funkció nem támogatott ezen az eszközön</string>
+    <string name="stub_name">Nincs</string>
+</resources>

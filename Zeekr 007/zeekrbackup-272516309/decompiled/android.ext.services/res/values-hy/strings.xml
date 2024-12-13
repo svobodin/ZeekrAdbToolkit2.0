@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_assistant">Android-ի հարմարվող ծանուցումներ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="tc_notif_code_copied_to_clipboard">Կոդը պատճենվեց</string>
+    <string name="tc_notif_copy_code_desc">Պատճենել «%1$s» կոդը</string>
+</resources>

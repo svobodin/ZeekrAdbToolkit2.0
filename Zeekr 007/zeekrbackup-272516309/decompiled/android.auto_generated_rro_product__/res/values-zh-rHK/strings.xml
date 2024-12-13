@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="owner_name">司機</string>
+    <string name="permlab_accessCoarseLocation">只在前景存取概略位置</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">開啟麥克風</string>
+</resources>

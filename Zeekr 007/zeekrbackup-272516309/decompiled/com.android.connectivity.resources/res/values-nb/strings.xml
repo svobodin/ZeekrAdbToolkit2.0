@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">Ressurser for systemtilkobling</string>
+    <string name="mobile_no_internet">Mobilnettverket har ingen internettilgang</string>
+    <string name="network_available_sign_in">Logg på nettverk</string>
+    <string name="network_partial_connectivity">%1$s har begrenset tilkobling</string>
+    <string name="network_partial_connectivity_detailed">Trykk for å koble til likevel</string>
+    <string name="network_switch_metered">Byttet til %1$s</string>
+    <string name="network_switch_metered_detail">Enheten bruker %1$s når %2$s ikke har Internett-tilgang. Avgifter kan påløpe.</string>
+    <string name="network_switch_metered_toast">Byttet fra %1$s til %2$s</string>
+    <string name="network_switch_type_name_unknown">en ukjent nettverkstype</string>
+    <string name="other_networks_no_internet">Nettverket har ingen internettilgang</string>
+    <string name="private_dns_broken_detailed">Den private DNS-tjeneren kan ikke nås</string>
+    <string name="wifi_available_sign_in">Logg på Wi-Fi-nettverket</string>
+    <string name="wifi_no_internet">%1$s har ingen internettilkobling</string>
+    <string name="wifi_no_internet_detailed">Trykk for å få alternativer</string>
+</resources>

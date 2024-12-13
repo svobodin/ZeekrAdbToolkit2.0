@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">टेदरिंग बंद करा</string>
+    <string name="no_upstream_notification_message">डिव्हाइस कनेक्ट होऊ शकत नाहीत</string>
+    <string name="no_upstream_notification_title">टेदरिंगला इंटरनेट नाही</string>
+    <string name="upstream_roaming_notification_message">रोमिंगदरम्यान अतिरिक्त शुल्क लागू होऊ शकतात</string>
+    <string name="upstream_roaming_notification_title">हॉटस्पॉट किंवा टेदरिंग सुरू आहे</string>
+</resources>

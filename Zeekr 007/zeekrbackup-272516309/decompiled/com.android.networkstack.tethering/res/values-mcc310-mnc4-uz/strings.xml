@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Modem rejimini faolsizlantirish</string>
+    <string name="no_upstream_notification_message">Qurilmalar ulanmadi</string>
+    <string name="no_upstream_notification_title">Modem internetga ulanmagan</string>
+    <string name="upstream_roaming_notification_message">Rouming vaqtida qoʻshimcha haq olinishi mumkin</string>
+    <string name="upstream_roaming_notification_title">Hotspot yoki modem rejimi yoniq</string>
+</resources>

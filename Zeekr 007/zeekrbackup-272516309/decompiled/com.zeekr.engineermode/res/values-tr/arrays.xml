@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>Saint Martin</item>
+        <item>Karaip Felemenkçe</item>
+        <item>Curaçao</item>
+        <item>Güney Sudan</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Avustralya Merkez - NT</item>
+        <item>Avustralya Merkez - SA</item>
+        <item>Avustralya Doğu - QLD</item>
+        <item>Avustralya Batı - NSW</item>
+        <item>Dağ Standart - Dawson Creek</item>
+        <item>Merkez Standart - Saskatchewan</item>
+        <item>Doğu Standart - Atikokan</item>
+        <item>Atlantik Standart - Quebec</item>
+        <item>Hawaii-Aleutian - Hawaii</item>
+        <item>Hawaii-Aleutian - Alaska</item>
+        <item>Pasifik Standart - Metlakatla</item>
+        <item>Dağ Standart - Arizona</item>
+        <item>Pasifik - Baja California</item>
+        <item>Dağ - Chihuahua</item>
+        <item>Merkez - Tamaulipas</item>
+        <item>Dağ - Sonora</item>
+        <item>Doğu Afrika Saati</item>
+        <item>Atlantik Standart Saati</item>
+        <item>Atlantik Standart Saati</item>
+        <item>Doğu Avrupa Saati</item>
+        <item>Kaliningrad Saati</item>
+        <item>Amazon - Rondônia</item>
+        <item>Brezilya - Pará</item>
+    </string-array>
+</resources>

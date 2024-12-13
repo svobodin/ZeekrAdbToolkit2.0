@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">ਸਿਸਟਮ ਕਨੈਕਟੀਵਿਟੀ ਸਰੋਤ</string>
+    <string name="mobile_no_internet">ਮੋਬਾਈਲ ਨੈੱਟਵਰਕ ਕੋਲ ਇੰਟਰਨੈੱਟ ਤੱਕ ਪਹੁੰਚ ਨਹੀਂ ਹੈ</string>
+    <string name="network_available_sign_in">"ਨੈੱਟਵਰਕ 'ਤੇ ਸਾਈਨ-ਇਨ ਕਰੋ"</string>
+    <string name="network_partial_connectivity">%1$s ਕੋਲ ਸੀਮਤ ਕਨੈਕਟੀਵਿਟੀ ਹੈ</string>
+    <string name="network_partial_connectivity_detailed">ਫਿਰ ਵੀ ਕਨੈਕਟ ਕਰਨ ਲਈ ਟੈਪ ਕਰੋ</string>
+    <string name="network_switch_metered">ਬਦਲਕੇ %1$s ਲਿਆਂਦਾ ਗਿਆ</string>
+    <string name="network_switch_metered_detail">"%2$s ਦੀ ਇੰਟਰਨੈੱਟ 'ਤੇ ਪਹੁੰਚ ਨਾ ਹੋਣ 'ਤੇ ਡੀਵਾਈਸ %1$s ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹੈ। ਖਰਚੇ ਲਾਗੂ ਹੋ ਸਕਦੇ ਹਨ।"</string>
+    <string name="network_switch_metered_toast">"%1$s ਤੋਂ ਬਦਲਕੇ %2$s 'ਤੇ ਕੀਤਾ ਗਿਆ"</string>
+    <string name="network_switch_type_name_unknown">ਕੋਈ ਅਗਿਆਤ ਨੈੱਟਵਰਕ ਦੀ ਕਿਸਮ</string>
+    <string name="other_networks_no_internet">ਨੈੱਟਵਰਕ ਕੋਲ ਇੰਟਰਨੈੱਟ ਤੱਕ ਪਹੁੰਚ ਨਹੀਂ ਹੈ</string>
+    <string name="private_dns_broken_detailed">"ਨਿੱਜੀ ਡੋਮੇਨ ਨਾਮ ਪ੍ਰਣਾਲੀ (DNS) ਸਰਵਰ 'ਤੇ ਪਹੁੰਚ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕੀ"</string>
+    <string name="wifi_available_sign_in">"ਵਾਈ-ਫਾਈ ਨੈੱਟਵਰਕ 'ਤੇ ਸਾਈਨ-ਇਨ ਕਰੋ"</string>
+    <string name="wifi_no_internet">%1$s ਕੋਲ ਇੰਟਰਨੈੱਟ ਪਹੁੰਚ ਨਹੀਂ ਹੈ</string>
+    <string name="wifi_no_internet_detailed">ਵਿਕਲਪਾਂ ਲਈ ਟੈਪ ਕਰੋ</string>
+</resources>

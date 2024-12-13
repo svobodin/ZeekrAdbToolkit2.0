@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">Сырсөзүңүздү киргизип, системаны динамикалык жаңыртууга өтүңүз</string>
+    <string name="notification_action_cancel">Жок</string>
+    <string name="notification_action_discard">Жоюу</string>
+    <string name="notification_action_reboot_to_dynsystem">Өчүрүп күйгүзүү</string>
+    <string name="notification_action_reboot_to_origin">Өчүрүп күйгүзүү</string>
+    <string name="notification_dynsystem_in_use">"Учурда динамикалык система колдонулууда. Android'дин түпнуска версиясын колдонуу үчүн өчүрүп күйгүзүңүз."</string>
+    <string name="notification_image_validation_failed">Дисктин сүрөтү текшерилбей калды. Орнотууну токтотуңуз.</string>
+    <string name="notification_install_completed">Динамикалык система даяр. Аны колдонуу үчүн түзмөктү өчүрүп күйгүзүңүз.</string>
+    <string name="notification_install_failed">Орнотулбай койду</string>
+    <string name="notification_install_inprogress">Орнотулууда</string>
+    <string name="toast_dynsystem_discarded">Динамикалык система жоюлду</string>
+    <string name="toast_failed_to_disable_dynsystem">Динамикалык система өчпөй койду</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Динамикалык система өчүрүлүп күйгүзүлбөй же жүктөлбөй жатат</string>
+</resources>

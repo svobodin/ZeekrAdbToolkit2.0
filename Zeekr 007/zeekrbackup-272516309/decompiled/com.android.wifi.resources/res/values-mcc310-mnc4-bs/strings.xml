@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s : Ne možete se povezati s WiFi pristupom Verizonu izvan područja pokrivenosti Verizona.</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s : Niste pretplaćeni na WiFi pristup Verizonu. Pozovite nas na broj 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s : Došlo je do problema s vašim računom za WiFi pristup Verizonu. Pozovite nas na broj 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s : Već ste povezani s WiFi pristupom Verizonu.</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s : Došlo je do problema pri povezivanju s WiFi pristupom Verizonu. Pozovite nas na broj 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s : Došlo je do problema s vašim računom za WiFi pristup Verizonu. Pozovite nas na broj 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s : WiFi pristup Verizonu nije dostupan s vaše lokacije. Pokušajte ponovo kasnije ili pokušajte s druge lokacije.</string>
+</resources>

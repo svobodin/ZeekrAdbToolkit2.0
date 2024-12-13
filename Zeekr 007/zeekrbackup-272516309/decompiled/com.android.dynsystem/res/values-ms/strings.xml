@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">Sila masukkan kata laluan dan teruskan ke Kemas Kini Sistem Dinamik</string>
+    <string name="notification_action_cancel">Batal</string>
+    <string name="notification_action_discard">Buang</string>
+    <string name="notification_action_reboot_to_dynsystem">Mulakan semula</string>
+    <string name="notification_action_reboot_to_origin">Mulakan semula</string>
+    <string name="notification_dynsystem_in_use">Sedang menjalankan sistem dinamik. Mulakan semula peranti untuk menggunakan versi asal Android.</string>
+    <string name="notification_image_validation_failed">Gagal mengesahkan imej. Henti paksa pemasangan.</string>
+    <string name="notification_install_completed">Sistem dinamik sudah sedia. Untuk mula menggunakan sistem ini, mulakan semula peranti anda</string>
+    <string name="notification_install_failed">Pemasangan gagal</string>
+    <string name="notification_install_inprogress">Pemasangan sedang dijalankan</string>
+    <string name="toast_dynsystem_discarded">Sistem dinamik dibuang</string>
+    <string name="toast_failed_to_disable_dynsystem">Gagal melumpuhkan sistem dinamik</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Tidak dapat memulakan semula atau memuatkan sistem dinamik</string>
+</resources>

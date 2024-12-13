@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">Engedélyezi a(z) ^1 számára ^2 audiofájl törlését?</item>
+        <item quantity="one">Engedélyezi a(z) ^1 számára ennek az audiofájlnak a törlését?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">Engedélyezi a(z) ^1 számára ^2 elem törlését?</item>
+        <item quantity="one">Engedélyezi a(z) ^1 számára ennek az elemnek a törlését?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">Engedélyezi a(z) ^1 számára ^2 fotó törlését?</item>
+        <item quantity="one">Engedélyezi a(z) ^1 számára ennek a fotónak a törlését?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">Engedélyezi a(z) ^1 számára ^2 videó törlését?</item>
+        <item quantity="one">Engedélyezi a(z) ^1 számára ennek a videónak a törlését?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">És további ^1 elem</item>
+        <item quantity="one">És további ^1 elem</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">+^1</item>
+        <item quantity="one">+^1</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">^1 audiofájl törlése folyamatban van…</item>
+        <item quantity="one">Az audiofájl törlése folyamatban van…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">^1 elem törlése folyamatban van…</item>
+        <item quantity="one">Az elem törlése folyamatban van…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">^1 fotó törlése folyamatban van…</item>
+        <item quantity="one">A fotó törlése folyamatban van…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">^1 videó törlése folyamatban van…</item>
+        <item quantity="one">A videó törlése folyamatban van…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">^1 audiofájl áthelyezése a kukába…</item>
+        <item quantity="one">Az audiofájl áthelyezése a kukába…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">^1 elem áthelyezése a kukába…</item>
+        <item quantity="one">Az elem áthelyezése a kukába…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">^1 fotó áthelyezése a kukába…</item>
+        <item quantity="one">Fotó áthelyezése a kukába…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">^1 videó áthelyezése a kukába…</item>
+        <item quantity="one">Videó áthelyezése a kukába…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">^1 audiofájl visszaállítása a kukából…</item>
+        <item quantity="one">Audiofájl visszaállítása a kukából…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">^1 elem visszaállítása a kukából…</item>
+        <item quantity="one">Elem visszaállítása a kukából…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">^1 fotó visszaállítása a kukából…</item>
+        <item quantity="one">Fotó visszaállítása a kukából…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">^1 videó visszaállítása a kukából…</item>
+        <item quantity="one">Videó visszaállítása a kukából…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">^1 audiofájl módosítása folyamatban van…</item>
+        <item quantity="one">Az audiofájl módosítása folyamatban van…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">^1 elem módosítása folyamatban van…</item>
+        <item quantity="one">Az elem módosítása folyamatban van…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">^1 fotó módosítása folyamatban van…</item>
+        <item quantity="one">A fotó módosítása folyamatban van…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">^1 videó módosítása folyamatban van…</item>
+        <item quantity="one">A videó módosítása folyamatban van…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">Engedélyezi a(z) ^1 számára ^2 hangfájlnak a kukába helyezését?</item>
+        <item quantity="one">Engedélyezi a(z) ^1 számára ennek a hangfájlnak a kukába helyezését?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">Engedélyezi a(z) ^1 számára ^2 elemnek a kukába helyezését?</item>
+        <item quantity="one">Engedélyezi a(z) ^1 számára ennek az elemnek a kukába helyezését?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">Engedélyezi a(z) ^1 számára ^2 fotónak a kukába helyezését?</item>
+        <item quantity="one">Engedélyezi a(z) ^1 számára ennek a fotónak a kukába helyezését?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">Engedélyezi a(z) ^1 számára ^2 videónak a kukába helyezését?</item>
+        <item quantity="one">Engedélyezi a(z) ^1 számára ennek a videónak a kukába helyezését?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">Engedélyezi a(z) ^1 számára ^2 hangfájlnak a kukából való visszaállítását?</item>
+        <item quantity="one">Engedélyezi a(z) ^1 számára ennek a hangfájlnak a kukából való visszaállítását?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">Engedélyezi a(z) ^1 számára ^2 elemnek a kukából való visszaállítását?</item>
+        <item quantity="one">Engedélyezi a(z) ^1 számára ennek az elemnek a kukából való visszaállítását?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">Engedélyezi a(z) ^1 számára ^2 fotónak a kukából való visszaállítását?</item>
+        <item quantity="one">Engedélyezi a(z) ^1 számára ennek a fotónak a kukából való visszaállítását?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">Engedélyezi a(z) ^1 számára ^2 videónak a kukából való visszaállítását?</item>
+        <item quantity="one">Engedélyezi a(z) ^1 számára ennek a videónak a kukából való visszaállítását?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">Engedélyezi a(z) ^1 számára ^2 hangfájl módosítását?</item>
+        <item quantity="one">Engedélyezi a(z) ^1 számára ennek a hangfájlnak a módosítását?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">Engedélyezi a(z) ^1 számára ^2 elem módosítását?</item>
+        <item quantity="one">Engedélyezi a(z) ^1 számára ennek az elemnek a módosítását?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">Engedélyezi a(z) ^1 számára ^2 fotó módosítását?</item>
+        <item quantity="one">Engedélyezi a(z) ^1 számára ennek a fotónak a módosítását?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">Engedélyezi a(z) ^1 számára ^2 videó módosítását?</item>
+        <item quantity="one">Engedélyezi a(z) ^1 számára ennek a videónak a módosítását?</item>
+    </plurals>
+</resources>

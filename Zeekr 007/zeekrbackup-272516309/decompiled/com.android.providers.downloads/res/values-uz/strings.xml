@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Yuklanmalar boshqaruvi</string>
+    <string name="button_cancel_download">Bekor qilish</string>
+    <string name="button_queue_for_wifi">Navbat</string>
+    <string name="button_start_now">Ishga tushirish</string>
+    <string name="download_error">Muvaffaqiyatsiz</string>
+    <string name="download_no_application_title">Fayl ochilmadi</string>
+    <string name="download_queued">Navbatga qo‘shildi</string>
+    <string name="download_remaining">%s qoldi</string>
+    <string name="download_running">Yuklab olinmoqda</string>
+    <string name="download_running_percent">Davom etmoqda, %s</string>
+    <string name="download_unknown_title">&lt;Sarlavhasiz></string>
+    <string name="notification_download_complete">Yuklab olish tugallandi.</string>
+    <string name="notification_download_failed">Yuklab olish muvaffaqiyatsiz yakunlandi.</string>
+    <string name="notification_need_wifi_for_size">Katta hajmni yuklab olish uchun Wi-Fi kerak.</string>
+    <string name="notification_paused_in_background">Orqa fonda pauzalangan.</string>
+    <string name="permdesc_accessAllDownloads">Ilovaga tizimda har qanday ilova tomonidan ishga tushirilgan barcha yuklanishlarni ko‘rish va o‘zgartirish uchun ruxsat beradi.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Yuklashlar menejeriga ko‘proq bo‘sh joy kerak bo‘lganda avtomatik o‘chirilmaydigan fayllarni yuklab olish keshiga yuklab olish uchun ilovaga ruxsat beradi.</string>
+    <string name="permdesc_downloadCompletedIntent">Ilovaga tugagan yuklab olishlar haqidagi xabarnomalarini jo‘natishga ruxsat beradi. Zararli dasturlar bundan yuklab olinayotgan fayllarni boshqalari bilan chalkashtirish uchun foydalanishi mumkin.</string>
+    <string name="permdesc_downloadManager">Ilovaga yuklab olish menejeriga kirish va yuklab olish fayllaridan foydalanish uchun ruxsat beradi. Zararli dasturlar bundan yuklab olishlarga to‘sqinlik qilish va maxfiy ma’lumotlarga kirish uchun foydalanishi mumkin.</string>
+    <string name="permdesc_downloadManagerAdvanced">Ilovaga yuklab olish menejerining qo‘shimcha funksiyalariga kirish uchun ruxsat beradi. Zararli dasturlar bundan yuklab olishlarga to‘sqinlik qilish va maxfiy ma’lumotlarga kirish uchun foydalanishi mumkin.</string>
+    <string name="permdesc_downloadWithoutNotification">Foydalanuvchini hech qanday ogohlantirmasdan Ilovaga yuklab olish menejeri orqali fayllar yuklab olish uchun ruxsat beradi.</string>
+    <string name="permlab_accessAllDownloads">Tizimdagi barcha yuklanmalarga ruxsat berish</string>
+    <string name="permlab_downloadCacheNonPurgeable">Yuklab olish keshida joy qoldirish</string>
+    <string name="permlab_downloadCompletedIntent">Yuklab olish xabarnomalarini jo‘natadi.</string>
+    <string name="permlab_downloadManager">Yuklab olish menejeriga kirishga ruxsat</string>
+    <string name="permlab_downloadManagerAdvanced">Qo‘shimcha yuklab olish menejeri funksiyalari.</string>
+    <string name="permlab_downloadWithoutNotification">fayllarni ogohlantirishsiz yuklab olish</string>
+    <string name="root_downloads">Yuklanmalar</string>
+    <string name="storage_description">Yuklanmalar</string>
+    <string name="wifi_recommended_body">"Ushbu %1$s  hajmdagi yuklab olishni boshlash batareya quvvatini kamaytirishi va/yoki uyali aloqa internetidan juda ko‘p foydalanib, natijada internet paketingizga ko‘ra uyali tarmoq operatoringiz tomonidan sizdan ortiqcha haq talab qilinishiga sabab bo‘lishi mumkin. 
+
+ Keyingi safar Wi-Fi tarmoqqa ulanganingizda yuklab olishni boshlash uchun %2$sni tanlang."</string>
+    <string name="wifi_recommended_title">Keyinroq yuklab olish uchun navbatga qo‘shilsinmi?</string>
+    <string name="wifi_required_body">"Ushbu %1$s  hajmdagi yuklab olishni tugatish uchun Wi-Fi tarmoqdan foydalanishingiz kerak. 
+
+Keyingi safar Wi-Fi tarmoqqa ulanganingizda yuklab olishni boshlash uchun %2$s ni bosing."</string>
+    <string name="wifi_required_title">Tarmoq operatori aloqasi orqali yuklab olish uchun fayl hajmi katta</string>
+</resources>

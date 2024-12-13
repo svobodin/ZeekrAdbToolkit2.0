@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Správce sítí</string>
+    <string name="connected">Připojeno</string>
+    <string name="notification_channel_description_connected">Oznámení zobrazovaná po úspěšném ověření zařízení v síti s captive portálem</string>
+    <string name="notification_channel_description_network_venue_info">Oznámení zobrazovaná na znamení, že síť obsahuje stránku s informacemi o místě</string>
+    <string name="notification_channel_name_connected">Ověření captive portálu</string>
+    <string name="notification_channel_name_network_venue_info">Síť s informacemi o místě</string>
+    <string name="tap_for_info">Připojeno / Klepnutím zobrazíte web</string>
+</resources>

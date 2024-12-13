@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d नयाँ सूचनाहरू</item>
+        <item quantity="one">%d नयाँ सूचना</item>
+    </plurals>
+    <plurals name="num_categories_selected">
+        <item quantity="other">%d चयन गरियो</item>
+        <item quantity="one">%d चयन गरियो</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d डिभाइस कनेक्ट गरिएको छ</item>
+        <item quantity="one">%1$d यन्त्र जडान गरियो</item>
+    </plurals>
+</resources>

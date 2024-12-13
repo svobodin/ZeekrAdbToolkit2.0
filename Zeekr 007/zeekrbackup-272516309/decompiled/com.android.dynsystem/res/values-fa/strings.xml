@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">لطفاً گذرواژه را وارد کنید و «به‌روزرسانی‌های سیستم پویا» را ادامه دهید</string>
+    <string name="notification_action_cancel">لغو کردن</string>
+    <string name="notification_action_discard">صرف‌نظر کردن</string>
+    <string name="notification_action_reboot_to_dynsystem">بازراه‌اندازی</string>
+    <string name="notification_action_reboot_to_origin">بازراه‌اندازی</string>
+    <string name="notification_dynsystem_in_use">‏درحال‌حاضر سیستم پویا اجرا می‌شود. برای استفاده از نسخه اصلی Android، بازراه‌اندازی کنید.</string>
+    <string name="notification_image_validation_failed">اعتبارسنجی نسخه دیسک انجام نشد. نصب را لغو کنید.</string>
+    <string name="notification_install_completed">سیستم پویا آماده است. برای استفاده از آن، دستگاه را بازراه‌اندازی کنید.</string>
+    <string name="notification_install_failed">نصب نشد</string>
+    <string name="notification_install_inprogress">درحال نصب</string>
+    <string name="toast_dynsystem_discarded">از سیستم پویا صرف‌نظر شد</string>
+    <string name="toast_failed_to_disable_dynsystem">سیستم پویا غیرفعال نشد</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">نمی‌توان سیستم پویا را بازراه‌اندازی یا بار کرد</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">இணைப்பு முறையை ஆஃப் செய்</string>
+    <string name="no_upstream_notification_message">சாதனங்களால் இணைய முடியவில்லை</string>
+    <string name="no_upstream_notification_title">இணைப்பு முறைக்கு இணைய இணைப்பு இல்லை</string>
+    <string name="upstream_roaming_notification_message">ரோமிங்கின்போது கூடுதல் கட்டணங்கள் விதிக்கப்படக்கூடும்</string>
+    <string name="upstream_roaming_notification_title">ஹாட்ஸ்பாட் அல்லது இணைப்பு முறை ஆன் செய்யப்பட்டுள்ளது</string>
+</resources>

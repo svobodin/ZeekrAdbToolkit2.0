@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">연락처 저장소</string>
+    <string name="debug_dump_database_message">내부 저장소에 모든 주소록 관련 정보와 통화 기록을 포함하는 데이터베이스의 1) 사본을 만들고 2) 이메일로 보내려고 합니다. 기기 이외의 장소에 사본을 만들거나 사본의 이메일 수신이 완료된 후에는 해당 사본을 즉시 삭제하시기 바랍니다.</string>
+    <string name="debug_dump_delete_button">지금 삭제</string>
+    <string name="debug_dump_email_body">모든 주소록 정보가 포함된 주소록 데이터베이스가 첨부되어 있습니다. 신중하게 처리해 주세요.</string>
+    <string name="debug_dump_email_sender_picker">파일을 전송할 프로그램을 선택하세요.</string>
+    <string name="debug_dump_email_subject">주소록 DB 첨부됨</string>
+    <string name="debug_dump_start_button">시작</string>
+    <string name="debug_dump_title">주소록 데이터베이스 복사</string>
+    <string name="default_directory">주소록</string>
+    <string name="local_invisible_directory">기타</string>
+    <string name="provider_label">주소록</string>
+    <string name="sharedUserLabel">Android Core 앱</string>
+    <string name="upgrade_out_of_memory_notification_text">업그레이드를 완료하려면 탭하세요.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">주소록을 업그레이드하려면 메모리가 더 필요합니다.</string>
+    <string name="upgrade_out_of_memory_notification_title">주소록을 위한 저장소 업그레이드 중</string>
+    <string name="voicemail_from_column">"음성사서함 발신자 "</string>
+</resources>

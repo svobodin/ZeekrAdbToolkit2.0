@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="cancel" />
+    <item type="id" name="confirm" />
+    <item type="id" name="delete" />
+    <item type="id" name="text" />
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Најавете се на мрежа</string>
+    <string name="action_bar_title">Најавете се на %1$s</string>
+    <string name="action_do_not_use_network">Не ја користи мрежата</string>
+    <string name="action_use_network">Користи ја мрежата во оваа состојба</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">Известувања коишто го прикажуваат напредокот на преземањата на датотеките</string>
+    <string name="channel_description_downloads">Известувања коишто ги прикажуваат завршените или откажани преземања</string>
+    <string name="channel_name_download_progress">Напредок на преземањата</string>
+    <string name="channel_name_downloads">Преземања</string>
+    <string name="custom_scheme_example">На пример, страницата за најавување може да побара конкретна апликација за проверка</string>
+    <string name="custom_scheme_warning">Мрежата на којашто се обидувате да се придружите бара отворање на друга апликација.</string>
+    <string name="download_completed">Преземањето заврши</string>
+    <string name="downloading_paramfile">Се презема %1$s</string>
+    <string name="error_continue_via_browser">Сепак продолжи преку прелистувач</string>
+    <string name="error_downloading_paramfile">Не може да се преземе %1$s</string>
+    <string name="no_bypass_error_vpnwarning">Освен тоа, не може да се заобиколи грешкава бидејќи уредот моментално работи на VPN.</string>
+    <string name="ok">Во ред</string>
+    <string name="page_info">Информации за страницата</string>
+    <string name="page_info_address">Адреса:</string>
+    <string name="ssl_error_date_invalid">Сертификатов има неважечки датум.</string>
+    <string name="ssl_error_example">На пример, страницата за најавување може да не припаѓа на организацијата што е прикажана.</string>
+    <string name="ssl_error_expired">Сертификатов е истечен.</string>
+    <string name="ssl_error_invalid">Сертификатов е неважечки.</string>
+    <string name="ssl_error_mismatch">Името на сајтот не се совпаѓа со името на сертификатот.</string>
+    <string name="ssl_error_not_yet_valid">Сертификатов сѐ уште не е важечки.</string>
+    <string name="ssl_error_unknown">Непозната грешка на сертификатот.</string>
+    <string name="ssl_error_untrusted">Сертификатов не е од доверлив орган.</string>
+    <string name="ssl_error_view_certificate">Прикажи го сертификатот</string>
+    <string name="ssl_error_warning">Мрежата на која се обидувате да се придружите има проблеми со безбедноста.</string>
+    <string name="ssl_security_warning_title">Безбедносно предупредување</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Download-Manager</string>
+    <string name="button_cancel_download">Abbrechen</string>
+    <string name="button_queue_for_wifi">Warteschlange</string>
+    <string name="button_start_now">Jetzt starten</string>
+    <string name="download_error">Nicht erfolgreich</string>
+    <string name="download_no_application_title">Datei kann nicht geöffnet werden.</string>
+    <string name="download_queued">In der Warteschlange</string>
+    <string name="download_remaining">Noch %s</string>
+    <string name="download_running">In Bearbeitung</string>
+    <string name="download_running_percent">Wird heruntergeladen: %s</string>
+    <string name="download_unknown_title">&lt;Unbenannt></string>
+    <string name="notification_download_complete">Download abgeschlossen</string>
+    <string name="notification_download_failed">Fehler bei Download</string>
+    <string name="notification_need_wifi_for_size">Downloadgröße erfordert WLAN</string>
+    <string name="notification_paused_in_background">Im Hintergrund pausiert</string>
+    <string name="permdesc_accessAllDownloads">Ermöglicht der App, alle Downloads anzuzeigen und zu ändern, die von Apps auf dem System gestartet wurden</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Ermöglicht der App, Dateien in den Download-Cache herunterzuladen, die nicht automatisch gelöscht werden können, wenn der Download-Manager mehr Speicher benötigt</string>
+    <string name="permdesc_downloadCompletedIntent">Ermöglicht der App, Benachrichtigungen über abgeschlossene Downloads zu senden. Schadprogramme können dadurch andere Apps, die Dateien herunterladen, beeinträchtigen.</string>
+    <string name="permdesc_downloadManager">Ermöglicht der App, auf den Download-Manager zuzugreifen, um Dateien herunterzuladen. Schadprogramme könnten damit Downloads unterbrechen und auf personenbezogene Daten zugreifen.</string>
+    <string name="permdesc_downloadManagerAdvanced">Ermöglicht der App, auf die erweiterten Funktionen des Download-Managers zuzugreifen. Schadprogramme könnten damit Downloads unterbrechen und auf personenbezogene Daten zugreifen.</string>
+    <string name="permdesc_downloadWithoutNotification">Ermöglicht der App, Dateien über den Download-Manager herunterzuladen, ohne dass dem Nutzer Benachrichtigungen angezeigt werden</string>
+    <string name="permlab_accessAllDownloads">Zugriff auf alle System-Downloads</string>
+    <string name="permlab_downloadCacheNonPurgeable">Speicherplatz im Download-Cache reservieren</string>
+    <string name="permlab_downloadCompletedIntent">Benachrichtigungen zu Ladevorgängen senden</string>
+    <string name="permlab_downloadManager">Auf Download-Manager zugreifen</string>
+    <string name="permlab_downloadManagerAdvanced">Erweiterte Funktionen des Download-Managers.</string>
+    <string name="permlab_downloadWithoutNotification">Dateien ohne Benachrichtigung herunterladen</string>
+    <string name="root_downloads">Downloads</string>
+    <string name="storage_description">Downloads</string>
+    <string name="wifi_recommended_body">"Der Download von %1$s  kann die Akkulaufzeit verkürzen/die mobile Datenverbindung überlasten. Je nach Vertrag können zusätzliche Kosten entstehen.
+
+Tippe auf %2$s und der Download startet bei der nächsten WLAN-Einwahl."</string>
+    <string name="wifi_recommended_title">In Warteschlange für späteren Download?</string>
+    <string name="wifi_required_body">"Du musst eine WLAN-Verbindung nutzen, um den Download von %1$s  abzuschließen.
+
+Tippe auf %2$s  und der Download startet bei der nächsten WLAN-Einwahl."</string>
+    <string name="wifi_required_title">Download zu groß für Netzwerk dieses Betreibers.</string>
+</resources>

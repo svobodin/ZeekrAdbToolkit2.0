@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Nätverksadministratör</string>
+    <string name="connected">Ansluten</string>
+    <string name="notification_channel_description_connected">Aviseringar visas när enheten har autentiserats i ett nätverk med infångstportal</string>
+    <string name="notification_channel_description_network_venue_info">Aviseringar visas när det finns en informationssida för nätverkets plats</string>
+    <string name="notification_channel_name_connected">Autentisering för infångstportal</string>
+    <string name="notification_channel_name_network_venue_info">Information för nätverkets plats</string>
+    <string name="tap_for_info">Ansluten – tryck för att visa webbplatsen</string>
+</resources>

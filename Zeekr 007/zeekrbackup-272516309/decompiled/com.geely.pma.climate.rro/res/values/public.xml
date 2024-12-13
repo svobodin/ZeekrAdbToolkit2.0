@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="fragrance_install_tip_background" id="0x7f010000" />
+    <public type="mipmap" name="fragrance_install_tip_background" id="0x7f020000" />
+    <public type="mipmap" name="main_bg_high" id="0x7f020001" />
+    <public type="mipmap" name="main_bg_low" id="0x7f020002" />
+    <public type="mipmap" name="main_bg_sport" id="0x7f020003" />
+    <public type="mipmap" name="main_bg_test" id="0x7f020004" />
+    <public type="string" name="app_name" id="0x7f030000" />
+</resources>

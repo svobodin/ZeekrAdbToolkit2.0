@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">새 알림 %d개</item>
+        <item quantity="one">새 알림 %d개</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">기기 %1$d개 연결됨</item>
+        <item quantity="one">기기 %1$d개 연결됨</item>
+    </plurals>
+</resources>

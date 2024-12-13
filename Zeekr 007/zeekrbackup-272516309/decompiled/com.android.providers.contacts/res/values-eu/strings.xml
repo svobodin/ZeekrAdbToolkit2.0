@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Kontaktuen biltegia</string>
+    <string name="debug_dump_database_message">Bi gauza egitera zoaz: 1) kontaktuekin erlazionatutako informazio guztia eta deien erregistro osoa jasotzen dituen datu-basearen kopia bat egingo duzu eta barneko memorian gordeko duzu eta 2) posta elektronikoz bidaliko duzu. Gogoratu kopia ezabatu behar duzula gailutik kopiatu edo mezu elektronikoa jaso bezain laster.</string>
+    <string name="debug_dump_delete_button">Ezabatu</string>
+    <string name="debug_dump_email_body">Erantsita doakizu nire kontaktuen informazio guztia duen datu-basea. Trata ezazu kontu handiz.</string>
+    <string name="debug_dump_email_sender_picker">Aukeratu fitxategia bidaltzeko erabili nahi duzun programa</string>
+    <string name="debug_dump_email_subject">Kontaktuen datu-basea erantsita</string>
+    <string name="debug_dump_start_button">Hasi</string>
+    <string name="debug_dump_title">Kopiatu kontaktuen datu-basea</string>
+    <string name="default_directory">Kontaktuak</string>
+    <string name="local_invisible_directory">Beste bat</string>
+    <string name="provider_label">Kontaktuak</string>
+    <string name="sharedUserLabel">Android-en nukleoko aplikazioak</string>
+    <string name="upgrade_out_of_memory_notification_text">Sakatu bertsio-berritzea osatzeko.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Memoria gehiago behar da kontaktuak bertsio-berritzeko.</string>
+    <string name="upgrade_out_of_memory_notification_title">Kontaktuen biltegia bertsio-berritzea</string>
+    <string name="voicemail_from_column">"Mezu bat utzi du erantzungailuan honek: "</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="disable_tether_notification_message">[Çöñţåçţ ýöûŕ åðḿîñ ƒöŕ ðéţåîļš one two three four]</string>
+    <string name="disable_tether_notification_title">[Ţéţĥéŕîñĝ îš ðîšåɓļéð one two three]</string>
+    <string name="no_upstream_notification_disable_button">[]</string>
+    <string name="no_upstream_notification_message">[]</string>
+    <string name="no_upstream_notification_title">[]</string>
+    <string name="notification_channel_tethering_status">"[Ĥöţšþöţ &amp;  ţéţĥéŕîñĝ šţåţûš one two three]"</string>
+    <string name="tethered_notification_message">[Ţåþ ţö šéţ ûþ. one two three]</string>
+    <string name="tethered_notification_title">[Ţéţĥéŕîñĝ öŕ ĥöţšþöţ åçţîVé one two three four]</string>
+    <string name="upstream_roaming_notification_message">[]</string>
+    <string name="upstream_roaming_notification_title">[]</string>
+</resources>

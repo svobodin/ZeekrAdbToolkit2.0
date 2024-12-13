@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Gestor de dispositivos associados</string>
+    <string name="chooser_title">Escolha um %1$s para ser gerido pela app &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Permita que a app &lt;strong>%1$s&lt;/strong> faça a gestão do seu &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_no">Não permitir</string>
+    <string name="consent_yes">Permitir</string>
+    <string name="profile_name_generic">dispositivo</string>
+    <string name="profile_name_watch">relógio</string>
+    <string name="profile_summary">Esta app é necessária para gerir o seu %1$s. %2$s</string>
+</resources>

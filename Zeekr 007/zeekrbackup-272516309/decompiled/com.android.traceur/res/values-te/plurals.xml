@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d కొత్త నోటిఫికేషన్‌లు</item>
+        <item quantity="one">%d కొత్త నోటిఫికేషన్</item>
+    </plurals>
+    <plurals name="num_categories_selected">
+        <item quantity="other">%d ఎంచుకోబడ్డాయి</item>
+        <item quantity="one">%d ఎంచుకోబడింది</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d పరికరాలు కనెక్ట్ చేయబడ్డాయి</item>
+        <item quantity="one">%1$d పరికరం కనెక్ట్ చేయబడింది</item>
+    </plurals>
+</resources>

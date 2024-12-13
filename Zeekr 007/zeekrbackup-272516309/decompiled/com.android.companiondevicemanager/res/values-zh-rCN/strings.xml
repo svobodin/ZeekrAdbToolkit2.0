@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">配套设备管理器</string>
+    <string name="chooser_title">选择要由&lt;strong>%2$s&lt;/strong>管理的%1$s</string>
+    <string name="confirmation_title">允许&lt;strong>%1$s&lt;/strong>管理您的&lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_no">不允许</string>
+    <string name="consent_yes">允许</string>
+    <string name="profile_name_generic">设备</string>
+    <string name="profile_name_watch">手表</string>
+    <string name="profile_summary">需要使用此应用，才能管理您的%1$s。%2$s</string>
+</resources>

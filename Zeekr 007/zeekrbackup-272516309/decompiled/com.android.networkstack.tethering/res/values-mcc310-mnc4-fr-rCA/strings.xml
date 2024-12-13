@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Désactiver le partage de connexion</string>
+    <string name="no_upstream_notification_message">Impossible de connecter les appareils</string>
+    <string name="no_upstream_notification_title">"Le partage de connexion n'est pas connecté à Internet"</string>
+    <string name="upstream_roaming_notification_message">"En itinérance, des frais supplémentaires peuvent s'appliquer"</string>
+    <string name="upstream_roaming_notification_title">"Le point d'accès ou le partage de connexion est activé"</string>
+</resources>

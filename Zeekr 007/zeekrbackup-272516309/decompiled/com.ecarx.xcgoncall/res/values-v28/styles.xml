@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.AppCompat" parent="@style/Base.V28.Theme.AppCompat" />
+    <style name="Base.Theme.AppCompat.Light" parent="@style/Base.V28.Theme.AppCompat.Light" />
+    <style name="Base.V14.ThemeOverlay.MaterialComponents.MaterialAlertDialog" parent="@style/ThemeOverlay.AppCompat.Dialog.Alert">
+        <item name="android:backgroundDimAmount">0.32</item>
+        <item name="android:checkedTextViewStyle">@style/Widget.MaterialComponents.CheckedTextView</item>
+        <item name="android:dialogCornerRadius">@null</item>
+        <item name="alertDialogStyle">@style/MaterialAlertDialog.MaterialComponents</item>
+        <item name="buttonBarButtonStyle">@style/Widget.MaterialComponents.Button.TextButton.Dialog</item>
+        <item name="buttonBarNegativeButtonStyle">@style/Widget.MaterialComponents.Button.TextButton.Dialog</item>
+        <item name="buttonBarNeutralButtonStyle">@style/Widget.MaterialComponents.Button.TextButton.Dialog.Flush</item>
+        <item name="buttonBarPositiveButtonStyle">@style/Widget.MaterialComponents.Button.TextButton.Dialog</item>
+        <item name="materialAlertDialogBodyTextStyle">@style/MaterialAlertDialog.MaterialComponents.Body.Text</item>
+        <item name="materialAlertDialogButtonSpacerVisibility">@integer/mtrl_view_invisible</item>
+    </style>
+    <style name="Widget.Material3.AppBarLayout" parent="@style/Widget.MaterialComponents.AppBarLayout.Surface">
+        <item name="android:outlineSpotShadowColor">@android:color/transparent</item>
+        <item name="android:outlineAmbientShadowColor">@android:color/transparent</item>
+        <item name="liftOnScroll">true</item>
+    </style>
+    <style name="Widget.Material3.Toolbar.Surface" parent="@style/Widget.Material3.Toolbar.OnSurface">
+        <item name="android:background">?colorSurface</item>
+        <item name="android:outlineSpotShadowColor">@android:color/transparent</item>
+        <item name="android:outlineAmbientShadowColor">@android:color/transparent</item>
+    </style>
+    <style name="Widget.ZeekrComponent.CardView.CheckCard" parent="@style/Widget.Material3.CardView.Outlined">
+        <item name="android:checkable">true</item>
+        <item name="android:elevation">8.0dip</item>
+        <item name="android:stateListAnimator">@null</item>
+        <item name="android:outlineSpotShadowColor">?colorSecondary</item>
+        <item name="android:outlineAmbientShadowColor">?colorSecondary</item>
+        <item name="cardBackgroundColor">@color/zeekr_check_card_fill</item>
+        <item name="cardCornerRadius">4.0dip</item>
+        <item name="cardElevation">8.0dip</item>
+        <item name="rippleColor">?colorSecondary</item>
+        <item name="strokeColor">@color/zeekr_check_card_border</item>
+    </style>
+    <style name="Widget.ZeekrComponent.CardView.Slide" parent="@style/Widget.Material3.CardView.Outlined">
+        <item name="android:elevation">8.0dip</item>
+        <item name="android:outlineSpotShadowColor">?colorSecondary</item>
+        <item name="android:outlineAmbientShadowColor">?colorSecondary</item>
+        <item name="cardBackgroundColor">@android:color/white</item>
+        <item name="cardElevation">8.0dip</item>
+        <item name="strokeColor">?colorSecondary</item>
+    </style>
+    <style name="Widget.ZeekrComponent.CardView.Toggle" parent="@style/Widget.Material3.CardView.Outlined">
+        <item name="android:elevation">8.0dip</item>
+        <item name="android:outlineSpotShadowColor">?colorSecondary</item>
+        <item name="android:outlineAmbientShadowColor">?colorSecondary</item>
+        <item name="cardBackgroundColor">?colorSurface</item>
+        <item name="cardCornerRadius">6.0dip</item>
+        <item name="cardElevation">8.0dip</item>
+        <item name="rippleColor">?colorSecondary</item>
+        <item name="strokeColor">?colorSecondary</item>
+    </style>
+    <style name="Widget.ZeekrComponents.Button.OutlinedButton.MultiToggleButton" parent="@style/Widget.ZeekrComponents.Button.OutlinedButton">
+        <item name="android:stateListAnimator">@null</item>
+        <item name="android:outlineSpotShadowColor">?colorSecondary</item>
+        <item name="android:outlineAmbientShadowColor">?colorSecondary</item>
+        <item name="backgroundTint">?colorSurface</item>
+        <item name="cardElevation">0.0dip</item>
+        <item name="iconGravity">textStart</item>
+        <item name="iconPadding">0.0dip</item>
+        <item name="shapeAppearanceOverlay">@null</item>
+        <item name="strokeColor">@color/primary_40</item>
+    </style>
+    <style name="Widget.ZeekrComponents.Button.OutlinedButton.Secondary" parent="@style/Widget.ZeekrComponents.Button.OutlinedButton">
+        <item name="android:elevation">8.0dip</item>
+        <item name="android:stateListAnimator">@null</item>
+        <item name="android:outlineSpotShadowColor">?colorSecondary</item>
+        <item name="android:outlineAmbientShadowColor">?colorSecondary</item>
+        <item name="backgroundTint">?colorSurface</item>
+        <item name="cardElevation">8.0dip</item>
+        <item name="shapeAppearanceOverlay">@null</item>
+        <item name="strokeColor">?colorSecondary</item>
+    </style>
+    <style name="Widget.ZeekrComponents.Button.OutlinedButton.Secondary.Toggle" parent="@style/Widget.ZeekrComponents.Button.OutlinedButton.Secondary">
+        <item name="android:textAppearance">?textAppearanceTitleLarge</item>
+        <item name="android:paddingTop">0.0dip</item>
+        <item name="android:paddingBottom">0.0dip</item>
+        <item name="android:insetTop">0.0dip</item>
+        <item name="android:insetBottom">0.0dip</item>
+        <item name="android:paddingStart">0.0dip</item>
+        <item name="android:paddingEnd">0.0dip</item>
+        <item name="android:stateListAnimator">@null</item>
+        <item name="android:outlineSpotShadowColor">?colorSecondary</item>
+        <item name="android:outlineAmbientShadowColor">?colorSecondary</item>
+        <item name="backgroundTint">?colorSurface</item>
+        <item name="cardElevation">8.0dip</item>
+        <item name="iconGravity">textStart</item>
+        <item name="iconPadding">0.0dip</item>
+        <item name="shapeAppearanceOverlay">@null</item>
+        <item name="strokeColor">?colorSecondary</item>
+    </style>
+    <style name="Base.V28.Theme.AppCompat" parent="@style/Base.V26.Theme.AppCompat">
+        <item name="dialogCornerRadius">?android:dialogCornerRadius</item>
+    </style>
+    <style name="Base.V28.Theme.AppCompat.Light" parent="@style/Base.V26.Theme.AppCompat.Light">
+        <item name="dialogCornerRadius">?android:dialogCornerRadius</item>
+    </style>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Upravitelj za preuzimanje</string>
+    <string name="button_cancel_download">Odustani</string>
+    <string name="button_queue_for_wifi">Redoslijed</string>
+    <string name="button_start_now">Započni sad</string>
+    <string name="download_error">Neuspješno</string>
+    <string name="download_no_application_title">Datoteka se ne može otvoriti</string>
+    <string name="download_queued">Na čekanju</string>
+    <string name="download_remaining">Još %s</string>
+    <string name="download_running">U tijeku</string>
+    <string name="download_running_percent">U tijeku, %s</string>
+    <string name="download_unknown_title">&lt;Bez naslova></string>
+    <string name="notification_download_complete">Preuzimanje je dovršeno.</string>
+    <string name="notification_download_failed">Preuzimanje nije uspjelo.</string>
+    <string name="notification_need_wifi_for_size">Veličina zahtijeva Wi-Fi</string>
+    <string name="notification_paused_in_background">Pauzirano u pozadini.</string>
+    <string name="permdesc_accessAllDownloads">Omogućuje aplikaciji prikaz i izmjenu svih preuzimanja koja je pokrenula bilo koja aplikacija u sustavu.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Omogućuje aplikaciji preuzimanje datoteka u predmemoriju preuzimanja koja se ne može automatski izbrisati kada upravitelj preuzimanja treba više prostora.</string>
+    <string name="permdesc_downloadCompletedIntent">Omogućuje aplikaciji slanje obavijesti o dovršenim preuzimanjima. Zlonamjerne aplikacije mogu to iskoristiti za zbunjivanje drugih aplikacija koje preuzimaju datoteke.</string>
+    <string name="permdesc_downloadManager">Omogućuje aplikaciji pristup upravitelju preuzimanja i njegovu upotrebu za preuzimanje datoteka. Zlonamjerne aplikacije mogu to iskoristiti da bi ometale preuzimanja i pristupale privatnim podacima.</string>
+    <string name="permdesc_downloadManagerAdvanced">Omogućuje aplikaciji pristup naprednim funkcijama upravitelja preuzimanja. Zlonamjerne aplikacije mogu to iskoristiti da bi ometale preuzimanja i pristupale privatnim podacima.</string>
+    <string name="permdesc_downloadWithoutNotification">Aplikaciji omogućuje preuzimanje datoteka putem upravitelja preuzimanja bez prikazivanja obavijesti korisniku.</string>
+    <string name="permlab_accessAllDownloads">Pristup svim preuzimanjima sustava</string>
+    <string name="permlab_downloadCacheNonPurgeable">Rezerviraj prostor u predmemoriji preuzimanja</string>
+    <string name="permlab_downloadCompletedIntent">Pošaljite obavijesti o preuzimanju.</string>
+    <string name="permlab_downloadManager">Pristupite upravitelju za preuzimanje.</string>
+    <string name="permlab_downloadManagerAdvanced">Napredne funkcije upravitelja za preuzimanje.</string>
+    <string name="permlab_downloadWithoutNotification">preuzmi datoteke bez obavijesti</string>
+    <string name="root_downloads">Preuzimanja</string>
+    <string name="storage_description">Preuzimanja</string>
+    <string name="wifi_recommended_body">"Pokretanje ovog preuzimanja od %1$s  može skratiti vijek baterije i/ili uzrokovati pretjeranu upotrebu podatkovne veze i dodatne troškove.
+
+ Dodirnite %2$s da biste preuzeli pri sljedećem spajanju s Wi-Fi mrežom."</string>
+    <string name="wifi_recommended_title">Staviti na čekanje za kasnije preuzimanje?</string>
+    <string name="wifi_required_body">"Morate upotrijebiti Wi-Fi da biste dovršili ovo preuzimanje veličine %1$s . 
+
+Dodirnite tekst %2$s  da biste pokrenuli preuzimanje sljedeći put kada se povežete s Wi-Fi mrežom."</string>
+    <string name="wifi_required_title">Preuzimanje je preveliko za mrežu operatora</string>
+</resources>

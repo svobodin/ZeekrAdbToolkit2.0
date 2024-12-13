@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">Pakilagay ang iyong password at ipagpatuloy ang Dynamic System Updates</string>
+    <string name="notification_action_cancel">Kanselahin</string>
+    <string name="notification_action_discard">I-discard</string>
+    <string name="notification_action_reboot_to_dynsystem">I-restart</string>
+    <string name="notification_action_reboot_to_origin">I-restart</string>
+    <string name="notification_dynsystem_in_use">Kasalukuyang pinapatakbo ang dynamic system. Mag-restart para gamitin ang orihinal na Android na bersyon.</string>
+    <string name="notification_image_validation_failed">Hindi na-validate ang image. I-abort ang pag-install.</string>
+    <string name="notification_install_completed">Handa na ang dynamic system. Para simulang gamitin ito, i-restart ang iyong device.</string>
+    <string name="notification_install_failed">Hindi na-install</string>
+    <string name="notification_install_inprogress">Ini-install</string>
+    <string name="toast_dynsystem_discarded">Na-discard ang dynamic system</string>
+    <string name="toast_failed_to_disable_dynsystem">Hindi na-disable ang dynamic na system</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Hindi ma-restart o ma-load ang dynamic system</string>
+</resources>

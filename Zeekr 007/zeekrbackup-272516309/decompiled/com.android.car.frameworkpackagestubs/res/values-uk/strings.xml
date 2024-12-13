@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Модуль активності</string>
+    <string name="message_not_supported">Немає додатка, який може виконати цю дію</string>
+    <string name="pip_not_supported">Функція \"Картинка в картинці\" не підтримується на цьому пристрої</string>
+    <string name="stub_name">Немає</string>
+</resources>

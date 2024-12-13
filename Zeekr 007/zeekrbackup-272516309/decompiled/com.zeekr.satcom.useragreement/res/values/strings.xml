@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="androidx_startup">androidx.startup</string>
+    <string name="app_name">卫星通信用户协议授权</string>
+    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+    <string name="bottomsheet_action_collapse">Collapse the bottom sheet</string>
+    <string name="bottomsheet_action_expand">Expand the bottom sheet</string>
+    <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
+    <string name="bottomsheet_drag_handle_clicked">Drag handle double-tapped</string>
+    <string name="bottomsheet_drag_handle_content_description">Drag handle</string>
+    <string name="call_notification_answer_action">Answer</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Decline</string>
+    <string name="call_notification_hang_up_action">Hang Up</string>
+    <string name="call_notification_incoming_text">Incoming call</string>
+    <string name="call_notification_ongoing_text">Ongoing call</string>
+    <string name="call_notification_screening_text">Screening an incoming call</string>
+    <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
+    <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
+    <string name="character_counter_pattern">%1$d/%2$d</string>
+    <string name="clear_text_end_icon_content_description">Clear text</string>
+    <string name="common_questions">常见问题</string>
+    <string name="common_questions_text">"一、卫星信号遮挡导致卫星通信功能无法使用 
+1. 功能不可用的原因： 
+　　卫星通信功能需在开阔环境下使用，如果使用者和卫星中间存在遮挡物（如墙体、高楼、茂密的树林等），极可能会导致车机无法与卫星建立连接。 
+2. 应对策略： 
+　　建议您将车辆行驶到到开阔、无遮挡环境下，再次尝试使用卫星通讯。
+ 
+二、卫星处于驻网中导致卫星通信功能无法使用 
+1. 功能可不用的原因： 
+　　卫星通信功能可正常使用，需在车机与卫星建立连接并完成驻网的前提下，如当前卫星正处于驻网中，尚未与车机完成连接，则卫星通信相关功能将无法使用。 
+2. 应对策略： 
+　　建议您待卫星完成驻网后，再次尝试使用卫星通信，您可通过状态栏卫星状态标识进行判断，当状态栏卫星状态表示显示为已连接且有信号的状态下，功能即可正常使用。
+ 
+三、驻网成功但卫星功能无法使用 
+1. 功能可不用的原因： 
+　　当卫星驻网成功且信号良好的状态下，由于卫星可同时接入的资源有限，可能存在卫星通信功能不可用的情况。 
+2. 应对策略： 
+　　建议您稍后再尝试使用卫星通信功能。
+ 
+四、如出现您当地的天通卫星网络无信号的时候或提示未开通相关业务等其他情况，请联系卫星业务运营商确认。"</string>
+    <string name="common_questions_text_beidou">"一、卫星信号遮挡导致卫星通信功能无法使用 
+1. 功能不可用的原因： 
+　　卫星消息功能在户外空旷地带使用效果最佳。避免在建筑物密集区域或室内使用，以免影响信号接收。此外，在恶劣天气条件下，如暴风雨、浓雾等，可能会影响通信效果。请不要在前挡风玻璃贴金属膜，会影响卫星信号接收。 
+2. 应对策略： 
+　　建议您将车辆开到开阔无遮挡地点，再次尝试使用卫星通信。
+ 
+二、车机显示短信剩余量与实际剩余量不符 
+1. 功能可不用的原因： 
+　　发送短消息后，由于当前服务提供商短信剩余量同步存在一定的延时，因此车机显示的剩余量存在滞后，可能存在车机显示剩余量比实际剩余量少的情况。 
+2. 应对策略： 
+　　建议您在地面网络良好的情况下，等待十几秒后，重新进入卫星应用程序。
+ 
+三、卫星图标显示有信号，但对方无法接收到短消息 
+1. 功能可不用的原因： 
+　　卫星通信服务基于服务提供商能力和资源提供，可能存在通信能力、系统、网络和资源的不确定性。 
+2. 应对策略： 
+　　建议您稍后再尝试进行卫星通信功能的使用。
+"</string>
+    <string name="directions_for_use">使用说明</string>
+    <string name="directions_for_use_text">"1. 本功能仅支持在中国大陆地区使用。 
+2. 卫星资源有限，有移动网络信号时，建议您优先使用手机移动网络进行通信。 
+3. 当您使用天通卫星电话功能时，建议每次通话时间最长不超过5分钟。 
+4. 该功能需开通卫星业务运营商的相关业务使用。如您后续需继续办理相关增值业务，相关办理流程和资费情况请咨询卫星业务运营商。该功能实现与运营商业务部署相关，请以当地运营商实际业务为准。 
+5. 温馨提示：车端卫星通信相关功能可能会根据卫星业务运营商的业务调整进行实时调整，请您谅解。"</string>
+    <string name="directions_for_use_text_beidou">"一、本功能仅支持在中国大陆地区使用。 
+二、卫星消息使用说明： 
+1. 卫星消息发送： 
+　　当前车端卫星通信功能仅支持选择固定模版消息进行发送，暂不支持自定义消息发送。 
+2. 卫星消息回复： 
+　　接收端手机侧当前仅支持点击超链接进入消息回复页面选择固定模版消息进行回复，暂不支持自定义消息回复。 
+三、资费套餐说明：对于首任车主，我方将赠送您车端卫星通信业务8年使用权及300条/年的卫星消息条数（双向计费），当年剩余卫星消息条数可结转至次年。 
+四、温馨提示：车端卫星通信业务可能依据卫星服务提供商要求、业务需求变化或车端功能体验优化提升进行动态调整，具体解释权归极氪所有，请您谅解。"</string>
+    <string name="error_a11y_label">Error: invalid</string>
+    <string name="error_icon_content_description">Error</string>
+    <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
+    <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
+    <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
+    <string name="function_limit">功能局限性</string>
+    <string name="function_limit_text">"一、手机设备连接数量影响： 
+1. 现象及原因： 
+　　由于连接通道数限制，当您进入卫星通信APP点击“开始对接”，手动建立卫星同车机的连接后，车机将暂时仅支持一部手机的蓝牙连接，可能会影响您对于双蓝牙相关功能的使用。 
+2. 应对策略： 
+　　当您无需使用卫星通信功能时，你可在卫星通信APP内点击“断开连接”，手动断开卫星同车机的连接，此时车机将恢复两部手机的蓝牙连接能力，您可正常使用双蓝牙通话等相关功能。
+ 
+二、卫星通话： 
+1. 通话存在延迟： 
+1）现象： 
+　　您在使用天通卫星进行卫星通话时，可能存在通话音频存在延时的问题。 
+2）原因： 
+　　● 传播延时：由于卫星通信是通过将信号发送到地球同步轨道上的卫星，
+　　　 然后再将其反射回地球，地球同步轨道的高度大约为36000千米，所以
+　　　 电磁波来回传播就需要大约240毫秒，这是不可避免的物理延时。 
+　　● 处理延时：在卫星和地面站接收、处理和转发信号的过程中也会产生一
+　　　 定的延时。 
+　　● 网络延时：由于卫星通信还包括地面网络传输的部分，因此，网络拥堵
+　　　 等原因也可能引起延时。
+ 
+2. 通话音质不佳： 
+1）现象： 
+　　您在使用天通卫星进行卫星通话时，可能存在通话音质不佳的问题。 
+2）原因： 
+　　● 信号干扰：卫星通信的频段可能会受到其他电磁波信号的干扰，导致通
+　　　 话音质下降。 
+　　● 环境因素：使用者和卫星中间有一些遮挡物（墙、高楼、茂密的树林
+　　　 等）从而影响卫星信号，导致通话音质下降"</string>
+    <string name="handbook_for_use">使用手册</string>
+    <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
+    <string name="icon_content_description">Dialog Icon</string>
+    <string name="item_view_role_description">Tab</string>
+    <string name="m3_sys_motion_easing_emphasized">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
+    <string name="m3_sys_motion_easing_emphasized_accelerate">cubic-bezier(0.3, 0.0, 0.8, 0.2)</string>
+    <string name="m3_sys_motion_easing_emphasized_decelerate">cubic-bezier(0.1, 0.7, 0.1, 1.0)</string>
+    <string name="m3_sys_motion_easing_emphasized_path_data">M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1</string>
+    <string name="m3_sys_motion_easing_legacy">cubic-bezier(0.4, 0.0, 0.2, 1.0)</string>
+    <string name="m3_sys_motion_easing_legacy_accelerate">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
+    <string name="m3_sys_motion_easing_legacy_decelerate">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
+    <string name="m3_sys_motion_easing_linear">cubic-bezier(0.0, 0.0, 1.0, 1.0)</string>
+    <string name="m3_sys_motion_easing_standard">cubic-bezier(0.2, 0.0, 0.0, 1.0)</string>
+    <string name="m3_sys_motion_easing_standard_accelerate">cubic-bezier(0.3, 0.0, 1.0, 1.0)</string>
+    <string name="m3_sys_motion_easing_standard_decelerate">cubic-bezier(0.0, 0.0, 0.0, 1.0)</string>
+    <string name="material_clock_display_divider">:</string>
+    <string name="material_clock_toggle_content_description">Select AM or PM</string>
+    <string name="material_hour_24h_suffix">%1$s hours</string>
+    <string name="material_hour_selection">Select hour</string>
+    <string name="material_hour_suffix">"%1$s o'clock"</string>
+    <string name="material_minute_selection">Select minutes</string>
+    <string name="material_minute_suffix">%1$s minutes</string>
+    <string name="material_motion_easing_accelerated">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
+    <string name="material_motion_easing_decelerated">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
+    <string name="material_motion_easing_emphasized">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
+    <string name="material_motion_easing_linear">cubic-bezier(0.0, 0.0, 1.0, 1.0)</string>
+    <string name="material_motion_easing_standard">cubic-bezier(0.4, 0.0, 0.2, 1.0)</string>
+    <string name="material_slider_range_end">Range end</string>
+    <string name="material_slider_range_start">Range start</string>
+    <string name="material_slider_value">Value</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Switch to clock mode for the time input.</string>
+    <string name="material_timepicker_hour">Hour</string>
+    <string name="material_timepicker_minute">Minute</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Select time</string>
+    <string name="material_timepicker_text_input_mode_description">Switch to text input mode for the time input.</string>
+    <string name="mtrl_badge_numberless_content_description">New notification</string>
+    <string name="mtrl_checkbox_button_icon_path_checked">M14,18.2 11.4,15.6 10,17 14,21 22,13 20.6,11.6z</string>
+    <string name="mtrl_checkbox_button_icon_path_group_name">icon</string>
+    <string name="mtrl_checkbox_button_icon_path_indeterminate">M13.4,15 11,15 11,17 13.4,17 21,17 21,15z</string>
+    <string name="mtrl_checkbox_button_icon_path_name">icon path</string>
+    <string name="mtrl_checkbox_button_path_checked">M23,7H9C7.9,7,7,7.9,7,9v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V9C25,7.9,24.1,7,23,7z</string>
+    <string name="mtrl_checkbox_button_path_group_name">button</string>
+    <string name="mtrl_checkbox_button_path_name">button path</string>
+    <string name="mtrl_checkbox_button_path_unchecked">M23,7H9C7.9,7,7,7.9,7,9v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V9C25,7.9,24.1,7,23,7z M23,23H9V9h14V23z</string>
+    <string name="mtrl_checkbox_state_description_checked">Checked</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partially checked</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Not checked</string>
+    <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">More than %1$d new notifications</string>
+    <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
+    <string name="mtrl_picker_a11y_next_month">Change to next month</string>
+    <string name="mtrl_picker_a11y_prev_month">Change to previous month</string>
+    <string name="mtrl_picker_announce_current_range_selection">Start date selection: %1$s – End date selection: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Current selection: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">none</string>
+    <string name="mtrl_picker_cancel">Cancel</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Select Date</string>
+    <string name="mtrl_picker_date_header_unselected">Selected date</string>
+    <string name="mtrl_picker_day_of_week_column_header">Column of days: %1$s</string>
+    <string name="mtrl_picker_end_date_description">End date %1$s</string>
+    <string name="mtrl_picker_invalid_format">Invalid format.</string>
+    <string name="mtrl_picker_invalid_format_example">Example: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Use: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Invalid range.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Navigate to current year %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navigate to year %1$d</string>
+    <string name="mtrl_picker_out_of_range">Out of range: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Start date – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – End date</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Select Range</string>
+    <string name="mtrl_picker_range_header_unselected">Start date – End date</string>
+    <string name="mtrl_picker_save">Save</string>
+    <string name="mtrl_picker_start_date_description">Start date %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Date</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">End date</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Start date</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_today_description">Today %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Switch to calendar input mode</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tap to switch to Calendar view</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Switch to text input mode</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tap to switch to year view</string>
+    <string name="mtrl_switch_thumb_group_name">circle_group</string>
+    <string name="mtrl_switch_thumb_path_checked">M4,16 A12,12 0 0,1 16,4 H16 A12,12 0 0,1 16,28 H16 A12,12 0 0,1 4,16</string>
+    <string name="mtrl_switch_thumb_path_morphing">M0,16 A11,11 0 0,1 11,5 H21 A11,11 0 0,1 21,27 H11 A11,11 0 0,1 0,16</string>
+    <string name="mtrl_switch_thumb_path_name">circle</string>
+    <string name="mtrl_switch_thumb_path_pressed">M2,16 A14,14 0 0,1 16,2 H16 A14,14 0 0,1 16,30 H16 A14,14 0 0,1 2,16</string>
+    <string name="mtrl_switch_thumb_path_unchecked">M8,16 A8,8 0 0,1 16,8 H16 A8,8 0 0,1 16,24 H16 A8,8 0 0,1 8,16</string>
+    <string name="mtrl_switch_track_decoration_path">M1,16 A15,15 0 0,1 16,1 H36 A15,15 0 0,1 36,31 H16 A15,15 0 0,1 1,16</string>
+    <string name="mtrl_switch_track_path">M0,16 A16,16 0 0,1 16,0 H36 A16,16 0 0,1 36,32 H16 A16,16 0 0,1 0,16</string>
+    <string name="mtrl_timepicker_cancel">Cancel</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string name="password_toggle_content_description">Show password</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="satellite_no_signal_span">天通卫星网络无信号</string>
+    <string name="search_menu_title">Search</string>
+    <string name="searchbar_scrolling_view_behavior">com.google.android.material.search.SearchBar$ScrollingViewBehavior</string>
+    <string name="searchview_clear_text_content_description">Clear text</string>
+    <string name="searchview_navigation_content_description">Back</string>
+    <string name="side_sheet_accessibility_pane_title">Side Sheet</string>
+    <string name="side_sheet_behavior">com.google.android.material.sidesheet.SideSheetBehavior</string>
+    <string name="srl_content_empty">未添加任何布局</string>
+    <string name="srl_footer_failed">加载更多失败</string>
+    <string name="srl_footer_finish">加载更多成功</string>
+    <string name="srl_footer_loading">正在加载更多</string>
+    <string name="srl_footer_nothing">No More Data</string>
+    <string name="srl_footer_pulling">上拉加载更多</string>
+    <string name="srl_footer_refreshing">等待加载更多</string>
+    <string name="srl_footer_release">释放加载更多</string>
+    <string name="srl_header_failed">刷新失败</string>
+    <string name="srl_header_finish">刷新成功</string>
+    <string name="srl_header_loading">等待加载</string>
+    <string name="srl_header_pulling">下拉刷新</string>
+    <string name="srl_header_refreshing">正在刷新</string>
+    <string name="srl_header_release">释放刷新</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="user_agreement_content">为了保障您的合法权益，请您在使用本功能前仔细阅读《用户须知》。对于涉及您重要权益的相关条款， 包括但不限于您使用本功能需遵循的规范和要求、本功能的使用局限性以及需办理的与本功能相关的必要手续等均已在前述用户须知中进行了重点说明。 如您同意并接受前述用户须知的，请点击“同意并继续”，以开始使用本卫星通信功能。</string>
+    <string name="user_agreement_gostbutton">拒绝</string>
+    <string name="user_agreement_realbutton">同意并继续</string>
+    <string name="user_agreement_span">《用户须知》</string>
+    <string name="user_agreement_title">欢迎您使用卫星通信功能</string>
+    <string name="user_service_agreement">用户须知</string>
+    <string name="user_service_agreement_text">您可以阅读《用户须知》</string>
+    <string name="user_service_content">"　　 尊敬的用户：
+ 　　感谢您选择极氪汽车！
+ 　　您所购车辆搭载了“卫星通信”服务模块及相关配套技术与功能，您可在无WLAN和移动数据网络覆盖的户外无遮挡区域，通过卫星网络使用语音通话、短信收发等功能（“本功能”）。请您使用本功能前仔细阅读如下事项，并在确保理解并同意本用户须知的各项内容后再使用本功能：
+ 　　1. 本功能仅支持在中国大陆地区使用。
+ 　　2. 卫星资源有限，有移动网络信号时，建议您优先使用手机移动网络进行通信。
+ 　　3. 当您使用本功能时，建议每次通话时间最长不超过5分钟。
+ 　　4. 本功能所涉服务由具备相应资质的服务提供商（“服务商”）提供。根据适用法律法规和主管部门的要求，您需办理与本功能相关的必要手续（如签署相关文件、提交证明和实名认证等），届时服务商或极氪将通过合理渠道联系您，若您未能及时完成该等手续，则将影响您使用本功能。
+ 　　5. 您承诺以合法合规的方式使用本功能，不会利用本功能传输任何带有以下性质的内容或通过其他方式参与、进行任何带有以下性质的活动：
+ 　　● 反对强制性法律法规的；
+ 　　● 危害国家安全、泄露国家秘密、颠覆国家政权、破坏国家统一的；
+ 　　● 损害国家荣誉和利益的；
+ 　　● 煽动民族仇恨、民族歧视，破坏民族团结的；
+ 　　● 破坏国家宗教政策，宣扬邪教和封建迷信的；
+ 　　● 散布谣言，扰乱社会秩序，破坏社会稳定的：
+ 　　● 散布淫秽、色情、赌博、暴力、凶杀、恐怖或者教唆犯罪的；
+ 　　● 侮辱或者诽谤他人，侵害他人专利权、著作权、商标权、名誉权或其他任何合法权益的；
+ 　　● 对设备、网络和系统的功能或者存储、处理、传输的数据和应用程序进行删除或者修改，利用设备、网络和系统从事窃取或者破坏他人信息、损害他人合法权益的活动，故意制作、复制、传播计算机病毒或者以其他方式攻击设备、网络和系统，或危害设备、网络、系统、数据和信息安全的其他行为；
+ 　　● 传播其他法律法规禁止的其他内容的信息，或从事其他违反法律法规、国家政策或公序良俗的行为。
+ 　　6. 您理解，由于地理气象等外部环境复杂多变，本功能可能出现无法连接、延迟、干扰、卡顿、遗漏、中断等体验不佳的情形，服务商将在可行且合理的情况下尽快排查异常因素，但在法律法规允许的范围内不就此承担责任。本功能的目的仅在于向您提供便利，不应替代您在任何紧急情况下可能采取的自救或应急措施，请您勿过分依赖本功能。
+ 　　7. 关于本功能的更多信息，包括本功能的使用局限性说明等，请参考《用户手册》相关说明。请注意，对于本功能的相关信息，《用户手册》内容目前仅供参考，请以本用户须知内容为准。
+ 　　8. 基于法律法规、业务安排等因素，在不损害您合法权益的情况下，服务商可能视情况升级、变更、暂停或终止本功能相关服务，届时将通过合理渠道及时向您通知。
+ 　　9. 部分车辆可在特定时间内免费体验本功能，具体时段和可用性以实际车辆情况为准。后继您若继续愿意使用本功能的，可选择服务商提供的套餐，并办理相应套餐的开通手续，套餐内容及启用时间以届时服务商另行通知为准。若您已办理套餐的开通手续，请以您与服务商签署的用户入网协议相关条款为准。请注意，本功能中部分语音、短信和流量将预留一定数额用于紧急呼救，用户无法使用。套餐期间使用本功能有可能产生额外资费，请您使用前务必仔细阅读本功能车机界面相关说明，并确认接受套餐内容、资费标准和收费方式。"</string>
+    <string name="user_service_realbutton">知道了</string>
+    <string name="user_service_span1">尊敬的用户</string>
+    <string name="user_service_span2">本功能</string>
+    <string name="user_service_span3">服务商</string>
+    <string name="user_service_title">用户须知</string>
+    <string name="xpopup_image_not_exist">Image not exist</string>
+    <string name="xpopup_save">save</string>
+    <string name="xpopup_saved_fail">Image save failed</string>
+    <string name="xpopup_saved_to_gallery">Saved to album</string>
+    <string name="zeekr_back">back</string>
+    <string name="zeekr_cancel">cancel</string>
+    <string name="zeekr_component_spring">Spring</string>
+    <string name="zeekr_ok">ok</string>
+    <string name="zeekr_show_psw">show password</string>
+</resources>

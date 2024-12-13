@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="zeekr_gradient_end_color">#ffdc825f</color>
+    <color name="zeekr_gradient_outer_end_color">#fff3946f</color>
+    <color name="zeekr_gradient_outer_start_color">#fff69771</color>
+    <color name="zeekr_gradient_start_color">#ffb17153</color>
+    <color name="zeekr_switch_track_off_color">#ff2b2d32</color>
+</resources>

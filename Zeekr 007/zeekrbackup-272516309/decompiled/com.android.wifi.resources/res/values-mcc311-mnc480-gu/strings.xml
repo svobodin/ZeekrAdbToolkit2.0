@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s : તમે Verizon કવરેજ વિસ્તારની બહારથી Verizon વાઇ-ફાઇ ઍક્સેસ સાથે કનેક્ટ થઈ શકતાં નથી.</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s : તમે Verizon વાઇ-ફાઇ ઍક્સેસને સબ્સ્ક્રાઇબ કરેલું નથી. કૃપા કરીને અમને 800-922-0204 પર કૉલ કરો.</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s : તમારા વાઇ-ફાઇ ઍક્સેસ એકાઉન્ટમાં કોઈ સમસ્યા છે. કૃપા કરીને અમને 800-922-0204 પર કૉલ કરો.</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s : તમે પહેલેથી Verizon વાઇ-ફાઇ ઍક્સેસ સાથે કનેક્ટ કરેલું છે.</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s : તમને Verizon વાઇ-ફાઇ ઍક્સેસ સાથે કનેક્ટ કરવામાં કોઈ સમસ્યા આવે છે. કૃપા કરીને અમને 800-922-0204 પર કૉલ કરો.</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s : તમારા વાઇ-ફાઇ ઍક્સેસ એકાઉન્ટમાં કોઈ સમસ્યા છે. કૃપા કરીને અમને 800-922-0204 પર કૉલ કરો.</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s : તમારા સ્થળેથી Verizon વાઇ-ફાઇ ઍક્સેસ ઉપલબ્ધ નથી. પછીથી અથવા કોઈ અલગ સ્થળેથી પ્રયાસ કરો.</string>
+</resources>

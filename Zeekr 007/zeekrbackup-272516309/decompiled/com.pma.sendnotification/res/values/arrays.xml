@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="not_fullscreen_app">
+        <item>com.zeekr.automap</item>
+        <item>com.geely.pma.climate</item>
+        <item>com.zeekr.mediapart</item>
+    </string-array>
+</resources>

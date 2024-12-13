@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">Introdueix la contrasenya i continua cap a Actualització dinàmica del sistema</string>
+    <string name="notification_action_cancel">Cancel·la</string>
+    <string name="notification_action_discard">Descarta</string>
+    <string name="notification_action_reboot_to_dynsystem">Reinicia</string>
+    <string name="notification_action_reboot_to_origin">Reinicia</string>
+    <string name="notification_dynsystem_in_use">"S'està executant un sistema dinàmic. Reinicia per utilitzar la versió original d'Android."</string>
+    <string name="notification_image_validation_failed">"No s'ha pogut validar la imatge. Anul·la la instal·lació."</string>
+    <string name="notification_install_completed">El sistema dinàmic ja està a punt. Per començar a utilitzar-lo, reinicia el teu dispositiu.</string>
+    <string name="notification_install_failed">Ha fallat la instal·lació</string>
+    <string name="notification_install_inprogress">Instal·lació en curs</string>
+    <string name="toast_dynsystem_discarded">"S'ha descartat el sistema dinàmic"</string>
+    <string name="toast_failed_to_disable_dynsystem">"No s'ha pogut desactivar el sistema dinàmic"</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">No es pot reiniciar ni carregar el sistema dinàmic</string>
+</resources>

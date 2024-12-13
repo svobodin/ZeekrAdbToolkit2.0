@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="play_view_mask">#66000000</item>
+    <item type="drawable" name="view_mask">#cc000000</item>
+</resources>

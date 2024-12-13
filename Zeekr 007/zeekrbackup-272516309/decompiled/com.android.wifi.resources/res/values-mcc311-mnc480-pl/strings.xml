@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s : nie możesz połączyć się z Wi-Fi Verizon poza obszarem obsługiwanym przez Verizon.</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s : nie subskrybujesz Wi-Fi Verizon. Zadzwoń pod numer +1 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s : wystąpił problem z Twoim kontem Wi-Fi Verizon. Zadzwoń pod numer +1 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s : już jesteś połączony z Wi-Fi Verizon.</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s : wystąpił problem z połączeniem z Wi-Fi Verizon. Zadzwoń pod numer +1 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s : wystąpił problem z Twoim kontem Wi-Fi Verizon. Zadzwoń pod numer +1 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s : Wi-Fi Verizon jest niedostępne w Twojej lokalizacji. Spróbuj ponownie później lub z innej lokalizacji.</string>
+</resources>

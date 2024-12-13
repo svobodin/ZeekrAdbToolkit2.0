@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">डाउनलोड मैनेजर</string>
+    <string name="button_cancel_download">रद्द करें</string>
+    <string name="button_queue_for_wifi">कतार</string>
+    <string name="button_start_now">अभी शुरू करें</string>
+    <string name="download_error">असफल</string>
+    <string name="download_no_application_title">फ़ाइल नहीं खोली जा सकती</string>
+    <string name="download_queued">कतारबद्ध</string>
+    <string name="download_remaining">%s शेष</string>
+    <string name="download_running">जारी है</string>
+    <string name="download_running_percent">चल रहा है, %s</string>
+    <string name="download_unknown_title">&lt;शीर्षक-रहित></string>
+    <string name="notification_download_complete">डाउनलोड पूरा हुआ.</string>
+    <string name="notification_download_failed">डाउनलोड विफल.</string>
+    <string name="notification_need_wifi_for_size">"डाउनलोड आकार के लिए वाई-फ़ाई  आवश्‍यक."</string>
+    <string name="notification_paused_in_background">पृष्ठभूमि में रोका गया.</string>
+    <string name="permdesc_accessAllDownloads">"ऐप्स  को सिस्टम पर किसी भी ऐप्स  द्वारा शुरू किए गए सभी डाउनलोड देखने और संशोधित करने देता है."</string>
+    <string name="permdesc_downloadCacheNonPurgeable">ऐप को डाउनलोड कैश मेमोरी में फ़ाइलें डाउनलोड करने देता है. डाउनलोड मैनेजर को ज़्यादा जगह की ज़रुरत होने पर इन फ़ाइलों को हटाया नहीं जा सकता, .</string>
+    <string name="permdesc_downloadCompletedIntent">पूरे किए गए डाउनलोड के बारे में ऐप को सूचना भेजने देता है. धोखा देने वाले ऐप इसका इस्तेमाल फ़ाइलों को डाउनलोड करने वाले दूसरे ऐप को भ्रम में डालने के लिए कर सकते हैं.</string>
+    <string name="permdesc_downloadManager">ऐप को डाउनलोड मैनेजर तक पहुंचने देता है और फ़ाइलें डाउनलोड करने के लिए इसका इस्तेमाल करने देता है. धोखा देने वाले ऐप इसका इस्तेमाल डाउनलोड को रोकने और निजी जानकारी तक पहुंचने के लिए कर सकते हैं.</string>
+    <string name="permdesc_downloadManagerAdvanced">ऐप्लिकेशन को डाउनलोड मैनेजर के बेहतर फ़ंक्शन के इस्तेमाल की मंज़ूरी देता है. धोखा देने वाले ऐप्लिकेशन इसका इस्तेमाल डाउनलोड को रोकने और निजी जानकारी तक पहुंचने के लिए कर सकते हैं.</string>
+    <string name="permdesc_downloadWithoutNotification">उपयोगकर्ता को कोई भी सूचना दिखाए बिना ऐप को डाउनलोड मैनेजर की मदद से फ़ाइलें डाउनलोड करने देता है.</string>
+    <string name="permlab_accessAllDownloads">सभी सिस्‍टम डाउनलोड में ऐक्सेस पाएं</string>
+    <string name="permlab_downloadCacheNonPurgeable">डाउनलोड कैश मेमोरी में जगह बचाकर रखें</string>
+    <string name="permlab_downloadCompletedIntent">डाउनलोड सूचनाएं भेजें.</string>
+    <string name="permlab_downloadManager">डाउनलोड मैनेजर में ऐक्सेस पाएं.</string>
+    <string name="permlab_downloadManagerAdvanced">बेहतर डाउनलोड मैनेजर फ़क्शन.</string>
+    <string name="permlab_downloadWithoutNotification">बिना किसी सूचना के फ़ाइलें डाउनलोड करने दें</string>
+    <string name="root_downloads">डाउनलोड</string>
+    <string name="storage_description">डाउनलोड</string>
+    <string name="wifi_recommended_body">"इस %1$s  के डाउनलोड को शुरू करने से आपकी बैटरी जल्दी खत्म हो सकती है और/या मोबाइल का बहुत सारा डेटा खर्च हो सकता है, जिसके लिए मोबाइल और इंटरनेट सेवा देने वाली कंपनी, आपके डेटा प्लान के हिसाब से आपसे पैसे ले सकती है.
+
+ अगली बार जब आप वाई-फ़ाई नेटवर्क से जुड़ें, तो यह डाउनलोड शुरू करने के लिए %2$s को छुएं."</string>
+    <string name="wifi_recommended_title">बाद में डाउनलोड करने के लिए कतार में रखें?</string>
+    <string name="wifi_required_body">"इस %1$s  के डाउनलोड को पूरा करने के लिए आपको वाई-फ़ाई का इस्तेमाल करना चाहिए.
+
+अगली बार जब आप वाई-फ़ाई नेटवर्क से जुड़ें, तो इस डाउनलोड को शुरू करने के लिए %2$s  को छुएं."</string>
+    <string name="wifi_required_title">ऑपरेटर नेटवर्क के लिए डाउनलोड बहुत बड़ा है</string>
+</resources>

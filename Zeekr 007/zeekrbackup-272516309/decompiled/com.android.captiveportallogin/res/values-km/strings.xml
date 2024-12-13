@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">ចូលទៅបណ្ដាញ</string>
+    <string name="action_bar_title">ចូលទៅ %1$s</string>
+    <string name="action_do_not_use_network">កុំ​ប្រើ​បណ្ដាញ​នេះ</string>
+    <string name="action_use_network">ប្រើ​បណ្ដាញ​នេះ​ជា</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">ការជូនដំណឹង​ដែលបង្ហាញ​អំពីដំណើរការ​នៃការទាញយកឯកសារ</string>
+    <string name="channel_description_downloads">ការជូនដំណឹង​ដែលបង្ហាញ​អំពីការទាញយក​ដែលបានបោះបង់ ឬបញ្ចប់</string>
+    <string name="channel_name_download_progress">ដំណើរការនៃ​ការទាញយក</string>
+    <string name="channel_name_downloads">ការទាញយក</string>
+    <string name="custom_scheme_example">ឧទាហរណ៍ ទំព័រចូលអាចតម្រូវឱ្យមាន​កម្មវិធីជាក់លាក់ ដើម្បីផ្ទៀងផ្ទាត់</string>
+    <string name="custom_scheme_warning">បណ្ដាញ​ដែលអ្នកកំពុង​ព្យាយាមចូលរួម​កំពុងស្នើសុំបើកកម្មវិធី​ផ្សេងទៀត។</string>
+    <string name="download_completed">បាន​បញ្ចប់​ការទាញយកហើយ</string>
+    <string name="downloading_paramfile">កំពុងទាញយក %1$s</string>
+    <string name="error_continue_via_browser">មិន​អីទេ បន្តតាមរយៈកម្មវិធីរុករកតាមអ៊ីនធឺណិតចុះ</string>
+    <string name="error_downloading_paramfile">មិន​អាចទាញយក %1$s បានទេ</string>
+    <string name="no_bypass_error_vpnwarning">បន្ថែមពីនេះ បញ្ហា​នេះ​មិនអាច​រំលង​បានទេ ដោយសារ​ឧបករណ៍​កំពុងដំណើរការ VPN។</string>
+    <string name="ok">យល់ព្រម</string>
+    <string name="page_info">ព័ត៌មាន​ទំព័រ</string>
+    <string name="page_info_address">អាសយដ្ឋាន៖</string>
+    <string name="ssl_error_date_invalid">វិញ្ញាបនបត្រនេះ​មាន​កាល​បរិច្ឆេទដែលគ្មាន​សុពលភាព។</string>
+    <string name="ssl_error_example">ឧបករណ៍៖ ទំព័រចូលនេះអាចនឹងមិនមែនជាកម្មសិទ្ធិរបស់ស្ថាប័នដែលបានបង្ហាញនេះទេ។</string>
+    <string name="ssl_error_expired">វិញ្ញាបនបត្រនេះ​ផុត​កំណត់​ហើយ។</string>
+    <string name="ssl_error_invalid">វិញ្ញាបនបត្រនេះគ្មាន​សុពលភាពទេ។</string>
+    <string name="ssl_error_mismatch">ឈ្មោះ​គេហទំព័រ​នេះ​មិន​ត្រូវនឹង​ឈ្មោះ​នៅលើវិញ្ញាបនបត្រទេ។</string>
+    <string name="ssl_error_not_yet_valid">វិញ្ញាបនបត្រនេះមិន​ទាន់​មាន​សុពលភាពនៅ​ឡើយ​ទេ។</string>
+    <string name="ssl_error_unknown">មានបញ្ហា​ដោយសារ​មិនស្គាល់វិញ្ញាបនបត្រ។</string>
+    <string name="ssl_error_untrusted">វិញ្ញាបនបត្រនេះ​មិនបានចេញ​ដោយ​អាជ្ញាធរដែល​គួរ​ឱ្យ​ទុកចិត្ត​ទេ។</string>
+    <string name="ssl_error_view_certificate">មើល​វិញ្ញាបនបត្រ</string>
+    <string name="ssl_error_warning">បណ្តាញដែលអ្នកកំពុងព្យាយាមចូលមានបញ្ហាសុវត្ថិភាព។</string>
+    <string name="ssl_security_warning_title">ការព្រមានផ្នែកសុវត្ថិភាព</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

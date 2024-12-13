@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">Želite li da dozvolite da ^1 izbriše ^2 audio datoteka?</item>
+        <item quantity="one">Želite li da dozvolite da ^1 izbriše ^2 audio datoteku?</item>
+        <item quantity="few">Želite li da dozvolite ^1 izbriše ^2 audio datoteke?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">Želite li da dozvolite da ^1 izbriše ^2 stavki?</item>
+        <item quantity="one">Želite li da dozvolite da ^1 izbriše ^2 stavku?</item>
+        <item quantity="few">Želite li da dozvolite da ^1 izbriše ^2 stavke?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">Želite li da dozvolite da ^1 izbriše ^2 slika?</item>
+        <item quantity="one">Želite li da dozvolite da ^1 izbriše ^2 sliku?</item>
+        <item quantity="few">Želite li da dozvolite da ^1 izbriše ^2 slike?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">Želite li da dozvolite da ^1 izbriše ^2 video snimaka?</item>
+        <item quantity="one">Želite li da dozvolite da ^1 izbriše ^2 video?</item>
+        <item quantity="few">Želite li da dozvolite da ^1 izbriše ^2 video snimka?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">I još ^1 stavki</item>
+        <item quantity="one">I još ^1 stavka</item>
+        <item quantity="few">I još ^1 stavke</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">i još ^1</item>
+        <item quantity="one">i još ^1</item>
+        <item quantity="few">i još ^1</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">Briše se ^1 audio fajlova…</item>
+        <item quantity="one">Briše se ^1 audio fajl…</item>
+        <item quantity="few">Brišu se ^1 audio fajla…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">Briše se ^1 stavki…</item>
+        <item quantity="one">Briše se ^1 stavka…</item>
+        <item quantity="few">Brišu se ^1 stavke…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">Briše se ^1 slika…</item>
+        <item quantity="one">Briše se ^1 slika…</item>
+        <item quantity="few">Brišu se ^1 slike…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">Briše se ^1 video snimaka…</item>
+        <item quantity="one">Briše se ^1 video…</item>
+        <item quantity="few">Brišu se ^1 video snimka…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">^1 audio fajlova se premešta u otpad…</item>
+        <item quantity="one">^1 audio fajl se premešta u otpad…</item>
+        <item quantity="few">^1 audio fajla se premeštaju u otpad…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">^1 stavki se premešta u otpad…</item>
+        <item quantity="one">^1 stavka se premešta u otpad…</item>
+        <item quantity="few">^1 stavke se premeštaju u otpad…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">^1 slika se premešta u otpad…</item>
+        <item quantity="one">^1 slika se premešta u otpad…</item>
+        <item quantity="few">^1 slike se premeštaju u otpad…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">^1 video snimaka se premešta u otpad…</item>
+        <item quantity="one">^1 video se premešta u otpad…</item>
+        <item quantity="few">^1 video snimka se premeštaju u otpad…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">^1 audio fajlova se premešta iz otpada…</item>
+        <item quantity="one">^1 audio fajl se premešta iz otpada…</item>
+        <item quantity="few">^1 audio fajla se premeštaju iz otpada…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">^1 stavki se premešta iz otpada…</item>
+        <item quantity="one">^1 stavka se premešta iz otpada…</item>
+        <item quantity="few">^1 stavke se premeštaju iz otpada…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">^1 slika se premešta iz otpada…</item>
+        <item quantity="one">^1 slika se premešta iz otpada…</item>
+        <item quantity="few">^1 slike se premeštaju iz otpada…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">^1 video snimaka se premešta iz otpada…</item>
+        <item quantity="one">^1 video se premešta iz otpada…</item>
+        <item quantity="few">^1 video snimka se premeštaju iz otpada…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">Menja se ^1 audio fajlova…</item>
+        <item quantity="one">Menja se ^1 audio fajl…</item>
+        <item quantity="few">Menjaju se ^1 audio fajla…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">Menja se ^1 stavki…</item>
+        <item quantity="one">Menja se ^1 stavka…</item>
+        <item quantity="few">Menjaju se ^1 stavke…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">Menja se ^1 slika…</item>
+        <item quantity="one">Menja se ^1 slika…</item>
+        <item quantity="few">Menjaju se ^1 slike…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">Menja se ^1 video snimaka…</item>
+        <item quantity="one">Menja se ^1 video…</item>
+        <item quantity="few">Menjaju se ^1 video snimka…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">Želite li da dozvolite da ^1 premesti ^2 audio datoteka u otpad?</item>
+        <item quantity="one">Želite li da dozvolite da ^1 premesti ^2 audio datoteku u otpad?</item>
+        <item quantity="few">Želite li da dozvolite da ^1 premesti ^2 audio datoteke u otpad?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">Želite li da dozvolite da ^1 premesti ^2 stavki u otpad?</item>
+        <item quantity="one">Želite li da dozvolite da ^1 premesti ^2 stavku u otpad?</item>
+        <item quantity="few">Želite li da dozvolite da ^1 premesti ^2 stavke u otpad?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">Želite li da dozvolite da ^1 premesti ^2 slika u otpad?</item>
+        <item quantity="one">Želite li da dozvolite da ^1 premesti ^2 sliku u otpad?</item>
+        <item quantity="few">Želite li da dozvolite da ^1 premesti ^2 slike u otpad?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">Želite li da dozvolite da ^1 premesti ^2 video snimaka u otpad?</item>
+        <item quantity="one">Želite li da dozvolite da ^1 premesti ^2 video u otpad?</item>
+        <item quantity="few">Želite li da dozvolite da ^1 premesti ^2 video snimka u otpad?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">Želite li da dozvolite da ^1 premesti ^2 audio datoteka iz otpada?</item>
+        <item quantity="one">Želite li da dozvolite da ^1 premesti ^2 audio datoteku iz otpada?</item>
+        <item quantity="few">Želite li da dozvolite da ^1 premesti ^2 audio datoteke iz otpada?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">Želite li da dozvolite da ^1 premesti ^2 stavki iz otpada?</item>
+        <item quantity="one">Želite li da dozvolite da ^1 premesti ^2 stavku iz otpada?</item>
+        <item quantity="few">Želite li da dozvolite da ^1 premesti ^2 stavke iz otpada?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">Želite li da dozvolite da ^1 premesti ^2 slika iz otpada?</item>
+        <item quantity="one">Želite li da dozvolite da ^1 premesti ^2 sliku iz otpada?</item>
+        <item quantity="few">Želite li da dozvolite da ^1 premesti ^2 slike iz otpada?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">Želite li da dozvolite da ^1 premesti ^2 video snimaka iz otpada?</item>
+        <item quantity="one">Želite li da dozvolite da ^1 premesti ^2 video iz otpada?</item>
+        <item quantity="few">Želite li da dozvolite da ^1 premesti ^2 video snimka iz otpada?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">Želite li da dozvolite da ^1 izmeni ^2 audio datoteka?</item>
+        <item quantity="one">Želite li da dozvolite da ^1 izmeni ^2 audio datoteku?</item>
+        <item quantity="few">Želite li da dozvolite da ^1 izmeni ^2 audio datoteke?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">Želite li da dozvolite da ^1 izmeni ^2 stavki?</item>
+        <item quantity="one">Želite li da dozvolite da ^1 izmeni ^2 stavku?</item>
+        <item quantity="few">Želite li da dozvolite da ^1 izmeni ^2 stavke?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">Želite li da dozvolite da ^1 izmeni ^2 slika?</item>
+        <item quantity="one">Želite li da dozvolite da ^1 izmeni ^2 sliku?</item>
+        <item quantity="few">Želite li da dozvolite da ^1 izmeni ^2 slike?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">Želite li da dozvolite da ^1 izmeni ^2 video snimaka?</item>
+        <item quantity="one">Želite li da dozvolite da ^1 izmeni ^2 video?</item>
+        <item quantity="few">Želite li da dozvolite da ^1 izmeni ^2 video snimka?</item>
+    </plurals>
+</resources>

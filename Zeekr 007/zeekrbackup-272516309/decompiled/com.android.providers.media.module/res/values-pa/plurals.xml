@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">ਕੀ ^1 ਨੂੰ ^2 ਆਡੀਓ ਫ਼ਾਈਲਾਂ ਨੂੰ ਮਿਟਾਉਣ ਦੇਣਾ ਹੈ?</item>
+        <item quantity="one">ਕੀ ^1 ਨੂੰ ^2 ਆਡੀਓ ਫ਼ਾਈਲ ਨੂੰ ਮਿਟਾਉਣ ਦੇਣਾ ਹੈ?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">ਕੀ ^1 ਨੂੰ ^2 ਆਈਟਮਾਂ ਨੂੰ ਮਿਟਾਉਣ ਦੇਣਾ ਹੈ?</item>
+        <item quantity="one">ਕੀ ^1 ਨੂੰ ^2 ਆਈਟਮ ਨੂੰ ਮਿਟਾਉਣ ਦੇਣਾ ਹੈ?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">ਕੀ ^1 ਨੂੰ ^2 ਫ਼ੋਟੋਆਂ ਨੂੰ ਮਿਟਾਉਣ ਦੇਣਾ ਹੈ?</item>
+        <item quantity="one">ਕੀ ^1 ਨੂੰ ^2 ਫ਼ੋਟੋ ਨੂੰ ਮਿਟਾਉਣ ਦੇਣਾ ਹੈ?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">ਕੀ ^1 ਨੂੰ ^2 ਵੀਡੀਓ ਨੂੰ ਮਿਟਾਉਣ ਦੇਣਾ ਹੈ?</item>
+        <item quantity="one">ਕੀ ^1 ਨੂੰ ^2 ਵੀਡੀਓ ਨੂੰ ਮਿਟਾਉਣ ਦੇਣਾ ਹੈ?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">ਇਸ ਤੋਂ ਇਲਾਵਾ ^1 ਵਾਧੂ ਆਈਟਮਾਂ</item>
+        <item quantity="one">ਇਸ ਤੋਂ ਇਲਾਵਾ ^1 ਵਾਧੂ ਆਈਟਮ</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">+^1</item>
+        <item quantity="one">+^1</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">^1 ਆਡੀਓ ਫ਼ਾਈਲਾਂ ਮਿਟਾਈਆਂ ਜਾ ਰਹੀਆਂ ਹਨ…</item>
+        <item quantity="one">^1 ਆਡੀਓ ਫ਼ਾਈਲ ਮਿਟਾਈ ਜਾ ਰਹੀ ਹੈ…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">^1 ਆਈਟਮਾਂ ਮਿਟਾਈਆਂ ਜਾ ਰਹੀਆਂ ਹਨ…</item>
+        <item quantity="one">^1 ਆਈਟਮ ਮਿਟਾਈ ਜਾ ਰਹੀ ਹੈ…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">^1 ਫ਼ੋਟੋਆਂ ਮਿਟਾਈਆਂ ਜਾ ਰਹੀਆਂ ਹਨ…</item>
+        <item quantity="one">^1 ਫ਼ੋਟੋ ਮਿਟਾਈ ਜਾ ਰਹੀ ਹੈ…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">^1 ਵੀਡੀਓ ਮਿਟਾਏ ਜਾ ਰਹੇ ਹਨ…</item>
+        <item quantity="one">^1 ਵੀਡੀਓ ਮਿਟਾਇਆ ਜਾ ਰਿਹਾ ਹੈ…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">^1 ਆਡੀਓ ਫ਼ਾਈਲਾਂ ਰੱਦੀ ਵਿੱਚ ਲਿਜਾਈਆਂ ਜਾ ਰਹੀਆਂ ਹਨ…</item>
+        <item quantity="one">^1 ਆਡੀਓ ਫ਼ਾਈਲ ਰੱਦੀ ਵਿੱਚ ਲਿਜਾਈ ਜਾ ਰਹੀ ਹੈ…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">^1 ਆਈਟਮਾਂ ਰੱਦੀ ਵਿੱਚ ਲਿਜਾਈਆਂ ਜਾ ਰਹੀਆਂ ਹਨ…</item>
+        <item quantity="one">^1 ਆਈਟਮ ਰੱਦੀ ਵਿੱਚ ਲਿਜਾਈ ਜਾ ਰਹੀ ਹੈ…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">^1 ਫ਼ੋਟੋਆਂ ਰੱਦੀ ਵਿੱਚ ਲਿਜਾਈਆਂ ਜਾ ਰਹੀਆਂ ਹਨ…</item>
+        <item quantity="one">^1 ਫ਼ੋਟੋ ਰੱਦੀ ਵਿੱਚ ਲਿਜਾਈ ਜਾ ਰਹੀ ਹੈ…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">^1 ਵੀਡੀਓ ਰੱਦੀ ਵਿੱਚ ਲਿਜਾਏ ਜਾ ਰਹੇ ਹਨ…</item>
+        <item quantity="one">^1 ਵੀਡੀਓ ਰੱਦੀ ਵਿੱਚ ਲਿਜਾਇਆ ਜਾ ਰਿਹਾ ਹੈ…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">^1 ਆਡੀਓ ਫ਼ਾਈਲਾਂ ਰੱਦੀ ਤੋਂ ਬਾਹਰ ਲਿਜਾਈਆਂ ਜਾ ਰਹੀਆਂ ਹਨ…</item>
+        <item quantity="one">^1 ਆਡੀਓ ਫ਼ਾਈਲ ਰੱਦੀ ਤੋਂ ਬਾਹਰ ਲਿਜਾਈ ਜਾ ਰਹੀ ਹੈ…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">^1 ਆਈਟਮਾਂ ਰੱਦੀ ਤੋਂ ਬਾਹਰ ਲਿਜਾਈਆਂ ਜਾ ਰਹੀਆਂ ਹਨ…</item>
+        <item quantity="one">^1 ਆਈਟਮ ਰੱਦੀ ਤੋਂ ਬਾਹਰ ਲਿਜਾਈ ਜਾ ਰਹੀ ਹੈ…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">^1 ਫ਼ੋਟੋਆਂ ਰੱਦੀ ਤੋਂ ਬਾਹਰ ਲਿਜਾਈਆਂ ਜਾ ਰਹੀਆਂ ਹਨ…</item>
+        <item quantity="one">^1 ਫ਼ੋਟੋ ਰੱਦੀ ਤੋਂ ਬਾਹਰ ਲਿਜਾਈ ਜਾ ਰਹੀ ਹੈ…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">^1 ਵੀਡੀਓ ਰੱਦੀ ਤੋਂ ਬਾਹਰ ਲਿਜਾਏ ਜਾ ਰਹੇ ਹਨ…</item>
+        <item quantity="one">^1 ਵੀਡੀਓ ਰੱਦੀ ਤੋਂ ਬਾਹਰ ਲਿਜਾਇਆ ਜਾ ਰਿਹਾ ਹੈ…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">^1 ਆਡੀਓ ਫ਼ਾਈਲਾਂ ਸੋਧੀਆਂ ਜਾ ਰਹੀਆਂ ਹਨ…</item>
+        <item quantity="one">^1 ਆਡੀਓ ਫ਼ਾਈਲ ਸੋਧੀ ਜਾ ਰਹੀ ਹੈ…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">^1 ਆਈਟਮਾਂ ਸੋਧੀਆਂ ਜਾ ਰਹੀਆਂ ਹਨ…</item>
+        <item quantity="one">^1 ਆਈਟਮ ਸੋਧੀ ਜਾ ਰਹੀ ਹੈ…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">^1 ਫ਼ੋਟੋਆਂ ਸੋਧੀਆਂ ਜਾ ਰਹੀਆਂ ਹਨ…</item>
+        <item quantity="one">^1 ਫ਼ੋਟੋ ਸੋਧੀ ਜਾ ਰਹੀ ਹੈ…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">^1 ਵੀਡੀਓ ਸੋਧੇ ਜਾ ਰਹੇ ਹਨ…</item>
+        <item quantity="one">^1 ਵੀਡੀਓ ਸੋਧਿਆ ਜਾ ਰਿਹਾ ਹੈ…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">ਕੀ ^1 ਨੂੰ ^2 ਆਡੀਓ ਫ਼ਾਈਲਾਂ ਨੂੰ ਰੱਦੀ ਵਿੱਚ ਲਿਜਾਣ ਦੇਣਾ ਹੈ?</item>
+        <item quantity="one">ਕੀ ^1 ਨੂੰ ^2 ਆਡੀਓ ਫ਼ਾਈਲ ਨੂੰ ਰੱਦੀ ਵਿੱਚ ਲਿਜਾਣ ਦੇਣਾ ਹੈ?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">ਕੀ ^1 ਨੂੰ ^2 ਆਈਟਮਾਂ ਨੂੰ ਰੱਦੀ ਵਿੱਚ ਲਿਜਾਣ ਦੇਣਾ ਹੈ?</item>
+        <item quantity="one">ਕੀ ^1 ਨੂੰ ^2 ਆਈਟਮ ਨੂੰ ਰੱਦੀ ਵਿੱਚ ਲਿਜਾਣ ਦੇਣਾ ਹੈ?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">ਕੀ ^1 ਨੂੰ ^2 ਫ਼ੋਟੋਆਂ ਨੂੰ ਰੱਦੀ ਵਿੱਚ ਲਿਜਾਉਣ ਦੇਣਾ ਹੈ?</item>
+        <item quantity="one">ਕੀ ^1 ਨੂੰ ^2 ਫ਼ੋਟੋ ਨੂੰ ਰੱਦੀ ਵਿੱਚ ਲਿਜਾਉਣ ਦੇਣਾ ਹੈ?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">ਕੀ ^1 ਨੂੰ ^2 ਵੀਡੀਓ ਨੂੰ ਰੱਦੀ ਵਿੱਚ ਲਿਜਾਣ ਦੇਣਾ ਹੈ?</item>
+        <item quantity="one">ਕੀ ^1 ਨੂੰ ^2 ਵੀਡੀਓ ਨੂੰ ਰੱਦੀ ਵਿੱਚ ਲਿਜਾਣ ਦੇਣਾ ਹੈ?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">ਕੀ ^1 ਨੂੰ ^2 ਆਡੀਓ ਫ਼ਾਈਲਾਂ ਨੂੰ ਰੱਦੀ ਤੋਂ ਬਾਹਰ ਲਿਜਾਣ ਦੇਣਾ ਹੈ?</item>
+        <item quantity="one">ਕੀ ^1 ਨੂੰ ^2 ਆਡੀਓ ਫ਼ਾਈਲ ਨੂੰ ਰੱਦੀ ਤੋਂ ਬਾਹਰ ਲਿਜਾਣ ਦੇਣਾ ਹੈ?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">ਕੀ ^1 ਨੂੰ ^2 ਆਈਟਮਾਂ ਨੂੰ ਰੱਦੀ ਤੋਂ ਬਾਹਰ ਲਿਜਾਣ ਦੇਣਾ ਹੈ?</item>
+        <item quantity="one">ਕੀ ^1 ਨੂੰ ^2 ਆਈਟਮ ਨੂੰ ਰੱਦੀ ਤੋਂ ਬਾਹਰ ਲਿਜਾਣ ਦੇਣਾ ਹੈ?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">ਕੀ ^1 ਨੂੰ ^2 ਫ਼ੋਟੋਆਂ ਨੂੰ ਰੱਦੀ ਤੋਂ ਬਾਹਰ ਲਿਜਾਉਣ ਦੇਣਾ ਹੈ?</item>
+        <item quantity="one">ਕੀ ^1 ਨੂੰ ^2 ਫ਼ੋਟੋ ਨੂੰ ਰੱਦੀ ਤੋਂ ਬਾਹਰ ਲਿਜਾਉਣ ਦੇਣਾ ਹੈ?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">ਕੀ ^1 ਨੂੰ ^2 ਵੀਡੀਓ ਨੂੰ ਰੱਦੀ ਤੋਂ ਬਾਹਰ ਲਿਜਾਣ ਦੇਣਾ ਹੈ?</item>
+        <item quantity="one">ਕੀ ^1 ਨੂੰ ^2 ਵੀਡੀਓ ਨੂੰ ਰੱਦੀ ਤੋਂ ਬਾਹਰ ਲਿਜਾਣ ਦੇਣਾ ਹੈ?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">ਕੀ ^1 ਨੂੰ ^2 ਆਡੀਓ ਫ਼ਾਈਲਾਂ ਨੂੰ ਸੋਧਣ ਦੇਣਾ ਹੈ?</item>
+        <item quantity="one">ਕੀ ^1 ਨੂੰ ^2 ਆਡੀਓ ਫ਼ਾਈਲ ਨੂੰ ਸੋਧਣ ਦੇਣਾ ਹੈ?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">ਕੀ ^1 ਨੂੰ ^2 ਆਈਟਮਾਂ ਨੂੰ ਸੋਧਣ ਦੇਣਾ ਹੈ?</item>
+        <item quantity="one">ਕੀ ^1 ਨੂੰ ^2 ਆਈਟਮ ਨੂੰ ਸੋਧਣ ਦੇਣਾ ਹੈ?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">ਕੀ ^1 ਨੂੰ ^2 ਫ਼ੋਟੋਆਂ ਨੂੰ ਸੋਧਣ ਦੇਣਾ ਹੈ?</item>
+        <item quantity="one">ਕੀ ^1 ਨੂੰ ^2 ਫ਼ੋਟੋ ਨੂੰ ਸੋਧਣ ਦੇਣਾ ਹੈ?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">ਕੀ ^1 ਨੂੰ ^2 ਵੀਡੀਓ ਨੂੰ ਸੋਧਣ ਦੇਣਾ ਹੈ?</item>
+        <item quantity="one">ਕੀ ^1 ਨੂੰ ^2 ਵੀਡੀਓ ਨੂੰ ਸੋਧਣ ਦੇਣਾ ਹੈ?</item>
+    </plurals>
+</resources>

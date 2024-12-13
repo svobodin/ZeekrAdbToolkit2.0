@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Network manager</string>
+    <string name="connected">Nakakonekta</string>
+    <string name="notification_channel_description_connected">Ipapakita ang mga notification kapag matagumpay na na-authenticate ang device sa isang captive portal network</string>
+    <string name="notification_channel_description_network_venue_info">Nagpapakita ng mga notification para isaad na may page ng impormasyon ng venue ang network</string>
+    <string name="notification_channel_name_connected">Pag-authenticate ng captive portal</string>
+    <string name="notification_channel_name_network_venue_info">Impormasyon ng venue ng network</string>
+    <string name="tap_for_info">Nakakonekta / I-tap para makita ang website</string>
+</resources>

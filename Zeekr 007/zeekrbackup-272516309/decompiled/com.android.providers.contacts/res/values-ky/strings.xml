@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Байланыштар сактагычы</string>
+    <string name="debug_dump_database_message">"Сиз буларды кылайын деп жатасыз: 1) Ичинде бардык байланыштарга тийиштүү маалыматтар жана чалуу тизмелери бар берилиштер корун тышкы сактагычка  көчүрмөлөө, 2) жана аны эмейлге жөнөтүү. Көчүрмөнү, түзмөктөн ийгиликтүү көчүрүп же эмейлден алаарыңыз менен, жок кылууну унутпаңыз."</string>
+    <string name="debug_dump_delete_button">Өчүрүү</string>
+    <string name="debug_dump_email_body">Тийиштүү маалыматтарды камтыган менин байланыштар корум тиркелген. Этият болуңуз.</string>
+    <string name="debug_dump_email_sender_picker">Сиздин файлыңызды жөнөтүүчү програмды тандаңыз</string>
+    <string name="debug_dump_email_subject">Байланыштар кору тиркелди</string>
+    <string name="debug_dump_start_button">Баштоо</string>
+    <string name="debug_dump_title">Байланыштар корун көчүрүү</string>
+    <string name="default_directory">Байланыштар</string>
+    <string name="local_invisible_directory">Башка</string>
+    <string name="provider_label">Байланыштар</string>
+    <string name="sharedUserLabel">Android Core колдонмолору</string>
+    <string name="upgrade_out_of_memory_notification_text">Жаңыртууну аягына чыгарыш үчүн таптап коюңуз.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Байланыштарды жаңыртууга көбүрөөк орун керек.</string>
+    <string name="upgrade_out_of_memory_notification_title">Байланыштар үчүн сактагыч жаңыртылууда</string>
+    <string name="voicemail_from_column">"Келген үнкат "</string>
+</resources>

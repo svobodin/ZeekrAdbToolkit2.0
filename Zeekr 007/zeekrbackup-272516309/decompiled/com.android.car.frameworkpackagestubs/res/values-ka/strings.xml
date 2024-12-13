@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">აქტივობის ნარჩენი</string>
+    <string name="message_not_supported">ამას ვერცერთი აპლიკაცია ვერ შეასრულებს</string>
+    <string name="pip_not_supported">ეკრანი ეკრანში ამ მოწყობილობაზე მხარდაჭერილი არ არის</string>
+    <string name="stub_name">არცერთი</string>
+</resources>

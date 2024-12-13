@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">Dar %1$d</item>
+        <item quantity="one">Dar %1$d</item>
+        <item quantity="few">Dar %1$d</item>
+        <item quantity="many">Dar %1$d</item>
+    </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">%1$d programų nebuvo naudojama kelis mėnesius. Palieskite ir peržiūrėkite</item>
+        <item quantity="one">%1$d programa nebuvo naudojama kelis mėnesius. Palieskite ir peržiūrėkite</item>
+        <item quantity="few">%1$d programos nebuvo naudojamos kelis mėnesius. Palieskite ir peržiūrėkite</item>
+        <item quantity="many">%1$d programos nebuvo naudojama kelis mėnesius. Palieskite ir peržiūrėkite</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">%1$d programų nebuvo naudojama kelis mėnesius</item>
+        <item quantity="one">%1$d programa nebuvo naudojama kelis mėnesius</item>
+        <item quantity="few">%1$d programos nebuvo naudojamos kelis mėnesius</item>
+        <item quantity="many">%1$d programos nebuvo naudojama kelis mėnesius</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s dienų</item>
+        <item quantity="one">%s diena</item>
+        <item quantity="few">%s dienos</item>
+        <item quantity="many">%s dienos</item>
+    </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">%s dienų</item>
+        <item quantity="one">%s diena</item>
+        <item quantity="few">%s dienos</item>
+        <item quantity="many">%s dienos</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">%s valandų</item>
+        <item quantity="one">%s valanda</item>
+        <item quantity="few">%s valandos</item>
+        <item quantity="many">%s valandos</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">%s minučių</item>
+        <item quantity="one">%s minutė</item>
+        <item quantity="few">%s minutės</item>
+        <item quantity="many">%s minutės</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">%s sekundžių</item>
+        <item quantity="one">%s sekundė</item>
+        <item quantity="few">%s sekundės</item>
+        <item quantity="many">%s sekundės</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s valandų</item>
+        <item quantity="one">%s valanda</item>
+        <item quantity="few">%s valandos</item>
+        <item quantity="many">%s valandos</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s minučių</item>
+        <item quantity="one">%s minutė</item>
+        <item quantity="few">%s minutės</item>
+        <item quantity="many">%s minutės</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d naujų pranešimų</item>
+        <item quantity="one">%d naujas pranešimas</item>
+        <item quantity="few">%d nauji pranešimai</item>
+        <item quantity="many">%d naujo pranešimo</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s programų</item>
+        <item quantity="one">%s programa</item>
+        <item quantity="few">%s programos</item>
+        <item quantity="many">%s programos</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s programų</item>
+        <item quantity="one">%s programa</item>
+        <item quantity="few">%s programos</item>
+        <item quantity="many">%s programos</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">Naudojama %1$d programų</item>
+        <item quantity="one">Naudojama %1$d programoje</item>
+        <item quantity="few">Naudojama %1$d programose</item>
+        <item quantity="many">Naudojama %1$d programos</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"Paskutinį kartą pasiekta: %1$s
+Pasiekta %2$s kartų"</item>
+        <item quantity="one">"Paskutinį kartą pasiekta: %1$s
+Pasiekta %2$s kartą"</item>
+        <item quantity="few">"Paskutinį kartą pasiekta: %1$s
+Pasiekta %2$s kartus"</item>
+        <item quantity="many">"Paskutinį kartą pasiekta: %1$s
+Pasiekta %2$s karto"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"Paskutinį kartą pasiekta: %1$s
+Pasiekta %2$s kartų (%3$s fone)"</item>
+        <item quantity="one">"Paskutinį kartą pasiekta: %1$s
+Pasiekta %2$s kartą (%3$s fone)"</item>
+        <item quantity="few">"Paskutinį kartą pasiekta: %1$s
+Pasiekta %2$s kartus (%3$s fone)"</item>
+        <item quantity="many">"Paskutinį kartą pasiekta: %1$s
+Pasiekta %2$s karto (%3$s fone)"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"Paskutinį kartą pasiekta: %1$s
+Pasiekta %2$s kartų (%3$s fone)
+Trukmė: %3$s"</item>
+        <item quantity="one">"Paskutinį kartą pasiekta: %1$s
+Pasiekta %2$s kartą (%3$s fone)
+Trukmė: %3$s"</item>
+        <item quantity="few">"Paskutinį kartą pasiekta: %1$s
+Pasiekta %2$s kartus (%3$s fone)
+Trukmė: %3$s"</item>
+        <item quantity="many">"Paskutinį kartą pasiekta: %1$s
+Pasiekta %2$s karto (%3$s fone)
+Trukmė: %3$s"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"Paskutinį kartą pasiekta: %1$s
+Pasiekta %2$s kartų
+Trukmė: %3$s"</item>
+        <item quantity="one">"Paskutinį kartą pasiekta: %1$s
+Pasiekta %2$s kartą
+Trukmė: %3$s"</item>
+        <item quantity="few">"Paskutinį kartą pasiekta: %1$s
+Pasiekta %2$s kartus
+Trukmė: %3$s"</item>
+        <item quantity="many">"Paskutinį kartą pasiekta: %1$s
+Pasiekta %2$s karto
+Trukmė: %3$s"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s sekundžių</item>
+        <item quantity="one">%s sekundė</item>
+        <item quantity="few">%s sekundės</item>
+        <item quantity="many">%s sekundės</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">%1$d nenaudojamų programų</item>
+        <item quantity="one">%1$d nenaudojama programa</item>
+        <item quantity="few">%1$d nenaudojamos programos</item>
+        <item quantity="many">%1$d nenaudojamos programos</item>
+    </plurals>
+</resources>

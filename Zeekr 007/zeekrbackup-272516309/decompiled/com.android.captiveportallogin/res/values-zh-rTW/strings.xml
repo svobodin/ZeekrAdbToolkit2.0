@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">登入網路</string>
+    <string name="action_bar_title">登入 %1$s</string>
+    <string name="action_do_not_use_network">不使用這個網路</string>
+    <string name="action_use_network">依現況使用這個網路</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">顯示檔案下載進度的通知</string>
+    <string name="channel_description_downloads">顯示下載完成或取消的通知</string>
+    <string name="channel_name_download_progress">下載進度</string>
+    <string name="channel_name_downloads">下載狀態</string>
+    <string name="custom_scheme_example">舉例來說，登入頁面可能會要求你使用特定應用程式進行驗證</string>
+    <string name="custom_scheme_warning">你嘗試加入的網路要求你開啟其他應用程式。</string>
+    <string name="download_completed">下載完成</string>
+    <string name="downloading_paramfile">正在下載「%1$s」</string>
+    <string name="error_continue_via_browser">仍要透過瀏覽器繼續操作</string>
+    <string name="error_downloading_paramfile">無法下載「%1$s」</string>
+    <string name="no_bypass_error_vpnwarning">另外，裝置目前正在執行 VPN，因此無法略過這項錯誤。</string>
+    <string name="ok">確定</string>
+    <string name="page_info">頁面資訊</string>
+    <string name="page_info_address">地址：</string>
+    <string name="ssl_error_date_invalid">這個憑證的日期無效。</string>
+    <string name="ssl_error_example">例如，登入網頁中顯示的機構可能並非該網頁實際隸屬的機構。</string>
+    <string name="ssl_error_expired">這個憑證已過期。</string>
+    <string name="ssl_error_invalid">這個憑證無效。</string>
+    <string name="ssl_error_mismatch">網站名稱與憑證上的名稱不相符。</string>
+    <string name="ssl_error_not_yet_valid">這個憑證尚未生效。</string>
+    <string name="ssl_error_unknown">不明的憑證錯誤。</string>
+    <string name="ssl_error_untrusted">這個憑證並非來自信任的授權單位。</string>
+    <string name="ssl_error_view_certificate">查看憑證</string>
+    <string name="ssl_error_warning">你嘗試加入的網路有安全問題。</string>
+    <string name="ssl_security_warning_title">安全性警告</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

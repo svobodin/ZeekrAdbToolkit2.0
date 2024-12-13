@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">منابع اتصال سیستم</string>
+    <string name="mobile_no_internet">شبکه تلفن همراه به اینترنت دسترسی ندارد</string>
+    <string name="network_available_sign_in">ورود به سیستم شبکه</string>
+    <string name="network_partial_connectivity">%1$s اتصال محدودی دارد</string>
+    <string name="network_partial_connectivity_detailed">به‌هرصورت، برای اتصال ضربه بزنید</string>
+    <string name="network_switch_metered">به %1$s تغییر کرد</string>
+    <string name="network_switch_metered_detail">وقتی %2$s به اینترنت دسترسی نداشته باشد، دستگاه از %1$s استفاده می‌کند. ممکن است هزینه‌هایی اعمال شود.</string>
+    <string name="network_switch_metered_toast">از %1$s به %2$s تغییر کرد</string>
+    <string name="network_switch_type_name_unknown">نوع شبکه نامشخص</string>
+    <string name="other_networks_no_internet">شبکه به اینترنت دسترسی ندارد</string>
+    <string name="private_dns_broken_detailed">‏سرور DNS خصوصی قابل دسترسی نیست</string>
+    <string name="wifi_available_sign_in">‏ورود به شبکه Wi-Fi</string>
+    <string name="wifi_no_internet">%1$s به اینترنت دسترسی ندارد</string>
+    <string name="wifi_no_internet_detailed">برای گزینه‌ها ضربه بزنید</string>
+</resources>

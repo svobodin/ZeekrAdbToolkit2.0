@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s : Та Verizon-ы хамрах бүсийн гаднаас Verizon Wi-Fi хандалтад холбогдох боломжгүй.</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s : Та Verizon Wi-Fi хандалтад бүртгүүлээгүй байна. 800-922-0204 дугаар луу залгаж, бидэнтэй холбогдоно уу.</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s : Таны Verizon Wi-Fi хандалтын бүртгэлтэй холбоотой асуудал гарлаа. 800-922-0204 дугаар луу залгаж, бидэнтэй холбогдоно уу.</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s : Та Verizon Wi-Fi хандалтад хэдийн холбогдсон байна.</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s : Таныг Verizon Wi-Fi хандалтад холбоход асуудал гарлаа. 800-922-0204 дугаар луу залгаж, бидэнтэй холбогдоно уу.</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s : Таны Verizon Wi-Fi хандалтын бүртгэлтэй холбоотой асуудал гарлаа. 800-922-0204 дугаар луу залгаж, бидэнтэй холбогдоно уу.</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s : Verizon Wi-Fi хандалт нь таны байршлаас боломжгүй байна. Дараа дахин оролдох эсвэл өөр байршлаас оролдоно уу.</string>
+</resources>

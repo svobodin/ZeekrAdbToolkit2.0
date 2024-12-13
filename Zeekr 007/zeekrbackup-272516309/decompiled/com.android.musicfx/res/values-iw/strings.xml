@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">הגברת הבס</string>
+    <string name="ci_extreme">FX Booster</string>
+    <string name="classical">קלאסית</string>
+    <string name="dance">דאנס</string>
+    <string name="eq_dialog_title">אקוולייזר</string>
+    <string name="flat">מונוטוני</string>
+    <string name="folk">פולק</string>
+    <string name="headset_plug">צריך לחבר אוזניות כדי לשמוע את האפקטים האלה.</string>
+    <string name="heavy_metal">הבי מטאל</string>
+    <string name="hip_hop">היפ הופ</string>
+    <string name="jazz">"ג'אז"</string>
+    <string name="no_effects">האפקטים לא זמינים.</string>
+    <string name="normal">רגיל</string>
+    <string name="picker_title">חלונית בקרה – אפקטים מוזיקליים</string>
+    <string name="pop">פופ</string>
+    <string name="rock">רוק</string>
+    <string name="setup">הגדרה</string>
+    <string name="user">משתמש</string>
+    <string name="virtualizer_strength">צליל סראונד</string>
+</resources>

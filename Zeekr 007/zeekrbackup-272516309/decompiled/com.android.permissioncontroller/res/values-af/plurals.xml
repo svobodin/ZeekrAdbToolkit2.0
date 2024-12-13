@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">Nog %1$d</item>
+        <item quantity="one">Nog %1$d</item>
+    </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">"%1$d programme is 'n paar maande laas gebruik. Tik om na te gaan"</item>
+        <item quantity="one">"%1$d program is 'n paar maande laas gebruik. Tik om na te gaan"</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">"%1$d programme is 'n paar maande laas gebruik"</item>
+        <item quantity="one">"%1$d program is 'n paar maande laas gebruik"</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s dae</item>
+        <item quantity="one">1 dag</item>
+    </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">%s dae</item>
+        <item quantity="one">1 dag</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">%s uur</item>
+        <item quantity="one">1 uur</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">%s min.</item>
+        <item quantity="one">1 min.</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">%s sek.</item>
+        <item quantity="one">1 sek.</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s uur</item>
+        <item quantity="one">1 uur</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s minute</item>
+        <item quantity="one">1 minuut</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nuwe kennisgewings</item>
+        <item quantity="one">%d nuwe kennisgewing</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s programme</item>
+        <item quantity="one">1 program</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s programme</item>
+        <item quantity="one">1 program</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">Gebruik deur %1$d programme</item>
+        <item quantity="one">Gebruik deur 1 program</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"Jongste gebruik: %1$s
+%2$s keer gebruik"</item>
+        <item quantity="one">"Jongste gebruik: %1$s
+%2$s keer gebruik"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"Jongste gebruik: %1$s
+%2$s keer gebruik (%3$s keer op agtergrond)"</item>
+        <item quantity="one">"Jongste gebruik: %1$s
+%2$s keer gebruik (%3$s keer op agtergrond)"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"Jongste gebruik: %1$s
+%2$s keer gebruik (%3$s keer op agtergrond)
+Tydsduur: %3$s"</item>
+        <item quantity="one">"Jongste gebruik: %1$s
+%2$s keer gebruik (%3$s keer op agtergrond)
+Tydsduur: %3$s"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"Jongste gebruik: %1$s
+%2$s keer gebruik
+Tydsduur: %3$s"</item>
+        <item quantity="one">"Jongste gebruik: %1$s
+%2$s keer gebruik
+Tydsduur: %3$s"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s sekondes</item>
+        <item quantity="one">1 sekonde</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">%1$d ongebruikte programme</item>
+        <item quantity="one">%1$d ongebruikte program</item>
+    </plurals>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">Appareils photo</item>
+        <item quantity="one">Appareil photo</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">Clients de messagerie</item>
+        <item quantity="one">Client de messagerie</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">Téléphones</item>
+        <item quantity="one">Téléphone</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d tentatives</item>
+        <item quantity="one">%d tentative</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d applis</item>
+        <item quantity="one">%d appli</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">Au moins %d applis</item>
+        <item quantity="one">Au moins %d appli</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nouvelles notifications</item>
+        <item quantity="one">%d nouvelle notification</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d appareils connectés</item>
+        <item quantity="one">%1$d appareil connecté</item>
+    </plurals>
+</resources>

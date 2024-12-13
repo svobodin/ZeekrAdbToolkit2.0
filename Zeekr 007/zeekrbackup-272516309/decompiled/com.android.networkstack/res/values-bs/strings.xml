@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Upravitelj mreže</string>
+    <string name="connected">Povezano</string>
+    <string name="notification_channel_description_connected">Obavještenja koja se prikazuju kada se uređaj uspješno autentificira na mreži sa zaštitnim portalom</string>
+    <string name="notification_channel_description_network_venue_info">Obavještenja koja se prikazuju da pokažu da mreža ima stranicu s informacijama o mjestu događaja</string>
+    <string name="notification_channel_name_connected">Autentifikacija na zaštitnom portalu</string>
+    <string name="notification_channel_name_network_venue_info">Mrežne informacije o mjestu događaja</string>
+    <string name="tap_for_info">Povezano/Dodirnite da vidite web lokaciju</string>
+</resources>

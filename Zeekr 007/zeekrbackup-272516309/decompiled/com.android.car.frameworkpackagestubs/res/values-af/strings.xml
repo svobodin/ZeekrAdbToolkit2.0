@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Activity Stub</string>
+    <string name="message_not_supported">Geen program kan hierdie handeling hanteer nie</string>
+    <string name="pip_not_supported">Prent-in-prent word nie op hierdie toestel gesteun nie</string>
+    <string name="stub_name">Geen</string>
+</resources>

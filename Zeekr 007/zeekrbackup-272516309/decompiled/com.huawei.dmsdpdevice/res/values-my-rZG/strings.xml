@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Screen_notification_text">ရယူသုံးစြဲခြင့္ျပဳရန္ ေလာ့ခ္ေျဖပါ။</string>
+    <string name="Screen_notification_title">%s သည္ ဤစက္၏ ကင္မရာကို ရယူသုံးစြဲလိုပါသည္။</string>
+    <string name="accessibility_back_preview">ေနာက္ကင္မရာ ၾကိဳတင္ၾကည့္ရႈမႈ</string>
+    <string name="accessibility_falsh_mode_off">ဖလက္ရွ္ ပိတ္</string>
+    <string name="accessibility_falsh_mode_torch">ဖလက္ရွ္ အျမဲဖြင့္</string>
+    <string name="accessibility_front_preview">ေရွ႕ကင္မရာ ၾကိဳတင္ၾကည့္ရႈမႈ</string>
+    <string name="accessibility_stop_sharing_to_source">ကင္မရာ ေဝမွ်မႈ ရပ္တန္႔ရန္</string>
+    <string name="app_name_for_libdmsdpcamera">Multi-Device ကင္မရာ</string>
+    <string name="capsule_dialog_content">ကင္မရာကို %s ႏွင့္ ခ်ိတ္ဆက္ထားပါသည္။</string>
+    <string name="capsule_dialog_negative_btn">ခ်ိတ္ဆက္မႈ ျဖဳတ္ရန္</string>
+    <string name="lens_wide">ေထာင့္က်ယ္</string>
+    <string name="notification_content_text">%s သည္ ဤစက္၏ ကင္မရာကို ရယူသုံးစြဲလိုပါသည္။ စတင္ေဝမွ်ရန္ ေလာ့ခ္ေျဖပါ။</string>
+    <string name="notification_content_theme">Multi-Device စီမံခန္႔ခြဲေရး</string>
+    <string name="notification_content_title">စက္ ခ်ိတ္ဆက္မႈ</string>
+    <string name="permission_dialog_content">%s အား ဤစက္၏ ကင္မရာကို ရယူသုံးစြဲခြင့္ျပဳမည္လား။</string>
+    <string name="permission_dialog_hint">ကင္မရာကို အျခားစက္ႏွင့္ ေဝမွ်ရန္ ဤသည္ကို သုံးေပးပါသည္။</string>
+    <string name="permission_dialog_negative_btn">ျငင္းပယ္ရန္</string>
+    <string name="res_allow">ခြင့္ျပဳရန္</string>
+    <string name="res_cancel">မလုပ္ပါ</string>
+    <string name="res_ok">အိုေက</string>
+    <string name="res_reject">ျငင္းရန္ (%ss)</string>
+    <string name="res_stop_use_camera">ကင္မရာ သုံးစြဲမႈကို ရပ္မည္လား။</string>
+    <string name="res_toast">%s သည္ ကင္မရာ သုံးစြဲမႈ ရပ္ထားပါျပီ။</string>
+    <string name="sink_back_to_desktop">ပင္မ မ်က္ႏွာျပင္သို႔ ျပန္သြားရန္</string>
+    <string name="sink_stop_sharing">ေဝမွ်မႈ ရပ္တန္႔ရန္</string>
+    <string name="sink_stop_sharing_or_not">%1$s ႏွင့္ ကင္မရာ ေဝမွ်မႈကို ရပ္မည္လား။</string>
+    <string name="source_connection_service_exception">စက္ကို ခ်ိတ္ဆက္မႈမွ ျဖဳတ္ျပီး။ ျပန္ခ်ိတ္ဆက္ေပးပါ။</string>
+    <string name="source_sharing_status_text">%1$s ႏွင့္ ေဝမွ်ထားပါသည္</string>
+    <string name="source_stop_sharing_tip">%1$s သည္ ကင္မရာ သုံးစြဲမႈ ရပ္ထားပါသည္။</string>
+</resources>

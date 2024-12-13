@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="disable_tether_notification_message">Wasiliana na msimamizi wako ili upate maelezo zaidi</string>
+    <string name="disable_tether_notification_title">Umezima kipengele cha kusambaza mtandao</string>
+    <string name="no_upstream_notification_disable_button" />
+    <string name="no_upstream_notification_message" />
+    <string name="no_upstream_notification_title" />
+    <string name="notification_channel_tethering_status">Mtandaopepe na hali ya kusambaza mtandao</string>
+    <string name="tethered_notification_message">Gusa ili uweke mipangilio.</string>
+    <string name="tethered_notification_title">Kusambaza mtandao au mtandaopepe umewashwa</string>
+    <string name="upstream_roaming_notification_message" />
+    <string name="upstream_roaming_notification_title" />
+</resources>

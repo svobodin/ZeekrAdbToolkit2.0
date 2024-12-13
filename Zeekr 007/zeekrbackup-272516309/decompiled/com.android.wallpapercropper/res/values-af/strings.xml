@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crop_wallpaper">Snoei muurpapier</string>
+    <string name="wallpaper_instructions">Stel muurpapier</string>
+    <string name="wallpaper_load_fail">Kon nie prent as muurpapier laai nie</string>
+</resources>

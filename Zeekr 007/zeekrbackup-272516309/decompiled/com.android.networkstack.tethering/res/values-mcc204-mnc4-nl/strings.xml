@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Hotspot uitschakelen</string>
+    <string name="no_upstream_notification_message">Apparaten kunnen geen verbinding maken met internet</string>
+    <string name="no_upstream_notification_title">Hotspot heeft geen internet</string>
+    <string name="upstream_roaming_notification_message">Er kunnen extra kosten voor roaming in rekening worden gebracht.</string>
+    <string name="upstream_roaming_notification_title">Hotspot is ingeschakeld</string>
+    <string name="upstream_roaming_notification_continue_button">Doorgaan</string>
+</resources>

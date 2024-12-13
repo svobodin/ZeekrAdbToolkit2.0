@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">Введите пароль и перейдите к динамическим обновлениям системы.</string>
+    <string name="notification_action_cancel">Отмена</string>
+    <string name="notification_action_discard">Отменить</string>
+    <string name="notification_action_reboot_to_dynsystem">Перезапустить</string>
+    <string name="notification_action_reboot_to_origin">Перезапустить</string>
+    <string name="notification_dynsystem_in_use">Используется динамическая система. Чтобы вернуться к исходной версии Android, перезапустите устройство.</string>
+    <string name="notification_image_validation_failed">Не удалось проверить образ. Отмените установку.</string>
+    <string name="notification_install_completed">Динамическая система готова. Чтобы использовать ее, перезапустите устройство.</string>
+    <string name="notification_install_failed">Ошибка установки.</string>
+    <string name="notification_install_inprogress">Идет установка…</string>
+    <string name="toast_dynsystem_discarded">Динамическая система удалена.</string>
+    <string name="toast_failed_to_disable_dynsystem">Не удалось отключить динамическую систему.</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Не удается запустить или загрузить динамическую систему.</string>
+</resources>

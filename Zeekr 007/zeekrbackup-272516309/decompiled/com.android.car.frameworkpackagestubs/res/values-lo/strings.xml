@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stub ການເຄື່ອນໄຫວ</string>
+    <string name="message_not_supported">ບໍ່ມີແອັບພລິເຄຊັນໃດສາມາດຈັດການຄຳສັ່ງນີ້ໄດ້</string>
+    <string name="pip_not_supported">ບໍ່ຮອງຮັບການສະແດງຜົນຊ້ອນໃນອຸປະກອນນີ້</string>
+    <string name="stub_name">ບໍ່ມີ</string>
+</resources>

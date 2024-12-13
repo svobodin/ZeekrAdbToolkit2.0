@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nuwe kennisgewings</item>
+        <item quantity="one">%d nuwe kennisgewing</item>
+    </plurals>
+    <plurals name="num_categories_selected">
+        <item quantity="other">%d is gekies</item>
+        <item quantity="one">%d is gekies</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d toestelle is gekoppel</item>
+        <item quantity="one">%1$d toestel is gekoppel</item>
+    </plurals>
+</resources>

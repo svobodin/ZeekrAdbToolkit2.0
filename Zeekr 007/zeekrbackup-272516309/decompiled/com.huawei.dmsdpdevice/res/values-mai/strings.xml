@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Screen_notification_text">एक्सेस प्रदान करबाक लेल अनलॉक करू।</string>
+    <string name="Screen_notification_title">%s एहि डिवाइसक कैमरा केँ एक्सेस करय चाहैत अछि।</string>
+    <string name="accessibility_back_preview">बैक कैमरा प्रिव्यू</string>
+    <string name="accessibility_falsh_mode_off">फ्लैश बंद अछि</string>
+    <string name="accessibility_falsh_mode_torch">फ्लैश सदिखन चालू</string>
+    <string name="accessibility_front_preview">फ्रंट कैमरा प्रिव्यू</string>
+    <string name="accessibility_stop_sharing_to_source">कैमरा केँ साझा करब रोकू</string>
+    <string name="app_name_for_libdmsdpcamera">मल्टी-डिवाइस कैमरा</string>
+    <string name="capsule_dialog_content">कैमरा %s सँ कनेक्ट कयल अछि।</string>
+    <string name="capsule_dialog_negative_btn">डिस्कनेक्ट करू</string>
+    <string name="lens_wide">वाइड एंगल</string>
+    <string name="notification_content_text">%s एहि डिवाइसक कैमरा केँ एक्सेस करय चाहैत अछि। साझा करब शुरू करबाक लेल अनलॉक करू।</string>
+    <string name="notification_content_theme">मल्टी-डिवाइस प्रबंधन</string>
+    <string name="notification_content_title">डिवाइस कनेक्शन</string>
+    <string name="permission_dialog_content">%s केँ एहि डिवाइसक कैमरा केँ एक्सेस करबाक अनुमति दी?</string>
+    <string name="permission_dialog_hint">एकर उपयोग दोसर डिवाइस सँ कैमरा साझा करबाक लेल कयल जाइत अछि।</string>
+    <string name="permission_dialog_negative_btn">मना करू</string>
+    <string name="res_allow">अनुमति दिअ</string>
+    <string name="res_cancel">रद्द करू</string>
+    <string name="res_ok">ठीक अछि</string>
+    <string name="res_reject">मना करू (%s सेकेंड)</string>
+    <string name="res_stop_use_camera">कैमराक उपयोग रोकी?</string>
+    <string name="res_toast">%s कैमराक उपयोग रोकि देलक अछि।</string>
+    <string name="sink_back_to_desktop">होम स्क्रीन पर घुरि कए जाउ</string>
+    <string name="sink_stop_sharing">साझा करब रोकू</string>
+    <string name="sink_stop_sharing_or_not">%1$s संग कैमरा साझा करब रोकी?</string>
+    <string name="source_connection_service_exception">डिवाइस केँ डिस्कनेक्ट कयल गेल। कृपाकए पुन: कनेक्ट करू।</string>
+    <string name="source_sharing_status_text">%1$s संग साझा कए रहल अछि</string>
+    <string name="source_stop_sharing_tip">%1$s कैमराक उपयोग रोकि देलक अछि।</string>
+</resources>

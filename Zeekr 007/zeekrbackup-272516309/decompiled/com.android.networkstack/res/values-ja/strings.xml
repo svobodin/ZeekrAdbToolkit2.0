@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">ネットワーク マネージャ</string>
+    <string name="connected">接続完了</string>
+    <string name="notification_channel_description_connected">デバイスが認証されてキャプティブ ポータル ネットワークにアクセスできるようになると、通知が表示されます</string>
+    <string name="notification_channel_description_network_venue_info">場所に関する情報のページがネットワークにあることを示す通知が表示されます</string>
+    <string name="notification_channel_name_connected">キャプティブ ポータルの認証</string>
+    <string name="notification_channel_name_network_venue_info">ネットワークの場所に関する情報</string>
+    <string name="tap_for_info">接続しました。タップしてウェブサイトをご覧ください</string>
+</resources>

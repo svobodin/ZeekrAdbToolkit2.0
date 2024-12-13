@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="owner_name">ಡ್ರೈವರ್</string>
+    <string name="permlab_accessCoarseLocation">ಮುನ್ನೆಲೆಯಲ್ಲಿ ಮಾತ್ರ ಅಂದಾಜು ಸ್ಥಳವನ್ನು ಪ್ರವೇಶಿಸಿ</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">ಮೈಕ್ರೋಫೋನ್ ಆನ್ ಮಾಡಿ</string>
+</resources>

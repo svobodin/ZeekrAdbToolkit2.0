@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_long_press_zoom_scale_tips">
+        <item quantity="other">缩放 %s 倍</item>
+    </plurals>
+    <plurals name="accessibility_recorded_hour_title">
+        <item quantity="other">%1$s 小时</item>
+    </plurals>
+    <plurals name="accessibility_recorded_minute_title">
+        <item quantity="other">%1$s 分钟</item>
+    </plurals>
+    <plurals name="accessibility_recorded_second_title">
+        <item quantity="other">%1$s 秒</item>
+    </plurals>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">कृपया आफ्नो पासवर्ड प्रविष्टि गर्नुहोस् र Dynamic System Updates को प्रक्रियालाई निरन्तरता दिनुहोस्</string>
+    <string name="notification_action_cancel">रद्द गर्नुहोस्</string>
+    <string name="notification_action_discard">खारेज गर्नुहोस्</string>
+    <string name="notification_action_reboot_to_dynsystem">रिस्टार्ट गर्नु…</string>
+    <string name="notification_action_reboot_to_origin">रिस्टार्ट गर्नु…</string>
+    <string name="notification_dynsystem_in_use">हाल Dynamic System चलिरहेको छ। Android को मूल संस्करण प्रयोग गर्न डिभाइस रिस्टार्ट गर्नुहोस्।</string>
+    <string name="notification_image_validation_failed">डिस्कको इमेज पुष्टि गर्न सकिएन। स्थापना गर्ने प्रक्रिया रद्द गर्नुहोस्।</string>
+    <string name="notification_install_completed">Dynamic System तयार छ। यसको प्रयोग सुरु गर्न आफ्नो डिभाइस रिस्टार्ट गर्नुहोस्।</string>
+    <string name="notification_install_failed">स्थापना गर्न सकिएन</string>
+    <string name="notification_install_inprogress">इन्स्टल हुँदै छ</string>
+    <string name="toast_dynsystem_discarded">Dynamic System खारेज गरियो</string>
+    <string name="toast_failed_to_disable_dynsystem">गतिशील प्रणाली अफ गर्न सकिएन</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">रिस्टार्ट गर्न वा Dynamic System लोड गर्न सकिएन</string>
+</resources>

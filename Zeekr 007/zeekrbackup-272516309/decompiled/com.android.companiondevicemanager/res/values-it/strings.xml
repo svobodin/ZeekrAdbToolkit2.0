@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Gestione dispositivi companion</string>
+    <string name="chooser_title">Scegli un %1$s che sia gestito da &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">"Consenti all'app &lt;strong>%1$s&lt;/strong> di gestire &lt;strong>%2$s&lt;/strong>"</string>
+    <string name="consent_no">Non consentire</string>
+    <string name="consent_yes">Consenti</string>
+    <string name="profile_name_generic">dispositivo</string>
+    <string name="profile_name_watch">orologio</string>
+    <string name="profile_summary">Questa app è necessaria per gestire il tuo %1$s. %2$s</string>
+</resources>

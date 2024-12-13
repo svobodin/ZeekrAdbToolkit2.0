@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">Sistemaren konexio-baliabideak</string>
+    <string name="mobile_no_internet">Sare mugikorra ezin da konektatu Internetera</string>
+    <string name="network_available_sign_in">Hasi saioa sarean</string>
+    <string name="network_partial_connectivity">%1$s sareak konektagarritasun murriztua du</string>
+    <string name="network_partial_connectivity_detailed">Sakatu hala ere konektatzeko</string>
+    <string name="network_switch_metered">%1$s erabiltzen ari zara orain</string>
+    <string name="network_switch_metered_detail">%2$s Internetera konektatzeko gauza ez denean, %1$s erabiltzen du gailuak. Baliteke zerbait ordaindu behar izatea.</string>
+    <string name="network_switch_metered_toast">%1$s erabiltzen ari zinen, baina %2$s erabiltzen ari zara orain</string>
+    <string name="network_switch_type_name_unknown">sare mota ezezaguna</string>
+    <string name="other_networks_no_internet">Sarea ezin da konektatu Internetera</string>
+    <string name="private_dns_broken_detailed">Ezin da atzitu DNS zerbitzari pribatua</string>
+    <string name="wifi_available_sign_in">Hasi saioa Wi-Fi sarean</string>
+    <string name="wifi_no_internet">Ezin da konektatu Internetera %1$s sarearen bidez</string>
+    <string name="wifi_no_internet_detailed">Sakatu aukerak ikusteko</string>
+</resources>

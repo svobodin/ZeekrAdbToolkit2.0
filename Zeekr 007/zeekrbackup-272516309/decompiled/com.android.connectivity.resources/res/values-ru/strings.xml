@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">System Connectivity Resources</string>
+    <string name="mobile_no_internet">Мобильная сеть не подключена к Интернету</string>
+    <string name="network_available_sign_in">Регистрация в сети</string>
+    <string name="network_partial_connectivity">Подключение к сети \"%1$s\" ограничено</string>
+    <string name="network_partial_connectivity_detailed">Нажмите, чтобы подключиться</string>
+    <string name="network_switch_metered">Новое подключение: %1$s</string>
+    <string name="network_switch_metered_detail">Устройство использует %1$s, если подключение к сети %2$s недоступно. Может взиматься плата за передачу данных.</string>
+    <string name="network_switch_metered_toast">Устройство отключено от сети %2$s и теперь использует %1$s</string>
+    <string name="network_switch_type_name_unknown">неизвестный тип сети</string>
+    <string name="other_networks_no_internet">Сеть не подключена к Интернету</string>
+    <string name="private_dns_broken_detailed">Доступа к частному DNS-серверу нет.</string>
+    <string name="wifi_available_sign_in">Подключение к Wi-Fi</string>
+    <string name="wifi_no_internet">Сеть \"%1$s\" не подключена к Интернету</string>
+    <string name="wifi_no_internet_detailed">Нажмите, чтобы показать варианты.</string>
+</resources>

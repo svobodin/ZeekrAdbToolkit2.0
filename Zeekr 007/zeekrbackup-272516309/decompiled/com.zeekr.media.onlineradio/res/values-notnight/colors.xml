@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#fff7f8f9</color>
+    <color name="common_tab_side_bg">#fff7f8f9</color>
+    <color name="common_white_black">#ff000000</color>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Ingia katika mtandao</string>
+    <string name="action_bar_title">Ingia katika akaunti ya %1$s</string>
+    <string name="action_do_not_use_network">Usitumie mtandao huu</string>
+    <string name="action_use_network">Tumia mtandao huu jinsi ulivyo</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">Arifa zinazooonyesha upakuaji faili unavyoendelea</string>
+    <string name="channel_description_downloads">Arifa zinazoonyesha upakuaji uliokamilika au ulioghairiwa</string>
+    <string name="channel_name_download_progress">Upakuaji unavyoendelea</string>
+    <string name="channel_name_downloads">Vipakuliwa</string>
+    <string name="custom_scheme_example">Kwa mfano, huenda ukurasa wa kuingia katika akaunti ukahitaji programu mahususi ya uthibitishaji</string>
+    <string name="custom_scheme_warning">Mtandao unaojaribu kujiunga nao unaomba kufungua programu nyingine.</string>
+    <string name="download_completed">Imepakuliwa</string>
+    <string name="downloading_paramfile">Inapakua %1$s</string>
+    <string name="error_continue_via_browser">Endelea hata hivyo kupitia kivinjari</string>
+    <string name="error_downloading_paramfile">Imeshindwa kupakua %1$s</string>
+    <string name="no_bypass_error_vpnwarning">Pia, haiwezekani kuepuka hitilafu hii kwa sababu kifaa kinatumia VPN kwa sasa.</string>
+    <string name="ok">Sawa</string>
+    <string name="page_info">Maelezo ya ukurasa</string>
+    <string name="page_info_address">Anwani:</string>
+    <string name="ssl_error_date_invalid">Tarehe ya cheti hiki si sahihi.</string>
+    <string name="ssl_error_example">Kwa mfano, ukurasa wa kuingia katika akaunti unaweza usiwe unamilikiwa na shirika lililoonyeshwa.</string>
+    <string name="ssl_error_expired">Muda wa kutumia cheti hiki umeisha.</string>
+    <string name="ssl_error_invalid">Cheti hiki si sahihi.</string>
+    <string name="ssl_error_mismatch">Jina la tovuti halilingani na jina lililo katika cheti.</string>
+    <string name="ssl_error_not_yet_valid">Cheti hiki bado si halali.</string>
+    <string name="ssl_error_unknown">Hitilafu isiyojulikana ya cheti.</string>
+    <string name="ssl_error_untrusted">Cheti hiki hakijatoka kwa mamlaka inayoaminika.</string>
+    <string name="ssl_error_view_certificate">Angalia cheti</string>
+    <string name="ssl_error_warning">Mtandao unaojaribu kujiunga nao una matatizo ya usalama.</string>
+    <string name="ssl_security_warning_title">Ilani ya usalama</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

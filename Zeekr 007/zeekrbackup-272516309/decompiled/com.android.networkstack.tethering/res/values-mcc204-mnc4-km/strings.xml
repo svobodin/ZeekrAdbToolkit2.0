@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">បិទ​ហតស្ប៉ត</string>
+    <string name="no_upstream_notification_message">ឧបករណ៍​មិនអាច​ភ្ជាប់​អ៊ីនធឺណិត​បានទេ</string>
+    <string name="no_upstream_notification_title">ហតស្ប៉ត​មិនមាន​អ៊ីនធឺណិត​ទេ</string>
+    <string name="upstream_roaming_notification_message">អាចមាន​ការគិតថ្លៃ​បន្ថែម នៅពេល​រ៉ូមីង</string>
+    <string name="upstream_roaming_notification_title">ហតស្ប៉ត​ត្រូវបានបើក</string>
+    <string name="upstream_roaming_notification_continue_button">បន្ត</string>
+</resources>

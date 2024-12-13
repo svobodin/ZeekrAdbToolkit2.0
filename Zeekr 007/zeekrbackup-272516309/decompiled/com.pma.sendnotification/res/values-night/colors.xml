@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_nfc_key">#ff212226</color>
+    <color name="bt_bg">#ccd3d7dc</color>
+    <color name="bt_textview_nfc_key">#ff0b0c0d</color>
+    <color name="tv_title_nfc_key">#ffb4b9be</color>
+</resources>

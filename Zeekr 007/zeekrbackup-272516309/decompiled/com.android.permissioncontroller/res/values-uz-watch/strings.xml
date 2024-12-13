@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_summary_enforced_by_policy">O‘zgartirilmaydi</string>
+    <string name="grant_dialog_button_deny_dont_ask_again">Rad etilsin, yana so‘ralmasin</string>
+    <string name="preference_show_system_apps">Tizim ilovalarini ko‘rsatish</string>
+    <string name="generic_cancel">Bekor q-sh</string>
+    <string name="generic_yes">Ha</string>
+</resources>

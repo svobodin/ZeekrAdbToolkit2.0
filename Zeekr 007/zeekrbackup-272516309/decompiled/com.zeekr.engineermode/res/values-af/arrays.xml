@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>Sint Maarte</item>
+        <item>Karibiese Nederland</item>
+        <item>Curaçao</item>
+        <item>Suid-Soedan</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Australië sentraal - NT</item>
+        <item>Australië sentraal - SA</item>
+        <item>Australiese oosters - QLD</item>
+        <item>Australiese oosters - NSW</item>
+        <item>Bergstandaard - Dawson Creek</item>
+        <item>Sentrale standaard - Saskatchewan</item>
+        <item>Oosterse standaard - Atikokan</item>
+        <item>Atlantiese standaard - Quebec</item>
+        <item>Hawaii-Aleutian - Hawaii</item>
+        <item>Hawaii-Aleutian - Alaska</item>
+        <item>Pasifiese standaardtyd - Metlakatla</item>
+        <item>Bergstandaardtyd - Arizona</item>
+        <item>Pasifiese - Baja Kalifornië</item>
+        <item>Berg - Chihuahua</item>
+        <item>Sentraal - Tamaulipas</item>
+        <item>Berg - Sonora</item>
+        <item>Oos-Afrika-tyd</item>
+        <item>Atlantiese standaardtyd</item>
+        <item>Atlantiese standaardtyd</item>
+        <item>Oos-Europese tyd</item>
+        <item>Kaliningrad-tyd</item>
+        <item>Amasone - Rondônië</item>
+        <item>Brasilië - Pará</item>
+    </string-array>
+</resources>

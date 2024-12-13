@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Adresatų saugykla</string>
+    <string name="debug_dump_database_message">Ketinate 1. sukurti duomenų, į kuriuos įtraukta visa su kontaktais susijusi informacija ir visi skambučių žurnalai, kopiją vidinėje atmintyje ir 2. išsiųsti ją el. paštu. Nepamirškite ištrinti kopijos, kai ją sėkmingai nukopijuosite iš įrenginio ar gausite el. laišką.</string>
+    <string name="debug_dump_delete_button">Ištrinti dabar</string>
+    <string name="debug_dump_email_body">Pridedami mano kontaktų duomenys su visa kontaktų informacija. Elkitės atsargiai.</string>
+    <string name="debug_dump_email_sender_picker">Pasirinkite programą, kad išsiųstumėte failą</string>
+    <string name="debug_dump_email_subject">Pridedami kontaktų duomenys</string>
+    <string name="debug_dump_start_button">Pradėti</string>
+    <string name="debug_dump_title">Kopijuoti kontaktų duomenis</string>
+    <string name="default_directory">Kontaktai</string>
+    <string name="local_invisible_directory">Kita</string>
+    <string name="provider_label">Adresinė</string>
+    <string name="sharedUserLabel">Pagrindinės „Android“ programos</string>
+    <string name="upgrade_out_of_memory_notification_text">Palieskite, kad būtų užbaigtas naujovinimas</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Norint naujovinti kontaktus, reikia daugiau atminties.</string>
+    <string name="upgrade_out_of_memory_notification_title">Naujovinama kontaktų atmintinė</string>
+    <string name="voicemail_from_column">"Balso pašto pranešimas nuo "</string>
+</resources>

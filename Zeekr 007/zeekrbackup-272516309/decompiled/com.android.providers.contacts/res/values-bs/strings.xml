@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Pohrana za kontakte</string>
+    <string name="debug_dump_database_message">Upravo ćete 1) napraviti kopiju svoje baze podataka koja sadrži sve informacije o kontaktima i sve zapisnike poziva u unutrašnjoj pohrani i 2) poslati tu kopiju e-poštom. Ne zaboravite izbrisati kopiju čim je uspješno kopirate s uređaja ili čim primite e-poruku.</string>
+    <string name="debug_dump_delete_button">Izbriši sada</string>
+    <string name="debug_dump_email_body">U prilogu je moja baza podataka kontakata sa svim informacijama o kontaktima. Rukujte oprezno.</string>
+    <string name="debug_dump_email_sender_picker">Odaberite program za slanje fajla</string>
+    <string name="debug_dump_email_subject">Baza podataka kontakata je u prilogu</string>
+    <string name="debug_dump_start_button">Započni</string>
+    <string name="debug_dump_title">Kopiraj bazu podataka kontakata</string>
+    <string name="default_directory">Kontakti</string>
+    <string name="local_invisible_directory">Ostalo</string>
+    <string name="provider_label">Kontakti</string>
+    <string name="sharedUserLabel">Android osnovne aplikacije</string>
+    <string name="upgrade_out_of_memory_notification_text">Dodirnite da završite nadogradnju.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Za nadogradnju kontakata potrebno je više memorije.</string>
+    <string name="upgrade_out_of_memory_notification_title">Nadogradnja pohrane za kontakte</string>
+    <string name="voicemail_from_column">"Govorna pošta od "</string>
+</resources>

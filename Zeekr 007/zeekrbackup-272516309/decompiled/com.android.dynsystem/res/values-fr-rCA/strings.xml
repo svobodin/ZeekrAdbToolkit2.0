@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">Veuillez entrer votre mot de passe et continuer vers les mises à jour système dynamiques</string>
+    <string name="notification_action_cancel">Annuler</string>
+    <string name="notification_action_discard">Annuler</string>
+    <string name="notification_action_reboot_to_dynsystem">Redémarrer</string>
+    <string name="notification_action_reboot_to_origin">Redémarrer</string>
+    <string name="notification_dynsystem_in_use">"Un système dynamique est en cours d'exécution. Pour utiliser la version originale d'Android, redémarrez l'appareil."</string>
+    <string name="notification_image_validation_failed">"Impossible de valider l'image. Annulez l'installation."</string>
+    <string name="notification_install_completed">"Le système dynamique est prêt. Pour commencer à l'utiliser, redémarrez votre appareil."</string>
+    <string name="notification_install_failed">"Échec de l'installation"</string>
+    <string name="notification_install_inprogress">Installation en cours…</string>
+    <string name="toast_dynsystem_discarded">Système dynamique supprimé</string>
+    <string name="toast_failed_to_disable_dynsystem">Échec de la désactivation du système dynamique</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Impossible de redémarrer ou de charger le système dynamique</string>
+</resources>

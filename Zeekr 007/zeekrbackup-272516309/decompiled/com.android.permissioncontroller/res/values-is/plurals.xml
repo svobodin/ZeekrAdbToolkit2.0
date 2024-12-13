@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">%1$d í viðbót</item>
+        <item quantity="one">%1$d í viðbót</item>
+    </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">%1$d forrit hafa ekki verið notuð í nokkra mánuði. Ýttu til að skoða</item>
+        <item quantity="one">%1$d forrit hefur ekki verið notað í nokkra mánuði. Ýttu til að skoða</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">%1$d forrit hafa ekki verið notuð í nokkra mánuði</item>
+        <item quantity="one">%1$d forrit hefur ekki verið notað í nokkra mánuði</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s dagar</item>
+        <item quantity="one">%s dagur</item>
+    </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">%s dagar</item>
+        <item quantity="one">%s dagur</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">%s klst.</item>
+        <item quantity="one">%s klst.</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">%s mín.</item>
+        <item quantity="one">%s mín.</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">%s sek.</item>
+        <item quantity="one">%s sek.</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s klukkustundir</item>
+        <item quantity="one">%s klukkustund</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s mínútur</item>
+        <item quantity="one">%s mínúta</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nýjar tilkynningar</item>
+        <item quantity="one">%d ný tilkynning</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s forrit</item>
+        <item quantity="one">%s forrit</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s forrit</item>
+        <item quantity="one">%s forrit</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">Notað af %1$d forritum</item>
+        <item quantity="one">Notað af %1$d forriti</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"Síðast notuð: %1$s
+ Notuð %2$s sinnum"</item>
+        <item quantity="one">"Síðast notuð: %1$s
+ Notuð %2$s sinni"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"Síðast notuð: %1$s
+ Notuð %2$s sinnum (%3$s sinnum í bakgrunni)"</item>
+        <item quantity="one">"Síðast notuð: %1$s
+ Notuð %2$s sinni (%3$s sinni í bakgrunni)"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"Síðast notuð: %1$s
+ Notuð %2$s sinnum (%3$s sinnum í bakgrunni)
+Lengd: %3$s"</item>
+        <item quantity="one">"Síðast notuð: %1$s
+ Notuð %2$s sinni (%3$s sinni í bakgrunni)
+Lengd: %3$s"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"Síðast notuð: %1$s
+ Notuð %2$s sinni
+Lengd: %3$s"</item>
+        <item quantity="one">"Síðast notuð: %1$s
+ Notuð %2$s sinni
+Lengd: %3$s"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s sekúndur</item>
+        <item quantity="one">%s sekúnda</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">%1$d ónotuð forrit</item>
+        <item quantity="one">%1$d ónotað forrit</item>
+    </plurals>
+</resources>

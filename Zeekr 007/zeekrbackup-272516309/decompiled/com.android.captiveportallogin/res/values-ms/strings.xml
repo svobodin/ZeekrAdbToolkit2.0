@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Log masuk ke rangkaian</string>
+    <string name="action_bar_title">Log masuk ke %1$s</string>
+    <string name="action_do_not_use_network">Jangan gunakan rangkaian ini</string>
+    <string name="action_use_network">Gunakan rangkaian ini</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">Pemberitahuan yang menunjukkan kemajuan muat turun fail</string>
+    <string name="channel_description_downloads">Pemberitahuan yang menunjukkan muat turun yang telah selesai atau dibatalkan</string>
+    <string name="channel_name_download_progress">Kemajuan muat turun</string>
+    <string name="channel_name_downloads">Muat turun</string>
+    <string name="custom_scheme_example">Contohnya, halaman log masuk mungkin memerlukan aplikasi khusus untuk pengesahan</string>
+    <string name="custom_scheme_warning">Rangkaian yang cuba anda sertai meminta anda membuka aplikasi lain.</string>
+    <string name="download_completed">Muat turun selesai</string>
+    <string name="downloading_paramfile">Memuat turun %1$s</string>
+    <string name="error_continue_via_browser">Teruskan juga melalui penyemak imbas</string>
+    <string name="error_downloading_paramfile">Tidak boleh memuat turun %1$s</string>
+    <string name="no_bypass_error_vpnwarning">Selain itu, anda tidak boleh memintasi ralat ini kerana peranti sedang menjalankan VPN.</string>
+    <string name="ok">OK</string>
+    <string name="page_info">Maklumat halaman</string>
+    <string name="page_info_address">Alamat:</string>
+    <string name="ssl_error_date_invalid">Sijil ini mempunyai tarikh yang tidak sah.</string>
+    <string name="ssl_error_example">Contohnya, halaman log masuk mungkin bukan milik organisasi yang ditunjukkan.</string>
+    <string name="ssl_error_expired">Sijil ini telah tamat tempoh.</string>
+    <string name="ssl_error_invalid">Sijil ini tidak sah.</string>
+    <string name="ssl_error_mismatch">Nama tapak tidak sepadan dengan nama pada sijil.</string>
+    <string name="ssl_error_not_yet_valid">Sijil ini belum sah.</string>
+    <string name="ssl_error_unknown">Ralat sijil tidak diketahui.</string>
+    <string name="ssl_error_untrusted">Sijil ini bukan daripada pihak berkuasa yang dipercayai.</string>
+    <string name="ssl_error_view_certificate">Lihat sijil</string>
+    <string name="ssl_error_warning">Rangkaian yang anda cuba sertai mempunyai isu keselamatan.</string>
+    <string name="ssl_security_warning_title">Amaran keselamatan</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

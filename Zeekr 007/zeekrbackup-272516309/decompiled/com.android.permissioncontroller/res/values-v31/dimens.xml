@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_icon_min_width">52.0dip</dimen>
+    <dimen name="app_preference_padding_start">20.0dip</dimen>
+    <dimen name="settingslib_dialogCornerRadius">28.0dip</dimen>
+    <dimen name="expanded_title_margin_end">24.0dip</dimen>
+    <dimen name="expanded_title_margin_start">24.0dip</dimen>
+    <dimen name="settingslib_preferred_minimum_touch_target">48.0dip</dimen>
+    <dimen name="settingslib_scrim_visible_height_trigger">137.0dip</dimen>
+    <dimen name="settingslib_toolbar_layout_height">179.0dip</dimen>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">ਹੌਟਸਪੌਟ ਬੰਦ ਕਰੋ</string>
+    <string name="no_upstream_notification_message">ਡੀਵਾਈਸ ਇੰਟਰਨੈੱਟ ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਹੋ ਸਕਦੇ</string>
+    <string name="no_upstream_notification_title">ਹੌਟਸਪੌਟ ਕੋਲ ਇੰਟਰਨੈੱਟ ਪਹੁੰਚ ਨਹੀਂ ਹੈ</string>
+    <string name="upstream_roaming_notification_message">ਰੋਮਿੰਗ ਦੌਰਾਨ ਵਧੀਕ ਖਰਚੇ ਲਾਗੂ ਹੋ ਸਕਦੇ ਹਨ</string>
+    <string name="upstream_roaming_notification_title">ਹੌਟਸਪੌਟ ਚਾਲੂ ਹੈ</string>
+    <string name="upstream_roaming_notification_continue_button">ਜਾਰੀ ਰੱਖੋ</string>
+</resources>

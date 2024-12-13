@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">सिम एपको डायलग</string>
+    <string name="install_carrier_app_defer_action">अहिले होइन</string>
+    <string name="install_carrier_app_description">तपाईंको नयाँ SIM ले राम्रोसँग काम गर्न तपाईंले %1$s एप इन्स्टल गर्नु पर्ने हुन्छ</string>
+    <string name="install_carrier_app_description_default">तपाईंको नयाँ SIM ले राम्रोसँग काम गर्न तपाईंले आफ्नो सेवा प्रदायकको एप इन्स्टल गर्नु पर्ने हुन्छ</string>
+    <string name="install_carrier_app_download_action">एप डाउनलोड गर्नुहोस्</string>
+    <string name="install_carrier_app_title">मोबाइल सेवा सक्रिय गर्नुहोस्</string>
+    <string name="status_bar_notification_info_overflow">९९९+</string>
+    <string name="suw_back_button_label">पछाडि जानुहोस्</string>
+    <string name="suw_more_button_label">थप</string>
+    <string name="suw_next_button_label">अर्को</string>
+</resources>

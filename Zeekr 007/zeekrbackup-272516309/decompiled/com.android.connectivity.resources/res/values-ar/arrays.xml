@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="network_switch_type_name">
+        <item>بيانات الجوّال</item>
+        <item>Wi-Fi</item>
+        <item>بلوتوث</item>
+        <item>إيثرنت</item>
+        <item>‏شبكة افتراضية خاصة (VPN)</item>
+    </string-array>
+</resources>

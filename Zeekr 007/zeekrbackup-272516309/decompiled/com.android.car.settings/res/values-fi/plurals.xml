@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">Kamerasovellukset</item>
+        <item quantity="one">Kamerasovellus</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">Sähköpostisovellukset</item>
+        <item quantity="one">Sähköpostisovellus</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">Puhelinsovellukset</item>
+        <item quantity="one">Puhelinsovellus</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d yritystä</item>
+        <item quantity="one">%d yritys</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d sovellusta</item>
+        <item quantity="one">%d sovellus</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">Vähintään %d sovellusta</item>
+        <item quantity="one">Vähintään %d sovellus</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d uutta ilmoitusta</item>
+        <item quantity="one">%d uusi ilmoitus</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d laitetta yhdistettynä</item>
+        <item quantity="one">%1$d laite yhdistettynä</item>
+    </plurals>
+</resources>

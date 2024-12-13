@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Metgeseltoestel-bestuurder</string>
+    <string name="chooser_title">"Kies 'n %1$s om deur &lt;strong>%2$s&lt;/strong> bestuur te word"</string>
+    <string name="confirmation_title">Laat &lt;strong>%1$s&lt;/strong> toe om jou &lt;strong>%2$s&lt;/strong> te bestuur</string>
+    <string name="consent_no">Moenie toelaat nie</string>
+    <string name="consent_yes">Laat toe</string>
+    <string name="profile_name_generic">toestel</string>
+    <string name="profile_name_watch">horlosie</string>
+    <string name="profile_summary">Hierdie program is nodig om jou %1$s te bestuur. %2$s</string>
+</resources>

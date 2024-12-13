@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="additional_permissions_decor_title">अतिरिक्त परवानग्या</string>
+    <string name="app_permissions_decor_title">अॅप परवानग्या</string>
+    <string name="current_permission_template">%1$s / %2$s</string>
+    <string name="grant_dialog_button_deny_dont_ask_again">नकार द्या आणि पुन्हा विचारू नका</string>
+    <string name="grant_dialog_how_to_change">तुम्ही हे नंतर सेटिंग्ज आणि अॅप्स मध्ये बदलू शकता</string>
+    <string name="manage_permissions_decor_title">अॅप परवानग्या</string>
+    <string name="permission_apps_decor_title">%1$s परवानग्या</string>
+    <string name="preference_show_system_apps">सिस्टम अॅप्स दर्शवा</string>
+    <string name="system_apps_decor_title">%1$s परवानग्या</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Modemi deaktiv edin</string>
+    <string name="no_upstream_notification_message">Cihazları qoşmaq mümkün deyil</string>
+    <string name="no_upstream_notification_title">Modemin internetə girişi yoxdur</string>
+    <string name="upstream_roaming_notification_message">Rouminq zamanı əlavə ödənişlər tətbiq edilə bilər</string>
+    <string name="upstream_roaming_notification_title">Hotspot və ya modem aktivdir</string>
+</resources>

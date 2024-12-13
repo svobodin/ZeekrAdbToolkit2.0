@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">테더링 사용 중지</string>
+    <string name="no_upstream_notification_message">기기에서 연결할 수 없음</string>
+    <string name="no_upstream_notification_title">테더링으로 인터넷을 사용할 수 없음</string>
+    <string name="upstream_roaming_notification_message">로밍 중에는 추가 요금이 발생할 수 있습니다.</string>
+    <string name="upstream_roaming_notification_title">핫스팟 또는 테더링 켜짐</string>
+</resources>

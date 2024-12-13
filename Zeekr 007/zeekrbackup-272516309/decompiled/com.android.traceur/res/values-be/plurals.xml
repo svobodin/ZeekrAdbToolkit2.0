@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d новага апавяшчэння</item>
+        <item quantity="one">%d новае апавяшчэнне</item>
+        <item quantity="few">%d новыя апавяшчэнні</item>
+        <item quantity="many">%d новых апавяшчэнняў</item>
+    </plurals>
+    <plurals name="num_categories_selected">
+        <item quantity="other">Выбрана: %d</item>
+        <item quantity="one">Выбрана: %d</item>
+        <item quantity="few">Выбрана: %d</item>
+        <item quantity="many">Выбрана: %d</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d прылады падключана</item>
+        <item quantity="one">%1$d прылада падключана</item>
+        <item quantity="few">%1$d прылады падключаны</item>
+        <item quantity="many">%1$d прылад падключана</item>
+    </plurals>
+</resources>

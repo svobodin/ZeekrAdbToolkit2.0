@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">バスブースト</string>
+    <string name="ci_extreme">FX ブースター</string>
+    <string name="classical">クラシック</string>
+    <string name="dance">ダンス</string>
+    <string name="eq_dialog_title">イコライザー</string>
+    <string name="flat">フラット</string>
+    <string name="folk">フォーク</string>
+    <string name="headset_plug">これらの効果はヘッドフォンで聴いてください。</string>
+    <string name="heavy_metal">ヘビーメタル</string>
+    <string name="hip_hop">ヒップホップ</string>
+    <string name="jazz">ジャズ</string>
+    <string name="no_effects">効果は利用できません。</string>
+    <string name="normal">標準</string>
+    <string name="picker_title">サウンド効果コントロールパネル</string>
+    <string name="pop">ポップ</string>
+    <string name="rock">ロック</string>
+    <string name="setup">設定</string>
+    <string name="user">ユーザー</string>
+    <string name="virtualizer_strength">サラウンド音声</string>
+</resources>

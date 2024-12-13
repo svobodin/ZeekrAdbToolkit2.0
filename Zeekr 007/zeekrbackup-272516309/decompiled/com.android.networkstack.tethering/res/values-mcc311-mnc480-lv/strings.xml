@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Izslēgt piesaisti</string>
+    <string name="no_upstream_notification_message">Nevar savienot ierīces</string>
+    <string name="no_upstream_notification_title">Piesaistei nav interneta savienojuma</string>
+    <string name="upstream_roaming_notification_message">Viesabonēšanas laikā var tikt piemērota papildu samaksa</string>
+    <string name="upstream_roaming_notification_title">Ir ieslēgts tīklājs vai piesaiste</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">โปรดป้อนรหัสผ่านแล้วไปที่ \"อัปเดตระบบแบบไดนามิก\"</string>
+    <string name="notification_action_cancel">ยกเลิก</string>
+    <string name="notification_action_discard">ยกเลิก</string>
+    <string name="notification_action_reboot_to_dynsystem">รีสตาร์ท</string>
+    <string name="notification_action_reboot_to_origin">รีสตาร์ท</string>
+    <string name="notification_dynsystem_in_use">ปัจจุบันใช้ระบบแบบไดนามิกอยู่ รีสตาร์ทเพื่อใช้ Android เวอร์ชันดั้งเดิม</string>
+    <string name="notification_image_validation_failed">ตรวจสอบอิมเมจดิสก์ไม่สำเร็จ ล้มเลิกการติดตั้ง</string>
+    <string name="notification_install_completed">ระบบแบบไดนามิกพร้อมแล้ว โปรดรีสตาร์ทอุปกรณ์เพื่อเริ่มใช้</string>
+    <string name="notification_install_failed">ติดตั้งไม่สำเร็จ</string>
+    <string name="notification_install_inprogress">กำลังติดตั้ง</string>
+    <string name="toast_dynsystem_discarded">ยกเลิกระบบแบบไดนามิกแล้ว</string>
+    <string name="toast_failed_to_disable_dynsystem">ปิดใช้ระบบไดนามิกไม่สำเร็จ</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">รีสตาร์ทหรือโหลดระบบแบบไดนามิกไม่ได้</string>
+</resources>

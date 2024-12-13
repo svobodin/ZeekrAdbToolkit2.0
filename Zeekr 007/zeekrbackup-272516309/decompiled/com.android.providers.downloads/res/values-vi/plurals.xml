@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_summary_active">
+        <item quantity="other">Đang tải xuống %d tệp</item>
+        <item quantity="one">Đang tải xuống 1 tệp</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">%d tệp đang chờ tải xuống</item>
+        <item quantity="one">1 tệp đang chờ tải xuống</item>
+    </plurals>
+</resources>

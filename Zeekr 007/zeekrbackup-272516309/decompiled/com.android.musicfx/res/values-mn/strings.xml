@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">Басс өсгөх</string>
+    <string name="ci_extreme">FX өсгөгч</string>
+    <string name="classical">Сонгодог</string>
+    <string name="dance">Бүжиг</string>
+    <string name="eq_dialog_title">Tэнцвэржүүлэгч</string>
+    <string name="flat">Жигд</string>
+    <string name="folk">Ардын хөгжим</string>
+    <string name="headset_plug">Эдгээр эффектэд зориулж чихэвчийг залгана уу.</string>
+    <string name="heavy_metal">Хүнд металл</string>
+    <string name="hip_hop">Хип Хоп</string>
+    <string name="jazz">Жааз</string>
+    <string name="no_effects">Эффект боломжгүй байна.</string>
+    <string name="normal">Энгийн</string>
+    <string name="picker_title">Хөгжмийн эффектийг хянах самбар</string>
+    <string name="pop">Поп</string>
+    <string name="rock">Рок</string>
+    <string name="setup">Тохируулга</string>
+    <string name="user">Хэрэглэгч</string>
+    <string name="virtualizer_strength">Орчин тойрны дуу</string>
+</resources>

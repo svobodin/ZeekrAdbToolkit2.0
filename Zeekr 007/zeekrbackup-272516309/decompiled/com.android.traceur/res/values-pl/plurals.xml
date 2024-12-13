@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nowego powiadomienia</item>
+        <item quantity="one">%d nowe powiadomienie</item>
+        <item quantity="few">%d nowe powiadomienia</item>
+        <item quantity="many">%d nowych powiadomień</item>
+    </plurals>
+    <plurals name="num_categories_selected">
+        <item quantity="other">Wybrano %d</item>
+        <item quantity="one">Wybrano %d</item>
+        <item quantity="few">Wybrano %d</item>
+        <item quantity="many">Wybrano %d</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d urządzenia podłączonego</item>
+        <item quantity="one">%1$d urządzenie podłączone</item>
+        <item quantity="few">%1$d urządzenia podłączone</item>
+        <item quantity="many">%1$d urządzeń podłączonych</item>
+    </plurals>
+</resources>

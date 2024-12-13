@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">Жүйе байланысы ресурстары</string>
+    <string name="mobile_no_internet">Мобильдік желі интернетке қосылмаған.</string>
+    <string name="network_available_sign_in">Желіге кіру</string>
+    <string name="network_partial_connectivity">%1$s желісінің қосылу мүмкіндігі шектеулі.</string>
+    <string name="network_partial_connectivity_detailed">Бәрібір жалғау үшін түртіңіз.</string>
+    <string name="network_switch_metered">%1$s желісіне ауысты</string>
+    <string name="network_switch_metered_detail">Құрылғы %2$s желісінде интернетпен байланыс жоғалған жағдайда %1$s желісін пайдаланады. Деректер ақысы алынуы мүмкін.</string>
+    <string name="network_switch_metered_toast">%1$s желісінен %2$s желісіне ауысты</string>
+    <string name="network_switch_type_name_unknown">желі түрі белгісіз</string>
+    <string name="other_networks_no_internet">Желі интернетке қосылмаған.</string>
+    <string name="private_dns_broken_detailed">Жеке DNS серверіне кіру мүмкін емес.</string>
+    <string name="wifi_available_sign_in">Wi-Fi желісіне кіру</string>
+    <string name="wifi_no_internet">%1$s желісінің интернетті пайдалану мүмкіндігі шектеулі.</string>
+    <string name="wifi_no_internet_detailed">Опциялар үшін түртіңіз</string>
+</resources>

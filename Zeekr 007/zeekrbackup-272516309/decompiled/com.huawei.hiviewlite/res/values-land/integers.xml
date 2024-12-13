@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="hwappbarpattern_subtitle_normal_textsize">12</integer>
+    <integer name="hwappbarpattern_title_normal_textsize">18</integer>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s : Huwezi kuunganisha kwenye Ufikiaji wa Wi-Fi ya Verizon ukiwa nje ya eneo la mtandao wa Verizon.</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s : Hujajisajili kwenye Ufikiaji wa Wi-Fi ya Verizon. Tafadhali tupigie kwa 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s : Kuna hitilafu ya Akaunti yako ya Ufikiaji wa Wi-Fi ya Verizon. Tafadhali tupigie kwa 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s : Tayari umeunganisha kwenye Ufikiaji wa Wi-Fi ya Verizon.</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s : Kuna hitilafu ya kuunganisha kwenye Ufikiaji wa Wi-Fi ya Verizon. Tafadhali tupigie kwa 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s : Kuna hitilafu ya Akaunti yako ya Ufikiaji wa Wi-Fi ya Verizon. Tafadhali tupigie kwa 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s : Ufikiaji wa Wi-Fi ya Verizon haupatikani katika eneo lako. Jaribu tena baadaye au ujaribu ukiwa katika eneo tofauti.</string>
+</resources>

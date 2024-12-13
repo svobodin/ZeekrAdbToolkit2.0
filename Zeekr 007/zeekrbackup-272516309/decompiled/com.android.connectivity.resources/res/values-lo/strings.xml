@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">ແຫຼ່ງຂໍ້ມູນການເຊື່ອມຕໍ່ລະບົບ</string>
+    <string name="mobile_no_internet">ເຄືອຂ່າຍມືຖືບໍ່ສາມາດເຂົ້າເຖິງອິນເຕີເນັດໄດ້</string>
+    <string name="network_available_sign_in">ລົງຊື່ເຂົ້າເຄືອຂ່າຍ</string>
+    <string name="network_partial_connectivity">%1$s ມີການເຊື່ອມຕໍ່ທີ່ຈຳກັດ</string>
+    <string name="network_partial_connectivity_detailed">ແຕະເພື່ອຢືນຢັນການເຊື່ອມຕໍ່</string>
+    <string name="network_switch_metered">ສະຫຼັບໄປໃຊ້ %1$s ແລ້ວ</string>
+    <string name="network_switch_metered_detail">ອຸປະກອນຈະໃຊ້ %1$s ເມື່ອ %2$s ບໍ່ມີການເຊື່ອມຕໍ່ອິນເຕີເນັດ. ອາດມີການຮຽກເກັບຄ່າບໍລິການ.</string>
+    <string name="network_switch_metered_toast">ສະຫຼັບຈາກ %1$s ໄປໃຊ້ %2$s ແລ້ວ</string>
+    <string name="network_switch_type_name_unknown">ບໍ່ຮູ້ຈັກປະເພດເຄືອຂ່າຍ</string>
+    <string name="other_networks_no_internet">ເຄືອຂ່າຍບໍ່ສາມາດເຂົ້າເຖິງອິນເຕີເນັດໄດ້</string>
+    <string name="private_dns_broken_detailed">ບໍ່ສາມາດເຂົ້າເຖິງເຊີບເວີ DNS ສ່ວນຕົວໄດ້</string>
+    <string name="wifi_available_sign_in">ເຂົ້າສູ່ລະບົບເຄືອຂ່າຍ Wi-Fi</string>
+    <string name="wifi_no_internet">%1$s ບໍ່ມີການເຊື່ອມຕໍ່ອິນເຕີເນັດ</string>
+    <string name="wifi_no_internet_detailed">ແຕະເພື່ອເບິ່ງຕົວເລືອກ</string>
+</resources>

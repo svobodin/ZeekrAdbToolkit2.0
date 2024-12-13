@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Kontaktiruum</string>
+    <string name="debug_dump_database_message">Soovite teha 1) sisemisse salvestusruumi koopia andmebaasist, mis sisaldab kogu kontaktidega seotud teavet ja kõikide kõnede logi ning 2) saata koopia meiliga. Kustutage koopia niipea, kui olete selle seadmest kopeerinud või meil on kohale jõudnud.</string>
+    <string name="debug_dump_delete_button">Kustuta kohe</string>
+    <string name="debug_dump_email_body">Lisatud on minu kontaktide andmebaas, mis sisaldab kogu kontaktidega seotud teavet. Käsitsege ettevaatlikult.</string>
+    <string name="debug_dump_email_sender_picker">Valige programm faili saatmiseks</string>
+    <string name="debug_dump_email_subject">Lisatud kontaktide andmebaas</string>
+    <string name="debug_dump_start_button">Alusta</string>
+    <string name="debug_dump_title">Kontaktide andmebaasi kopeerimine</string>
+    <string name="default_directory">Kontaktid</string>
+    <string name="local_invisible_directory">Muu</string>
+    <string name="provider_label">Kontaktid</string>
+    <string name="sharedUserLabel">Androidi tuumrakendused</string>
+    <string name="upgrade_out_of_memory_notification_text">Puudutage täiendamise lõpetamiseks.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Kontaktisikute uuendamiseks on vaja rohkem mälu</string>
+    <string name="upgrade_out_of_memory_notification_title">Kontaktide salvestusruumi uuendamine</string>
+    <string name="voicemail_from_column">"Kõnepost kontaktilt "</string>
+</resources>

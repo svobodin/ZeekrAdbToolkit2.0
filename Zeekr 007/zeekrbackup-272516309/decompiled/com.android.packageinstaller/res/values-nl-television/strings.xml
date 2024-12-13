@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="additional_permissions_decor_title">Aanvullende machtigingen</string>
+    <string name="app_permissions_decor_title">App-machtigingen</string>
+    <string name="current_permission_template">%1$s/%2$s</string>
+    <string name="grant_dialog_button_deny_dont_ask_again">Weigeren en niet meer vragen</string>
+    <string name="grant_dialog_how_to_change">U kunt dit later wijzigen in Instellingen > Apps</string>
+    <string name="manage_permissions_decor_title">App-machtigingen</string>
+    <string name="permission_apps_decor_title">Machtigingen voor %1$s</string>
+    <string name="preference_show_system_apps">Systeem weergeven</string>
+    <string name="system_apps_decor_title">Machtigingen voor %1$s</string>
+</resources>

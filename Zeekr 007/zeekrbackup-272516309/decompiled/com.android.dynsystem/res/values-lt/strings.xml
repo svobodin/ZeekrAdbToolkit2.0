@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">Įveskite slaptažodį ir eikite į Dinaminių sistemos atnaujinimų funkciją</string>
+    <string name="notification_action_cancel">Atšaukti</string>
+    <string name="notification_action_discard">Atmesti</string>
+    <string name="notification_action_reboot_to_dynsystem">Pal. iš naujo</string>
+    <string name="notification_action_reboot_to_origin">Pal. iš naujo</string>
+    <string name="notification_dynsystem_in_use">Šiuo metu paleista dinaminė sistema. Paleiskite iš naujo, jei norite naudoti pradinę „Android“ versiją.</string>
+    <string name="notification_image_validation_failed">Nepavyko patvirtinti atvaizdžio. Nutraukti diegimą.</string>
+    <string name="notification_install_completed">Dinaminė sistema paruošta. Jei norite pradėti ją naudoti, paleiskite įrenginį iš naujo.</string>
+    <string name="notification_install_failed">Įdiegti nepavyko</string>
+    <string name="notification_install_inprogress">Diegiama</string>
+    <string name="toast_dynsystem_discarded">Dinaminė sistema atmesta</string>
+    <string name="toast_failed_to_disable_dynsystem">Nepavyko išjungti dinaminės sistemos</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Nepavyko paleisti iš naujo ar įkelti dinaminės sistemos</string>
+</resources>

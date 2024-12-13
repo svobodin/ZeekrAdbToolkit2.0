@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Companion Device Manager</string>
+    <string name="chooser_title">เลือก%1$sที่จะให้มีการจัดการโดย &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">อนุญาตให้ &lt;strong>%1$s&lt;/strong> จัดการ &lt;strong>%2$s&lt;/strong> ของคุณ</string>
+    <string name="consent_no">ไม่อนุญาต</string>
+    <string name="consent_yes">อนุญาต</string>
+    <string name="profile_name_generic">อุปกรณ์</string>
+    <string name="profile_name_watch">นาฬิกา</string>
+    <string name="profile_summary">ต้องใช้แอปนี้ในการจัดการ%1$sของคุณ %2$s</string>
+</resources>

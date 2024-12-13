@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_long_press_zoom_scale_tips">
+        <item quantity="other">[PL_758745]_%s times zoom</item>
+        <item quantity="zero">[PL_758746]_%s times zoom</item>
+        <item quantity="one">[PL_758747]_%s times zoom</item>
+        <item quantity="two">[PL_758741]_%s times zoom</item>
+        <item quantity="few">[PL_758743]_%s times zoom</item>
+        <item quantity="many">[PL_758748]_%s times zoom</item>
+    </plurals>
+</resources>

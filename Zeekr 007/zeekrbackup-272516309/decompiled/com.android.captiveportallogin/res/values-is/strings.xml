@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Skrá inn á net</string>
+    <string name="action_bar_title">Skrá inn á %1$s</string>
+    <string name="action_do_not_use_network">Ekki nota þetta net</string>
+    <string name="action_use_network">Nota þetta net óbreytt</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">Tilkynningar sem sýna framvindu við niðurhal skráa</string>
+    <string name="channel_description_downloads">Tilkynningar sem sýna niðurhal sem er lokið eða hætt við</string>
+    <string name="channel_name_download_progress">Framvinda niðurhals</string>
+    <string name="channel_name_downloads">Niðurhal</string>
+    <string name="custom_scheme_example">Til dæmis getur verið að innskráningarsíðan geri kröfu um auðkenningu með tilteknu forriti</string>
+    <string name="custom_scheme_warning">Netið sem þú ert að reyna að tengjast biður um að opna annað forrit.</string>
+    <string name="download_completed">Niðurhali lokið</string>
+    <string name="downloading_paramfile">Sækir %1$s</string>
+    <string name="error_continue_via_browser">Halda samt áfram í vafra</string>
+    <string name="error_downloading_paramfile">Ekki tókst að hlaða niður %1$s</string>
+    <string name="no_bypass_error_vpnwarning">Auk þess er ekki hægt að hunsa þessa villu vegna þess að kveikt er á VPN í tækinu.</string>
+    <string name="ok">Í lagi</string>
+    <string name="page_info">Upplýsingar um síðu</string>
+    <string name="page_info_address">Netfang:</string>
+    <string name="ssl_error_date_invalid">Þetta vottorð er með ógilda dagsetningu.</string>
+    <string name="ssl_error_example">Til dæmis getur verið að innskráningarsíðan tilheyri ekki fyrirtækinu sem birtist.</string>
+    <string name="ssl_error_expired">Þetta vottorð er útrunnið.</string>
+    <string name="ssl_error_invalid">Þetta vottorð er ógilt.</string>
+    <string name="ssl_error_mismatch">Nafnið á síðunni passar ekki við nafnið á vottorðinu.</string>
+    <string name="ssl_error_not_yet_valid">Þetta vottorð hefur ekki enn tekið gildi.</string>
+    <string name="ssl_error_unknown">Óþekkt vottorðsvilla.</string>
+    <string name="ssl_error_untrusted">Þetta vottorð er ekki frá traustum aðila.</string>
+    <string name="ssl_error_view_certificate">Skoða vottorð</string>
+    <string name="ssl_error_warning">Öryggisvandamál eru á netinu sem þú ert að reyna að tengjast.</string>
+    <string name="ssl_security_warning_title">Öryggisviðvörun</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

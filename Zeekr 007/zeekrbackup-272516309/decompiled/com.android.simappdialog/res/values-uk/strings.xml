@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sim App Dialog</string>
+    <string name="install_carrier_app_defer_action">Не зараз</string>
+    <string name="install_carrier_app_description">Установіть додаток %1$s, щоб нова SIM-карта працювала належним чином</string>
+    <string name="install_carrier_app_description_default">Установіть додаток оператора, щоб нова SIM-карта працювала належним чином</string>
+    <string name="install_carrier_app_download_action">Завантажити додаток</string>
+    <string name="install_carrier_app_title">Активувати мобільний сервіс</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Назад</string>
+    <string name="suw_more_button_label">Більше</string>
+    <string name="suw_next_button_label">Далі</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sim App Dialog</string>
+    <string name="install_carrier_app_defer_action">Ոչ հիմա</string>
+    <string name="install_carrier_app_description">Նոր SIM քարտի պատշաճ աշխատանքն ապահովելու համար տեղադրեք %1$s օպերատորի հավելվածը</string>
+    <string name="install_carrier_app_description_default">Նոր SIM քարտի պատշաճ աշխատանքն ապահովելու համար տեղադրեք օպերատորի հավելվածը</string>
+    <string name="install_carrier_app_download_action">Ներբեռնել հավելվածը</string>
+    <string name="install_carrier_app_title">Ակտիվացրեք բջջային կապը</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Հետ</string>
+    <string name="suw_more_button_label">Ավելին</string>
+    <string name="suw_next_button_label">Առաջ</string>
+</resources>

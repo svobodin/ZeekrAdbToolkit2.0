@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">Parolni kiriting va dinamik tizim yangilanishlarini davom ettiring</string>
+    <string name="notification_action_cancel">Bekor qilish</string>
+    <string name="notification_action_discard">Rad etish</string>
+    <string name="notification_action_reboot_to_dynsystem">Boshidan</string>
+    <string name="notification_action_reboot_to_origin">Boshidan</string>
+    <string name="notification_dynsystem_in_use">Hozirda dinamik tizim ishga tushirilgan. Asl Android versiyasidan foydlanish uchun qayta ishga tushiring.</string>
+    <string name="notification_image_validation_failed">Disk tasviri tekshiruvi amalga oshmadi. Oʻrnatishni bekor qiling.</string>
+    <string name="notification_install_completed">Dinamik tizim tayyor. Foydalanishni boshlash uchun qurilmani qayta ishga tushiring.</string>
+    <string name="notification_install_failed">Oʻrnatilmadi</string>
+    <string name="notification_install_inprogress">Oʻrnatilmoqda</string>
+    <string name="toast_dynsystem_discarded">Dinamik tizim bekor qilindi</string>
+    <string name="toast_failed_to_disable_dynsystem">Dinamik tizim faolsizlantirilmadi</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Dinamik tizim qayta ishga tushmadi yoki yuklanmadi</string>
+</resources>

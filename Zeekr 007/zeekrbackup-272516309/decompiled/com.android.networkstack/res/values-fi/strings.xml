@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Verkkojen hallinta</string>
+    <string name="connected">Yhdistetty</string>
+    <string name="notification_channel_description_connected">Ilmoitukset, jotka näkyvät, kun laite on todennettu ja yhteydessä captive portal ‑verkkoon</string>
+    <string name="notification_channel_description_network_venue_info">Ilmoitukset, jotka kertovat, että verkolla on paikkatietoja sisältävä sivu</string>
+    <string name="notification_channel_name_connected">Captive portal ‑todennus</string>
+    <string name="notification_channel_name_network_venue_info">Verkon paikkatiedot</string>
+    <string name="tap_for_info">Yhdistetty / Näytä sivusto napauttamalla</string>
+</resources>

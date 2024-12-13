@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">Рэсурсы для падключэння да сістэмы</string>
+    <string name="mobile_no_internet">Мабільная сетка не мае доступу ў інтэрнэт</string>
+    <string name="network_available_sign_in">Увайдзіце ў сетку</string>
+    <string name="network_partial_connectivity">%1$s мае абмежаваную магчымасць падключэння</string>
+    <string name="network_partial_connectivity_detailed">Націсніце, каб падключыцца</string>
+    <string name="network_switch_metered">Выкананы пераход да %1$s</string>
+    <string name="network_switch_metered_detail">Прылада выкарыстоўвае сетку %1$s, калі ў сетцы %2$s няма доступу да інтэрнэту. Можа спаганяцца плата.</string>
+    <string name="network_switch_metered_toast">Выкананы пераход з %1$s да %2$s</string>
+    <string name="network_switch_type_name_unknown">невядомы тып сеткі</string>
+    <string name="other_networks_no_internet">Сетка не мае доступу ў інтэрнэт</string>
+    <string name="private_dns_broken_detailed">Не ўдалося атрымаць доступ да прыватнага DNS-сервера</string>
+    <string name="wifi_available_sign_in">Уваход у сетку Wi-Fi</string>
+    <string name="wifi_no_internet">%1$s не мае доступу ў інтэрнэт</string>
+    <string name="wifi_no_internet_detailed">Дакраніцеся, каб убачыць параметры</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">Приложения за камера</item>
+        <item quantity="one">Приложение за камера</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">Приложения за програма за електронна поща</item>
+        <item quantity="one">Приложение за програма за електронна поща</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">Приложения за телефон</item>
+        <item quantity="one">Приложение за телефон</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d опита</item>
+        <item quantity="one">%d опит</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d приложения</item>
+        <item quantity="one">%d приложение</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">Поне %d приложения</item>
+        <item quantity="one">Поне %d приложение</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нови известия</item>
+        <item quantity="one">%d ново известие</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d устройства са свързани</item>
+        <item quantity="one">%1$d устройство е свързано</item>
+    </plurals>
+</resources>

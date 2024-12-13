@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">ອະນຸຍາດໃຫ້ ^1 ລຶບໄຟລ໌ສຽງ ^2 ໄຟລ໌ບໍ?</item>
+        <item quantity="one">ອະນຸຍາດໃຫ້ ^1 ລຶບໄຟລ໌ສຽງນີ້ບໍ?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">ອະນຸຍາດໃຫ້ ^1 ລຶບ ^2 ລາຍການບໍ?</item>
+        <item quantity="one">ອະນຸຍາດໃຫ້ ^1 ລຶບລາຍການນີ້ບໍ?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">ອະນຸຍາດໃຫ້ ^1 ລຶບ ^2 ຮູບບໍ?</item>
+        <item quantity="one">ອະນຸຍາດໃຫ້ ^1 ລຶບຮູບນີ້ບໍ?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">ອະນຸຍາດໃຫ້ ^1 ລຶບ ^2 ວິດີໂອບໍ?</item>
+        <item quantity="one">ອະນຸຍາດໃຫ້ ^1 ລຶບວິດີໂອນີ້ບໍ?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">ຮວມ ^1 ລາຍການເພີ່ມເຕີມ</item>
+        <item quantity="one">ຮວມ ^1 ລາຍການເພີ່ມເຕີມ</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">+^1</item>
+        <item quantity="one">+^1</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">ກຳລັງລຶບໄຟລ໌ສຽງ ^1 ໄຟລ໌ອອກ…</item>
+        <item quantity="one">ກຳລັງລຶບໄຟລ໌ສຽງອອກ…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">ກຳລັງລຶບລາຍການ ^1 ລາຍການອອກ…</item>
+        <item quantity="one">ກຳລັງລຶບລາຍການອອກ…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">ກຳລັງລຶບຮູບພາບ ^1 ຮູບອອກ…</item>
+        <item quantity="one">ກຳລັງລຶບຮູບພາບ…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">ກຳລັງລຶບວິດີໂອ ^1 ອັນອອກ…</item>
+        <item quantity="one">ກຳລັງລຶບວິດີໂອ…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">ກຳລັງຍ້າຍໄຟລ໌ສຽງ ^1 ໄຟລ໌ໄປໃສ່ຖັງຂີ້ເຫຍື້ອ…</item>
+        <item quantity="one">ກຳລັງຍ້າຍໄຟລ໌ສຽງໄປໃສ່ຖັງຂີ້ເຫຍື້ອ…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">ກຳລັງຍ້າຍລາຍການ ^1 ລາຍການໄປໃສ່ຖັງຂີ້ເຫຍື້ອ…</item>
+        <item quantity="one">ກຳລັງຍ້າຍລາຍການໄປໃສ່ຖັງຂີ້ເຫຍື້ອ…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">ກຳລັງຍ້າຍຮູບພາບ ^1 ຮູບໄປໃສ່ຖັງຂີ້ເຫຍື້ອ…</item>
+        <item quantity="one">ກຳລັງຍ້າຍຮູບພາບໄປໃສ່ຖັງຂີ້ເຫຍື້ອ…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">ກຳລັງຍ້າຍວິດີໂອ ^1 ອັນໄປໃສ່ຖັງຂີ້ເຫຍື້ອ…</item>
+        <item quantity="one">ກຳລັງຍ້າຍວິດີໂອໄປໃສ່ຖັງຂີ້ເຫຍື້ອ…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">ກຳລັງຍ້າຍໄຟລ໌ສຽງ ^1 ໄຟລ໌ອອກຈາກຖັງຂີ້ເຫຍື້ອ…</item>
+        <item quantity="one">ກຳລັງຍ້າຍໄຟລ໌ສຽງອອກຈາກຖັງຂີ້ເຫຍື້ອ…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">ກຳລັງຍ້າຍລາຍການ ^1 ລາຍການອອກຈາກຖັງຂີ້ເຫຍື້ອ…</item>
+        <item quantity="one">ກຳລັງຍ້າຍລາຍການອອກຈາກຖັງຂີ້ເຫຍື້ອ…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">ກຳລັງຍ້າຍຮູບພາບ ^1 ຮູບອອກຈາກຖັງຂີ້ເຫຍື້ອ…</item>
+        <item quantity="one">ກຳລັງຍ້າຍຮູບພາບອອກຈາກຖັງຂີ້ເຫຍື້ອ…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">ກຳລັງຍ້າຍວິດີໂອ ^1 ອັນອອກຈາກຖັງຂີ້ເຫຍື້ອ…</item>
+        <item quantity="one">ກຳລັງຍ້າຍວິດີໂອອອກຈາກຖັງຂີ້ເຫຍື້ອ…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">ກຳລັງແກ້ໄຂໄຟລ໌ສຽງ ^1 ໄຟລ໌…</item>
+        <item quantity="one">ກຳລັງແກ້ໄຂໄຟລ໌ສຽງ…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">ກຳລັງແກ້ໄຂລາຍການ ^1 ລາຍການ…</item>
+        <item quantity="one">ກຳລັງແກ້ໄຂລາຍການ…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">ກຳລັງແກ້ໄຂຮູບພາບ ^1 ຮູບ…</item>
+        <item quantity="one">ກຳລັງແກ້ໄຂຮູບພາບ…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">ກຳລັງແກ້ໄຂວິດີໂອ ^1 ອັນ…</item>
+        <item quantity="one">ກຳລັງແກ້ໄຂວິດີໂອ…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">ອະນຸຍາດໃຫ້ ^1 ຍ້າຍໄຟລ໌ສຽງ ^2 ໄຟລ໌ໄປໃສ່ຖັງຂີ້ເຫຍື້ອບໍ?</item>
+        <item quantity="one">ອະນຸຍາດໃຫ້ ^1 ຍ້າຍໄຟລ໌ສຽງນີ້ໄປໃສ່ຖັງຂີ້ເຫຍື້ອບໍ?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">ອະນຸຍາດໃຫ້ ^1 ຍ້າຍ ^2 ລາຍການໄປໃສ່ຖັງຂີ້ເຫຍື້ອບໍ?</item>
+        <item quantity="one">ອະນຸຍາດໃຫ້ ^1 ຍ້າຍລາຍການນີ້ໄປໃສ່ຖັງຂີ້ເຫຍື້ອບໍ?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">ອະນຸຍາດໃຫ້ ^1 ຍ້າຍ ^2 ຮູບໄປໃສ່ຖັງຂີ້ເຫຍື້ອບໍ?</item>
+        <item quantity="one">ອະນຸຍາດໃຫ້ ^1 ຍ້າຍຮູບນີ້ໄປໃສ່ຖັງຂີ້ເຫຍື້ອບໍ?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">ອະນຸຍາດໃຫ້ ^1 ຍ້າຍ ^2 ວິດີໂອໄປໃສ່ຖັງຂີ້ເຫຍື້ອບໍ?</item>
+        <item quantity="one">ອະນຸຍາດໃຫ້ ^1 ຍ້າຍວິດີໂອນີ້ໄປໃສ່ຖັງຂີ້ເຫຍື້ອບໍ?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">ອະນຸຍາດໃຫ້ ^1 ຍ້າຍ ^2 ໄຟລ໌ສຽງອອກຈາກຖັງຂີ້ເຫຍື້ອບໍ?</item>
+        <item quantity="one">ອະນຸຍາດໃຫ້ ^1 ຍ້າຍໄຟລ໌ສຽງນີ້ອອກຈາກຖັງຂີ້ເຫຍື້ອບໍ?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">ອະນຸຍາດໃຫ້ ^1 ຍ້າຍ ^2 ລາຍການອອກຈາກຖັງຂີ້ເຫຍື້ອບໍ?</item>
+        <item quantity="one">ອະນຸຍາດໃຫ້ ^1 ຍ້າຍລາຍການນີ້ອອກຈາກຖັງຂີ້ເຫຍື້ອບໍ?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">ອະນຸຍາດໃຫ້ ^1 ຍ້າຍ ^2 ຮູບອອກຈາກຖັງຂີ້ເຫຍື້ອບໍ?</item>
+        <item quantity="one">ອະນຸຍາດໃຫ້ ^1 ຍ້າຍຮູບນີ້ອອກຈາກຖັງຂີ້ເຫຍື້ອບໍ?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">ອະນຸຍາດໃຫ້ ^1 ຍ້າຍ ^2 ວິດີໂອອອກຈາກຖັງຂີ້ເຫຍື້ອບໍ?</item>
+        <item quantity="one">ອະນຸຍາດໃຫ້ ^1 ຍ້າຍວິດີໂອນີ້ອອກຈາກຖັງຂີ້ເຫຍື້ອບໍ?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">ອະນຸຍາດໃຫ້ ^1 ແກ້ໄຂໄຟລ໌ສຽງ ^2 ໄຟລ໌ບໍ?</item>
+        <item quantity="one">ອະນຸຍາດໃຫ້ ^1 ແກ້ໄຂໄຟລ໌ສຽງນີ້ບໍ?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">ອະນຸຍາດໃຫ້ ^1 ແກ້ໄຂ ^2 ລາຍການບໍ?</item>
+        <item quantity="one">ອະນຸຍາດໃຫ້ ^1 ແກ້ໄຂລາຍການນີ້ບໍ?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">ອະນຸຍາດໃຫ້ ^1 ແກ້ໄຂ ^2 ຮູບບໍ?</item>
+        <item quantity="one">ອະນຸຍາດໃຫ້ ^1 ແກ້ໄຂຮູບນີ້ບໍ?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">ອະນຸຍາດໃຫ້ ^1 ແກ້ໄຂ ^2 ວິດີໂອບໍ?</item>
+        <item quantity="one">ອະນຸຍາດໃຫ້ ^1 ແກ້ໄຂວິດີໂອນີ້ບໍ?</item>
+    </plurals>
+</resources>

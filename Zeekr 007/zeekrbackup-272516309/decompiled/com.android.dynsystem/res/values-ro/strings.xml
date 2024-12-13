@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">Introduceți parola și accesați Actualizările de sistem dinamice</string>
+    <string name="notification_action_cancel">Anulați</string>
+    <string name="notification_action_discard">Renunțați</string>
+    <string name="notification_action_reboot_to_dynsystem">Reporniți</string>
+    <string name="notification_action_reboot_to_origin">Reporniți</string>
+    <string name="notification_dynsystem_in_use">Rulăm un sistem dinamic. Reporniți pentru a folosi versiunea Android inițială.</string>
+    <string name="notification_image_validation_failed">Nu s-a validat imaginea. Abandonați instalarea.</string>
+    <string name="notification_install_completed">Sistemul dinamic este pregătit. Ca să începeți să-l folosiți, reporniți dispozitivul.</string>
+    <string name="notification_install_failed">Instalarea nu a reușit</string>
+    <string name="notification_install_inprogress">Se instalează</string>
+    <string name="toast_dynsystem_discarded">S-a renunțat la sistemul dinamic</string>
+    <string name="toast_failed_to_disable_dynsystem">Sistemul dinamic nu a fost dezactivat</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Nu se poate reporni sau încărca sistemul dinamic</string>
+</resources>

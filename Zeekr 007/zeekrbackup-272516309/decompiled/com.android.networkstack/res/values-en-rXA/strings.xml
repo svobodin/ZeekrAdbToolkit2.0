@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">[Ñéţŵöŕķ ḿåñåĝéŕ one two three]</string>
+    <string name="connected">[Çöññéçţéð one two]</string>
+    <string name="notification_channel_description_connected">[Ñöţîƒîçåţîöñš šĥöŵñ ŵĥéñ ţĥé ðéVîçé ĥåš šûççéššƒûļļý åûţĥéñţîçåţéð ţö å çåþţîVé þöŕţåļ ñéţŵöŕķ one two three four five six seven eight nine ten]</string>
+    <string name="notification_channel_description_network_venue_info">[Ñöţîƒîçåţîöñš šĥöŵñ ţö îñðîçåţé ţĥé ñéţŵöŕķ ĥåš å Véñûé îñƒöŕḿåţîöñ þåĝé one two three four five six seven eight]</string>
+    <string name="notification_channel_name_connected">[ÇåþţîVé þöŕţåļ åûţĥéñţîçåţîöñ one two three four]</string>
+    <string name="notification_channel_name_network_venue_info">[Ñéţŵöŕķ Véñûé îñƒöŕḿåţîöñ one two three]</string>
+    <string name="tap_for_info">[Çöññéçţéð / Ţåþ ţö Vîéŵ ŵéɓšîţé one two three four]</string>
+</resources>

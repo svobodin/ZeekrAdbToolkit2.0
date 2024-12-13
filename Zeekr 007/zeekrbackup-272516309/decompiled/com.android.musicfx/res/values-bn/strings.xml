@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">অডিওর বেস বাড়ান</string>
+    <string name="ci_extreme">FX বুস্টার</string>
+    <string name="classical">ধ্রুপদী</string>
+    <string name="dance">নাচ</string>
+    <string name="eq_dialog_title">ইকুয়ালাইজার</string>
+    <string name="flat">ফ্ল্যাট</string>
+    <string name="folk">লোকগীতি</string>
+    <string name="headset_plug">এইসব এফেক্টের জন্য হেডফোন প্লাগ-ইন করুন।</string>
+    <string name="heavy_metal">হেভি মেটাল</string>
+    <string name="hip_hop">হিপ হপ</string>
+    <string name="jazz">জ্যাজ</string>
+    <string name="no_effects">এফেক্ট উপলভ্য নেই।</string>
+    <string name="normal">স্বাভাবিক</string>
+    <string name="picker_title">মিউজিক এফেক্টের জন্য কন্ট্রোল প্যানেল</string>
+    <string name="pop">পপ</string>
+    <string name="rock">রক</string>
+    <string name="setup">সেটআপ</string>
+    <string name="user">ব্যবহারকারী</string>
+    <string name="virtualizer_strength">সারাউন্ড সাউন্ড</string>
+</resources>

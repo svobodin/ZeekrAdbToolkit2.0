@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_assistant">Android အလိုက်သင့် အကြောင်းကြားချက်များ</string>
+    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
+    <string name="tc_notif_code_copied_to_clipboard">ကုဒ်ကို ကူးယူလိုက်ပါပြီ</string>
+    <string name="tc_notif_copy_code_desc">“%1$s“ ကို ကူးယူပါ</string>
+</resources>

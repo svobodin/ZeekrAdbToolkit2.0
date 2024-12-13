@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">කරුණාකර ඔබගේ මුරපදය ඇතුළත් කර ගතික පද්ධති යාවත්කාලීන කිරීම් වෙත යන්න</string>
+    <string name="notification_action_cancel">අවලංගු කරන්න</string>
+    <string name="notification_action_discard">ඉවත ලන්න</string>
+    <string name="notification_action_reboot_to_dynsystem">යළි අරඹන්න</string>
+    <string name="notification_action_reboot_to_origin">යළි අරඹන්න</string>
+    <string name="notification_dynsystem_in_use">දැනට ගතික පද්ධතියක් ක්‍රියාත්මක කරයි. මුල් Android අනුවාදය භාවිතා කිරීමට නැවත ආරම්භ කරන්න.</string>
+    <string name="notification_image_validation_failed">තැටි රූපය වලංගු කිරීම අසාර්ථක විය. ස්ථාපනය අවලංගු කරන්න</string>
+    <string name="notification_install_completed">ගතික පද්ධතිය සූදානම්ය. එය භාවිතා කිරීම ආරම්භ කිරීමට, ඔබගේ උපාංගය නැවත ආරම්භ කරන්න.</string>
+    <string name="notification_install_failed">ස්ථාපනය අසාර්ථක විය</string>
+    <string name="notification_install_inprogress">ස්ථාපනය කෙරෙමින් පවතී</string>
+    <string name="toast_dynsystem_discarded">ගතික පද්ධතිය ඉවත දමන ලදි</string>
+    <string name="toast_failed_to_disable_dynsystem">ගතික පද්ධතිය අබල කිරීමට අසමත් විය</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">ගතික පද්ධතිය නැවත ආරම්භ කිරීමට හෝ පූරණය කිරීමට නොහැක</string>
+</resources>

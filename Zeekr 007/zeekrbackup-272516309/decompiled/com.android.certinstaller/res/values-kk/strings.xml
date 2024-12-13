@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_missing_private_key">Сертификатты орнату үшін жеке кілт қажет</string>
+    <string name="action_missing_user_cert">Жеке кілтті орнату үшін сертификат қажет</string>
+    <string name="app_name">Сертификат орналастырғыш</string>
+    <string name="ca_cert_is_added">CA сертификаты орнатылды</string>
+    <string name="ca_certificate">CA сертификаты</string>
+    <string name="cert_missing_error">Орнату мүмкін болмады, себебі сертификат табылмады.</string>
+    <string name="cert_not_saved">Сертификат орнатылмаған.</string>
+    <string name="cert_read_error">Орнату мүмкін болмады, себебі сертификатты оқи алмады.</string>
+    <string name="cert_temp_error">Уақытша қате шықты. Қайталап көріңіз.</string>
+    <string name="cert_too_large_error">Орнату мүмкін болмады, себебі сертификат өлшемі тым үлкен.</string>
+    <string name="certificate">Сертификат</string>
+    <string name="certificate_capabilities_warning">Ескертпе: бұл сертификатты шығарған ұйым құрылғы алған және жіберген бүкіл трафикті тексере алады.</string>
+    <string name="certificate_name">Сертификат атауы</string>
+    <string name="credential_info">Жинақ құрамында:</string>
+    <string name="credential_password">Сертификатты алу үшін кілтсөзді теріп жазу.</string>
+    <string name="credential_usage_label">Растау деректерін қолдану:</string>
+    <string name="done_label">ДАЙЫН</string>
+    <string name="extracting_pkcs12">Алынуда…</string>
+    <string name="install_done">%1$s тіркелгі деректері Wi-Fi сақталған желілеріне қосылды.</string>
+    <string name="install_done_title">Тіркелгі деректері орнатылды</string>
+    <string name="invalid_cert">Сертификат жарамсыз.</string>
+    <string name="invalid_certificate_close_button">Жабу</string>
+    <string name="invalid_certificate_message">Бұл файлды %1$s ретінде пайдалану мүмкін емес.</string>
+    <string name="invalid_certificate_title">Бұл файлды қолдану мүмкін емес</string>
+    <string name="n_cacrts">%d растау агенттігінің сертификаттары</string>
+    <string name="name_char_error">Әріптер мен сандардан ғана тұратын атауды теру.</string>
+    <string name="name_credential_dialog_title">Бұл сертификатқа ат қойыңыз</string>
+    <string name="name_empty_error">Атауды теру.</string>
+    <string name="no_cert_to_saved">Орнатылатын сертификат жоқl.</string>
+    <string name="one_cacrt">бір CA сертификаты</string>
+    <string name="one_usercrt">бір пайдаланушы сертификаты</string>
+    <string name="one_userkey">бір пайдаланушы кілті</string>
+    <string name="only_primary_user_allowed">Осы құрылғының иесі ғана сертификаттарды орната алады.</string>
+    <string name="p12_description">PKCS12 кілтқорындағы сертификаттар.</string>
+    <string name="password_empty_error">Кілтсөзді теру</string>
+    <string name="password_error">Дұрыс кілсөзді теру.</string>
+    <string name="pick_file_title">Cертификатты таңдау</string>
+    <string name="pkcs12_file_password_dialog_title">%s файлынан алу</string>
+    <string name="pkcs12_password_dialog_title">Сертификат алу</string>
+    <string name="redirect_ca_certificate_close_button">Жабу</string>
+    <string name="redirect_ca_certificate_title">\"Параметрлер\" бөлімінде CA сертификаттарын орнату</string>
+    <string name="redirect_ca_certificate_with_app_info_message">%1$s қолданбасы жіберген сертификат \"Параметрлер\" бөлімінде орнатылуы керек. Сенімді ұйымдар ұсынатын CA сертификаттарын ғана пайдаланыңыз.</string>
+    <string name="select_certificate_usage_title">Сертификат түрін таңдаңыз</string>
+    <string name="unable_to_save_cert">Cертификатты сақтай алмады. Растау деректер жады қосылмаған немесе дұрыс басталмаған.</string>
+    <string name="user_cert_is_added">Пайдаланушы сертификаты орнатылды</string>
+    <string name="user_certificate">VPN және қолданба пайдаланушысының сертификаты</string>
+    <string name="userkey_type">Алгоритм:</string>
+    <string name="wifi_cancel_label">Бас тарту</string>
+    <string name="wifi_cert_is_added">Wi‑Fi сертификаты орнатылды</string>
+    <string name="wifi_certificate">Wi‑Fi сертификаты</string>
+    <string name="wifi_config_text">"Атауы: %1$s
+FQDN: %2$s
+Роуминг консорциумдары: %3$s
+Realm: %4$s
+Аут. әдісі: EAP-%5$s
+"</string>
+    <string name="wifi_detail_label">Мәліметтер</string>
+    <string name="wifi_detail_title">%s үшін толық мәліметтер</string>
+    <string name="wifi_dismiss_label">Қабылдамау</string>
+    <string name="wifi_install_label">Орнату</string>
+    <string name="wifi_installer_detail">%1$s арқылы қолжетімді желілерге қосылу үшін Wi-Fi тіркелгі деректерін орнатыңыз.</string>
+    <string name="wifi_installer_download_error">Жүктелген файлда қате бар болғандықтан, оны орнату мүмкін емес. Файлды дұрыс көзден жүктеңіз.</string>
+    <string name="wifi_installer_fail">Wi-Fi тіркелгі деректерін орнату мүмкін емес. Файлды қайта жүктеп көріңіз.</string>
+    <string name="wifi_installer_fail_no_wifi">Wi-Fi функциясын қосып, әрекетті қайталаңыз.</string>
+    <string name="wifi_installer_fail_no_wifi_title">Орнатудан бас тартылды</string>
+    <string name="wifi_installer_fail_title">Орнату мүмкін емес</string>
+    <string name="wifi_installing_label">Орнатылуда</string>
+    <string name="wifi_no_config">Жоқ</string>
+    <string name="wifi_sim_config_text">"SIM: %s
+"</string>
+    <string name="wifi_title">Wi-Fi профилі</string>
+    <string name="wifi_tls_config_text">"Клиент сертификаты:
+%1$s
+Кілт: %2$s
+"</string>
+    <string name="wifi_trust_config_text">"Сенім сертификаты:
+%s
+"</string>
+    <string name="wifi_ttls_config_text">"Пайдаланушы аты: %s
+"</string>
+</resources>

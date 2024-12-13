@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Выключыць хот-спот</string>
+    <string name="no_upstream_notification_message">Прылады не могуць падключацца да інтэрнэту</string>
+    <string name="no_upstream_notification_title">Хот-спот не падключаны да інтэрнэту</string>
+    <string name="upstream_roaming_notification_message">Пры выкарыстанні роўмінгу можа спаганяцца дадатковая плата</string>
+    <string name="upstream_roaming_notification_title">Хот-спот уключаны</string>
+    <string name="upstream_roaming_notification_continue_button">Працягнуць</string>
+</resources>

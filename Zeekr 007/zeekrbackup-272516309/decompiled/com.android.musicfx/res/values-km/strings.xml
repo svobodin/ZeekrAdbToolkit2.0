@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">ការបង្កើន​កម្រិតបាស</string>
+    <string name="ci_extreme">ការបង្កើន FX</string>
+    <string name="classical">ក្លាស៊ិក</string>
+    <string name="dance">រាំ</string>
+    <string name="eq_dialog_title">អេហ្គុយ</string>
+    <string name="flat">ស្មើ</string>
+    <string name="folk">ប្រពៃណី</string>
+    <string name="headset_plug">ដោតកាសចូល ដើម្បីទទួលបាន​ឥទ្ធិពលទាំងនេះ។</string>
+    <string name="heavy_metal">ហេវី ម៉េថល</string>
+    <string name="hip_hop">ហ៊ីបហប</string>
+    <string name="jazz">​ហ្សាស់</string>
+    <string name="no_effects">មិនអាចប្រើ​ឥទ្ធិពលបានទេ។</string>
+    <string name="normal">ធម្មតា</string>
+    <string name="picker_title">ផ្ទាំងគ្រប់គ្រង​ឥទ្ធិពលតន្ត្រី</string>
+    <string name="pop">ប៉ុប</string>
+    <string name="rock">រ៉ក់</string>
+    <string name="setup">ការរៀបចំ</string>
+    <string name="user">អ្នក​ប្រើប្រាស់</string>
+    <string name="virtualizer_strength">សំឡេង​រងំ</string>
+</resources>

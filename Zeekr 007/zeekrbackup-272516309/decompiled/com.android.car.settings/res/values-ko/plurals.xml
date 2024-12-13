@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">카메라 앱</item>
+        <item quantity="one">카메라 앱</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">이메일 클라이언트 앱</item>
+        <item quantity="one">이메일 클라이언트 앱</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">전화 앱</item>
+        <item quantity="one">전화 앱</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d회 시도</item>
+        <item quantity="one">%d회 시도</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">앱 %d개</item>
+        <item quantity="one">앱 %d개</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">앱 최소 %d개</item>
+        <item quantity="one">앱 최소 %d개</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">새 알림 %d개</item>
+        <item quantity="one">새 알림 %d개</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">기기 %1$d개 연결됨</item>
+        <item quantity="one">기기 %1$d개 연결됨</item>
+    </plurals>
+</resources>

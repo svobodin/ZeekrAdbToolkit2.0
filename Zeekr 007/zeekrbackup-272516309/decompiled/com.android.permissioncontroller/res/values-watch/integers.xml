@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="char_limit_per_line">18</integer>
+    <integer name="short_title_length">13</integer>
+</resources>

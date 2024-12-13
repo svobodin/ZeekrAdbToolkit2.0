@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">"Désactiver le point d'accès"</string>
+    <string name="no_upstream_notification_message">Appareils non connectés à Internet</string>
+    <string name="no_upstream_notification_title">"Le point d'accès n'est pas connecté à Internet"</string>
+    <string name="upstream_roaming_notification_message">"En itinérance, des frais supplémentaires peuvent s'appliquer"</string>
+    <string name="upstream_roaming_notification_title">"Le point d'accès est activé"</string>
+    <string name="upstream_roaming_notification_continue_button">Continuer</string>
+</resources>

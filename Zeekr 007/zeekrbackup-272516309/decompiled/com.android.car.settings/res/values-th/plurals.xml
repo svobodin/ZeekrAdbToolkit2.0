@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">แอปกล้องถ่ายรูป</item>
+        <item quantity="one">แอปกล้องถ่ายรูป</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">แอปโปรแกรมรับส่งอีเมล</item>
+        <item quantity="one">แอปโปรแกรมรับส่งอีเมล</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">แอปโทรศัพท์</item>
+        <item quantity="one">แอปโทรศัพท์</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">พยายาม %d ครั้ง</item>
+        <item quantity="one">พยายาม %d ครั้ง</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d แอป</item>
+        <item quantity="one">%d แอป</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">อย่างน้อย %d แอป</item>
+        <item quantity="one">อย่างน้อย %d แอป</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">การแจ้งเตือนใหม่ %d รายการ</item>
+        <item quantity="one">การแจ้งเตือนใหม่ %d รายการ</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">มีอุปกรณ์ที่เชื่อมต่อ %1$d เครื่อง</item>
+        <item quantity="one">มีอุปกรณ์ที่เชื่อมต่อ %1$d เครื่อง</item>
+    </plurals>
+</resources>

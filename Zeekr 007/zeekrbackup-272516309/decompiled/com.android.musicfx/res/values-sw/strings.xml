@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">Kuimarisha besi</string>
+    <string name="ci_extreme">Zana ya kuimarisha FX</string>
+    <string name="classical">Muziki wa dhati</string>
+    <string name="dance">Dansi</string>
+    <string name="eq_dialog_title">Kisawazishaji</string>
+    <string name="flat">Isiyobadilika</string>
+    <string name="folk">Muziki wa Jadi</string>
+    <string name="headset_plug">Chomeka vipokea sauti vya kichwani ili usikilize madoido haya</string>
+    <string name="heavy_metal">Heavy Metal</string>
+    <string name="hip_hop">Hip Hop</string>
+    <string name="jazz">Jazz</string>
+    <string name="no_effects">Madoido hayapatikani.</string>
+    <string name="normal">Kawaida</string>
+    <string name="picker_title">Paneli dhibiti ya madoido ya muziki</string>
+    <string name="pop">Pop</string>
+    <string name="rock">Rock</string>
+    <string name="setup">Weka mipangilio</string>
+    <string name="user">Mtumiaji</string>
+    <string name="virtualizer_strength">Sauti inayozingira</string>
+</resources>

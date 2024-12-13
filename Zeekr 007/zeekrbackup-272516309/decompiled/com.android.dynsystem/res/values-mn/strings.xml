@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">Нууц үгээ оруулаад Динамик системийн шинэчлэлтийг үргэлжлүүлнэ үү</string>
+    <string name="notification_action_cancel">Болих</string>
+    <string name="notification_action_discard">Болих</string>
+    <string name="notification_action_reboot_to_dynsystem">Дахин эхлүүлэх</string>
+    <string name="notification_action_reboot_to_origin">Дахин эхлүүлэх</string>
+    <string name="notification_dynsystem_in_use">Одоогоор динамик системийг ажиллуулж байна. Android-н эх хувилбарыг ашиглахын тулд дахин эхлүүлнэ үү.</string>
+    <string name="notification_image_validation_failed">Системийн хуулбарын баталгаажуулалт амжилтгүй боллоо. Суулгах үйлдлийг зогсооно уу.</string>
+    <string name="notification_install_completed">Динамик систем бэлэн боллоо. Түүнийг ашиглаж эхлэхийн тулд төхөөрөмжөө дахин эхлүүлнэ үү.</string>
+    <string name="notification_install_failed">Суулгаж чадсангүй</string>
+    <string name="notification_install_inprogress">Суулгаж байна</string>
+    <string name="toast_dynsystem_discarded">Динамик системийг устгасан</string>
+    <string name="toast_failed_to_disable_dynsystem">Динамик системийг идэвхгүй болгож чадсангүй</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Динамик системийг дахин эхлүүлэх эсвэл ачаалах боломжгүй байна</string>
+</resources>

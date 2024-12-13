@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_missing_private_key">የእውቅና ማረጋገጫን ለመጫን የግል ቁልፍ ያስፈልጋል</string>
+    <string name="action_missing_user_cert">የግል ቁልፍን ለመጫን የእውቅና ማረጋገጫ ያስፈልጋል</string>
+    <string name="app_name">ምስክር ጫኚ</string>
+    <string name="ca_cert_is_added">CA የእውቅና ማረጋገጫ ተጭኗል</string>
+    <string name="ca_certificate">CA የእውቅና ማረጋገጫ</string>
+    <string name="cert_missing_error">መጫን አልተቻለም ምክንያቱም የምስክር ወረቀቱ ፋይል ሊደረስበት ስላልተቻለ፡፡</string>
+    <string name="cert_not_saved">ምስክሩ አልተጫነም።</string>
+    <string name="cert_read_error">መጫን አልተቻለም ምክንያቱም የምስክር ወረቀቱ ፋይል ሊነበብ ስላልተቻለ፡፡</string>
+    <string name="cert_temp_error">ጊዜያዊ ብልሽት። እባክዎ ቆይተው እንደገና ይሞክሩ።</string>
+    <string name="cert_too_large_error">መጫን አልተቻለም ምክንያቱም የምስክር ወረቀቱ መጠን በጣም ትልቅ ስለሆነ፡፡</string>
+    <string name="certificate">የእውቅና ማረጋገጫ</string>
+    <string name="certificate_capabilities_warning">ማስታወሻ፦ የዚህ እውቅና ማረጋገጫ ሰጪ ወደ መሣሪያው የሚሄድ እና ከመሣሪያው የሚመጣ ትራፊክ ሁሉ ሊመረምር ይችላል።</string>
+    <string name="certificate_name">የእውቅና ማረጋገጫ ስም</string>
+    <string name="credential_info">አካታቹ፡ ይይዛል።</string>
+    <string name="credential_password">ምስክሩን ለማውጣት የይለፍ ቃል ተይብ፡፡</string>
+    <string name="credential_usage_label">የምስክርነት አጠቃቀም፦</string>
+    <string name="done_label">ተከናውኗል</string>
+    <string name="extracting_pkcs12">በማውጣት ላይ....</string>
+    <string name="install_done">%1$s ምስክርነቶች ወደ Wi-Fi ላይ የተቀመጡ አውታረ መረቦች ላይ ታክለዋል።</string>
+    <string name="install_done_title">ምስክርነቶች ተጭነዋል</string>
+    <string name="invalid_cert">ምስክሩ ትክክል አይደለም።</string>
+    <string name="invalid_certificate_close_button">ዝጋ</string>
+    <string name="invalid_certificate_message">ይህ ፋይል እንደ %1$s ጥቅም ላይ ሊውል አይችልም</string>
+    <string name="invalid_certificate_title">ይህን ፋይል መጠቀም አይቻልም</string>
+    <string name="n_cacrts">%d CA ምስክሮች</string>
+    <string name="name_char_error">ፊደሎች እና ቁጥሮች ብቻ የያዘ ስም ተይብ፡፡</string>
+    <string name="name_credential_dialog_title">ይህን የእውቅና ማረጋገጫ ስም ይስጡት</string>
+    <string name="name_empty_error">ስም ተይብ፡፡</string>
+    <string name="no_cert_to_saved">ለመጫን ምንም ምስክር አያስፈልግም።</string>
+    <string name="one_cacrt">አንድCA ምስክር</string>
+    <string name="one_usercrt">የአንድ ተጠቃሚ ምስክር</string>
+    <string name="one_userkey">የአንድ ተጠቃሚ ቁልፍ</string>
+    <string name="only_primary_user_allowed">የዚህ መሣሪያ ብቻ ነው የዕውቅና ማረጋገጫዎችን ሊጭን የሚችለው።</string>
+    <string name="p12_description">"ምስክሮች በPKCS12  ቁልፍማከማቻ።"</string>
+    <string name="password_empty_error">የይለፍ ቃሉን ተይብ፡፡</string>
+    <string name="password_error">ትክክለኛውን የይለፍ ቃል አስገባ፡፡</string>
+    <string name="pick_file_title">የምስክር ወረቀት ምረጥ</string>
+    <string name="pkcs12_file_password_dialog_title">ከ%s ማውጣት</string>
+    <string name="pkcs12_password_dialog_title">የዕውቅና ማረጋገጫ ነጥለህ አውጣ</string>
+    <string name="redirect_ca_certificate_close_button">ዝጋ</string>
+    <string name="redirect_ca_certificate_title">የCA እውቅና ማረጋገጫዎችን በቅንብሮች ውስጥ ይጫኑ</string>
+    <string name="redirect_ca_certificate_with_app_info_message">ይህ የ%1$s የእውቅና ማረጋገጫ በቅንብሮች ውስጥ መጫን አለበት። እርስዎ ከሚያምኗቸው ድርጅቶች የመጡ የCA የእውቅና ማረጋገጫዎችን ብቻ ይጫኑ።</string>
+    <string name="select_certificate_usage_title">የየእውቅና ማረጋገጫ ዓይነት ይምረጡ</string>
+    <string name="unable_to_save_cert">የምስክር ወረቀቱን ማስቀመጥ አልተቻለም።የምስክርነት ማከማቻው አልነቃም ወይም በአግባቡ አልተነሳም።</string>
+    <string name="user_cert_is_added">የተጠቃሚ የእውቅና ማረጋገጫ ተጭኗል</string>
+    <string name="user_certificate">VPN እና መተግበሪያ የተጠቃሚ የእውቅና ማረጋገጫ</string>
+    <string name="userkey_type">ስልተ ቀመር፦</string>
+    <string name="wifi_cancel_label">ተወው</string>
+    <string name="wifi_cert_is_added">Wi‑Fi የእውቅና ማረጋገጫ ተጭኗል</string>
+    <string name="wifi_certificate">Wi‑Fi የእውቅና ማረጋገጫ</string>
+    <string name="wifi_config_text">"ስም፦ %1$s
+FQDN: %2$s
+ከአገልግሎት ክልል ውጭ ውህዶች፦ %3$s
+ተሰጪ፦ %4$s
+ማረጋገጫ ስልት፦ EAP-%5$s
+"</string>
+    <string name="wifi_detail_label">ዝርዝሮች</string>
+    <string name="wifi_detail_title">ዝርዝሮች ለ%s</string>
+    <string name="wifi_dismiss_label">አሰናብት</string>
+    <string name="wifi_install_label">ጫን</string>
+    <string name="wifi_installer_detail">"በ%1$s በኩል ወደ  የሚገኙ አውታረ መረቦች ለማገናኘት የWi-Fi ምስክርነቶችን ይጫኑ።"</string>
+    <string name="wifi_installer_download_error">የወረደው ፋይል ችግሮች አሉበት እና ሊጫን አይችልም። ፋይሉን ከትክክለኛው ምንጭ እንዳወረዱት እርግጠኛ ይሁኑ።</string>
+    <string name="wifi_installer_fail">የWi-Fi ምስክርነቶችን መጫን አይቻልም። ፋይሉን እንደገና ማውረድ ይሞክሩ።</string>
+    <string name="wifi_installer_fail_no_wifi">Wi-Fi ያብሩ እና እንደገና ይሞክሩ።</string>
+    <string name="wifi_installer_fail_no_wifi_title">መጫን ተትቷል</string>
+    <string name="wifi_installer_fail_title">መጫን አይቻልም</string>
+    <string name="wifi_installing_label">በመጫን ላይ</string>
+    <string name="wifi_no_config">ምንም</string>
+    <string name="wifi_sim_config_text">"ሲም፦ %s
+"</string>
+    <string name="wifi_title">Wi-Fi መገለጫ</string>
+    <string name="wifi_tls_config_text">"የደንበኛ ምስክር ወረቀት፦
+%1$s
+ቁልፍ፦ %2$s
+"</string>
+    <string name="wifi_trust_config_text">"የአደራ ምስክር ወረቀት፦
+%s
+"</string>
+    <string name="wifi_ttls_config_text">"የተጠቃሚ ስም፦ %s
+"</string>
+</resources>

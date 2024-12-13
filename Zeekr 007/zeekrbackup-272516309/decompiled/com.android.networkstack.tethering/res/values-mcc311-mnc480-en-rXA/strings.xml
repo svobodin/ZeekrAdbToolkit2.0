@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">[Ţûŕñ öƒƒ ţéţĥéŕîñĝ one two three]</string>
+    <string name="no_upstream_notification_message">[ÐéVîçéš çåñ’ţ çöññéçţ one two three]</string>
+    <string name="no_upstream_notification_title">[Ţéţĥéŕîñĝ ĥåš ñö îñţéŕñéţ one two three]</string>
+    <string name="upstream_roaming_notification_message">[Åððîţîöñåļ çĥåŕĝéš ḿåý åþþļý ŵĥîļé ŕöåḿîñĝ one two three four five]</string>
+    <string name="upstream_roaming_notification_title">[Ĥöţšþöţ öŕ ţéţĥéŕîñĝ îš öñ one two three four]</string>
+</resources>

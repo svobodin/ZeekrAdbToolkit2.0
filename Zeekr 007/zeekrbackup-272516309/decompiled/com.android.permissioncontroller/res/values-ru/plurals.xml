@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">Ещё %1$d</item>
+        <item quantity="one">Ещё %1$d</item>
+        <item quantity="few">Ещё %1$d</item>
+        <item quantity="many">Ещё %1$d</item>
+    </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">Вы уже несколько месяцев не используете %1$d приложения. Нажмите, чтобы посмотреть подробности.</item>
+        <item quantity="one">Вы уже несколько месяцев не используете %1$d приложение. Нажмите, чтобы посмотреть подробности.</item>
+        <item quantity="few">Вы уже несколько месяцев не используете %1$d приложения. Нажмите, чтобы посмотреть подробности.</item>
+        <item quantity="many">Вы уже несколько месяцев не используете %1$d приложений. Нажмите, чтобы посмотреть подробности.</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">Вы уже несколько месяцев не используете %1$d приложения.</item>
+        <item quantity="one">Вы уже несколько месяцев не используете %1$d приложение.</item>
+        <item quantity="few">Вы уже несколько месяцев не используете %1$d приложения.</item>
+        <item quantity="many">Вы уже несколько месяцев не используете %1$d приложений.</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s дня</item>
+        <item quantity="one">%s день</item>
+        <item quantity="few">%s дня</item>
+        <item quantity="many">%s дней</item>
+    </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">%s дня</item>
+        <item quantity="one">%s день</item>
+        <item quantity="few">%s дня</item>
+        <item quantity="many">%s дней</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">%s часа</item>
+        <item quantity="one">%s час</item>
+        <item quantity="few">%s часа</item>
+        <item quantity="many">%s часов</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">%s минуты</item>
+        <item quantity="one">%s минута</item>
+        <item quantity="few">%s минуты</item>
+        <item quantity="many">%s минут</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">%s секунды</item>
+        <item quantity="one">%s секунда</item>
+        <item quantity="few">%s секунды</item>
+        <item quantity="many">%s секунд</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s часа</item>
+        <item quantity="one">%s час</item>
+        <item quantity="few">%s часа</item>
+        <item quantity="many">%s часов</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s мин.</item>
+        <item quantity="one">%s мин.</item>
+        <item quantity="few">%s мин.</item>
+        <item quantity="many">%s мин.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нового уведомления</item>
+        <item quantity="one">%d новое уведомление</item>
+        <item quantity="few">%d новых уведомления</item>
+        <item quantity="many">%d новых уведомлений</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s приложения</item>
+        <item quantity="one">%s приложение</item>
+        <item quantity="few">%s приложения</item>
+        <item quantity="many">%s приложений</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s приложения</item>
+        <item quantity="one">%s приложение</item>
+        <item quantity="few">%s приложения</item>
+        <item quantity="many">%s приложений</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">Используется в %1$d приложения</item>
+        <item quantity="one">Используется в %1$d приложении</item>
+        <item quantity="few">Используется в %1$d приложениях</item>
+        <item quantity="many">Используется в %1$d приложениях</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"Последнее использование: %1$s.
+Разрешение использовано %2$s раза."</item>
+        <item quantity="one">"Последнее использование: %1$s.
+Разрешение использовано %2$s раз."</item>
+        <item quantity="few">"Последнее использование: %1$s.
+Разрешение использовано %2$s раза."</item>
+        <item quantity="many">"Последнее использование: %1$s.
+Разрешение использовано %2$s раз."</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"Последнее использование: %1$s.
+Разрешение использовано %2$s раза (%3$s в фоновом режиме)."</item>
+        <item quantity="one">"Последнее использование: %1$s.
+Разрешение использовано %2$s раз (%3$s в фоновом режиме)."</item>
+        <item quantity="few">"Последнее использование: %1$s.
+Разрешение использовано %2$s раза (%3$s в фоновом режиме)."</item>
+        <item quantity="many">"Последнее использование: %1$s.
+Разрешение использовано %2$s раз (%3$s в фоновом режиме)."</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"Последнее использование: %1$s.
+Разрешение использовано %2$s раза (%3$s в фоновом режиме).
+Продолжительность: %3$s."</item>
+        <item quantity="one">"Последнее использование: %1$s.
+Разрешение использовано %2$s раз (%3$s в фоновом режиме).
+Продолжительность: %3$s."</item>
+        <item quantity="few">"Последнее использование: %1$s.
+Разрешение использовано %2$s раза (%3$s в фоновом режиме).
+Продолжительность: %3$s."</item>
+        <item quantity="many">"Последнее использование: %1$s.
+Разрешение использовано %2$s раз (%3$s в фоновом режиме).
+Продолжительность: %3$s."</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"Последнее использование: %1$s.
+Разрешение использовано %2$s раза.
+Продолжительность: %3$s."</item>
+        <item quantity="one">"Последнее использование: %1$s.
+Разрешение использовано %2$s раз.
+Продолжительность: %3$s."</item>
+        <item quantity="few">"Последнее использование: %1$s.
+Разрешение использовано %2$s раза.
+Продолжительность: %3$s."</item>
+        <item quantity="many">"Последнее использование: %1$s.
+Разрешение использовано %2$s раз.
+Продолжительность: %3$s."</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s сек.</item>
+        <item quantity="one">%s сек.</item>
+        <item quantity="few">%s сек.</item>
+        <item quantity="many">%s сек.</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">%1$d неиспользуемого приложения</item>
+        <item quantity="one">%1$d неиспользуемое приложение</item>
+        <item quantity="few">%1$d неиспользуемых приложения</item>
+        <item quantity="many">%1$d неиспользуемых приложений</item>
+    </plurals>
+</resources>

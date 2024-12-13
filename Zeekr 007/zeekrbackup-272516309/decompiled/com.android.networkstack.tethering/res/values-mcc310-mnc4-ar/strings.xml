@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">إيقاف التوصيل</string>
+    <string name="no_upstream_notification_message">تعذّر اتصال الأجهزة</string>
+    <string name="no_upstream_notification_title">ما مِن اتصال بالإنترنت خلال التوصيل</string>
+    <string name="upstream_roaming_notification_message">قد يتم تطبيق رسوم إضافية أثناء التجوال.</string>
+    <string name="upstream_roaming_notification_title">نقطة الاتصال أو التوصيل مفعّلان</string>
+</resources>

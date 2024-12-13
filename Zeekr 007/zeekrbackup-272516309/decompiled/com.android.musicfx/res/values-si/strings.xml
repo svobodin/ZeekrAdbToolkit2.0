@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">මන්ද්‍රස්වර වැඩි කිරීම</string>
+    <string name="ci_extreme">FX බූස්ටර්</string>
+    <string name="classical">පැරණි</string>
+    <string name="dance">නර්තනය</string>
+    <string name="eq_dialog_title">සමාකරණය</string>
+    <string name="flat">වෙනස් වීම් නැති</string>
+    <string name="folk">ගැමි</string>
+    <string name="headset_plug">මෙම ප්‍රයෝග සඳහා හෙඩ්ෆෝන් පේනුගත කරන්න.</string>
+    <string name="heavy_metal">හෙවි මෙටල්</string>
+    <string name="hip_hop">හිප් හොප්</string>
+    <string name="jazz">ජෑස්</string>
+    <string name="no_effects">ප්‍රයෝග ලබා ගත නොහැකිය.</string>
+    <string name="normal">සාමාන්‍ය</string>
+    <string name="picker_title">සංගීත ප්‍රයෝග පාලන පුවරුව</string>
+    <string name="pop">පොප්</string>
+    <string name="rock">රොක්</string>
+    <string name="setup">පිහිටුවීම</string>
+    <string name="user">පරිශීලක</string>
+    <string name="virtualizer_strength">අවට ශබ්දය</string>
+</resources>

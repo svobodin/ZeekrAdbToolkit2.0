@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="disable_tether_notification_message">വിശദാംശങ്ങൾക്ക് നിങ്ങളുടെ അഡ്മിനെ ബന്ധപ്പെടുക</string>
+    <string name="disable_tether_notification_title">ടെതറിംഗ് പ്രവർത്തനരഹിതമാക്കിയിരിക്കുന്നു</string>
+    <string name="no_upstream_notification_disable_button" />
+    <string name="no_upstream_notification_message" />
+    <string name="no_upstream_notification_title" />
+    <string name="notification_channel_tethering_status">ഹോട്ട്‌സ്പോട്ടിന്റെയും ടെതറിംഗിന്റെയും നില</string>
+    <string name="tethered_notification_message">സജ്ജീകരിക്കാൻ ടാപ്പ് ചെയ്യുക.</string>
+    <string name="tethered_notification_title">ടെതറിംഗ് അല്ലെങ്കിൽ ഹോട്ട്സ്‌പോട്ട് സജീവമാണ്</string>
+    <string name="upstream_roaming_notification_message" />
+    <string name="upstream_roaming_notification_title" />
+</resources>

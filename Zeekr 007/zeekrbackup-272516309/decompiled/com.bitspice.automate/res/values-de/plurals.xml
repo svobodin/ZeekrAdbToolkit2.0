@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="numberOfDays">
+        <item quantity="other">Tage</item>
+        <item quantity="one">Tag</item>
+    </plurals>
+</resources>

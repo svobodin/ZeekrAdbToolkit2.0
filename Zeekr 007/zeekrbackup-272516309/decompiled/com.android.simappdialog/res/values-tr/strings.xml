@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sim App Dialog</string>
+    <string name="install_carrier_app_defer_action">Şimdi değil</string>
+    <string name="install_carrier_app_description">"Yeni SIM'inizin düzgün çalışması için %1$s uygulamasını yüklemeniz gerekir"</string>
+    <string name="install_carrier_app_description_default">"Yeni SIM'inizin düzgün çalışması için operatör uygulamasını yüklemeniz gerekir"</string>
+    <string name="install_carrier_app_download_action">Uygulama indir</string>
+    <string name="install_carrier_app_title">Mobil hizmeti etkinleştirin</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Geri</string>
+    <string name="suw_more_button_label">Diğer</string>
+    <string name="suw_next_button_label">İleri</string>
+</resources>

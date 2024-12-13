@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="suw_card_title_padding_bottom">0.0dip</dimen>
+    <dimen name="suw_card_title_padding_end">32.0dip</dimen>
+    <dimen name="suw_card_title_padding_start">56.0dip</dimen>
+    <dimen name="suw_card_title_padding_top">24.0dip</dimen>
+    <dimen name="suw_decor_padding_top">0.0dip</dimen>
+    <dimen name="suw_glif_card_height">560.0dip</dimen>
+    <dimen name="suw_glif_card_width">672.0dip</dimen>
+    <item type="dimen" name="suw_illustration_aspect_ratio">0.0</item>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">نیٹ ورک میں سائن ان کریں</string>
+    <string name="action_bar_title">‏%1$s میں سائن ان کریں</string>
+    <string name="action_do_not_use_network">اس نیٹ ورک کا استعمال نہ کریں</string>
+    <string name="action_use_network">جوں کا توں اس نیٹ ورک کا استعمال کریں</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">اطلاعات فائل ڈاؤن لوڈز کی پیشرفت کو دکھاتی ہیں</string>
+    <string name="channel_description_downloads">اطلاعات مکمل یا منسوخ ڈاؤن لوڈز دکھاتی ہیں</string>
+    <string name="channel_name_download_progress">ڈاؤن لوڈ پیشرفت میں ہے</string>
+    <string name="channel_name_downloads">ڈاؤن لوڈز</string>
+    <string name="custom_scheme_example">مثال کے طور پر، لاگ ان پیج میں تصدیق کیلئے ایک مخصوص ایپلی کیشن کی ضرورت ہوسکتی ہے</string>
+    <string name="custom_scheme_warning">جس نیٹ ورک میں آپ شامل ہونے کی کوشش کر رہے ہیں وہ ایک اور ایپلیکیشن کھولنے کی درخواست کر رہا ہے۔</string>
+    <string name="download_completed">ڈاؤن لوڈ مکمل ہو گیا</string>
+    <string name="downloading_paramfile">‏‎%1$s ڈاؤن لوڈ ہو رہا ہے</string>
+    <string name="error_continue_via_browser">براؤزر کے ذریعے بہرحال جاری رکھیں</string>
+    <string name="error_downloading_paramfile">‏%1$s ڈاؤن لوڈ نہیں ہو سکا</string>
+    <string name="no_bypass_error_vpnwarning">‏اس کے علاوہ، اس خرابی کو بائی پاس کرنا ممکن نہیں ہے کیونکہ فی الحال آلہ ایک VPN چلا رہا ہے۔</string>
+    <string name="ok">ٹھیک ہے</string>
+    <string name="page_info">صفحہ کی معلومات</string>
+    <string name="page_info_address">پتہ:</string>
+    <string name="ssl_error_date_invalid">اس سرٹیفکیٹ میں ایک غلط تاریخ ہے۔</string>
+    <string name="ssl_error_example">مثال کے طور پر ہو سکتا ہے کہ لاگ ان صفحہ دکھائی گئی تنظیم سے تعلق نہ رکھتا ہو۔</string>
+    <string name="ssl_error_expired">اس سرٹیفکیٹ کی میعاد ختم ہو گئی ہے۔</string>
+    <string name="ssl_error_invalid">یہ سرٹیفیکیٹ غلط ہے۔</string>
+    <string name="ssl_error_mismatch">سائٹ کا نام سرٹیفکیٹ پر موجود نام سے مماثل نہیں ہے۔</string>
+    <string name="ssl_error_not_yet_valid">یہ سرٹیفکیٹ ابھی تک درست نہیں ہے۔</string>
+    <string name="ssl_error_unknown">سرٹیفکیٹ کی نامعلوم خرابی۔</string>
+    <string name="ssl_error_untrusted">یہ سرٹیفکیٹ قابل اعتماد اتھارٹی سے حاصل شدہ نہیں ہے۔</string>
+    <string name="ssl_error_view_certificate">سرٹیفکیٹ دیکھیں</string>
+    <string name="ssl_error_warning">جس نیٹ ورک میں آپ شامل ہونے کی کوشش کر رہے ہیں اس میں سیکیورٹی کے مسائل ہیں۔</string>
+    <string name="ssl_security_warning_title">سیکیورٹی وارننگ</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
+</resources>

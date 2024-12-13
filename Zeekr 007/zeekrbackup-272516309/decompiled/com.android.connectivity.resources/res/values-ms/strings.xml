@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">Sumber Kesambungan Sistem</string>
+    <string name="mobile_no_internet">Rangkaian mudah alih tiada akses Internet</string>
+    <string name="network_available_sign_in">Log masuk ke rangkaian</string>
+    <string name="network_partial_connectivity">%1$s mempunyai kesambungan terhad</string>
+    <string name="network_partial_connectivity_detailed">Ketik untuk menyambung juga</string>
+    <string name="network_switch_metered">Beralih kepada %1$s</string>
+    <string name="network_switch_metered_detail">Peranti menggunakan %1$s apabila %2$s tiada akses Internet. Bayaran mungkin dikenakan.</string>
+    <string name="network_switch_metered_toast">Beralih daripada %1$s kepada %2$s</string>
+    <string name="network_switch_type_name_unknown">jenis rangkaian tidak diketahui</string>
+    <string name="other_networks_no_internet">Rangkaian tiada akses Internet</string>
+    <string name="private_dns_broken_detailed">Pelayan DNS peribadi tidak boleh diakses</string>
+    <string name="wifi_available_sign_in">Log masuk ke rangkaian Wi-Fi</string>
+    <string name="wifi_no_internet">%1$s tiada akses Internet</string>
+    <string name="wifi_no_internet_detailed">Ketik untuk mendapatkan pilihan</string>
+</resources>

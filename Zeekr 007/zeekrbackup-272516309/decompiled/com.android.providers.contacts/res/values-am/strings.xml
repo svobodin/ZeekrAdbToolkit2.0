@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">የዕውቂያ ማከማቻ</string>
+    <string name="debug_dump_database_message">ይህንን ሊያደርጉ ነው፦ 1) ሁሉንም ከእውቂያዎች ጋር የተያያዙ መረጃዎችንና ሁሉንም የጥሪ ምዝግብ ማስታወሻዎችን የያዘው የውሂብ ጎታዎ ቅጂ በውስጣዊ ማከማቻው ላይ ሊያስቀምጡ ነው፤ እና 2) በኢሜይል ሊልኩት። ከመሣሪያው በተገለበጠ ጊዜ ወይም ኢሜይሉ ሲደርስ ወዲያውንኑ ቅጂውን መሰረዝ እንዳለብዎት ያስታውሱ።</string>
+    <string name="debug_dump_delete_button">አሁን ሰርዝ</string>
+    <string name="debug_dump_email_body">የእውቂያዎቼ የውሂብ ጎታ ከሁሉም የእውቂያዎቼ መረጃዎች ጋር አባሪ ተደርጓል። በደንብ ይጠበቅ።</string>
+    <string name="debug_dump_email_sender_picker">ፋይልዎትን የሚልኩበት ፕሮግራም ይምረጡ</string>
+    <string name="debug_dump_email_subject">የእውቂያዎች የውሂብ ጎታ ተያይዟል</string>
+    <string name="debug_dump_start_button">ጀምር</string>
+    <string name="debug_dump_title">የእውቂያዎች የውሂብ ጎታ ገልብጥ</string>
+    <string name="default_directory">እውቅያዎች</string>
+    <string name="local_invisible_directory">ሌላ</string>
+    <string name="provider_label">እውቅያዎች</string>
+    <string name="sharedUserLabel">የAndroid ኮር ትግበራ</string>
+    <string name="upgrade_out_of_memory_notification_text">ደረጃ ማሻሻሉን ለማጠናቀቅ ነካ ያድርጉ።</string>
+    <string name="upgrade_out_of_memory_notification_ticker">የእውቅያዎች አልቅ ተጨማሪ ማህደረ ትውስታ ይፈልጋል</string>
+    <string name="upgrade_out_of_memory_notification_title">ለእውቅያዎች ማከማቻ በማሻሻል ላይ</string>
+    <string name="voicemail_from_column">"ከ....የድምፅ መልዕክት "</string>
+</resources>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">Уште %1$d</item>
+        <item quantity="one">Уште %1$d</item>
+    </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">%1$d апликации не се користени неколку месеци Допрете за да прегледате</item>
+        <item quantity="one">%1$d апликација не е користена неколку месеци Допрете за да прегледате</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">%1$d апликации не се користени неколку месеци</item>
+        <item quantity="one">%1$d апликација не е користена неколку месеци</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s дена</item>
+        <item quantity="one">%s ден</item>
+    </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">%s дена</item>
+        <item quantity="one">%s ден</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">%s часа</item>
+        <item quantity="one">%s час</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">%s мин.</item>
+        <item quantity="one">%s мин.</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">%s сек.</item>
+        <item quantity="one">%s сек.</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s часа</item>
+        <item quantity="one">%s час</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s минути</item>
+        <item quantity="one">%s минута</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нови известувања</item>
+        <item quantity="one">%d ново известување</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s апликации</item>
+        <item quantity="one">%s апликација</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s апликации</item>
+        <item quantity="one">%s апликација</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">Користена од %1$d апликации</item>
+        <item quantity="one">Користена од %1$d апликација</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"Последен пристап: %1$s
+%2$s пристапи"</item>
+        <item quantity="one">"Последен пристап: %1$s
+%2$s пристап"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"Последен пристап: %1$s
+%2$s пристапи (%3$s во заднина)"</item>
+        <item quantity="one">"Последен пристап: %1$s
+%2$s пристап (%3$s во заднина)"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"Последен пристап: %1$s
+%2$s пристапи (%3$s во заднина)
+Времетраење: %3$s"</item>
+        <item quantity="one">"Последен пристап: %1$s
+%2$s пристап (%3$s во заднина)
+Времетраење: %3$s"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"Последен пристап: %1$s
+%2$s пристапи
+Времетраење: %3$s"</item>
+        <item quantity="one">"Последен пристап: %1$s
+%2$s пристап
+Времетраење: %3$s"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s секунди</item>
+        <item quantity="one">%s секунда</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">%1$d некористени апликации</item>
+        <item quantity="one">%1$d некористена апликација</item>
+    </plurals>
+</resources>

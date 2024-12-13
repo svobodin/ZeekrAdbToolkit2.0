@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">ქსელის მმართველი</string>
+    <string name="connected">დაკავშირებულია</string>
+    <string name="notification_channel_description_connected">შეტყობინებები გამოჩნდება ავტორიზაციის პორტალის ქსელში მოწყობილობის წარმატებული ავთენტიკაციის შემდეგ</string>
+    <string name="notification_channel_description_network_venue_info">შეტყობინებები გამოჩნდება იმის საჩვენებლად, რომ ქსელს აქვს ადგილის შესახებ ინფორმაციის გვერდი</string>
+    <string name="notification_channel_name_connected">ავთენტიკაცია ავტორიზაციის პორტალზე</string>
+    <string name="notification_channel_name_network_venue_info">ქსელის ადგილის შესახებ ინფორმაცია</string>
+    <string name="tap_for_info">დაკავშირებულია / შეეხეთ ვებსაიტის სანახავად</string>
+</resources>

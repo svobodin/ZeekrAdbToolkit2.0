@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>စိန့် မားတဲန်</item>
+        <item>ကာရီဘီးယံ နယ်သာလင်</item>
+        <item>ကျူရာကာအို</item>
+        <item>တောင် ဆူဒန်</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>ဩစတြေးလျ ဗဟို - NT</item>
+        <item>ဩစတြေးလျ ဗဟို - SA</item>
+        <item>ဩစတြေးလျ အရှေ့ ပိုင်း - QLD</item>
+        <item>ဩစတြေးလျ အရှေ့ ပိုင်း - NSW</item>
+        <item>တောင် စံတော်ချိန် - ဒေါ်ဆန် ခရီးက်</item>
+        <item>ဗဟို စံတော်ချိန် - စာစ်ကာချဲဝမ်</item>
+        <item>အရှေ့ စံတော်ချိန် - အေတီကိုကန်</item>
+        <item>အတ္တလန္တိတ် စံတော်ချိန် - ကွီးဘက်</item>
+        <item>ဟာဝါယီ အလျူရှင်း - ဟာဝါယီ</item>
+        <item>"ဟာဝါယီ အလျူရှင်း  - အလာစ်ကာ"</item>
+        <item>ပစိဖိတ် စံတော်ချိန် - မက်တ်လာကာတ်လာ</item>
+        <item>တောင် စံတော်ချိန် - အရီဇိုနာ</item>
+        <item>ပစိဖိတ် - ဗာဟာ ကာလီဖိုနီယား</item>
+        <item>တောင် - ချီဟွာဟွာ</item>
+        <item>ဗဟို - တာမောလီပါစ်</item>
+        <item>တောင် - စိုနိုရာ</item>
+        <item>အရှေ့ အာဖရိက အချိန်</item>
+        <item>အတ္တလန္တိတ် စံတော်ချိန်</item>
+        <item>အတ္တလန္တိတ် စံတော်ချိန်</item>
+        <item>အရှေ့ဥရောပ စံတော်ချိန်</item>
+        <item>ကာလီနင်ဂရက်ဒ် အချိန်</item>
+        <item>အမာဇုံ - ရွန်ုဒိုနီးယား</item>
+        <item>ဘရာဇီးလီးယား - ပါရာ</item>
+    </string-array>
+</resources>

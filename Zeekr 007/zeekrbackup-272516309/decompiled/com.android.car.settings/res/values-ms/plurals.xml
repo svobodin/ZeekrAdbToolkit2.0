@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">Apl kamera</item>
+        <item quantity="one">Apl kamera</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">Apl klien e-mel</item>
+        <item quantity="one">Apl klien e-mel</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">Apl telefon</item>
+        <item quantity="one">Apl telefon</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d percubaan</item>
+        <item quantity="one">%d percubaan</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d apl</item>
+        <item quantity="one">%d apl</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">Minimum %d apl</item>
+        <item quantity="one">Minimum %d apl</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d pemberitahuan baharu</item>
+        <item quantity="one">%d pemberitahuan baharu</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d peranti disambungkan</item>
+        <item quantity="one">%1$d peranti disambungkan</item>
+    </plurals>
+</resources>

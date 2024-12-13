@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Activity Stub</string>
+    <string name="message_not_supported">Няма праграмы для апрацоўкі дзеяння</string>
+    <string name="pip_not_supported">Функцыя \"Відарыс у відарысе\" не падтрымліваецца на гэтай прыладзе</string>
+    <string name="stub_name">Няма</string>
+</resources>

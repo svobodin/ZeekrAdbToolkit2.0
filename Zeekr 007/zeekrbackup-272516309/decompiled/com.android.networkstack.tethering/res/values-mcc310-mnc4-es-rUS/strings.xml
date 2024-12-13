@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Desactivar conexión mediante dispositivo móvil</string>
+    <string name="no_upstream_notification_message">No se pueden conectar los dispositivos</string>
+    <string name="no_upstream_notification_title">La conexión mediante dispositivo móvil no tiene Internet</string>
+    <string name="upstream_roaming_notification_message">Es posible que se apliquen cargos adicionales por roaming</string>
+    <string name="upstream_roaming_notification_title">Se activó el hotspot o la conexión mediante dispositivo móvil</string>
+</resources>

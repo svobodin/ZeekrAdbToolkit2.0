@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">مصادر إمكانية اتصال الخادم</string>
+    <string name="mobile_no_internet">شبكة الجوّال هذه غير متصلة بالإنترنت</string>
+    <string name="network_available_sign_in">تسجيل الدخول إلى الشبكة</string>
+    <string name="network_partial_connectivity">إمكانية اتصال %1$s محدودة.</string>
+    <string name="network_partial_connectivity_detailed">يمكنك النقر للاتصال على أي حال.</string>
+    <string name="network_switch_metered">تم التبديل إلى %1$s</string>
+    <string name="network_switch_metered_detail">يستخدم الجهاز %1$s عندما لا يتوفر اتصال بالإنترنت في شبكة %2$s، ويمكن أن يتم فرض رسوم مقابل ذلك.</string>
+    <string name="network_switch_metered_toast">تم التبديل من %1$s إلى %2$s</string>
+    <string name="network_switch_type_name_unknown">نوع شبكة غير معروف</string>
+    <string name="other_networks_no_internet">الشبكة غير متصلة بالإنترنت</string>
+    <string name="private_dns_broken_detailed">لا يمكن الوصول إلى خادم أسماء نظام نطاقات خاص</string>
+    <string name="wifi_available_sign_in">‏تسجيل الدخول إلى شبكة Wi-Fi</string>
+    <string name="wifi_no_internet">لا يتوفّر في %1$s إمكانية الاتصال بالإنترنت.</string>
+    <string name="wifi_no_internet_detailed">انقر للحصول على الخيارات.</string>
+</resources>

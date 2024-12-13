@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>Sint-Maarten</item>
+        <item>Insulele Caraibe Olandeze</item>
+        <item>Curaçao</item>
+        <item>Sudanul de Sud</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Ora Australiei Centrale – NT</item>
+        <item>Ora Australiei Centrale – SA</item>
+        <item>Ora Australiei de Est – QLD</item>
+        <item>Ora Australiei de Est – NSW</item>
+        <item>Oră Zonă muntoasă – Dawson Creek</item>
+        <item>Ora stand. centr. – Saskatchewan</item>
+        <item>Ora standard de est – Atikokan</item>
+        <item>Ora standard Atlantic – Quebec</item>
+        <item>Ora Hawaii-Aleutine – Hawaii</item>
+        <item>Ora Hawaii-Aleutine – Alaska</item>
+        <item>Ora stand. Pacific – Metlakatla</item>
+        <item>Ora standard Zona muntoasă – AZ</item>
+        <item>Ora Pacific – Baja California</item>
+        <item>Ora Zonei muntoase – Chihuahua</item>
+        <item>Ora centrală – Tamaulipas</item>
+        <item>Ora Zonei muntoase – Sonora</item>
+        <item>Ora Africii de Est</item>
+        <item>Ora standard a Atlanticului</item>
+        <item>Ora standard a Atlanticului</item>
+        <item>Ora Europei de Est</item>
+        <item>Ora Kaliningradului</item>
+        <item>Amazon – Rondônia</item>
+        <item>Brasilia – Pará</item>
+    </string-array>
+</resources>

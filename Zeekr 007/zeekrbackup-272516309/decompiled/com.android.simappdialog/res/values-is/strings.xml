@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gluggi SIM-forrits</string>
+    <string name="install_carrier_app_defer_action">Ekki núna</string>
+    <string name="install_carrier_app_description">Til að nýja SIM-kortið þitt virki eins og vera ber þarftu að setja upp forritið %1$s</string>
+    <string name="install_carrier_app_description_default">Til að nýja SIM-kortið þitt virki eins og vera ber þarftu að setja upp forrit frá símafyrirtækinu</string>
+    <string name="install_carrier_app_download_action">Sækja forritið</string>
+    <string name="install_carrier_app_title">Virkja farsímaþjónustu</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Til baka</string>
+    <string name="suw_more_button_label">Meira</string>
+    <string name="suw_next_button_label">Áfram</string>
+</resources>

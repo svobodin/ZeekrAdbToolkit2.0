@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ກ່ອງໂຕ້ຕອບແອັບຊິມ</string>
+    <string name="install_carrier_app_defer_action">ບໍ່ຟ້າວເທື່ອ</string>
+    <string name="install_carrier_app_description">ເພື່ອເຮັດໃຫ້ຊິມໃໝ່ຂອງທ່ານເຮັດວຽກໄດ້ຕາມປົກກະຕິ, ທ່ານຕ້ອງຕິດຕັ້ງແອັບ %1$s ກ່ອນ</string>
+    <string name="install_carrier_app_description_default">ເພື່ອເຮັດໃຫ້ຊິມໃໝ່ຂອງທ່ານເຮັດວຽກໄດ້ຕາມປົກກະຕິ, ທ່ານຕ້ອງຕິດຕັ້ງແອັບຜູ້ໃຫ້ບໍລິການກ່ອນ</string>
+    <string name="install_carrier_app_download_action">ດາວໂຫຼດແອັບ</string>
+    <string name="install_carrier_app_title">ເປີດໃຊ້ບໍລິການມືຖື</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">ກັບຄືນ</string>
+    <string name="suw_more_button_label">ເພີ່ມເຕີມ</string>
+    <string name="suw_next_button_label">ຕໍ່​ໄປ</string>
+</resources>

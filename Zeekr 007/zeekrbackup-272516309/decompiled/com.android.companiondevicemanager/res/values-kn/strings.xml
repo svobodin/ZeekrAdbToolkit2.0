@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ಕಂಪ್ಯಾನಿಯನ್ ಸಾಧನ ನಿರ್ವಾಹಕರು</string>
+    <string name="chooser_title">&lt;strong>%2$s&lt;/strong> ಮೂಲಕ ನಿರ್ವಹಿಸಬೇಕಾದ %1$s ಅನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="confirmation_title">ನಿಮ್ಮ &lt;strong>%2$s&lt;/strong> ಅನ್ನು ನಿರ್ವಹಿಸಲು &lt;strong>%1$s&lt;/strong> ಅನ್ನು ಅನುಮತಿಸಿ</string>
+    <string name="consent_no">ಅನುಮತಿಸಬೇಡಿ</string>
+    <string name="consent_yes">ಅನುಮತಿಸಿ</string>
+    <string name="profile_name_generic">ಸಾಧನ</string>
+    <string name="profile_name_watch">ವೀಕ್ಷಿಸಿ</string>
+    <string name="profile_summary">ನಿಮ್ಮ %1$s. ಅನ್ನು ನಿರ್ವಹಿಸಲು ಈ ಆ್ಯಪ್‌ನ ಅಗತ್ಯವಿದೆ. %2$s</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dialogboks for SIM-kortapp</string>
+    <string name="install_carrier_app_defer_action">Ikke nå</string>
+    <string name="install_carrier_app_description">For å få det nye SIM-kortet ditt til å fungere som det skal, må du installere %1$s-appen</string>
+    <string name="install_carrier_app_description_default">For å få det nye SIM-kortet ditt til å fungere som det skal, må du installere operatørappen</string>
+    <string name="install_carrier_app_download_action">Last ned appen</string>
+    <string name="install_carrier_app_title">Aktiver mobiltjeneste</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Tilbake</string>
+    <string name="suw_more_button_label">Mer</string>
+    <string name="suw_next_button_label">Neste</string>
+</resources>

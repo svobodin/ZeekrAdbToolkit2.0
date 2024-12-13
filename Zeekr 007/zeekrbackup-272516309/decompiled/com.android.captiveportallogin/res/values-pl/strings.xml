@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Zaloguj się do sieci</string>
+    <string name="action_bar_title">Zaloguj się w aplikacji %1$s</string>
+    <string name="action_do_not_use_network">Nie używaj tej sieci</string>
+    <string name="action_use_network">Używaj tej sieci tak jak jest</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">Powiadomienia pokazują postęp pobierania plików</string>
+    <string name="channel_description_downloads">Powiadomienia pokazują ukończone lub anulowane pobierania</string>
+    <string name="channel_name_download_progress">Postęp pobierania</string>
+    <string name="channel_name_downloads">Pobrane</string>
+    <string name="custom_scheme_example">Np. strona logowania może wymagać konkretnej aplikacji lub uwierzytelnienia</string>
+    <string name="custom_scheme_warning">Sieć, z którą próbujesz się połączyć prosi o otwarcie innej aplikacji.</string>
+    <string name="download_completed">Zakończono pobieranie</string>
+    <string name="downloading_paramfile">Pobieram plik %s</string>
+    <string name="error_continue_via_browser">Kontynuuj mimo to w przeglądarce</string>
+    <string name="error_downloading_paramfile">Nie udało się pobrać pliku %1$s</string>
+    <string name="no_bypass_error_vpnwarning">Ponadto nie można ominąć tego błędu, ponieważ urządzenie korzysta obecnie z sieci VPN.</string>
+    <string name="ok">OK</string>
+    <string name="page_info">Informacje o stronie</string>
+    <string name="page_info_address">Adres:</string>
+    <string name="ssl_error_date_invalid">Certyfikat ma nieprawidłową datę.</string>
+    <string name="ssl_error_example">Na przykład strona logowania może nie należeć do wyświetlanej organizacji.</string>
+    <string name="ssl_error_expired">Certyfikat wygasł.</string>
+    <string name="ssl_error_invalid">Certyfikat jest nieprawidłowy.</string>
+    <string name="ssl_error_mismatch">Nazwa witryny nie pasuje do nazwy na certyfikacie.</string>
+    <string name="ssl_error_not_yet_valid">Certyfikat nie jest jeszcze ważny.</string>
+    <string name="ssl_error_unknown">Nieznany błąd certyfikatu.</string>
+    <string name="ssl_error_untrusted">Certyfikat nie pochodzi od zaufanego urzędu.</string>
+    <string name="ssl_error_view_certificate">Wyświetl certyfikat</string>
+    <string name="ssl_error_warning">W sieci, z którą próbujesz się połączyć, występują problemy z zabezpieczeniami.</string>
+    <string name="ssl_security_warning_title">Ostrzeżenie dotyczące bezpieczeństwa</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

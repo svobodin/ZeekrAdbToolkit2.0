@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_apfDrop802_3Frames">true</bool>
+    <bool name="config_dhcp_client_hostname">false</bool>
+    <bool name="config_force_dns_probe_private_ip_no_internet">false</bool>
+    <bool name="config_no_sim_card_uses_neighbor_mcc">false</bool>
+</resources>

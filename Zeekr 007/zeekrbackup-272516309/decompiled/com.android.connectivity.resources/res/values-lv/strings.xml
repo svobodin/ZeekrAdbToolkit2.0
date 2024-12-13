@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">Sistēmas savienojamības resursi</string>
+    <string name="mobile_no_internet">Mobilajā tīklā nav piekļuves internetam.</string>
+    <string name="network_available_sign_in">Pierakstīšanās tīklā</string>
+    <string name="network_partial_connectivity">Tīklā %1$s ir ierobežota savienojamība</string>
+    <string name="network_partial_connectivity_detailed">Lai tik un tā izveidotu savienojumu, pieskarieties</string>
+    <string name="network_switch_metered">Pārslēdzās uz tīklu %1$s</string>
+    <string name="network_switch_metered_detail">Kad vienā tīklā (%2$s) nav piekļuves internetam, ierīcē tiek izmantots cits tīkls (%1$s). Var tikt piemērota maksa.</string>
+    <string name="network_switch_metered_toast">Pārslēdzās no tīkla %1$s uz tīklu %2$s</string>
+    <string name="network_switch_type_name_unknown">nezināms tīkla veids</string>
+    <string name="other_networks_no_internet">Tīklā nav piekļuves internetam.</string>
+    <string name="private_dns_broken_detailed">Nevar piekļūt privātam DNS serverim.</string>
+    <string name="wifi_available_sign_in">Pierakstieties Wi-Fi tīklā</string>
+    <string name="wifi_no_internet">Tīklā %1$s nav piekļuves internetam</string>
+    <string name="wifi_no_internet_detailed">Pieskarieties, lai skatītu opcijas.</string>
+</resources>

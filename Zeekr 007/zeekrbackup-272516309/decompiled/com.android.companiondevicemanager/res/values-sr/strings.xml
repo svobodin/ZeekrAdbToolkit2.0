@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Менаџер придруженог уређаја</string>
+    <string name="chooser_title">Одаберите профил %1$s којим ће управљати апликација &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Дозволите апликацији &lt;strong>%1$s&lt;/strong> да управља уређајем &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_no">Не дозволи</string>
+    <string name="consent_yes">Дозволи</string>
+    <string name="profile_name_generic">уређај</string>
+    <string name="profile_name_watch">сат</string>
+    <string name="profile_summary">Ова апликација је потребна за управљање профилом %1$s. %2$s</string>
+</resources>

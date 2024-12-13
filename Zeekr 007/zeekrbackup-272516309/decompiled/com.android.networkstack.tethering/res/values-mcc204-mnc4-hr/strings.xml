@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Isključi žarišnu točku</string>
+    <string name="no_upstream_notification_message">Uređaji se ne mogu povezati s internetom</string>
+    <string name="no_upstream_notification_title">Žarišna točka nema pristup internetu</string>
+    <string name="upstream_roaming_notification_message">U roamingu su mogući dodatni troškovi</string>
+    <string name="upstream_roaming_notification_title">Žarišna je točka uključena</string>
+    <string name="upstream_roaming_notification_continue_button">Nastavi</string>
+</resources>

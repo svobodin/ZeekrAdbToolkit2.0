@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">テザリングを OFF にする</string>
+    <string name="no_upstream_notification_message">デバイスを接続できません</string>
+    <string name="no_upstream_notification_title">テザリングがインターネットに接続されていません</string>
+    <string name="upstream_roaming_notification_message">ローミング時に追加料金が発生することがあります</string>
+    <string name="upstream_roaming_notification_title">アクセス ポイントまたはテザリングが ON です</string>
+</resources>

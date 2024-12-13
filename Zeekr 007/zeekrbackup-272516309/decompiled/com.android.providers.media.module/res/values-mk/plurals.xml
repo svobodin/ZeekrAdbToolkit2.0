@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">Да се дозволи ^1 да избрише ^2 аудиодатотеки?</item>
+        <item quantity="one">Да се дозволи ^1 да избрише ^2 аудиодатотека?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">Да се дозволи ^1 да избрише ^2 ставки?</item>
+        <item quantity="one">Да се дозволи ^1 да избрише ^2 ставка?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">Да се дозволи ^1 да избрише ^2 фотографии?</item>
+        <item quantity="one">Да се дозволи ^1 да избрише ^2 фотографија?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">Да се дозволи ^1 да избрише ^2 видеа?</item>
+        <item quantity="one">Да се дозволи ^1 да избрише ^2 видео?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">Плус ^1 дополнителни ставки</item>
+        <item quantity="one">Плус ^1 дополнителна ставка</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">+ ^1</item>
+        <item quantity="one">+ ^1</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">Се бришат ^1 аудиодатотеки…</item>
+        <item quantity="one">Се брише ^1 аудиодатотека…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">Се бришат ^1 ставки…</item>
+        <item quantity="one">Се брише ^1 ставка…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">Се бришат ^1 фотографии…</item>
+        <item quantity="one">Се брише ^1 фотографија…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">Се бришат ^1 видеа…</item>
+        <item quantity="one">Се брише ^1 видео…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">Се преместуваат ^1 аудиодатотеки во корпата…</item>
+        <item quantity="one">Се преместува ^1 аудиодатотека во корпата…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">Се преместуваат ^1 ставки во корпата…</item>
+        <item quantity="one">Се преместува ^1 во корпата…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">Се преместуваат ^1 фотографии во корпата…</item>
+        <item quantity="one">Се преместува ^1 фотографија во корпата…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">Се преместуваат ^1 видеа во корпата…</item>
+        <item quantity="one">Се преместува ^1 видео во корпата…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">Се вадат ^1 аудиодатотеки од корпата…</item>
+        <item quantity="one">Се вади ^1 аудиодатотека од корпата…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">Се вадат ^1 ставки од корпата…</item>
+        <item quantity="one">Се вади ^1 ставка од корпата…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">Се вадат ^1 фотографии од корпата…</item>
+        <item quantity="one">Се вади ^1 фотографија од корпата…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">Се вадат ^1 видеа од корпата…</item>
+        <item quantity="one">Се вади ^1 видео од корпата…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">Се изменуваат ^1 аудиодатотеки…</item>
+        <item quantity="one">Се изменува ^1 аудиодатотека…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">Се изменуваат ^1 ставки…</item>
+        <item quantity="one">Се изменува ^1 ставка…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">Се изменуваат ^1 фотографии…</item>
+        <item quantity="one">Се изменува ^1 фотографија…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">Се изменуваат ^1 видеа…</item>
+        <item quantity="one">Се изменува ^1 видео…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">Да се дозволи ^1 да премести ^2 аудиодатотеки во корпата?</item>
+        <item quantity="one">Да се дозволи ^1 да премести ^2 аудиодатотека во корпата?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">Да се дозволи ^1 да премести ^2 ставки во корпата?</item>
+        <item quantity="one">Да се дозволи ^1 да премести ^2 ставка во корпата?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">Да се дозволи ^1 да премести ^2 фотографии во корпата?</item>
+        <item quantity="one">Да се дозволи ^1 да премести ^2 фотографија во корпата?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">Да се дозволи ^1 да премести ^2 видеа во корпата?</item>
+        <item quantity="one">Да се дозволи ^1 да премести ^2 видео во корпата?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">Да се дозволи ^1 да извади ^2 аудиодатотеки од корпата?</item>
+        <item quantity="one">Да се дозволи ^1 да извади ^2 аудиодатотека од корпата?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">Да се дозволи ^1 да извади ^2 ставки од корпата?</item>
+        <item quantity="one">Да се дозволи ^1 да извади ^2 ставка од корпата?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">Да се дозволи ^1 да извади ^2 фотографии од корпата?</item>
+        <item quantity="one">Да се дозволи ^1 да извади ^2 фотографија од корпата?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">Да се дозволи ^1 да извади ^2 видеа од корпата?</item>
+        <item quantity="one">Да се дозволи ^1 да извади ^2 видео од корпата?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">Да се дозволи ^1 да измени ^2 аудиодатотеки?</item>
+        <item quantity="one">Да се дозволи ^1 да измени ^2 аудиодатотека?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">Да се дозволи ^1 да измени ^2 ставки?</item>
+        <item quantity="one">Да се дозволи ^1 да измени ^2 ставка?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">Да се дозволи ^1 да измени ^2 фотографии?</item>
+        <item quantity="one">Да се дозволи ^1 да измени ^2 фотографија?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">Да се дозволи ^1 да измени ^2 видеа?</item>
+        <item quantity="one">Да се дозволи ^1 да измени ^2 видео?</item>
+    </plurals>
+</resources>

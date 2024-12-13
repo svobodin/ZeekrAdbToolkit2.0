@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sim App Dialog</string>
+    <string name="install_carrier_app_defer_action">Қазір емес</string>
+    <string name="install_carrier_app_description">Жаңа SIM картаңыз дұрыс жұмыс істеуі үшін, %1$s қолданбасын орнатуыңыз қажет.</string>
+    <string name="install_carrier_app_description_default">Жаңа SIM картаңыз дұрыс жұмыс істеуі үшін, оператордың қолданбасын орнатуыңыз қажет.</string>
+    <string name="install_carrier_app_download_action">Қолданбаны жүктеп алу</string>
+    <string name="install_carrier_app_title">Мобильдік қызметті іске қосыңыз</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Артқа</string>
+    <string name="suw_more_button_label">Тағы</string>
+    <string name="suw_next_button_label">Келесі</string>
+</resources>

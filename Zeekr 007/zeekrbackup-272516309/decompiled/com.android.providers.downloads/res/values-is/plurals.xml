@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_summary_active">
+        <item quantity="other">Verið að sækja %d skrár</item>
+        <item quantity="one">Verið að sækja %d skrá</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">%d skrár í bið</item>
+        <item quantity="one">%d skrá í bið</item>
+    </plurals>
+</resources>

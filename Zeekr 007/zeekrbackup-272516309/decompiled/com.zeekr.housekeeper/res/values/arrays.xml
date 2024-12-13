@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="apk_file">
+        <item>.apk</item>
+        <item>.apks</item>
+        <item>.APK</item>
+        <item>.APKS</item>
+    </string-array>
+    <string-array name="audio_file">
+        <item>.mp3</item>
+        <item>.MP3</item>
+        <item>.wav</item>
+        <item>.WAV</item>
+        <item>.wma</item>
+        <item>.WMA</item>
+        <item>.midi</item>
+        <item>.MIDI</item>
+        <item>.ra</item>
+        <item>.RA</item>
+        <item>.aac</item>
+        <item>.AAC</item>
+    </string-array>
+    <string-array name="filter_out_dirs">
+        <item>/storage/emulated/0/Android/data</item>
+        <item>/storage/emulated/0/AutoSdkAssets</item>
+        <item>/storage/emulated/0/tts</item>
+        <item>/storage/emulated/0/com.ecarx.multimedia</item>
+    </string-array>
+    <string-array name="game_mode_group">
+        <item>com.zeekr.housekeeper</item>
+    </string-array>
+    <string-array name="game_mutex_group">
+        <item>com.zeekr.housekeeper</item>
+    </string-array>
+    <string-array name="map_mode_group">
+        <item>com.zeekr.housekeeper</item>
+    </string-array>
+    <string-array name="map_mutex_group">
+        <item>com.autonavi.amapauto</item>
+    </string-array>
+    <string-array name="media_mode_group">
+        <item>com.zeekr.housekeeper</item>
+    </string-array>
+    <string-array name="media_mutex_group">
+        <item>com.bilibili.bilithings</item>
+        <item>com.arcvideo.car.video</item>
+        <item>cn.cmvideo.car.play</item>
+    </string-array>
+    <string-array name="path_list_ad">
+        <item>/data/media/0/Android/data/com.netease.cloudmusic/cache/Ad/</item>
+        <item>/data/media/0/Android/data/com.ss.android.article.news/splashCache/</item>
+        <item>/data/media/0/sina/weibo/.weiboadcache</item>
+        <item>/data/media/0/netease/cloudmusic/Ad/</item>
+        <item>/storage/emulated/0/netease/adcache</item>
+        <item>/data/media/0/qqmusic/splash/</item>
+        <item>/data/data/com.tencent.qqmusic/files/tad_cache/</item>
+        <item>/data/data/com.tencent.qqmusic/app_adnet/</item>
+        <item>/data/data/com.tencent.qqmusic/files/tad_cache/</item>
+        <item>/data/media/0/autonavi/splash</item>
+        <item>/data/media/0/autonavi/afpSplash</item>
+    </string-array>
+    <string-array name="path_list_log">
+        <item>/data/system/dropbox</item>
+        <item>/data/tombstones</item>
+        <item>/data/anr</item>
+        <item>/storage/emulated/0/vrlog/VRLogger</item>
+    </string-array>
+    <string-array name="picture_file">
+        <item>.png</item>
+        <item>.PNG</item>
+        <item>.jpg</item>
+        <item>.JPG</item>
+        <item>.jpeg</item>
+        <item>.JPEG</item>
+        <item>.ai</item>
+        <item>.AI</item>
+        <item>.psd</item>
+        <item>.PSD</item>
+        <item>.bmp</item>
+        <item>.BMP</item>
+    </string-array>
+    <string-array name="support_game_list">
+        <item>com.yongshi.tenojo.zeekr</item>
+        <item>com.Apinsky.Lite2048.zeekr</item>
+        <item>com.netease.aceracer</item>
+        <item>com.netease.party</item>
+        <item>com.netease.wowsb</item>
+        <item>com.netease.tom</item>
+        <item>com.netease.g104.cn</item>
+        <item>com.netease.vlfcn</item>
+        <item>cn.jj.tv</item>
+    </string-array>
+    <string-array name="system_app_black_list">
+        <item>com.baidu.iov.dueros.videoplayer</item>
+        <item>com.arcvideo.car.video</item>
+        <item>com.bilibili.bilithings</item>
+        <item>com.netease.cloudmusic.iot</item>
+    </string-array>
+    <string-array name="video_file">
+        <item>.mp4</item>
+        <item>.MP4</item>
+        <item>.swf</item>
+        <item>.SWF</item>
+        <item>.flv</item>
+        <item>.FLV</item>
+        <item>.mpg</item>
+        <item>.MPG</item>
+        <item>.wmv</item>
+        <item>.WMV</item>
+        <item>.mov</item>
+        <item>.MOV</item>
+        <item>.rm</item>
+        <item>.RM</item>
+        <item>.ram</item>
+        <item>.RAM</item>
+        <item>.avi</item>
+        <item>.AVI</item>
+    </string-array>
+    <string-array name="white_game_list">
+        <item>com.Apinsky.Lite2048.zeekr</item>
+    </string-array>
+    <string-array name="whitelist">
+        <item>com.zeekr.housekeeper</item>
+        <item>com.ecarx.sdk.openapi</item>
+        <item>com.ecarx.mycar</item>
+        <item>ecarx.launcher3</item>
+        <item>com.zeekr.local</item>
+        <item>com.android.mtp</item>
+        <item>com.android.webview</item>
+        <item>com.android.providers.media</item>
+        <item>com.android.providers.downloads</item>
+        <item>android.car.usb.handler</item>
+    </string-array>
+</resources>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">%1$d مجوز دیگر</item>
+        <item quantity="one">%1$d مجوز دیگر</item>
+    </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">%1$d برنامه به‌مدت چند ماه استفاده نشده است. برای مرور، ضربه بزنید</item>
+        <item quantity="one">%1$d برنامه به‌مدت چند ماه استفاده نشده است. برای مرور، ضربه بزنید</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">%1$d برنامه به‌مدت چند ماه استفاده نشده است</item>
+        <item quantity="one">%1$d برنامه به‌مدت چند ماه استفاده نشده است</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s روز</item>
+        <item quantity="one">%s روز</item>
+    </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">%s روز</item>
+        <item quantity="one">%s روز</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">%s ساعت</item>
+        <item quantity="one">%s ساعت</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">%s دقیقه</item>
+        <item quantity="one">%s دقیقه</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">%s ثانیه</item>
+        <item quantity="one">%s ثانیه</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s ساعت</item>
+        <item quantity="one">%s ساعت</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s دقیقه</item>
+        <item quantity="one">%s دقیقه</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d اعلان جدید</item>
+        <item quantity="one">%d اعلان جدید</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s برنامه</item>
+        <item quantity="one">%s برنامه</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s برنامه</item>
+        <item quantity="one">%s برنامه</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">%1$d برنامه از آن استفاده کرده‌اند</item>
+        <item quantity="one">%1$d برنامه از آن استفاده کرده است</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"آخرین دسترسی: %1$s
+%2$s دسترسی"</item>
+        <item quantity="one">"آخرین دسترسی: %1$s
+%2$s دسترسی"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"آخرین دسترسی: %1$s
+%2$s دسترسی (%3$s دسترسی در پس‌زمینه)"</item>
+        <item quantity="one">"آخرین دسترسی: %1$s
+%2$s دسترسی (%3$s دسترسی در پس‌زمینه)"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"آخرین دسترسی: %1$s
+%2$s دسترسی (%3$s دسترسی در پس‌زمینه)
+مدت: %3$s"</item>
+        <item quantity="one">"آخرین دسترسی: %1$s
+%2$s دسترسی (%3$s دسترسی در پس‌زمینه)
+مدت: %3$s"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"آخرین دسترسی: %1$s
+ مدت
+%2$s دسترسی: %3$s"</item>
+        <item quantity="one">"آخرین دسترسی: %1$s
+ مدت
+%2$s دسترسی: %3$s"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">‏%s ثانیه</item>
+        <item quantity="one">‏%s ثانیه</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">‏%1$dبرنامه استفاده‌نشده</item>
+        <item quantity="one">‏%1$dبرنامه استفاده‌نشده</item>
+    </plurals>
+</resources>

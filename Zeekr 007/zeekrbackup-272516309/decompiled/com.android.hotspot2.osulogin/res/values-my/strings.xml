@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">အွန်လိုင်း အကောင့်ဖွင့်ရန်</string>
+    <string name="app_name">OsuLogin</string>
+    <string name="sign_up_failed">အကောင့်ဖွင့်၍ မရပါ</string>
+    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
+</resources>

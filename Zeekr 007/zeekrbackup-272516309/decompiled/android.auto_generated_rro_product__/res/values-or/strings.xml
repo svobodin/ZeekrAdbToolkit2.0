@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="owner_name">ଡ୍ରାଇଭର୍</string>
+    <string name="permlab_accessCoarseLocation">କେବଳ ଫୋର୍‌ଗ୍ରାଉଣ୍ଡରେ ହାରାହାରି ଲୋକେସନ୍ ଆକ୍ସେସ୍ କରନ୍ତୁ</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">ମାଇକ୍ରୋଫୋନ ଚାଲୁ କରନ୍ତୁ</string>
+</resources>

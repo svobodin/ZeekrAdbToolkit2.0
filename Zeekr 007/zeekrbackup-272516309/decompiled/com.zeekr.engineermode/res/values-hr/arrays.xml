@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>Sint Maarten</item>
+        <item>Karipski otoci Nizozemske</item>
+        <item>Curaçao</item>
+        <item>Južni Sudan</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Australsko središnje – NT</item>
+        <item>Australsko središnje – SA</item>
+        <item>Australsko istočno – QLD</item>
+        <item>Australsko istočno – NSW</item>
+        <item>Planinsko standardno – Dawson Creek</item>
+        <item>Središnje standardno – Saskatchewan</item>
+        <item>Istočno standardno – Atikokan</item>
+        <item>Atlantsko standardno – Quebec</item>
+        <item>Havajsko-aleutsko – Havaji</item>
+        <item>Havajsko-aleutsko – Aljaska</item>
+        <item>Pacifičko standardno – Metlakatla</item>
+        <item>Planinsko standardno – Arizona</item>
+        <item>Pacifičko – Baja California</item>
+        <item>Planinsko – Chihuahua</item>
+        <item>Središnje – Tamaulipas</item>
+        <item>Planinsko – Sonora</item>
+        <item>Istočnoafričko vrijeme</item>
+        <item>Atlantsko standardno vrijeme</item>
+        <item>Atlantsko standardno vrijeme</item>
+        <item>Istočnoeuropsko vrijeme</item>
+        <item>Kalinjingradsko vrijeme</item>
+        <item>Amazona – Rondônia</item>
+        <item>Brazilija – Pará</item>
+    </string-array>
+</resources>

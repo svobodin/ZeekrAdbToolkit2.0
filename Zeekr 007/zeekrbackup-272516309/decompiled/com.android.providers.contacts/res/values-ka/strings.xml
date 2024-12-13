@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">კონტაქტების მეხსიერება</string>
+    <string name="debug_dump_database_message">თქვენ აპირებთ 1) შიდა მეხსიერებაში მონაცემთა ბაზის კოპირებას, რომელიც შეიცავს ყველა კონტაქტთან დაკავშირებულ ინფორმაციას და ზარების ჟურნალს და 2) მის გაგზავნას ელფოსტის საშუალებით. გახსოვდეთ, რომ კოპირების წარმატებით დასრულებისთანავე ან ელფოსტის მიღებისთანავე უნდა წაშალოთ მოწყობილობიდან ასლი.</string>
+    <string name="debug_dump_delete_button">წაიშალოს ახლა</string>
+    <string name="debug_dump_email_body">დართულია ჩემი კონტაქტების მონაცემთა ბაზა, რომელიც შეიცავს ინფორმაციას ყველა ჩემი კონტაქტის შესახებ. მოუფრთხილდი.</string>
+    <string name="debug_dump_email_sender_picker">ფაილის გასაგზავნად აირჩიეთ პროგრამა</string>
+    <string name="debug_dump_email_subject">დართულია კონტაქტების მ.ბაზა</string>
+    <string name="debug_dump_start_button">დაწყება</string>
+    <string name="debug_dump_title">კონტაქტების მონაცემთა ბაზის კოპირება</string>
+    <string name="default_directory">კონტაქტები</string>
+    <string name="local_invisible_directory">სხვა</string>
+    <string name="provider_label">კონტაქტები</string>
+    <string name="sharedUserLabel">Android-ის ბირთვის აპები</string>
+    <string name="upgrade_out_of_memory_notification_text">შეეხეთ ახალ ვერსიაზე გადასვლის დასასრულებლად.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">კონტაქტების ახალ ვერსიაზე გადასვლას ესაჭიროება მეტი მეხსიერება.</string>
+    <string name="upgrade_out_of_memory_notification_title">კონტაქტების მეხსიერების ახალ ვერსიაზე გადასვლა</string>
+    <string name="voicemail_from_column">"ხმოვანი ფოსტა "</string>
+</resources>

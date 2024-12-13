@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s: Verizon Wi-Fi Access-ს ვერ დაუკავშირდებით Verizon-ის დაფარვის ზონის გარეთ.</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s: Verizon Wi-Fi Access გამოწერილი არ გაქვთ. გთხოვთ, დაგვირეკოთ ტელეფონზე 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s: თქვენს Verizon Wi-Fi Access ანგარიშთან დაკავშირებით პრობლემა წარმოიშვა. გთხოვთ, დაგვირეკოთ ტელეფონზე 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s: თქვენ უკვე დაკავშირებული ხართ Verizon Wi-Fi Access-თან.</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s: Verizon Wi-Fi Access-თან დაკავშირებისას პრობლემა წარმოიშვა. გთხოვთ, დაგვირეკოთ ტელეფონზე 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s: თქვენს Verizon Wi-Fi Access ანგარიშთან დაკავშირებით პრობლემა წარმოიშვა. გთხოვთ, დაგვირეკოთ ტელეფონზე 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s: Verizon Wi-Fi Access თქვენი მდებარეობიდან მიუწვდომელია. ცადეთ მოგვიანებით ან ცადეთ სხვა მდებარეობიდან.</string>
+</resources>

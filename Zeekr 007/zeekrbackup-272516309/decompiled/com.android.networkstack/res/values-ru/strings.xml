@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Менеджер сетей</string>
+    <string name="connected">Подключение выполнено</string>
+    <string name="notification_channel_description_connected">Уведомления, которые появляются при успешной аутентификации устройства на странице входа в сеть.</string>
+    <string name="notification_channel_description_network_venue_info">Уведомления о наличии страницы с информацией о месте, где доступна сеть.</string>
+    <string name="notification_channel_name_connected">Аутентификация на странице входа</string>
+    <string name="notification_channel_name_network_venue_info">Информация о месте, где доступна сеть</string>
+    <string name="tap_for_info">Подключено. Нажмите, чтобы открыть сайт.</string>
+</resources>

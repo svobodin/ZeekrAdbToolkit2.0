@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="ic_launcher" id="0x7f010000" />
+    <public type="id" name="activity_main" id="0x7f020000" />
+    <public type="id" name="changePath" id="0x7f020001" />
+    <public type="layout" name="activity_main" id="0x7f030000" />
+    <public type="string" name="app_name" id="0x7f040000" />
+</resources>

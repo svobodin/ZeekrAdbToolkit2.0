@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Zima mtandao pepe</string>
+    <string name="no_upstream_notification_message">Vifaa vimeshindwa kuunganisha kwenye intaneti</string>
+    <string name="no_upstream_notification_title">Mtandao pepe hauna intaneti</string>
+    <string name="upstream_roaming_notification_message">"Huenda ukatozwa gharama za ziada ukitumia mitandao ya ng'ambo"</string>
+    <string name="upstream_roaming_notification_title">Mtandao pepe umewashwa</string>
+    <string name="upstream_roaming_notification_continue_button">Endelea</string>
+</resources>

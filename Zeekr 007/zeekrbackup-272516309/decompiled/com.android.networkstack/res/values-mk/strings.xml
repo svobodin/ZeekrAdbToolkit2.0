@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Управувач со мрежата</string>
+    <string name="connected">Поврзан</string>
+    <string name="notification_channel_description_connected">Се прикажуваат известувања кога уредот успешно ќе изврши проверка на мрежата на порталот за проверка</string>
+    <string name="notification_channel_description_network_venue_info">Се прикажуваат известувања за да означат дека мрежата има страница со информации за местото на настанот</string>
+    <string name="notification_channel_name_connected">Проверка преку портал за проверка</string>
+    <string name="notification_channel_name_network_venue_info">Мрежни информации за местото на настанот</string>
+    <string name="tap_for_info">Поврзано/допрете за да се прикаже веб-сајтот</string>
+</resources>

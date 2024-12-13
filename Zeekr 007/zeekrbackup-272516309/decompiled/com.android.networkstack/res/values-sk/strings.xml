@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Správca siete</string>
+    <string name="connected">Pripojená</string>
+    <string name="notification_channel_description_connected">Zobrazované upozornenia oznamujú, že bolo zariadenie úspešne pripojené k sieti prihlasovacieho portálu a overené</string>
+    <string name="notification_channel_description_network_venue_info">Zobrazované upozornenia oznamujú, že sieť má stránku s informáciami o mieste konania</string>
+    <string name="notification_channel_name_connected">Overenie v prihlasovacom portáli</string>
+    <string name="notification_channel_name_network_venue_info">Informácie o mieste konania v sieti</string>
+    <string name="tap_for_info">Pripojené / klepnutím zobrazíte web</string>
+</resources>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_missing_private_key">සහතිකයක් ස්ථාපනය කිරීම සඳහා පුද්ගලික යතුරක් අවශ්‍යයි</string>
+    <string name="action_missing_user_cert">පුද්ගලික යතුරක් ස්ථාපනය කිරීම සඳහා සහතිකයක් අවශ්‍යයි</string>
+    <string name="app_name">සහතික ස්ථාපකය</string>
+    <string name="ca_cert_is_added">CA සහතිකය ස්ථාපනය කරන ලදී</string>
+    <string name="ca_certificate">CA සහතිකය</string>
+    <string name="cert_missing_error">සහතික ගොනුව තිබෙන ස්ථානය නිශ්චය කරගත නොහැකි නිසා ස්ථාපනය කල නොහැක.</string>
+    <string name="cert_not_saved">සහතිකය ස්ථාපනය කර නැත.</string>
+    <string name="cert_read_error">සහතික ගොනුව කියවීමට නොහැකි වූ නිසා ස්ථාපනය කිරීමට නොහැකි විය.</string>
+    <string name="cert_temp_error">තාවකාලික දෝෂයකි. කරුණාකර පසුව නැවත උත්සාහ කරන්න.</string>
+    <string name="cert_too_large_error">සහතිකයේ ප්‍රමාණය විශාල වැඩි බැවින් ස්ථාපනය කළ නොහැක.</string>
+    <string name="certificate">සහතිකය</string>
+    <string name="certificate_capabilities_warning">සටහන: මෙම සහතිකය නිකුත්කරන්නාට උපාංගය වෙතට සහ ඉන් ඉවතට තදබදය සියල්ල පරීක්ෂා කළ හැකිය.</string>
+    <string name="certificate_name">සහතිකයේ නම</string>
+    <string name="credential_info">පැකේජයේ අඩංගු වනුයේ:</string>
+    <string name="credential_password">සහතික උද්ධෘත කිරීමට මුරපදය ටයිප් කරන්න.</string>
+    <string name="credential_usage_label">අක්තපත්‍ර භාවිතය:</string>
+    <string name="done_label">නිමයි</string>
+    <string name="extracting_pkcs12">උද්ධෘත කරමින්...</string>
+    <string name="install_done">%1$s Wi-Fi සුරැකි ජාල වෙත අක්තපත්‍ර එක් කර ඇත.</string>
+    <string name="install_done_title">අක්තපත්‍ර ස්ථාපනය කරන ලදී</string>
+    <string name="invalid_cert">සහතිකය අවලංගුයි.</string>
+    <string name="invalid_certificate_close_button">වසන්න</string>
+    <string name="invalid_certificate_message">මෙම ගොනුව %1$s එකක් ලෙස භාවිත කළ නොහැකිය</string>
+    <string name="invalid_certificate_title">මෙම ගොනුව භාවිත කළ නොහැකිය</string>
+    <string name="n_cacrts">%d CA සහතික</string>
+    <string name="name_char_error">අකුරු සහ ඉලක්කම් පමණක් ඇති නමක් ටයිප් කරන්න.</string>
+    <string name="name_credential_dialog_title">මෙම සහතිකය නම් කරන්න</string>
+    <string name="name_empty_error">නමක් ටයිප් කරන්න.</string>
+    <string name="no_cert_to_saved">ස්ථාපනයට සහතික නැත.</string>
+    <string name="one_cacrt">CA සහතික එකක්</string>
+    <string name="one_usercrt">එක් පරිශීලක සහතිකය</string>
+    <string name="one_userkey">එක් පරිශීලක යතුර</string>
+    <string name="only_primary_user_allowed">මෙම උපාංගයේ හිමිකරුට පමණක් සහතිකය ස්ථාපනය කළ හැක.</string>
+    <string name="p12_description">PKCS12 යතුරු ආචයනයේ සහතික කළ</string>
+    <string name="password_empty_error">මුරපදය ටයිප් කරන්න.</string>
+    <string name="password_error">නිවැරදි මුරපදය ටයිප් කරන්න.</string>
+    <string name="pick_file_title">සහතිකයක් තෝරන්න</string>
+    <string name="pkcs12_file_password_dialog_title">%s ගෙන් උද්ධෘත කරන්න</string>
+    <string name="pkcs12_password_dialog_title">සහතිකය උද්ධෘත කරන්න</string>
+    <string name="redirect_ca_certificate_close_button">වසන්න</string>
+    <string name="redirect_ca_certificate_title">සැකසීම් තුළ CA සහතික ස්ථාපනය කරන්න</string>
+    <string name="redirect_ca_certificate_with_app_info_message">%1$s වෙතින් වන මෙම සහතිකය සැකසීම් තුළ ස්ථාපනය කළ යුතුය. ඔබ විශ්වාස කරන සංවිධානවලින් පමණක් CA සහතික ස්ථාපනය කරන්න.</string>
+    <string name="select_certificate_usage_title">සහතික වර්ගයක් තෝරන්න</string>
+    <string name="unable_to_save_cert">සහතිකය සුරැකීමට නොහැකි විය. අක්තපත්‍ර සංචිතය ක්‍රියා කරවීමට හෝ හරියාකාරව ඇරඹීමට නොහැක.</string>
+    <string name="user_cert_is_added">පරිශීලක සහතිකය ස්ථාපනය කරන ලදී</string>
+    <string name="user_certificate">VPN &amp; යෙදුම් පරිශීලක සහතිකය</string>
+    <string name="userkey_type">ඇල්ගොරිතමය:</string>
+    <string name="wifi_cancel_label">අවලංගු කරන්න</string>
+    <string name="wifi_cert_is_added">Wi‑Fi සහතිකය ස්ථාපනය කරන ලදී</string>
+    <string name="wifi_certificate">Wi‑Fi සහතිකය</string>
+    <string name="wifi_config_text">"නම: %1$s
+FQDN: %2$s
+රෝමිං කොන්සෝටියම්: %3$s
+Realm: %4$s
+සත්‍යාපන ආකාරය: EAP-%5$s
+"</string>
+    <string name="wifi_detail_label">විස්තර</string>
+    <string name="wifi_detail_title">%s සඳහා විස්තර</string>
+    <string name="wifi_dismiss_label">ඉවත ලන්න</string>
+    <string name="wifi_install_label">ස්ථාපනය</string>
+    <string name="wifi_installer_detail">%1$s හරහා ලබා ගත හැකි ජාල වෙත සම්බන්ධ වීමට Wi-Fi අක්තපත්‍ර ස්ථාපනය කරන්න.</string>
+    <string name="wifi_installer_download_error">බාගත් ගොනුවේ ගැටලු ඇති අතර ස්ථාපනය කළ නොහැකිය. ඔබ වත්මන් මූලාශ්‍රය වෙතින් ගොනුව බාගත් බව සහතික කර ගන්න.</string>
+    <string name="wifi_installer_fail">Wi-Fi අක්තපත්‍ර ස්ථාපනය කළ නොහැකිය. ගොනුව නැවත බාගැනීමට උත්සාහ කරන්න.</string>
+    <string name="wifi_installer_fail_no_wifi">Wi-Fi සක්‍රිය කර නැවත උත්සාහ කරන්න.</string>
+    <string name="wifi_installer_fail_no_wifi_title">ස්ථාපනය අවලංගු කරන ලදී</string>
+    <string name="wifi_installer_fail_title">ස්ථාපනය කළ නොහැකිය</string>
+    <string name="wifi_installing_label">ස්ථාපනය කරමින්</string>
+    <string name="wifi_no_config">කිසිවක් නැත</string>
+    <string name="wifi_sim_config_text">"SIM: %s
+"</string>
+    <string name="wifi_title">Wi-Fi පැතිකඩ</string>
+    <string name="wifi_tls_config_text">"සේවාලාභී සහතිකය:
+%1$s
+යතුර: %2$s
+"</string>
+    <string name="wifi_trust_config_text">"විශ්වාස සහතිකය:
+%s
+"</string>
+    <string name="wifi_ttls_config_text">"පරිශීලක නම: %s
+"</string>
+</resources>

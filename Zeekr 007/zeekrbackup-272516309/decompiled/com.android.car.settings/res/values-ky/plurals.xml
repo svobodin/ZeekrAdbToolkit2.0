@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">Камера колдонмолору</item>
+        <item quantity="one">Камера колдонмосу</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">Электрондук почта кардарлары</item>
+        <item quantity="one">Электрондук почта кардары</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">Телефон колдонмолору</item>
+        <item quantity="one">Телефон колдонмосу</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d аракет</item>
+        <item quantity="one">%d аракет</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d колдонмо</item>
+        <item quantity="one">%d колдонмо</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">Кеминде %d колдонмо</item>
+        <item quantity="one">Кеминде %d колдонмо</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d жаңы билдирме</item>
+        <item quantity="one">%d жаңы билдирме</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d түзмөк туташып турат</item>
+        <item quantity="one">%1$d түзмөк туташып турат</item>
+    </plurals>
+</resources>

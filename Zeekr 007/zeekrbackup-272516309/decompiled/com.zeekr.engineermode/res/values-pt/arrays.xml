@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>São Martinho</item>
+        <item>Países Baixos Caribenhos</item>
+        <item>Curaçao</item>
+        <item>Sudão do Sul</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Central da Austrália - NT</item>
+        <item>Central da Austrália - SA</item>
+        <item>Leste da Austrália - QLD</item>
+        <item>Leste da Austrália- NSW</item>
+        <item>Padrão Montanhas - Dawson Creek</item>
+        <item>Padrão Central - Saskatchewan</item>
+        <item>Padrão leste dos EUA - Atikokan</item>
+        <item>Padrão leste do Canadá - Québec</item>
+        <item>Havaí-Aleutas - Havaí</item>
+        <item>Havaí-Aleutas - Alasca</item>
+        <item>Padrão do Pacífico - Metlakatla</item>
+        <item>Padrão das Montanhas - Arizona</item>
+        <item>Pacífico - Baja California</item>
+        <item>Montanhas - Chihuahua</item>
+        <item>Central - Tamaulipas</item>
+        <item>Montanhas - Sonora</item>
+        <item>Horário da África Oriental</item>
+        <item>Horário Padrão do Atlântico</item>
+        <item>Horário Padrão do Atlântico</item>
+        <item>Horário do Leste Europeu</item>
+        <item>Horário de Caliningrado</item>
+        <item>Amazonas - Rondônia</item>
+        <item>Brasília - Pará</item>
+    </string-array>
+</resources>

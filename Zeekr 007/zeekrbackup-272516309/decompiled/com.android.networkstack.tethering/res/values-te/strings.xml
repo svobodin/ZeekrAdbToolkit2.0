@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="disable_tether_notification_message">వివరాల కోసం మీ అడ్మిన్‌ని సంప్రదించండి</string>
+    <string name="disable_tether_notification_title">టెథరింగ్ డిజేబుల్ చేయబడింది</string>
+    <string name="no_upstream_notification_disable_button" />
+    <string name="no_upstream_notification_message" />
+    <string name="no_upstream_notification_title" />
+    <string name="notification_channel_tethering_status">హాట్‌స్పాట్ &amp; టెథరింగ్ స్థితి</string>
+    <string name="tethered_notification_message">సెటప్ చేయడానికి ట్యాప్ చేయండి.</string>
+    <string name="tethered_notification_title">టెథరింగ్ లేదా హాట్‌స్పాట్ యాక్టివ్‌గా ఉంది</string>
+    <string name="upstream_roaming_notification_message" />
+    <string name="upstream_roaming_notification_title" />
+</resources>

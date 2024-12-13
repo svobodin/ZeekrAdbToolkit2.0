@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>سنٹ مارٹن</item>
+        <item>کریبیائی نیدرلینڈز</item>
+        <item>کیورساؤ</item>
+        <item>جنوبی سوڈان</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>‏آسٹریلین سنٹرل - NT</item>
+        <item>‏آسٹریلین سنٹرل - SA</item>
+        <item>‏آسٹریلین ایسٹرن - QLD</item>
+        <item>‏آسٹریلین ایسٹرن - NSW</item>
+        <item>ماؤنٹین اسٹینڈرڈ - ڈاؤسن کریک</item>
+        <item>سنٹرل اسٹینڈرڈ - سسکیچؤن</item>
+        <item>ایسٹرن اسٹینڈرڈ - اٹیکوکن</item>
+        <item>اٹلانٹک اسٹینڈرڈ - کیوبیک</item>
+        <item>ہوائی الیوشن - ہوائی</item>
+        <item>ہوائی الیوشن - الاسکا</item>
+        <item>پیسفک اسٹینڈرڈ - میٹلاکاٹلا</item>
+        <item>ماؤنٹین اسٹینڈرڈ - اریزونا</item>
+        <item>پیسفک - باجا کیلیفورنیا</item>
+        <item>ماؤنٹین - چواوا</item>
+        <item>سنٹرل - تامولی پاس</item>
+        <item>ماؤنٹین - سونورا</item>
+        <item>مشرقی افریقہ کا وقت</item>
+        <item>اٹلانٹک کا معیاری وقت</item>
+        <item>اٹلانٹک کا معیاری وقت</item>
+        <item>مشرقی یورپ کا وقت</item>
+        <item>کلیننگراڈ کا وقت</item>
+        <item>ایمازن - رونڈونیا</item>
+        <item>برازیلیا - پھارا</item>
+    </string-array>
+</resources>

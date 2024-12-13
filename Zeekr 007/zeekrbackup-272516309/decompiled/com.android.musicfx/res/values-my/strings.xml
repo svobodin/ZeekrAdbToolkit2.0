@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">ဘေ့စ်အသံ တိုးမြှင့်ခြင်း</string>
+    <string name="ci_extreme">FX မြှင့်တင်မှု</string>
+    <string name="classical">ဂန္ထဝင်</string>
+    <string name="dance">အက</string>
+    <string name="eq_dialog_title">အသံညှိကိရိယာ</string>
+    <string name="flat">တစ်ပြေးညီ</string>
+    <string name="folk">ရိုးရာတေးဂီတ</string>
+    <string name="headset_plug">ဤအထူးပြုလုပ်ချက်များအတွက် နားကြပ်တပ်ဆင်ပါ။</string>
+    <string name="heavy_metal">ဟဲဗီး မက်တယ်လ်</string>
+    <string name="hip_hop">ဟစ်ဟော့ပ်</string>
+    <string name="jazz">ဂျက်ဇ်</string>
+    <string name="no_effects">အထူးပြုလုပ်ချက်များ မရနိုင်ပါ။</string>
+    <string name="normal">ပုံမှန်</string>
+    <string name="picker_title">တေးဂီတ အထူးပြုလုပ်ချက် ထိန်းချုပ်ခန်း</string>
+    <string name="pop">ပေါ့ပ်</string>
+    <string name="rock">ရော့ခ်</string>
+    <string name="setup">စနစ်ထည့်ရန်</string>
+    <string name="user">အသုံးပြုသူ</string>
+    <string name="virtualizer_strength">ပတ်လည် အသံစနစ်</string>
+</resources>

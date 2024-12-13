@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="owner_name">Șofer</string>
+    <string name="permlab_accessCoarseLocation">să acceseze locația aproximativă numai în prim-plan</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">Porniți microfonul</string>
+</resources>

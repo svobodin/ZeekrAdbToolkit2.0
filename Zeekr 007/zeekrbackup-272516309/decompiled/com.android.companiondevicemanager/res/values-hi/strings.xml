@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">सहयोगी डिवाइस मैनेजर</string>
+    <string name="chooser_title">कोई %1$s चुनें, ताकि उसे &lt;strong>%2$s&lt;/strong> की मदद से प्रबंधित किया जा सके</string>
+    <string name="confirmation_title">&lt;strong>%1$s&lt;/strong> को, अपनी &lt;strong>%2$s&lt;/strong> मैनेज करने की अनुमति दें</string>
+    <string name="consent_no">अनुमति न दें</string>
+    <string name="consent_yes">अनुमति दें</string>
+    <string name="profile_name_generic">डिवाइस</string>
+    <string name="profile_name_watch">स्मार्टवॉच</string>
+    <string name="profile_summary">%1$s को मैनेज करने के लिए, यह ऐप्लिकेशन ज़रूरी है. %2$s</string>
+</resources>

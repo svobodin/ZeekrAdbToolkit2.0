@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">"Consentire all'app ^1 di eliminare ^2 file audio?"</item>
+        <item quantity="one">"Consentire all'app ^1 di eliminare questo file audio?"</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">"Consentire all'app ^1 di eliminare ^2 elementi?"</item>
+        <item quantity="one">"Consentire all'app ^1 di eliminare questo elemento?"</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">"Consentire all'app ^1 di eliminare ^2 foto?"</item>
+        <item quantity="one">"Consentire all'app ^1 di eliminare questa foto?"</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">"Consentire all'app ^1 di eliminare ^2 video?"</item>
+        <item quantity="one">"Consentire all'app ^1 di eliminare questo video?"</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">Più altri ^1 elementi</item>
+        <item quantity="one">Più ^1 altro elemento</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">+^1</item>
+        <item quantity="one">+^1</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">Eliminazione di ^1 file audio in corso…</item>
+        <item quantity="one">Eliminazione del file audio in corso…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">Eliminazione di ^1 elementi in corso…</item>
+        <item quantity="one">"Eliminazione dell'elemento in corso…"</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">Eliminazione di ^1 foto in corso…</item>
+        <item quantity="one">Eliminazione della foto in corso…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">Eliminazione di ^1 video in corso…</item>
+        <item quantity="one">Eliminazione del video in corso…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">Spostamento di ^1 file audio nel cestino in corso…</item>
+        <item quantity="one">Spostamento del file audio nel cestino in corso…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">Spostamento di ^1 elementi nel cestino in corso…</item>
+        <item quantity="one">"Spostamento dell'elemento nel cestino in corso…"</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">Spostamento di ^1 foto nel cestino in corso…</item>
+        <item quantity="one">Spostamento della foto nel cestino in corso…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">Spostamento di ^1 video nel cestino in corso…</item>
+        <item quantity="one">Spostamento del video nel cestino in corso…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">Spostamento di ^1 file audio fuori dal cestino in corso…</item>
+        <item quantity="one">Spostamento del file audio fuori dal cestino in corso…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">Spostamento di ^1 elementi fuori dal cestino in corso…</item>
+        <item quantity="one">"Spostamento dell'elemento fuori dal cestino in corso…"</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">Spostamento di ^1 foto fuori dal cestino in corso…</item>
+        <item quantity="one">Spostamento della foto fuori dal cestino in corso…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">Spostamento di ^1 video fuori dal cestino in corso…</item>
+        <item quantity="one">Spostamento del video fuori dal cestino in corso…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">Modifica di ^1 file audio in corso…</item>
+        <item quantity="one">Modifica del file audio in corso…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">Modifica di ^1 elementi in corso…</item>
+        <item quantity="one">"Modifica dell'elemento in corso…"</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">Modifica di ^1 foto in corso…</item>
+        <item quantity="one">Modifica della foto in corso…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">Modifica di ^1 video in corso…</item>
+        <item quantity="one">Modifica del video in corso…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">"Consentire all'app ^1 di spostare ^2 file audio nel cestino?"</item>
+        <item quantity="one">"Consentire all'app ^1 di spostare questo file audio nel cestino?"</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">"Consentire all'app ^1 di spostare ^2 elementi nel cestino?"</item>
+        <item quantity="one">"Consentire all'app ^1 di spostare questo elemento nel cestino?"</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">"Consentire all'app ^1 di spostare ^2 foto nel cestino?"</item>
+        <item quantity="one">"Consentire all'app ^1 di spostare questa foto nel cestino?"</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">"Consentire all'app ^1 di spostare ^2 video nel cestino?"</item>
+        <item quantity="one">"Consentire all'app ^1 di spostare questo video nel cestino?"</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">"Consentire all'app ^1 di spostare ^2 file audio fuori dal cestino?"</item>
+        <item quantity="one">"Consentire all'app ^1 di spostare questo file audio fuori dal cestino?"</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">"Consentire all'app ^1 di spostare ^2 elementi fuori dal cestino?"</item>
+        <item quantity="one">"Consentire all'app ^1 di spostare questo elemento fuori dal cestino?"</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">"Consentire all'app ^1 di spostare ^2 foto fuori dal cestino?"</item>
+        <item quantity="one">"Consentire all'app ^1 di spostare questa foto fuori dal dispositivo?"</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">"Consentire all'app ^1 di spostare ^2 video fuori dal cestino?"</item>
+        <item quantity="one">"Consentire all'app ^1 di spostare questo video fuori dal cestino?"</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">"Consentire all'app ^1 di modificare ^2 file audio?"</item>
+        <item quantity="one">"Consentire all'app ^1 di modificare questo file audio?"</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">"Consentire all'app ^1 di modificare ^2 elementi?"</item>
+        <item quantity="one">"Consentire all'app ^1 di modificare questo elemento?"</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">"Consentire all'app ^1 di modificare ^2 foto?"</item>
+        <item quantity="one">"Consentire all'app ^1 di modificare questa foto?"</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">"Consentire all'app ^1 di modificare ^2 video?"</item>
+        <item quantity="one">"Consentire all'app ^1 di modificare questo video?"</item>
+    </plurals>
+</resources>

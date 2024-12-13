@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_missing_private_key">Za instaliranje certifikata potreban je privatni ključ</string>
+    <string name="action_missing_user_cert">Za instalaciju privatnog ključa potrebna je potvrda</string>
+    <string name="app_name">Alat za instaliranje certifikata</string>
+    <string name="ca_cert_is_added">CA certifikat je instaliran</string>
+    <string name="ca_certificate">CA certifikat</string>
+    <string name="cert_missing_error">Instalacija je prekinuta jer fajl u kojem je pohranjen certifikat nije pronađen.</string>
+    <string name="cert_not_saved">Certifikat nije instaliran.</string>
+    <string name="cert_read_error">Instalacija je prekinuta jer fajl u kojem je pohranjen certifikat nije očitan.</string>
+    <string name="cert_temp_error">Privremena greška. Pokušajte kasnije.</string>
+    <string name="cert_too_large_error">Instalacija je prekinuta jer je certifikat prevelik.</string>
+    <string name="certificate">Potvrda</string>
+    <string name="certificate_capabilities_warning">Napomena: izdavač ove potvrde može pregledati sav promet koji se vrši preko uređaja.</string>
+    <string name="certificate_name">Naziv potvrde:</string>
+    <string name="credential_info">Paket sadrži:</string>
+    <string name="credential_password">Unesite lozinku za izdvajanje certifikata.</string>
+    <string name="credential_usage_label">Upotreba akreditiva:</string>
+    <string name="done_label">GOTOVO</string>
+    <string name="extracting_pkcs12">Izdvajanje...</string>
+    <string name="install_done">Akreditivi za %1$s su dodani na sačuvane WiFi mreže.</string>
+    <string name="install_done_title">Akreditivi su instalirani</string>
+    <string name="invalid_cert">Certifikat je nevažeći.</string>
+    <string name="invalid_certificate_close_button">Zatvori</string>
+    <string name="invalid_certificate_message">Ovaj fajl se ne može koristiti kao %1$s</string>
+    <string name="invalid_certificate_title">Nije moguće koristiti ovaj fajl</string>
+    <string name="n_cacrts">%d CA certifikati</string>
+    <string name="name_char_error">Unesite ime koje sadrži samo slova i brojeve.</string>
+    <string name="name_credential_dialog_title">Dajte naziv ovoj potvrdi</string>
+    <string name="name_empty_error">Unesite ime.</string>
+    <string name="no_cert_to_saved">Nema certifikata za instalaciju.</string>
+    <string name="one_cacrt">jedan CA certifikat</string>
+    <string name="one_usercrt">jedan korisnički certifikat</string>
+    <string name="one_userkey">jedan korisnički ključ</string>
+    <string name="only_primary_user_allowed">Samo vlasnik ovog uređaja može instalirati certifikate.</string>
+    <string name="p12_description">Certifikati u bazi ključeva PKCS12.</string>
+    <string name="password_empty_error">Unesite lozinku.</string>
+    <string name="password_error">Unesite ispravnu lozinku.</string>
+    <string name="pick_file_title">Odaberite certifikat</string>
+    <string name="pkcs12_file_password_dialog_title">Izdvoji iz %s</string>
+    <string name="pkcs12_password_dialog_title">Izdvoji certifikat</string>
+    <string name="redirect_ca_certificate_close_button">Zatvori</string>
+    <string name="redirect_ca_certificate_title">Instalirajte CA certifikate u Postavkama</string>
+    <string name="redirect_ca_certificate_with_app_info_message">Ovaj certifikat iz aplikacije %1$s morate instalirati u Postavkama. Instalirajte CA certifikate samo ako dolaze od organizacija kojima vjerujete.</string>
+    <string name="select_certificate_usage_title">Odaberite vrstu potvrde</string>
+    <string name="unable_to_save_cert">Certifikat nije spremljen. Pohranjivanje akreditiva nije omogućeno niti ispravno pokrenuto.</string>
+    <string name="user_cert_is_added">Korisnički certifikat je instaliran</string>
+    <string name="user_certificate">Korisnički certifikat za VPN i aplikacije</string>
+    <string name="userkey_type">Algoritam:</string>
+    <string name="wifi_cancel_label">Otkaži</string>
+    <string name="wifi_cert_is_added">Certifikat za WiFi je instaliran</string>
+    <string name="wifi_certificate">Certifikat za WiFi</string>
+    <string name="wifi_config_text">"Ime: %1$s
+Puno ime domene: %2$s
+Konzorcijumi za roming: %3$s
+Imenovana oblast: %4$s
+Metoda autentifikacije: EAP-%5$s
+"</string>
+    <string name="wifi_detail_label">Detalji</string>
+    <string name="wifi_detail_title">Detalji za mrežu %s</string>
+    <string name="wifi_dismiss_label">Odbaci</string>
+    <string name="wifi_install_label">Instaliraj</string>
+    <string name="wifi_installer_detail">Instalirajte akreditive za WiFi da se povežete sa mrežama dostupnim preko %1$s.</string>
+    <string name="wifi_installer_download_error">Postoje problemi u preuzetom fajlu i ne može se instalirati. Provjerite da li ste preuzeli fajl iz ispravnog izvora.</string>
+    <string name="wifi_installer_fail">Nije uspjelo instaliranje WiFi akreditiva. Pokušajte ponovo preuzeti fajl.</string>
+    <string name="wifi_installer_fail_no_wifi">Uključite WiFi i pokušajte ponovo.</string>
+    <string name="wifi_installer_fail_no_wifi_title">Instalacija je otkazana</string>
+    <string name="wifi_installer_fail_title">Instaliranje nije uspjelo</string>
+    <string name="wifi_installing_label">Instalira se</string>
+    <string name="wifi_no_config">Ništa</string>
+    <string name="wifi_sim_config_text">"SIM: %s
+"</string>
+    <string name="wifi_title">WiFi profil</string>
+    <string name="wifi_tls_config_text">"Certifikat klijenta:
+%1$s
+Ključ: %2$s
+"</string>
+    <string name="wifi_trust_config_text">"Pouzdani certifikat:
+%s
+"</string>
+    <string name="wifi_ttls_config_text">"Korisničko ime: %s
+"</string>
+</resources>

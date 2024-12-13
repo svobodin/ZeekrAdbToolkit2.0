@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Отключить точку доступа</string>
+    <string name="no_upstream_notification_message">Устройства не могут подключаться к Интернету</string>
+    <string name="no_upstream_notification_title">Точка доступа не подключена к Интернету</string>
+    <string name="upstream_roaming_notification_message">За использование услуг связи в роуминге может взиматься дополнительная плата.</string>
+    <string name="upstream_roaming_notification_title">Точка доступа включена</string>
+    <string name="upstream_roaming_notification_continue_button">Продолжить</string>
+</resources>

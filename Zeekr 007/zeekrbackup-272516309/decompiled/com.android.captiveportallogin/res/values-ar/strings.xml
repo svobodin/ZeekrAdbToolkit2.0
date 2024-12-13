@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">تسجيل الدخول إلى الشبكة</string>
+    <string name="action_bar_title">‏سجّل الدخول إلى %1$s</string>
+    <string name="action_do_not_use_network">عدم استخدام هذه الشبكة</string>
+    <string name="action_use_network">استخدام هذه الشبكة كما هي</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">إشعارات بشأن مدى اقتراب عمليات تنزيل الملفات على الانتهاء</string>
+    <string name="channel_description_downloads">إشعارات بشأن عمليات التنزيل التي اكتملت أو تم إلغاؤها</string>
+    <string name="channel_name_download_progress">مدى اقتراب عملية التنزيل على الانتهاء</string>
+    <string name="channel_name_downloads">عمليات التنزيل</string>
+    <string name="custom_scheme_example">على سبيل المثال، قد تتطلب صفحة تسجيل الدخول تطبيقًا معيّنًا لإجراء المصادقة.</string>
+    <string name="custom_scheme_warning">الشبكة التي تحاول الاتصال بها تطلب فتح تطبيق آخر.</string>
+    <string name="download_completed">اكتمَل التنزيل.</string>
+    <string name="downloading_paramfile">‏جارٍ تنزيل %1$s.</string>
+    <string name="error_continue_via_browser">المتابعة على أي حال باستخدام المتصفح</string>
+    <string name="error_downloading_paramfile">‏تعذّر تنزيل %1$s.</string>
+    <string name="no_bypass_error_vpnwarning">‏بالإضافة إلى ذلك، لا يمكن تجاوز هذا الخطأ لأن الجهاز يعمل الآن من خلال شبكة افتراضية خاصة (VPN).</string>
+    <string name="ok">حسنًا</string>
+    <string name="page_info">معلومات الصفحة</string>
+    <string name="page_info_address">العنوان:</string>
+    <string name="ssl_error_date_invalid">تشتمل هذه الشهادة على تاريخ غير صالح.</string>
+    <string name="ssl_error_example">على سبيل المثال، قد لا تنتمي صفحة تسجيل الدخول إلى المنظمة المعروضة.</string>
+    <string name="ssl_error_expired">انتهت صلاحية هذه الشهادة.</string>
+    <string name="ssl_error_invalid">هذه الشهادة غير صالحة.</string>
+    <string name="ssl_error_mismatch">لا يتطابق اسم الموقع مع الاسم على الشهادة.</string>
+    <string name="ssl_error_not_yet_valid">هذه الشهادة ليست صالحة بعد.</string>
+    <string name="ssl_error_unknown">حدث خطأ غير معروف بالشهادة.</string>
+    <string name="ssl_error_untrusted">هذه الشهادة ليست من جهة موثوق بها.</string>
+    <string name="ssl_error_view_certificate">عرض الشهادة</string>
+    <string name="ssl_error_warning">الشبكة التي تحاول الانضمام إليها بها مشاكل أمنية.</string>
+    <string name="ssl_security_warning_title">تحذير أمني</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

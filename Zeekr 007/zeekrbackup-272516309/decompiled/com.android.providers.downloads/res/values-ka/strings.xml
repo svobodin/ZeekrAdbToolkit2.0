@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ჩამოტვირთვის მენეჯერი</string>
+    <string name="button_cancel_download">გაუქმება</string>
+    <string name="button_queue_for_wifi">რიგი</string>
+    <string name="button_start_now">დაწყება ახლავე</string>
+    <string name="download_error">ვერ განხორციელდა</string>
+    <string name="download_no_application_title">ფაილის გახსნა ვერ ხერხდება</string>
+    <string name="download_queued">რიგშია</string>
+    <string name="download_remaining">დარჩა %s</string>
+    <string name="download_running">მიმდინარეობს</string>
+    <string name="download_running_percent">მიმდინარეობს, %s</string>
+    <string name="download_unknown_title">&lt;უსათაურო></string>
+    <string name="notification_download_complete">ჩამოტვირთვა დასრულდა.</string>
+    <string name="notification_download_failed">წარუმატებელი ჩამოტვირთვა.</string>
+    <string name="notification_need_wifi_for_size">ჩამოტვირთვის ზომა ითხოვს Wi-Fi-ს.</string>
+    <string name="notification_paused_in_background">უკანა ფონზე დაპაუზებული.</string>
+    <string name="permdesc_accessAllDownloads">მიეცით აპს უფლება ნახოს და შეცვალოს ნებისმიერი ჩამოტვირთვა, რომელიც ინიცირებული იყო სისტემის ნებისმიერი აპის მიერ.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">მიეცით აპს უფლება ჩამოტვირთოს ფაილები ჩამოტვირთულ ქეშში. მისი წაშლა ავტომატურად შეუძლებელია მაშინ, როდესაც ჩამოტვირთვის მენეჯერს მეტი სივრცე სჭირდება.</string>
+    <string name="permdesc_downloadCompletedIntent">მიეცით აპს, უფლება, გააგზავნოს შეტყობინება დასრულებული ჩამოტვირთვების შესახებ. ბოროტმოქმედმა აპლიკაციებმა შეიძლება ეს გამოიყენონ ჩამოტვირთვების დასაზიანებლად და პირად ინფორმაციაზე წვდომისათვის.</string>
+    <string name="permdesc_downloadManager">მიეცით აპლიკაციას ჩამოტვირთვის მენეჯერის წვდომისა და ფაილების ჩამოტვირთვებისთვის მისი გამოყენების უფლება. ბოროტმოქმედმა აპლიკაციებმა შეიძლება ეს გამოიყენონ ჩამოტვირთვების დასაზიანებლად და პირად ინფორმაციაზე წვდომისათვის.</string>
+    <string name="permdesc_downloadManagerAdvanced">მიეცით აპს ჩამოტვირთვის მენეჯერის გაუმჯობესებულ ფუნქციებზე წვდომის უფლება. ბოროტმოქმედმა აპებმა შეიძლება ეს გამოიყენონ ჩამოტვირთვების დასაზიანებლად და პირად ინფორმაციაზე წვდომისათვის.</string>
+    <string name="permdesc_downloadWithoutNotification">მიეცით აპს უფლება, ჩამოტვირთოს ფაილები ჩამოტვირთვის მენეჯერიდან მომხმარებლისთვის შეტყობინების ჩვენების გარეშე.</string>
+    <string name="permlab_accessAllDownloads">ყველა სისტემურ ჩამოტვირთვაზე წვდომა</string>
+    <string name="permlab_downloadCacheNonPurgeable">ჩამოტვირთვის ქეშში სივრცის ამობრუნება</string>
+    <string name="permlab_downloadCompletedIntent">ჩამოტვირთვის შეტყობინებების გაგზავნა.</string>
+    <string name="permlab_downloadManager">ჩამოტვირთვის მენეჯერზე წვდომა.</string>
+    <string name="permlab_downloadManagerAdvanced">ჩამოტვირთვის გაუმჯობესებული მენეჯერის ფუნქციები.</string>
+    <string name="permlab_downloadWithoutNotification">ფაილების ჩამოტვირთვა შეტყობინებების გარეშე</string>
+    <string name="root_downloads">ჩამოტვირთვები</string>
+    <string name="storage_description">ჩამოტვირთვები</string>
+    <string name="wifi_recommended_body">"ამ %1$s  ჩამოტვირთვის დაწყება ახლა შეამცირებს თქვენი ბატარეის სიცოცხლეს და/ან გამოიწვევს თქვენი მობილური ინტერნეტის ინტენსიურ გამოყენებას. ეს თავისთავად განაპირობებს თქვენი მობილური ოპერატორისთვის შესაბამისი საფასურის გადახდას თქვენი ინტერნეტ გეგმიდან გამომდინარე. 
+
+ შეეხეთ %2$s, რათა დაიწყოთ ეს ჩამოტვირთვა მომავალში, როგორც კი ჩაერთვებით WiFi ქსელში."</string>
+    <string name="wifi_recommended_title">ჩააყენებთ ჩამოტვირთვების რიგში?</string>
+    <string name="wifi_required_body">"ამ %1$s  ჩამოტვირთვის განსახორციელებლად უნდა გამოიყენოთ WiFi. 
+
+შეეხეთ %2$s , რათა დაიწყოთ ეს ჩამოტვირთვა მომავალში, როგორც კი ჩაერთვებით WiFi ქსელში."</string>
+    <string name="wifi_required_title">ჩამოტვირთვა ოპერატორის ქსელისთვის ძალიან დიდია</string>
+</resources>

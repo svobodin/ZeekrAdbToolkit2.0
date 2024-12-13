@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s : nu vă puteți conecta la Verizon Wi-Fi Access în afara ariei de acoperire Verizon.</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s : nu v-ați abonat la Verizon Wi-Fi Access. Apelați-ne la 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s : există o problemă legată de contul dvs. Verizon Wi-Fi Access. Apelați-ne la 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s : v-ați conectat deja la Verizon Wi-Fi Access.</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s : există o problemă legată de conectarea la Verizon Wi-Fi Access. Apelați-ne la 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s : există o problemă legată de contul dvs. Verizon Wi-Fi Access. Apelați-ne la 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s : Verizon Wi-Fi Access nu este disponibil în locația dvs. Încercați din nou mai târziu sau încercați dintr-o altă locație.</string>
+</resources>

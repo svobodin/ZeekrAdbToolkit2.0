@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d new notifications</item>
+        <item quantity="one">%d new notification</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$dটা ডিভাইচ সংযোগ হ’ল</item>
+        <item quantity="one">%1$dটা ডিভাইচ সংযোগ হ’ল</item>
+    </plurals>
+</resources>

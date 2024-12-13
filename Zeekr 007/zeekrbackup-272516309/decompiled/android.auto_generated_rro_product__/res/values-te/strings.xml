@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="owner_name">డ్రైవర్</string>
+    <string name="permlab_accessCoarseLocation">స్క్రీన్‌పై ఉన్నప్పుడు మాత్రమే సమీప లొకేషన్‌ను యాక్సెస్ చేయండి</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">మైక్రోఫోన్‌ను ఆన్ చేయండి</string>
+</resources>

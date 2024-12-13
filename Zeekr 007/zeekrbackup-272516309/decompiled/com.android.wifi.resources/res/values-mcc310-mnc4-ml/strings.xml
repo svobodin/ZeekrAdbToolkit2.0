@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s : Verizon കവറേജ് ഏരിയയ്‌ക്ക് പുറത്ത് നിന്ന് നിങ്ങൾക്ക് Verizon വൈഫൈ ആക്‌സസിലേക്ക് കണക്റ്റ് ചെയ്യാനാകില്ല.</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s : Verizon വൈഫൈ ആക്‌സസിലേക്ക് നിങ്ങൾ സബ്‌സ്‌ക്രൈബ് ചെയ്‌തിട്ടില്ല. ഞങ്ങളുടെ 800-922-0204 എന്ന നമ്പറിൽ വിളിക്കുക.</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s : നിങ്ങളുടെ Verizon വൈഫൈ ആക്‌സസ് അക്കൗണ്ടുമായി ബന്ധപ്പെട്ട് ഒരു പ്രശ്‌നമുണ്ട്. ഞങ്ങളുടെ 800-922-0204 എന്ന നമ്പറിൽ വിളിക്കുക.</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s : നിങ്ങൾ മുമ്പേ തന്നെ Verizon വൈഫൈ ആക്‌സസിലേക്ക് കണക്‌റ്റ് ചെയ്തിട്ടുണ്ട്.</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s : Verizon വൈഫൈ ആക്‌സസ് അക്കൗണ്ടിലേക്ക് നിങ്ങളെ കണക്‌റ്റ് ചെയ്യുന്നതിൽ ഒരു പ്രശ്‌നമുണ്ട്. ഞങ്ങളുടെ 800-922-0204 എന്ന നമ്പറിൽ വിളിക്കുക.</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s : നിങ്ങളുടെ Verizon വൈഫൈ ആക്‌സസ് അക്കൗണ്ടുമായി ബന്ധപ്പെട്ട് ഒരു പ്രശ്‌നമുണ്ട്. ഞങ്ങളുടെ 800-922-0204 എന്ന നമ്പറിൽ വിളിക്കുക.</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s : Verizon വൈഫൈ ആക്‌സസ് നിങ്ങളുടെ ലൊക്കേഷനില്‍ ലഭ്യമല്ല. മറ്റൊരു ലൊക്കേഷനിൽ നിന്ന് പിന്നീട് വീണ്ടും ശ്രമിക്കുക.</string>
+</resources>

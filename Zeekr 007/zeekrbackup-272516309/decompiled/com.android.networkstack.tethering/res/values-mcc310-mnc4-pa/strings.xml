@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">ਟੈਦਰਿੰਗ ਬੰਦ ਕਰੋ</string>
+    <string name="no_upstream_notification_message">ਡੀਵਾਈਸ ਕਨੈਕਟ ਨਹੀਂ ਕੀਤੇ ਜਾ ਸਕਦੇ</string>
+    <string name="no_upstream_notification_title">ਟੈਦਰਿੰਗ ਕੋਲ ਇੰਟਰਨੈੱਟ ਪਹੁੰਚ ਨਹੀਂ ਹੈ</string>
+    <string name="upstream_roaming_notification_message">ਰੋਮਿੰਗ ਦੌਰਾਨ ਵਧੀਕ ਖਰਚੇ ਲਾਗੂ ਹੋ ਸਕਦੇ ਹਨ</string>
+    <string name="upstream_roaming_notification_title">ਹੌਟਸਪੌਟ ਜਾਂ ਟੈਦਰਿੰਗ ਚਾਲੂ ਹੈ</string>
+</resources>

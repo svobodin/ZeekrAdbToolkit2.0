@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Կոնտակտների պահոց</string>
+    <string name="debug_dump_database_message">"Դուք պատրաստվում եք 1) պատճենել ձեր տվյալների շտեմարանը ներքին պահոցում, որը կներառի բոլոր կոնտակտային տվյալները և բոլոր զանգերի գրանցումները, ապա 2) ուղարկել այն էլփոստով:  Չմոռանաք սարքի վրա հաջողությամբ այդ ամենը պատճենելուց կամ էլփոստը ստանալուց հետո անհապաղ ջնջել պատճենը:"</string>
+    <string name="debug_dump_delete_button">Ջնջել հիմա</string>
+    <string name="debug_dump_email_body">Կից իմ կոնտակտների տվյալների շտեմարանն է` իմ բոլոր կոնտակտների տեղեկություններով: Վերաբերվեք խմաքով:</string>
+    <string name="debug_dump_email_sender_picker">Ընտրեք ծրագիրը` ձեր ֆայլն ուղարկելու համար</string>
+    <string name="debug_dump_email_subject">Կոնտակտների Db-ն կցված է</string>
+    <string name="debug_dump_start_button">Մեկնարկել</string>
+    <string name="debug_dump_title">Պատճենել կոնտակտային տվյալների շտեմարաը</string>
+    <string name="default_directory">Կոնտակտներ</string>
+    <string name="local_invisible_directory">Այլ</string>
+    <string name="provider_label">Կոնտակտներ</string>
+    <string name="sharedUserLabel">Android Core Apps</string>
+    <string name="upgrade_out_of_memory_notification_text">Հպեք՝ նորացումն ավարտելու համար:</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Կոնտակտների թարմացումը պահանջում է ավելի շատ հիշողություն:</string>
+    <string name="upgrade_out_of_memory_notification_title">Կոնտակտների պահոցի թարմացում</string>
+    <string name="voicemail_from_column">"Ձայնային փոստ "</string>
+</resources>

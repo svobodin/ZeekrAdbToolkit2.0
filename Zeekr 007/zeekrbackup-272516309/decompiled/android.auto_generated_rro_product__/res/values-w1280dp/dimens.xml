@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="car_keyline_1">32.0dip</dimen>
+    <dimen name="car_keyline_2">108.0dip</dimen>
+    <dimen name="car_keyline_3">128.0dip</dimen>
+    <dimen name="car_keyline_4">168.0dip</dimen>
+    <dimen name="car_margin">148.0dip</dimen>
+</resources>

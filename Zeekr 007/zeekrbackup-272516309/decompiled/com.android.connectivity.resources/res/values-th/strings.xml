@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">ทรัพยากรการเชื่อมต่อของระบบ</string>
+    <string name="mobile_no_internet">เครือข่ายมือถือไม่มีการเข้าถึงอินเทอร์เน็ต</string>
+    <string name="network_available_sign_in">ลงชื่อเข้าใช้เครือข่าย</string>
+    <string name="network_partial_connectivity">%1$s มีการเชื่อมต่อจำกัด</string>
+    <string name="network_partial_connectivity_detailed">แตะเพื่อเชื่อมต่อ</string>
+    <string name="network_switch_metered">เปลี่ยนเป็น %1$s</string>
+    <string name="network_switch_metered_detail">อุปกรณ์จะใช้ %1$s เมื่อ %2$s เข้าถึงอินเทอร์เน็ตไม่ได้ โดยอาจมีค่าบริการ</string>
+    <string name="network_switch_metered_toast">เปลี่ยนจาก %1$s เป็น %2$s</string>
+    <string name="network_switch_type_name_unknown">ประเภทเครือข่ายที่ไม่รู้จัก</string>
+    <string name="other_networks_no_internet">เครือข่ายไม่มีการเข้าถึงอินเทอร์เน็ต</string>
+    <string name="private_dns_broken_detailed">เข้าถึงเซิร์ฟเวอร์ DNS ไม่ได้</string>
+    <string name="wifi_available_sign_in">ลงชื่อเข้าใช้เครือข่าย WiFi</string>
+    <string name="wifi_no_internet">%1$s เข้าถึงอินเทอร์เน็ตไม่ได้</string>
+    <string name="wifi_no_internet_detailed">แตะเพื่อดูตัวเลือก</string>
+</resources>

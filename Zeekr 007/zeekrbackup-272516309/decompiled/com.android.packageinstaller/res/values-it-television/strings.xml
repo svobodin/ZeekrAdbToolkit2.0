@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="additional_permissions_decor_title">Altre autorizzazioni</string>
+    <string name="app_permissions_decor_title">Autorizzazioni app</string>
+    <string name="current_permission_template">%1$s/%2$s</string>
+    <string name="grant_dialog_button_deny_dont_ask_again">Nega e non chiedermelo più</string>
+    <string name="grant_dialog_how_to_change">Puoi modificare questa scelta in seguito in Impostazioni > App</string>
+    <string name="manage_permissions_decor_title">Autorizzazioni app</string>
+    <string name="permission_apps_decor_title">Autorizzazioni %1$s</string>
+    <string name="preference_show_system_apps">Mostra app di sistema</string>
+    <string name="system_apps_decor_title">Autorizzazioni %1$s</string>
+</resources>

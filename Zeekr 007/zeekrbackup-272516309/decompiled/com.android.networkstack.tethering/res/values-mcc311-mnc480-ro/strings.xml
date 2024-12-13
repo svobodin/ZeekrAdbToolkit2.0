@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Dezactivați procesul de tethering</string>
+    <string name="no_upstream_notification_message">Dispozitivele nu se pot conecta</string>
+    <string name="no_upstream_notification_title">Procesul de tethering nu are internet</string>
+    <string name="upstream_roaming_notification_message">Se pot aplica taxe suplimentare pentru roaming</string>
+    <string name="upstream_roaming_notification_title">S-a activat hotspotul sau tethering</string>
+</resources>

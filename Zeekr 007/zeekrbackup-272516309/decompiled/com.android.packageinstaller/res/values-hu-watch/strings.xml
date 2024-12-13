@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="generic_cancel">Mégse</string>
+    <string name="generic_yes">Igen</string>
+    <string name="current_permission_template">%2$s/%1$s</string>
+    <string name="grant_dialog_button_deny_dont_ask_again">Megtagadás, ne jelenjen meg</string>
+    <string name="preference_show_system_apps">Rendszeralkalmazások megjelenítése</string>
+    <string name="permission_summary_enforced_by_policy">Nem változtatható</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">সিস্টেম কানেক্টিভিটি রিসোর্সেস</string>
+    <string name="mobile_no_internet">মোবাইল নেটওয়ার্কে কোনও ইন্টারনেট অ্যাক্সেস নেই</string>
+    <string name="network_available_sign_in">নেটওয়ার্কে সাইন-ইন করুন</string>
+    <string name="network_partial_connectivity">%1$s-এর সীমিত কানেক্টিভিটি আছে</string>
+    <string name="network_partial_connectivity_detailed">তবুও কানেক্ট করতে ট্যাপ করুন</string>
+    <string name="network_switch_metered">%1$s এ পাল্টানো হয়েছে</string>
+    <string name="network_switch_metered_detail">%2$s এ ইন্টারনেট অ্যাক্সেস না থাকলে %1$s ব্যবহার করা হয়৷ ডেটা চার্জ প্রযোজ্য৷</string>
+    <string name="network_switch_metered_toast">%1$s থেকে %2$s এ পাল্টানো হয়েছে</string>
+    <string name="network_switch_type_name_unknown">এই নেটওয়ার্কের ধরন অজানা</string>
+    <string name="other_networks_no_internet">নেটওয়ার্কে কোনও ইন্টারনেট অ্যাক্সেস নেই</string>
+    <string name="private_dns_broken_detailed">ব্যক্তিগত ডিএনএস সার্ভার অ্যাক্সেস করা যাবে না</string>
+    <string name="wifi_available_sign_in">ওয়াই-ফাই নেটওয়ার্কে সাইন-ইন করুন</string>
+    <string name="wifi_no_internet">%1$s-এর ইন্টারনেটে অ্যাক্সেস নেই</string>
+    <string name="wifi_no_internet_detailed">বিকল্পগুলির জন্য আলতো চাপুন</string>
+</resources>

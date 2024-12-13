@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Pierakstīties tīklā</string>
+    <string name="action_bar_title">Pierakstieties produktā %1$s</string>
+    <string name="action_do_not_use_network">Neizmantot šo tīklu</string>
+    <string name="action_use_network">Izmantot tīklu ar pašreizējiem iestatījumiem</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">Paziņojumi, kas parāda failu lejupielādes norisi</string>
+    <string name="channel_description_downloads">Paziņojumi, kas parāda pabeigtās vai atceltās lejupielādes</string>
+    <string name="channel_name_download_progress">Lejupielādes norise</string>
+    <string name="channel_name_downloads">Lejupielādes</string>
+    <string name="custom_scheme_example">Piemēram, lai pieteikšanās lapā varētu autentificēties, var būt nepieciešama konkrēta lietojumprogramma.</string>
+    <string name="custom_scheme_warning">Tīklā, kuram mēģināt pievienoties, ir jāatver cita lietojumprogramma.</string>
+    <string name="download_completed">Lejupielāde ir pabeigta</string>
+    <string name="downloading_paramfile">Notiek faila %1$s lejupielāde</string>
+    <string name="error_continue_via_browser">Tomēr turpināt, izmantojot pārlūkprogrammu</string>
+    <string name="error_downloading_paramfile">Nevarēja lejupielādēt failu %1$s</string>
+    <string name="no_bypass_error_vpnwarning">Turklāt nevar apiet šo kļūdu, jo ierīcē pašlaik darbojas VPN.</string>
+    <string name="ok">Labi</string>
+    <string name="page_info">Lapas informācija</string>
+    <string name="page_info_address">Adrese:</string>
+    <string name="ssl_error_date_invalid">Šī sertifikāta datums nav derīgs.</string>
+    <string name="ssl_error_example">Piemēram, pieteikšanās lapa, iespējams, nepieder norādītajai organizācijai.</string>
+    <string name="ssl_error_expired">Šī sertifikāta derīguma termiņš ir beidzies.</string>
+    <string name="ssl_error_invalid">Šis sertifikāts nav derīgs.</string>
+    <string name="ssl_error_mismatch">Vietnes nosaukums neatbilst nosaukumam sertifikātā.</string>
+    <string name="ssl_error_not_yet_valid">Šis sertifikāts vēl nav derīgs.</string>
+    <string name="ssl_error_unknown">Nezināma sertifikāta kļūda.</string>
+    <string name="ssl_error_untrusted">Šo sertifikātu nav izsniegusi uzticama iestāde.</string>
+    <string name="ssl_error_view_certificate">Skatīt sertifikātu</string>
+    <string name="ssl_error_warning">Tīklam, kuram mēģināt pievienoties, ir drošības problēmas.</string>
+    <string name="ssl_security_warning_title">Drošības brīdinājums</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

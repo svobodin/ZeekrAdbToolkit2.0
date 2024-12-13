@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="additional_permissions_decor_title">Baimen gehigarriak</string>
+    <string name="app_permissions_decor_title">Aplikazio-baimenak</string>
+    <string name="grant_dialog_button_deny_dont_ask_again">Baztertu eta ez galdetu berriro</string>
+    <string name="grant_dialog_how_to_change">Hori geroago alda dezakezu Ezarpenak > Aplikazioak atalean</string>
+    <string name="manage_permissions_decor_title">Aplikazio-baimenak</string>
+    <string name="permission_apps_decor_title">Baimenak: %1$s</string>
+    <string name="preference_show_system_apps">Erakutsi sistemaren aplikazioak</string>
+    <string name="system_apps_decor_title">Baimenak: %1$s</string>
+</resources>

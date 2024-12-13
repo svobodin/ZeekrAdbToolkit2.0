@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s : Nuk mund të lidhesh me Verizon Wi-Fi Access nga jashtë zonës së mbulimit të Verizon.</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s : Nuk je abonuar në Verizon Wi-Fi Access. Na telefono në 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s : Ka një problem me llogarinë tënde të Verizon Wi-Fi Access. Na telefono në 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s : Je lidhur tashmë me Verizon Wi-Fi Access.</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s : Ka një problem gjatë lidhjes sate me Verizon Wi-Fi Access. Na telefono në 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s : Ka një problem me llogarinë tënde të Verizon Wi-Fi Access. Na telefono në 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s : Verizon Wi-Fi Access nuk ofrohet nga vendndodhja jote. Provo përsëri më vonë ose provo nga një vendndodhje tjetër.</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">Galak bes</string>
+    <string name="ci_extreme">Penggalak FX</string>
+    <string name="classical">Klasik</string>
+    <string name="dance">Tarian</string>
+    <string name="eq_dialog_title">Penyama</string>
+    <string name="flat">Mendatar</string>
+    <string name="folk">Muzik Rakyat</string>
+    <string name="headset_plug">Pasangkan fon kepala untuk mendapatkan kesan ini.</string>
+    <string name="heavy_metal">Heavy Metal</string>
+    <string name="hip_hop">Hip-hop</string>
+    <string name="jazz">Jaz</string>
+    <string name="no_effects">Kesan tidak tersedia.</string>
+    <string name="normal">Biasa</string>
+    <string name="picker_title">Panel kawalan kesan muzik</string>
+    <string name="pop">Pop</string>
+    <string name="rock">Rock</string>
+    <string name="setup">Persediaan</string>
+    <string name="user">Pengguna</string>
+    <string name="virtualizer_strength">Bunyi keliling</string>
+</resources>

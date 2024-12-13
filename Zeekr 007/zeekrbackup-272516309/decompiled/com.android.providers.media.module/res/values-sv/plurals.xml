@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">Vill du tillåta att ^1 raderar ^2 ljudfiler?</item>
+        <item quantity="one">Vill du tillåta att ^1 raderar den här ljudfilen?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">Vill du tillåta att ^1 raderar ^2 objekt?</item>
+        <item quantity="one">Vill du tillåta att ^1 raderar det här objektet?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">Vill du tillåta att ^1 raderar ^2 foton?</item>
+        <item quantity="one">Vill du tillåta att ^1 raderar det här fotot?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">Vill du tillåta att ^1 raderar ^2 videor?</item>
+        <item quantity="one">Vill du tillåta att ^1 raderar den här videon?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">och ^1 objekt till</item>
+        <item quantity="one">och ^1 objekt till</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">+ ^1</item>
+        <item quantity="one">+^1</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">^1 ljudfiler raderas …</item>
+        <item quantity="one">Ljudfilen raderas …</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">^1 objekt raderas …</item>
+        <item quantity="one">Objektet raderas …</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">^1 foton raderas …</item>
+        <item quantity="one">Fotot raderas …</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">^1 videor raderas …</item>
+        <item quantity="one">Videon raderas …</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">^1 ljudfiler flyttas till papperskorgen …</item>
+        <item quantity="one">Ljudfilen flyttas till papperskorgen …</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">^1 objekt flyttas till papperskorgen …</item>
+        <item quantity="one">Objektet flyttas till papperskorgen …</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">^1 foton flyttas till papperskorgen …</item>
+        <item quantity="one">Fotot flyttas till papperskorgen …</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">^1 videor flyttas till papperskorgen …</item>
+        <item quantity="one">Videon flyttas till papperskorgen …</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">^1 ljudfiler flyttas från papperskorgen …</item>
+        <item quantity="one">Ljudfilen flyttas från papperskorgen …</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">^1 objekt flyttas från papperskorgen …</item>
+        <item quantity="one">Objektet flyttas från papperskorgen …</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">^1 foton flyttas från papperskorgen …</item>
+        <item quantity="one">Fotot flyttas från papperskorgen …</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">^1 videor flyttas från papperskorgen …</item>
+        <item quantity="one">Videon flyttas från papperskorgen …</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">^1 ljudfiler modifieras …</item>
+        <item quantity="one">Ljudfilen modifieras …</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">^1 objekt modifieras …</item>
+        <item quantity="one">Objektet modifieras …</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">^1 foton modifieras …</item>
+        <item quantity="one">Fotot modifieras …</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">^1 videor modifieras …</item>
+        <item quantity="one">Videon modifieras …</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">Vill du tillåta att ^1 flyttar ^2 ljudfiler till papperskorgen?</item>
+        <item quantity="one">Vill du tillåta att ^1 flyttar den här ljudfilen till papperskorgen?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">Vill du tillåta att ^1 flyttar ^2 objekt till papperskorgen?</item>
+        <item quantity="one">Vill du tillåta att ^1 flyttar det här objektet till papperskorgen?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">Vill du tillåta att ^1 flyttar ^2 foton till papperskorgen?</item>
+        <item quantity="one">Vill du tillåta att ^1 flyttar det här fotot till papperskorgen?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">Vill du tillåta att ^1 flyttar ^2 videor till papperskorgen?</item>
+        <item quantity="one">Vill du tillåta att ^1 flyttar den här videon till papperskorgen?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">Vill du tillåta att ^1 flyttar ^2 ljudfiler från papperskorgen?</item>
+        <item quantity="one">Vill du tillåta att ^1 flyttar den här ljudfilen från papperskorgen?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">Vill du tillåta att ^1 flyttar ^2 objekt från papperskorgen?</item>
+        <item quantity="one">Vill du tillåta att ^1 flyttar det här objektet från papperskorgen?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">Vill du tillåta att ^1 flyttar ^2 foton från papperskorgen?</item>
+        <item quantity="one">Vill du tillåta att ^1 flyttar det här fotot från papperskorgen?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">Vill du tillåta att ^1 flyttar ^2 videor från papperskorgen?</item>
+        <item quantity="one">Vill du tillåta att ^1 flyttar den här videon från papperskorgen?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">Vill du tillåta att ^1 ändrar ^2 ljudfiler?</item>
+        <item quantity="one">Vill du tillåta att ^1 ändrar den här ljudfilen?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">Vill du tillåta att ^1 ändrar ^2 objekt?</item>
+        <item quantity="one">Vill du tillåta att ^1 ändrar det här objektet?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">Vill du tillåta att ^1 ändrar ^2 foton?</item>
+        <item quantity="one">Vill du tillåta att ^1 ändrar det här fotot?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">Vill du tillåta att ^1 ändrar ^2 videor?</item>
+        <item quantity="one">Vill du tillåta att ^1 ändrar den här videon?</item>
+    </plurals>
+</resources>

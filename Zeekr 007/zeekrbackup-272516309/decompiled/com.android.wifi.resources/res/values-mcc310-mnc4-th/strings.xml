@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s : คุณเชื่อมต่อกับ Verizon Wi-Fi Access จากนอกพื้นที่ให้บริการของ Verizon ไม่ได้</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s : คุณไม่ได้สมัครใช้บริการ Verizon Wi-Fi Access โปรดโทรหาเราที่ 800-922-0204</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s : บัญชี Verizon Wi-Fi Access ของคุณมีปัญหา โปรดโทรหาเราที่ 800-922-0204</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s : คุณเชื่อมต่อกับ Verizon Wi-Fi Access แล้ว</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s : มีปัญหาในการเชื่อมต่อคุณกับ Verizon Wi-Fi Access โปรดโทรหาเราที่ 800-922-0204</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s : บัญชี Verizon Wi-Fi Access ของคุณมีปัญหา โปรดโทรหาเราที่ 800-922-0204</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s : Verizon Wi-Fi Access ไม่พร้อมให้บริการจากตำแหน่งของคุณ โปรดลองอีกครั้งในภายหลังหรือลองจากตำแหน่งอื่น</string>
+</resources>

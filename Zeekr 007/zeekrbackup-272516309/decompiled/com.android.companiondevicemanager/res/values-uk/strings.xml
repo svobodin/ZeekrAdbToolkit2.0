@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Диспетчер супутніх пристроїв</string>
+    <string name="chooser_title">Виберіть %1$s, яким керуватиме додаток &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Дозволити додатку &lt;strong>%1$s&lt;/strong> керувати вашим пристроєм &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_no">Не дозволяти</string>
+    <string name="consent_yes">Дозволити</string>
+    <string name="profile_name_generic">пристрій</string>
+    <string name="profile_name_watch">годинник</string>
+    <string name="profile_summary">Цей додаток потрібен, щоб керувати профілем \"%1$s\". %2$s</string>
+</resources>

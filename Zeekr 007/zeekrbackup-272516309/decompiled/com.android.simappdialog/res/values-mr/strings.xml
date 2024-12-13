@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sim App Dialog</string>
+    <string name="install_carrier_app_defer_action">आता नको</string>
+    <string name="install_carrier_app_description">तुमच्या नवीन सिम ने योग्यरीत्या काम करावे यासाठी तुम्हाला %1$s ॲप इंस्टॉल करणे आवश्यक आहे</string>
+    <string name="install_carrier_app_description_default">तुमच्या नवीन सिम ने योग्यरीत्या काम करावे यासाठी तुम्हाला वाहकाचे ॲप इंस्टॉल करणे आवश्यक आहे</string>
+    <string name="install_carrier_app_download_action">अ‍ॅप डाउनलोड करा</string>
+    <string name="install_carrier_app_title">मोबाइल सेवा अ‍ॅक्टिव्हेट करा</string>
+    <string name="status_bar_notification_info_overflow">९९९+</string>
+    <string name="suw_back_button_label">मागे</string>
+    <string name="suw_more_button_label">अधिक</string>
+    <string name="suw_next_button_label">पुढे जा</string>
+</resources>

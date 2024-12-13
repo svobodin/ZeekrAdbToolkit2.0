@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">Pon o teu contrasinal e vai a Actualizacións dinámicas do sistema</string>
+    <string name="notification_action_cancel">Cancelar</string>
+    <string name="notification_action_discard">Descartar</string>
+    <string name="notification_action_reboot_to_dynsystem">Reiniciar</string>
+    <string name="notification_action_reboot_to_origin">Reiniciar</string>
+    <string name="notification_dynsystem_in_use">Estase executando un sistema dinámico. Reinicia o dispositivo para utilizar a versión de Android orixinal.</string>
+    <string name="notification_image_validation_failed">Produciuse un erro ao validar a imaxe. Aborta a instalación.</string>
+    <string name="notification_install_completed">O sistema dinámico está listo. Para utilizalo, reinicia o dispositivo.</string>
+    <string name="notification_install_failed">Produciuse un erro durante a instalación</string>
+    <string name="notification_install_inprogress">Instalación en curso</string>
+    <string name="toast_dynsystem_discarded">Descartouse o sistema dinámico</string>
+    <string name="toast_failed_to_disable_dynsystem">Produciuse un erro ao desactivar o sistema dinámico</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Non se puido reiniciar nin cargar o sistema dinámico</string>
+</resources>

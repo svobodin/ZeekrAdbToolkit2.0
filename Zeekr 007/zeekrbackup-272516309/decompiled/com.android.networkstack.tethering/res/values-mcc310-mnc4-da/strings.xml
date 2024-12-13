@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Deaktiver netdeling</string>
+    <string name="no_upstream_notification_message">Enheder kan ikke oprette forbindelse</string>
+    <string name="no_upstream_notification_title">Netdeling har ingen internetforbindelse</string>
+    <string name="upstream_roaming_notification_message">Der opkræves muligvis yderligere gebyrer ved roaming</string>
+    <string name="upstream_roaming_notification_title">Hotspot eller netdeling er aktiveret</string>
+</resources>

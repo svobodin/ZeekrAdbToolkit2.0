@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="owner_name">Dereva</string>
+    <string name="permlab_accessCoarseLocation">kufikia mahali palipokadiriwa ikiwa tu programu imefunguliwa kwenye skrini</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">Washa maikrofoni</string>
+</resources>

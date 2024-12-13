@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">[%1$d ḿöŕé one]</item>
+        <item quantity="one">[%1$d ḿöŕé one]</item>
+    </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">[%1$d åþþš ĥåVéñ’ţ ɓééñ ûšéð îñ å ƒéŵ ḿöñţĥš. Ţåþ ţö ŕéVîéŵ one two three four five six seven]</item>
+        <item quantity="one">[%1$d åþþ ĥåšñ’ţ ɓééñ ûšéð îñ å ƒéŵ ḿöñţĥš. Ţåþ ţö ŕéVîéŵ one two three four five six seven]</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">[%1$d åþþš ĥåVéñ’ţ ɓééñ ûšéð îñ å ƒéŵ ḿöñţĥš one two three four five]</item>
+        <item quantity="one">[%1$d åþþ ĥåšñ’ţ ɓééñ ûšéð îñ å ƒéŵ ḿöñţĥš one two three four five]</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">[%s ðåýš one]</item>
+        <item quantity="one">[1 ðåý one]</item>
+    </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">[%s ðåýš one]</item>
+        <item quantity="one">[1 ðåý one]</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">[%s ĥöûŕš one two]</item>
+        <item quantity="one">[1 ĥöûŕ one two]</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">[%s ḿîñš one]</item>
+        <item quantity="one">[1 ḿîñ one]</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">[%s šéçš one]</item>
+        <item quantity="one">[1 šéç one]</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">[%s ĥöûŕš one two]</item>
+        <item quantity="one">[1 ĥöûŕ one two]</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">[%s ḿîñûţéš one two]</item>
+        <item quantity="one">[1 ḿîñûţé one two]</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">[%d ñéŵ ñöţîƒîçåţîöñš one two three]</item>
+        <item quantity="one">[%d ñéŵ ñöţîƒîçåţîöñ one two three]</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">[%s åþþš one]</item>
+        <item quantity="one">[1 åþþ one]</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">[%s åþþš one]</item>
+        <item quantity="one">[1 åþþ one]</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">[Ûšéð ɓý %1$d åþþš one two]</item>
+        <item quantity="one">[Ûšéð ɓý 1 åþþ one two]</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"[Ļåšţ åççéšš: %1$s
+%2$s åççéššéš one two three]"</item>
+        <item quantity="one">"[Ļåšţ åççéšš: %1$s
+%2$s åççéšš one two three]"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"[Ļåšţ åççéšš: %1$s
+%2$s åççéššéš (%3$s îñ ɓåçķĝŕöûñð) one two three four five]"</item>
+        <item quantity="one">"[Ļåšţ åççéšš: %1$s
+%2$s åççéšš (%3$s îñ ɓåçķĝŕöûñð) one two three four five]"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"[Ļåšţ åççéšš: %1$s
+%2$s åççéššéš (%3$s îñ ɓåçķĝŕöûñð)
+Ðûŕåţîöñ: %3$s one two three four five six seven eight nine ten eleven]"</item>
+        <item quantity="one">"[Ļåšţ åççéšš: %1$s
+%2$s åççéšš (%3$s îñ ɓåçķĝŕöûñð)
+Ðûŕåţîöñ: %3$s one two three four five six seven eight nine ten eleven]"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"[Ļåšţ åççéšš: %1$s
+%2$s åççéššéš
+Ðûŕåţîöñ: %3$s one two three four]"</item>
+        <item quantity="one">"[Ļåšţ åççéšš: %1$s
+%2$s åççéšš
+Ðûŕåţîöñ: %3$s one two three four]"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">[%s šéçöñðš one two]</item>
+        <item quantity="one">[1 šéçöñð one two]</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">[%1$d ûñûšéð åþþš one two]</item>
+        <item quantity="one">[%1$d ûñûšéð åþþ one two]</item>
+    </plurals>
+</resources>

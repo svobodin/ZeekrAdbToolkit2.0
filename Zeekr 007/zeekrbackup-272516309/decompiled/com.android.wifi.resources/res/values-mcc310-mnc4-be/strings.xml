@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s : вы не можаце падключыцца да Verizon Wi-Fi Access, калі не знаходзіцеся ў зоне пакрыцця Verizon.</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s : вы не падпісаны на Verizon Wi-Fi Access. Выклікайце нас па нумары 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s : ёсць праблема з вашым уліковым запісам Verizon Wi-Fi Access. Выклікайце нас па нумары 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s : вы ўжо падключаны да Verizon Wi-Fi Access.</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s : ёсць праблема з падключэннем да Verizon Wi-Fi Access. Выклікайце нас па нумары 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s : ёсць праблема з вашым уліковым запісам Verizon Wi-Fi Access. Выклікайце нас па нумары 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s : з месца, дзе вы знаходзіцеся, няма доступу да Verizon Wi-Fi Access. Паўтарыце спробу пазней або змяніце месцазнаходжанне.</string>
+</resources>

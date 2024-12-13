@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sim App Dialog</string>
+    <string name="install_carrier_app_defer_action">Mitte praegu</string>
+    <string name="install_carrier_app_description">Selleks, et uus SIM-kaart õigesti tööle hakkaks, peate installima operaatori %1$s rakenduse</string>
+    <string name="install_carrier_app_description_default">Selleks, et uus SIM-kaart õigesti tööle hakkaks, peate installima operaatori rakenduse</string>
+    <string name="install_carrier_app_download_action">Laadi rakendus alla</string>
+    <string name="install_carrier_app_title">Mobiilsideteenuse aktiveerimine</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Tagasi</string>
+    <string name="suw_more_button_label">Rohkem</string>
+    <string name="suw_next_button_label">Edasi</string>
+</resources>

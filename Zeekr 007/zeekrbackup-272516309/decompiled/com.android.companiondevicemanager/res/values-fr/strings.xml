@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">"Gestionnaire d'appareils associés"</string>
+    <string name="chooser_title">Sélectionner le/la %1$s qui sera géré(e) par &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Autoriser &lt;strong>%1$s&lt;/strong> à gérer votre &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_no">Ne pas autoriser</string>
+    <string name="consent_yes">Autoriser</string>
+    <string name="profile_name_generic">appareil</string>
+    <string name="profile_name_watch">montre</string>
+    <string name="profile_summary">Cette appli est nécessaire pour gérer votre %1$s. %2$s</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">ਕੈਮਰਾ ਐਪਾਂ</item>
+        <item quantity="one">ਕੈਮਰਾ ਐਪ</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">ਈਮੇਲ ਕਲਾਇੰਟ ਐਪਾਂ</item>
+        <item quantity="one">ਈਮੇਲ ਕਲਾਇੰਟ ਐਪ</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">ਫ਼ੋਨ ਐਪਾਂ</item>
+        <item quantity="one">ਫ਼ੋਨ ਐਪ</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d ਕੋਸ਼ਿਸ਼ਾਂ</item>
+        <item quantity="one">%d ਕੋਸ਼ਿਸ਼</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d ਐਪਾਂ</item>
+        <item quantity="one">%d ਐਪ</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">ਘੱਟੋ-ਘੱਟ %d ਐਪਾਂ</item>
+        <item quantity="one">ਘੱਟੋ-ਘੱਟ %d ਐਪ</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d ਨਵੀਆਂ ਸੂਚਨਾਵਾਂ</item>
+        <item quantity="one">%d ਨਵੀਂ ਸੂਚਨਾ</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d ਡੀਵਾਈਸ ਕਨੈਕਟ ਕੀਤੇ ਗਏ</item>
+        <item quantity="one">%1$d ਡੀਵਾਈਸ ਕਨੈਕਟ ਕੀਤਾ ਗਿਆ</item>
+    </plurals>
+</resources>

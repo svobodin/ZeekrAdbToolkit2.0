@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Ruajtja e kontakteve</string>
+    <string name="debug_dump_database_message">Je gati që 1) të bësh një kopje të bazës tënde të të dhënave që përfshin të gjitha informacionet në lidhje me kontaktet dhe evidencat e telefonatave në hapësirën ruajtëse të brendshme dhe 2) ta dërgosh atë me mail. Mos harro që ta fshish kopjen sapo ta kesh kopjuar me sukses nga pajisja ose të kesh marrë mail-in.</string>
+    <string name="debug_dump_delete_button">Fshi tani</string>
+    <string name="debug_dump_email_body">Bashkëngjitur është baza e të dhënave me kontaktet dhe të gjitha informacionet e kontakteve të mia. Administroje me kujdes.</string>
+    <string name="debug_dump_email_sender_picker">Zgjidh një program për të dërguar skedarin</string>
+    <string name="debug_dump_email_subject">Baza e të dhënave me kontaktet u bashkëngjit</string>
+    <string name="debug_dump_start_button">Nis</string>
+    <string name="debug_dump_title">Kopjo bazën e të dhënave me kontaktet</string>
+    <string name="default_directory">Kontaktet</string>
+    <string name="local_invisible_directory">Tjetër</string>
+    <string name="provider_label">Kontaktet</string>
+    <string name="sharedUserLabel">Aplikacionet bazë të androidit</string>
+    <string name="upgrade_out_of_memory_notification_text">Trokit për të përfunduar përmirësimin.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Përmirësimi i kontakteve ka nevojë për më shumë memorie.</string>
+    <string name="upgrade_out_of_memory_notification_title">Po përmirëson hapësirën ruajtëse për kontaktet</string>
+    <string name="voicemail_from_column">"Postë zanore nga "</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Tengiliðageymsla</string>
+    <string name="debug_dump_database_message">Þú ert um það bil að fara að 1) taka afrit af gagnagrunninum þínum, sem inniheldur allar upplýsingar um tengiliði og símtalaferilinn í heild sinni, inn á innbyggða geymslu og 2) senda þessi gögn með tölvupósti. Mundu að eyða afritinu um leið og þú hefur afritað það af tækinu eða þegar tölvupósturinn hefur komist til skila.</string>
+    <string name="debug_dump_delete_button">Eyða núna</string>
+    <string name="debug_dump_email_body">Meðfylgjandi er tengiliðagagnagrunnurinn minn sem inniheldur upplýsingar um alla tengiliði mína. Sýndu aðgát við meðhöndlun hans.</string>
+    <string name="debug_dump_email_sender_picker">Veldu forrit til að senda skrána</string>
+    <string name="debug_dump_email_subject">Tengiliðagagnagrunnur í viðhengi</string>
+    <string name="debug_dump_start_button">Byrja</string>
+    <string name="debug_dump_title">Afrita tengiliðagagnagrunn</string>
+    <string name="default_directory">Tengiliðir</string>
+    <string name="local_invisible_directory">Annað</string>
+    <string name="provider_label">Tengiliðir</string>
+    <string name="sharedUserLabel">Kjarnaforrit Android</string>
+    <string name="upgrade_out_of_memory_notification_text">Ýttu til að ljúka uppfærslunni.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Uppfærsla tengiliða krefst meira minnis.</string>
+    <string name="upgrade_out_of_memory_notification_title">Uppfærsla á tengiliðageymslu</string>
+    <string name="voicemail_from_column">"Talhólfsskilaboð frá "</string>
+</resources>

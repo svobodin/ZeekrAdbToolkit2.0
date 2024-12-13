@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stub សកម្មភាព</string>
+    <string name="message_not_supported">គ្មានកម្មវិធី​អាចគ្រប់គ្រងសកម្មភាពនេះបាន​ទេ</string>
+    <string name="pip_not_supported">មិនអាចប្រើមុខងារ​រូបក្នុងរូបនៅលើ​ឧបករណ៍នេះ​បានទេ</string>
+    <string name="stub_name">គ្មាន</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>Sint Maarten</item>
+        <item>Caribbean Belanda</item>
+        <item>Curaçao</item>
+        <item>Sudan Selatan</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Australia Tengah - NT</item>
+        <item>Australia Tengah - SA</item>
+        <item>Australia Timur - QLD</item>
+        <item>Australia Timur - NSW</item>
+        <item>Standard Pergunungan - Dawson Creek</item>
+        <item>Standard Tengah - Saskatchewan</item>
+        <item>Standard Timur - Atikokan</item>
+        <item>Standard Atlantik - Quebec</item>
+        <item>Aleutian Hawaii - Hawaii</item>
+        <item>Aleutian Hawaii - Alaska</item>
+        <item>Standard Pasifik - Metlakatla</item>
+        <item>Standard Pergunungan - Arizona</item>
+        <item>Pasifik - Baja California</item>
+        <item>Pergunungan - Chihuahua</item>
+        <item>Tengah - Tamaulipas</item>
+        <item>Pergunungan - Sonora</item>
+        <item>Waktu Afrika Timur</item>
+        <item>Waktu Standard Atlantik</item>
+        <item>Waktu Standard Atlantik</item>
+        <item>Waktu Eropah Timur</item>
+        <item>Waktu Kaliningrad</item>
+        <item>Amazon - Rondônia</item>
+        <item>Brasilia - Pará</item>
+    </string-array>
+</resources>

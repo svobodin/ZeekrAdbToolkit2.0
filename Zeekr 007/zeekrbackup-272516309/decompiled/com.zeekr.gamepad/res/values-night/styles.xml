@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorAccent">@color/teal_200</item>
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+    </style>
+    <style name="BetopSdkTheme" parent="@style/Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="android:windowBackground">@drawable/bg_whole_app</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowEnterAnimation">@anim/open_enter</item>
+        <item name="android:windowExitAnimation">@anim/open_exit</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:colorControlHighlight">@color/cl_black_10</item>
+        <item name="colorAccent">@color/color_14b9c7</item>
+        <item name="colorPrimary">@color/color_14b9c7</item>
+        <item name="colorPrimaryDark">@color/color_14b9c7</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.AppCompat.DayNight" parent="@style/Theme.AppCompat" />
+    <style name="Theme.AppCompat.DayNight.DarkActionBar" parent="@style/Theme.AppCompat" />
+    <style name="Theme.AppCompat.DayNight.Dialog" parent="@style/Theme.AppCompat.Dialog" />
+    <style name="Theme.AppCompat.DayNight.Dialog.Alert" parent="@style/Theme.AppCompat.Dialog.Alert" />
+    <style name="Theme.AppCompat.DayNight.Dialog.MinWidth" parent="@style/Theme.AppCompat.Dialog.MinWidth" />
+    <style name="Theme.AppCompat.DayNight.DialogWhenLarge" parent="@style/Theme.AppCompat.DialogWhenLarge" />
+    <style name="Theme.AppCompat.DayNight.NoActionBar" parent="@style/Theme.AppCompat.NoActionBar" />
+    <style name="Theme.MaterialComponents.DayNight" parent="@style/Theme.MaterialComponents" />
+    <style name="Theme.MaterialComponents.DayNight.BottomSheetDialog" parent="@style/Theme.MaterialComponents.BottomSheetDialog" />
+    <style name="Theme.MaterialComponents.DayNight.Bridge" parent="@style/Theme.MaterialComponents.Bridge" />
+    <style name="Theme.MaterialComponents.DayNight.DarkActionBar" parent="@style/Theme.MaterialComponents" />
+    <style name="Theme.MaterialComponents.DayNight.DarkActionBar.Bridge" parent="@style/Theme.MaterialComponents.Bridge" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog" parent="@style/Theme.MaterialComponents.Dialog" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Alert" parent="@style/Theme.MaterialComponents.Dialog.Alert" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Alert.Bridge" parent="@style/Theme.MaterialComponents.Dialog.Alert.Bridge" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Bridge" parent="@style/Theme.MaterialComponents.Dialog.Bridge" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog.FixedSize" parent="@style/Theme.MaterialComponents.Dialog.FixedSize" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog.FixedSize.Bridge" parent="@style/Theme.MaterialComponents.Dialog.FixedSize.Bridge" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog.MinWidth" parent="@style/Theme.MaterialComponents.Dialog.MinWidth" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog.MinWidth.Bridge" parent="@style/Theme.MaterialComponents.Dialog.MinWidth.Bridge" />
+    <style name="Theme.MaterialComponents.DayNight.DialogWhenLarge" parent="@style/Theme.MaterialComponents.DialogWhenLarge" />
+    <style name="Theme.MaterialComponents.DayNight.NoActionBar" parent="@style/Theme.MaterialComponents.NoActionBar" />
+    <style name="Theme.MaterialComponents.DayNight.NoActionBar.Bridge" parent="@style/Theme.MaterialComponents.NoActionBar.Bridge" />
+    <style name="ThemeOverlay.AppCompat.DayNight" parent="@style/ThemeOverlay.AppCompat.Dark" />
+    <style name="Widget.MaterialComponents.ActionBar.PrimarySurface" parent="@style/Widget.MaterialComponents.ActionBar.Surface" />
+    <style name="Widget.MaterialComponents.AppBarLayout.PrimarySurface" parent="@style/Widget.MaterialComponents.AppBarLayout.Surface" />
+    <style name="Widget.MaterialComponents.BottomAppBar.PrimarySurface" parent="@style/Widget.MaterialComponents.BottomAppBar" />
+    <style name="Widget.MaterialComponents.BottomNavigationView.PrimarySurface" parent="@style/Widget.MaterialComponents.BottomNavigationView" />
+    <style name="Widget.MaterialComponents.NavigationRailView.PrimarySurface" parent="@style/Widget.MaterialComponents.NavigationRailView" />
+    <style name="Widget.MaterialComponents.TabLayout.PrimarySurface" parent="@style/Widget.MaterialComponents.TabLayout" />
+    <style name="Widget.MaterialComponents.Toolbar.PrimarySurface" parent="@style/Widget.MaterialComponents.Toolbar.Surface" />
+    <style name="commonButtonStyle">
+        <item name="android:textSize">@dimen/px32</item>
+        <item name="android:textColor">@color/color_0b0c0d</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/bg_common_button</item>
+        <item name="android:layout_width">@dimen/px408</item>
+        <item name="android:layout_height">@dimen/px103</item>
+    </style>
+    <style name="commonButtonStyleDialog">
+        <item name="android:textSize">@dimen/px24</item>
+        <item name="android:textColor">@color/color_0b0c0d</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/bg_common_button</item>
+        <item name="android:layout_width">@dimen/px408</item>
+        <item name="android:layout_height">@dimen/px64</item>
+        <item name="android:stateListAnimator">@null</item>
+    </style>
+    <style name="commonButtonStyleUnable">
+        <item name="android:textSize">@dimen/px32</item>
+        <item name="android:textColor">#ff0b0c0d</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/bg_common_button_unable</item>
+        <item name="android:layout_width">@dimen/px400</item>
+        <item name="android:layout_height">@dimen/px96</item>
+    </style>
+    <style name="commonButtonStyleUnableDialog">
+        <item name="android:textSize">@dimen/px24</item>
+        <item name="android:textColor">@color/color_b4b9be</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/bg_dialog_common_button_unable</item>
+        <item name="android:layout_width">@dimen/px408</item>
+        <item name="android:layout_height">@dimen/px64</item>
+        <item name="android:stateListAnimator">@null</item>
+    </style>
+    <style name="dialogConnectFailItemSubtitle">
+        <item name="android:textSize">@dimen/px28</item>
+        <item name="android:textColor">#99c1c5c9</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/px16</item>
+    </style>
+    <style name="dialogConnectFailItemTitle">
+        <item name="android:textSize">@dimen/px32</item>
+        <item name="android:textColor">#ffc1c5c9</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/px30</item>
+        <item name="android:lines">1</item>
+    </style>
+</resources>

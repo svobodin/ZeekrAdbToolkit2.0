@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Тетерингіні өшіру</string>
+    <string name="no_upstream_notification_message">Құрылғыларды байланыстыру мүмкін емес</string>
+    <string name="no_upstream_notification_title">Тетеринг режимі интернет байланысынсыз пайдаланылуда</string>
+    <string name="upstream_roaming_notification_message">Роуминг кезінде қосымша ақы алынуы мүмкін.</string>
+    <string name="upstream_roaming_notification_title">Хотспот немесе тетеринг қосулы</string>
+</resources>

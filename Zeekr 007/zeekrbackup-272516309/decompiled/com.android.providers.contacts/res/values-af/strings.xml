@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Kontakte-berging</string>
+    <string name="debug_dump_database_message">"Jy is op die punt om 1) 'n afskrif van jou databasis te maak wat alle inligting insluit wat verband hou met kontakte en alle oproeploglêers na die interne berging, en 2) dit te e-pos. Onthou om die kopie uit te vee sodra jy dit suksesvol van die toestel af gekopieer het, of sodra die e-pos ontvang is."</string>
+    <string name="debug_dump_delete_button">Vee nou uit</string>
+    <string name="debug_dump_email_body">My kontaktedatabasis met al my kontakinligting is aangeheg. Hanteer versigtig.</string>
+    <string name="debug_dump_email_sender_picker">"Kies 'n program om jou lêer te stuur"</string>
+    <string name="debug_dump_email_subject">Kontaktedatabasis aangeheg</string>
+    <string name="debug_dump_start_button">Begin</string>
+    <string name="debug_dump_title">Kopieer kontaktedatabasis</string>
+    <string name="default_directory">Kontakte</string>
+    <string name="local_invisible_directory">Ander</string>
+    <string name="provider_label">Kontakte</string>
+    <string name="sharedUserLabel">Android-kernprogramme</string>
+    <string name="upgrade_out_of_memory_notification_text">Tik om die opgradering te voltooi.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Kontakte-opgradering benodig meer geheue.</string>
+    <string name="upgrade_out_of_memory_notification_title">Gradeer berging vir kontakte op</string>
+    <string name="voicemail_from_column">"Stemboodskap van "</string>
+</resources>

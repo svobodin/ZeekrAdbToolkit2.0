@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="abc_config_activityDefaultDur">220</integer>
+    <integer name="abc_config_activityShortDur">150</integer>
+    <integer name="cancel_button_image_alpha">127</integer>
+    <integer name="car_ui_default_max_string_length">120</integer>
+    <integer name="car_ui_focus_area_history_cache_type">2</integer>
+    <integer name="car_ui_focus_area_history_expiration_period_ms">3000</integer>
+    <integer name="car_ui_focus_history_cache_type">2</integer>
+    <integer name="car_ui_focus_history_expiration_period_ms">300000</integer>
+    <integer name="car_ui_scrollbar_longpress_initial_delay">1000</integer>
+    <integer name="car_ui_scrollbar_longpress_repeat_interval">100</integer>
+    <integer name="config_tooltipAnimTime">150</integer>
+    <integer name="status_bar_notification_info_maxnum">999</integer>
+</resources>

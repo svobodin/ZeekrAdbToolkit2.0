@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">တွဲဖက်ကိရိယာ မန်နေဂျာ</string>
+    <string name="chooser_title">&lt;strong>%2$s&lt;/strong> က စီမံခန့်ခွဲရန် %1$s ကို ရွေးချယ်ပါ</string>
+    <string name="confirmation_title">သင်၏ &lt;strong>%2$s&lt;/strong> ကို စီမံခန့်ခွဲရန် &lt;strong>%1$s&lt;/strong> ကို ခွင့်ပြုပါ</string>
+    <string name="consent_no">ခွင့်မပြုပါ</string>
+    <string name="consent_yes">ခွင့်ပြုရန်</string>
+    <string name="profile_name_generic">စက်</string>
+    <string name="profile_name_watch">နာရီ</string>
+    <string name="profile_summary">သင်၏ %1$s ကို စီမံခန့်ခွဲရန် ဤအက်ပ်ကိုလိုအပ်သည်။ %2$s</string>
+</resources>

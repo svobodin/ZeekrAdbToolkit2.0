@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Сүлжээний менежер</string>
+    <string name="connected">Холбогдсон</string>
+    <string name="notification_channel_description_connected">Төхөөрөмжийг дамжих порталын сүлжээнд амжилттай баталгаажуулсан үед харуулдаг мэдэгдлүүд</string>
+    <string name="notification_channel_description_network_venue_info">Сүлжээнд байршлын мэдээллийн хуудас байгааг заах зорилгоор харуулдаг мэдэгдэл</string>
+    <string name="notification_channel_name_connected">Дамжих порталын баталгаажуулалт</string>
+    <string name="notification_channel_name_network_venue_info">Сүлжээний байршлын мэдээлэл</string>
+    <string name="tap_for_info">Холбогдсон / Веб сайтыг үзэхийн тулд товшино уу</string>
+</resources>

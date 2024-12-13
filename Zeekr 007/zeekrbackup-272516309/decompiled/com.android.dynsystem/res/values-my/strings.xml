@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">သင့်စကားဝှက်ထည့်ပြီး ပြောင်းလဲနိုင်သော စနစ်အပ်ဒိတ်များသို့ ရှေ့ဆက်ပါ</string>
+    <string name="notification_action_cancel">မလုပ်တော့</string>
+    <string name="notification_action_discard">ဖယ်ပစ်ရန်</string>
+    <string name="notification_action_reboot_to_dynsystem">ပြန်စရန်</string>
+    <string name="notification_action_reboot_to_origin">ပြန်စရန်</string>
+    <string name="notification_dynsystem_in_use">လက်ရှိတွင် ပြောင်းလဲနိုင်သောစနစ်ကို အသုံးပြုနေသည်။ မူလ Android ဗားရှင်း အသုံးပြုရန် ပြန်စတင်ပါ။</string>
+    <string name="notification_image_validation_failed">ဒစ်ခ် မိတ္တူကို အတည်ပြု၍ မရပါ။ ထည့်သွင်းမှုကို ရပ်ပါ။</string>
+    <string name="notification_install_completed">ပြောင်းလဲနိုင်သောစနစ် အသင့်ဖြစ်ပါပြီ။ ၎င်းကို စတင်အသုံးပြုရန် သင့်စက်ကို ပြန်စပါ။</string>
+    <string name="notification_install_failed">ထည့်သွင်း၍မရပါ</string>
+    <string name="notification_install_inprogress">ထည့်သွင်းနေဆဲဖြစ်သည်</string>
+    <string name="toast_dynsystem_discarded">ပြောင်းလဲနိုင်သောစနစ်ကို ဖယ်လိုက်သည်</string>
+    <string name="toast_failed_to_disable_dynsystem">ပြောင်းလဲနိုင်သောစနစ်ကို ပိတ်၍မရပါ</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">ပြန်စ၍ မရပါ (သို့) ပြောင်းလဲနိုင်သောစနစ် ဖွင့်၍မရပါ</string>
+</resources>

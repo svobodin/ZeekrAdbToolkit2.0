@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="generic_cancel">रद्द गर्नुहोस्</string>
+    <string name="generic_yes">हो</string>
+    <string name="current_permission_template">%1$s / %2$s</string>
+    <string name="grant_dialog_button_deny_dont_ask_again">अस्वीकार गर्नुहोस्, फेरि नसोध्नुहोस्</string>
+    <string name="preference_show_system_apps">प्रणाली अनुप्रयोगहरू देखाउनुहोस्</string>
+    <string name="permission_summary_enforced_by_policy">परिवर्तन गर्न सकिँदैन</string>
+</resources>

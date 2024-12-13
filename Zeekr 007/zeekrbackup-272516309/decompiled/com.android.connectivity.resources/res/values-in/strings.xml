@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">Resource Konektivitas Sistem</string>
+    <string name="mobile_no_internet">Jaringan seluler tidak memiliki akses internet</string>
+    <string name="network_available_sign_in">Login ke jaringan</string>
+    <string name="network_partial_connectivity">%1$s memiliki konektivitas terbatas</string>
+    <string name="network_partial_connectivity_detailed">Ketuk untuk tetap menyambungkan</string>
+    <string name="network_switch_metered">Dialihkan ke %1$s</string>
+    <string name="network_switch_metered_detail">Perangkat menggunakan %1$s jika %2$s tidak memiliki akses internet. Tarif mungkin berlaku.</string>
+    <string name="network_switch_metered_toast">Dialihkan dari %1$s ke %2$s</string>
+    <string name="network_switch_type_name_unknown">jenis jaringan yang tidak dikenal</string>
+    <string name="other_networks_no_internet">Jaringan tidak memiliki akses internet</string>
+    <string name="private_dns_broken_detailed">Server DNS pribadi tidak dapat diakses</string>
+    <string name="wifi_available_sign_in">Login ke jaringan Wi-Fi</string>
+    <string name="wifi_no_internet">%1$s tidak memiliki akses internet</string>
+    <string name="wifi_no_internet_detailed">Ketuk untuk melihat opsi</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">請輸入密碼，以使用「動態系統更新」</string>
+    <string name="notification_action_cancel">取消</string>
+    <string name="notification_action_discard">捨棄</string>
+    <string name="notification_action_reboot_to_dynsystem">重新啟動</string>
+    <string name="notification_action_reboot_to_origin">重新啟動</string>
+    <string name="notification_dynsystem_in_use">系統目前正在執行動態系統。如要使用原本的 Android 版本，請重新啟動裝置。</string>
+    <string name="notification_image_validation_failed">磁碟影像驗證失敗，系統將取消安裝。</string>
+    <string name="notification_install_completed">動態系統已可供使用。如要開始使用，請重新啟動裝置。</string>
+    <string name="notification_install_failed">無法安裝</string>
+    <string name="notification_install_inprogress">安裝中</string>
+    <string name="toast_dynsystem_discarded">已捨棄動態系統</string>
+    <string name="toast_failed_to_disable_dynsystem">無法停用動態系統</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">無法重新啟動或載入動態系統</string>
+</resources>

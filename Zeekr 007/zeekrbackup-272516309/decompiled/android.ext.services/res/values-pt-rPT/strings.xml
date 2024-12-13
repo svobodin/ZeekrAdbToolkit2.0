@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_assistant">Notificações adaptáveis do Android</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="tc_notif_code_copied_to_clipboard">Código copiado</string>
+    <string name="tc_notif_copy_code_desc">Copiar “%1$s“</string>
+</resources>

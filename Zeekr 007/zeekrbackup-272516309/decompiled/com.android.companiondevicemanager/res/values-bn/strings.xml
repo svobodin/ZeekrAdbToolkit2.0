@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Companion Device Manager</string>
+    <string name="chooser_title">%1$s বেছে নিন যেটি &lt;strong>%2$s&lt;/strong> ম্যানেজ করবে</string>
+    <string name="confirmation_title">আপনার &lt;strong>%2$s&lt;/strong> ম্যানেজ করার জন্য &lt;strong>%1$s&lt;/strong> -কে অনুমতি দিন</string>
+    <string name="consent_no">অনুমতি দেবেন না</string>
+    <string name="consent_yes">অনুমতি দিন</string>
+    <string name="profile_name_generic">ডিভাইস</string>
+    <string name="profile_name_watch">ঘড়ি</string>
+    <string name="profile_summary">আপনার %1$s ম্যানেজ করতে এই অ্যাপটি প্রয়োজন। %2$s</string>
+</resources>

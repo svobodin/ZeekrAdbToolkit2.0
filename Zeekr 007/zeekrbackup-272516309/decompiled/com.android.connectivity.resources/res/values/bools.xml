@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_autoCancelNetworkNotifications">true</bool>
+    <bool name="config_notifyNoInternetAsDialogWhenHighPriority">false</bool>
+    <bool name="config_ongoingSignInNotification">false</bool>
+    <bool name="config_partialConnectivityNotifiedAsNoInternet">false</bool>
+    <bool name="config_vehicleInternalNetworkAlwaysRequested">false</bool>
+</resources>

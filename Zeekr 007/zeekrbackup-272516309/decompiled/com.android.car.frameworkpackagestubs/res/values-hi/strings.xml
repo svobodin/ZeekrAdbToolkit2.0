@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">गतिविधि स्टब</string>
+    <string name="message_not_supported">कोई ऐप्लिकेशन यह कार्रवाई नहीं कर सकता</string>
+    <string name="pip_not_supported">"इस डिवाइस पर 'पिक्चर में पिक्चर' सुविधा काम नहीं करती"</string>
+    <string name="stub_name">कोई नहीं</string>
+</resources>

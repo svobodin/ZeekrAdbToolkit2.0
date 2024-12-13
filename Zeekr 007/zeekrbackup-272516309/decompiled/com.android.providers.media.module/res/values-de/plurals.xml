@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">Darf ^1 ^2 Audiodateien löschen?</item>
+        <item quantity="one">Darf ^1 diese Audiodatei löschen?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">Darf ^1 ^2 Elemente löschen?</item>
+        <item quantity="one">Darf ^1 dieses Element löschen?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">Darf ^1 ^2 Fotos löschen?</item>
+        <item quantity="one">Darf ^1 dieses Foto löschen?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">Darf ^1 ^2 Videos löschen?</item>
+        <item quantity="one">Darf ^1 dieses Video löschen?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">^1 weitere Elemente</item>
+        <item quantity="one">^1 weiteres Element</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">+ ^1</item>
+        <item quantity="one">+ ^1</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">^1 Audiodateien werden gelöscht…</item>
+        <item quantity="one">Audiodatei wird gelöscht…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">^1 Elemente werden gelöscht…</item>
+        <item quantity="one">Element wird gelöscht…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">^1 Fotos werden gelöscht…</item>
+        <item quantity="one">Foto wird gelöscht…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">^1 Videos werden gelöscht…</item>
+        <item quantity="one">Video wird gelöscht…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">^1 Audiodateien werden in den Papierkorb verschoben…</item>
+        <item quantity="one">Audiodatei wird in den Papierkorb verschoben…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">^1 Elemente werden in den Papierkorb verschoben…</item>
+        <item quantity="one">Element wird in den Papierkorb verschoben…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">^1 Fotos werden in den Papierkorb verschoben…</item>
+        <item quantity="one">Foto wird in den Papierkorb verschoben…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">^1 Videos werden in den Papierkorb verschoben…</item>
+        <item quantity="one">Video wird in den Papierkorb verschoben…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">^1 Audiodateien werden aus dem Papierkorb verschoben…</item>
+        <item quantity="one">Audiodatei wird aus dem Papierkorb verschoben…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">^1 Elemente werden aus dem Papierkorb verschoben…</item>
+        <item quantity="one">Element wird aus dem Papierkorb verschoben…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">^1 Fotos werden aus dem Papierkorb verschoben…</item>
+        <item quantity="one">Foto wird aus dem Papierkorb verschoben…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">^1 Videos werden aus dem Papierkorb verschoben…</item>
+        <item quantity="one">Video wird aus dem Papierkorb verschoben…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">^1 Audiodateien werden geändert…</item>
+        <item quantity="one">Audiodatei wird geändert…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">^1 Elemente werden geändert…</item>
+        <item quantity="one">Element wird geändert…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">^1 Fotos werden geändert…</item>
+        <item quantity="one">Foto wird geändert…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">^1 Videos werden geändert…</item>
+        <item quantity="one">Video wird geändert…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">Darf ^1 ^2 Audiodateien in den Papierkorb verschieben?</item>
+        <item quantity="one">Darf ^1 diese Audiodatei in den Papierkorb verschieben?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">Darf ^1 ^2 Elemente in den Papierkorb verschieben?</item>
+        <item quantity="one">Darf ^1 dieses Element in den Papierkorb verschieben?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">Darf ^1 ^2 Fotos in den Papierkorb verschieben?</item>
+        <item quantity="one">Darf ^1 dieses Foto in den Papierkorb verschieben?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">Darf ^1 ^2 Videos in den Papierkorb verschieben?</item>
+        <item quantity="one">Darf ^1 dieses Video in den Papierkorb verschieben?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">Darf ^1 ^2 Audiodateien aus dem Papierkorb verschieben?</item>
+        <item quantity="one">Darf ^1 diese Audiodatei aus dem Papierkorb verschieben?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">Darf ^1 ^2 Elemente aus dem Papierkorb wiederherstellen?</item>
+        <item quantity="one">Darf ^1 dieses Element aus dem Papierkorb verschieben?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">Darf ^1 ^2 Fotos aus dem Papierkorb verschieben?</item>
+        <item quantity="one">Darf ^1 dieses Foto aus dem Papierkorb verschieben?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">Darf ^1 ^2 Videos aus dem Papierkorb verschieben?</item>
+        <item quantity="one">Darf ^1 dieses Video aus dem Papierkorb verschieben?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">Darf ^1 ^2 Audiodateien ändern?</item>
+        <item quantity="one">Darf ^1 diese Audiodatei ändern?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">Darf ^1 ^2 Elemente ändern?</item>
+        <item quantity="one">Darf ^1 dieses Element ändern?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">Darf ^1 ^2 Fotos ändern?</item>
+        <item quantity="one">Darf ^1 dieses Foto ändern?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">Darf ^1 ^2 Videos ändern?</item>
+        <item quantity="one">Darf ^1 dieses Video ändern?</item>
+    </plurals>
+</resources>

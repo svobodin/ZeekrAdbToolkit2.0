@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Hálózatkezelő</string>
+    <string name="connected">Csatlakozva</string>
+    <string name="notification_channel_description_connected">Értesítés jelenik meg, ha az eszköz sikeresen bejelentkezett egy hitelesítési portált használó hálózaton</string>
+    <string name="notification_channel_description_network_venue_info">Értesítés jelenik meg, amely jelzi, hogy a hálózat a helyszínről szóló információs oldalt is tartalmaz</string>
+    <string name="notification_channel_name_connected">Bejelentkezés hitelesítési portálon</string>
+    <string name="notification_channel_name_network_venue_info">Információk a hálózat helyéről</string>
+    <string name="tap_for_info">Csatlakozva / Koppintson a webhely megtekintéséhez</string>
+</resources>

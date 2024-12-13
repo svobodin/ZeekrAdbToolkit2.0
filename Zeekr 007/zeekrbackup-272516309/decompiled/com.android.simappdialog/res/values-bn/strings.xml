@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">সিম অ্যাপ ডায়ালগ</string>
+    <string name="install_carrier_app_defer_action">এখন নয়</string>
+    <string name="install_carrier_app_description">আপনার নতুন সিম যাতে সঠিকভাবে কাজ করে, তার জন্য আপনাকে %1$s অ্যাপ ইনস্টল করতে হবে</string>
+    <string name="install_carrier_app_description_default">আপনার নতুন সিম যাতে সঠিকভাবে কাজ করে, তার জন্য আপনাকে পরিষেবা প্রদানকারীর অ্যাপ ইনস্টল করতে হবে</string>
+    <string name="install_carrier_app_download_action">অ্যাপ ডাউনলোড করুন</string>
+    <string name="install_carrier_app_title">মোবাইল পরিষেবা চালু করুন</string>
+    <string name="status_bar_notification_info_overflow">৯৯৯+</string>
+    <string name="suw_back_button_label">ফিরুন</string>
+    <string name="suw_more_button_label">আরও</string>
+    <string name="suw_next_button_label">পরবর্তী</string>
+</resources>

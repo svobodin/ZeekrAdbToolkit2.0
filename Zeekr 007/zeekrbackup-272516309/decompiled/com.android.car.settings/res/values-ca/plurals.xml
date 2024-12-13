@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">Aplicacions de càmera</item>
+        <item quantity="one">Aplicació de càmera</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">Aplicacions client de correu electrònic</item>
+        <item quantity="one">Aplicació client de correu electrònic</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">Aplicacions de telèfon</item>
+        <item quantity="one">Aplicació de telèfon</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d intents</item>
+        <item quantity="one">%d intent</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d aplicacions</item>
+        <item quantity="one">%d aplicació</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">%d aplicacions com a mínim</item>
+        <item quantity="one">%d aplicació com a mínim</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d notificacions noves</item>
+        <item quantity="one">%d notificació nova</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d dispositius connectats</item>
+        <item quantity="one">%1$d dispositiu connectat</item>
+    </plurals>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_summary_active">
+        <item quantity="other">%d αρχεία σε διαδικασία λήψης</item>
+        <item quantity="one">1 αρχείο σε διαδικασία λήψης</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">%d αρχεία σε αναμονή</item>
+        <item quantity="one">1 αρχείο σε αναμονή</item>
+    </plurals>
+</resources>

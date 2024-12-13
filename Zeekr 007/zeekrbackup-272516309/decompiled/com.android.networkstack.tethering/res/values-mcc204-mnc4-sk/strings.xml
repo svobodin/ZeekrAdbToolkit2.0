@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Vypnúť hotspot</string>
+    <string name="no_upstream_notification_message">Zariadenia sa nedajú pripojiť k internetu</string>
+    <string name="no_upstream_notification_title">Hotspot nemá internetové pripojenie</string>
+    <string name="upstream_roaming_notification_message">Počas roamingu vám môžu byť účtované ďalšie poplatky</string>
+    <string name="upstream_roaming_notification_title">Hotspot je zapnutý</string>
+    <string name="upstream_roaming_notification_continue_button">Pokračovať</string>
+</resources>

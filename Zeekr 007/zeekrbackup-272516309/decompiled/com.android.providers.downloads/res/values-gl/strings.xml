@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Administrador de descargas</string>
+    <string name="button_cancel_download">Cancelar</string>
+    <string name="button_queue_for_wifi">Cola</string>
+    <string name="button_start_now">Iniciar agora</string>
+    <string name="download_error">Incorrecta</string>
+    <string name="download_no_application_title">Non se pode abrir o ficheiro</string>
+    <string name="download_queued">Na cola</string>
+    <string name="download_remaining">Tempo restante: %s</string>
+    <string name="download_running">En curso</string>
+    <string name="download_running_percent">En curso (%s)</string>
+    <string name="download_unknown_title">&lt;Sen título></string>
+    <string name="notification_download_complete">Descarga completa</string>
+    <string name="notification_download_failed">Descarga incorrecta</string>
+    <string name="notification_need_wifi_for_size">A descarga precisa wifi.</string>
+    <string name="notification_paused_in_background">Pausada en segundo plano</string>
+    <string name="permdesc_accessAllDownloads">Permite á aplicación ver e modificar todas as descargas iniciadas por calquera aplicación do sistema.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Permite á aplicación descargar ficheiros na caché de descargas, que non se pode eliminar automaticamente cando o administrador de descargas precisa máis espazo.</string>
+    <string name="permdesc_downloadCompletedIntent">Permite á aplicación enviar notificacións de descargas completadas. É posible que aplicacións maliciosas utilicen esta opción para confundir outras aplicacións que descargan ficheiros.</string>
+    <string name="permdesc_downloadManager">Permite á aplicación acceder ao administrador de descargas e utilizalo para descargar ficheiros. As aplicacións maliciosas poden usar esta opción para interromper as descargas e acceder a información privada.</string>
+    <string name="permdesc_downloadManagerAdvanced">Permite á aplicación acceder ás funcións avanzadas do administrador de descargas. As aplicacións maliciosas poden usar esta opción para interromper as descargas e acceder a información privada.</string>
+    <string name="permdesc_downloadWithoutNotification">Permite á aplicación descargar ficheiros a través do administrador de descargas sen que se mostre ningunha notificación ao usuario.</string>
+    <string name="permlab_accessAllDownloads">Acceso a todas as descargas do sistema</string>
+    <string name="permlab_downloadCacheNonPurgeable">Reservar espazo na caché de descargas</string>
+    <string name="permlab_downloadCompletedIntent">Enviar notificacións de descarga.</string>
+    <string name="permlab_downloadManager">Acceso ao administrador de descargas</string>
+    <string name="permlab_downloadManagerAdvanced">Funcións avanzadas do administrador de descargas</string>
+    <string name="permlab_downloadWithoutNotification">descargar ficheiros sen notificación</string>
+    <string name="root_downloads">Descargas</string>
+    <string name="storage_description">Descargas</string>
+    <string name="wifi_recommended_body">"Se descargas %1$s , podes quedar sen batería e o teu operador pódeche cobrar por un uso excesivo de datos.
+
+ Toca %2$s para iniciar esta descarga a próxima vez que te conectes a unha rede wifi."</string>
+    <string name="wifi_recommended_title">Colocar na cola para descargar máis tarde?</string>
+    <string name="wifi_required_body">"Debes utilizar a wifi para completar esta descarga de %1$s . 
+
+Toca %2$s  para iniciar esta descarga a próxima vez que te conectes a unha rede wifi"</string>
+    <string name="wifi_required_title">Descarga demasiado grande para a rede do operador</string>
+</resources>

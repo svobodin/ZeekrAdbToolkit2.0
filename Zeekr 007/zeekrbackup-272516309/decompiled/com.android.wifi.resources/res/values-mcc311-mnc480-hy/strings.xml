@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s – Դուք չեք կարող միանալ Verizon Wi-Fi Access-ին, երբ Verizon-ի ծածկույթից դուրս եք։</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s – Դուք բաժանորդագրված չեք Verizon Wi-Fi Access-ին։ Զանգեք մեզ 800-922-0204 հեռախոսահամարով։</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s – Ձեր Verizon Wi-Fi Access հաշվի հետ կապված խնդիր կա։ Զանգեք մեզ 800-922-0204 հեռախոսահամարով։</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s – Դուք արդեն միացած եք Verizon Wi-Fi Access-ին։</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s – Verizon Wi-Fi Access-ին միանալու հետ կապված խնդիր կա։ Զանգեք մեզ 800-922-0204 հեռախոսահամարով։</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s – Ձեր Verizon Wi-Fi Access հաշվի հետ կապված խնդիր կա։ Զանգեք մեզ 800-922-0204 հեռախոսահամարով։</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s – Verizon Wi-Fi Access-ը հասանելի չէ ձեր գտնվելու վայրից։ Փորձեք ավելի ուշ կամ մեկ այլ վայրից։</string>
+</resources>

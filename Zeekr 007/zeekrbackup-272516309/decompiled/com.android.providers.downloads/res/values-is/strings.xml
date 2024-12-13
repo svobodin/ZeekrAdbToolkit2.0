@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Niðurhalsstjórnun</string>
+    <string name="button_cancel_download">Hætta við</string>
+    <string name="button_queue_for_wifi">Setja í biðröð</string>
+    <string name="button_start_now">Hefja núna</string>
+    <string name="download_error">Mistókst</string>
+    <string name="download_no_application_title">Ekki er hægt að opna skrána</string>
+    <string name="download_queued">Í biðröð</string>
+    <string name="download_remaining">%s eftir</string>
+    <string name="download_running">Í gangi</string>
+    <string name="download_running_percent">Í gangi, %s</string>
+    <string name="download_unknown_title">&lt;Ónefnt></string>
+    <string name="notification_download_complete">Niðurhali lokið.</string>
+    <string name="notification_download_failed">Niðurhal mistókst.</string>
+    <string name="notification_need_wifi_for_size">Stærðin krefst Wi-Fi.</string>
+    <string name="notification_paused_in_background">Í bið í bakgrunni.</string>
+    <string name="permdesc_accessAllDownloads">Leyfir forriti að skoða og breyta öllu niðurhali sem hvaða forrit kerfisins sem er hóf.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Leyfir forriti að sækja skrár í skyndiminni niðurhals sem ekki er hægt að hreinsa sjálfkrafa þegar niðurhalsstjórnun þarf meira pláss.</string>
+    <string name="permdesc_downloadCompletedIntent">Leyfir forriti að senda tilkynningar um niðurhal sem er lokið. Spilliforrit geta notað þetta til að skapa rugling hjá öðrum forritum sem sækja skrár.</string>
+    <string name="permdesc_downloadManager">Leyfir forriti að fá aðgang að niðurhalsstjórnun og nota hana til að sækja skrár. Spilliforrit geta notað þetta til að trufla niðurhal og fá aðgang að einkaupplýsingum.</string>
+    <string name="permdesc_downloadManagerAdvanced">Leyfir forritum að fá aðgang að ítarlegum eiginleikum niðurhalsstjórnunar. Spilliforrit geta notað þetta til að trufla niðurhal og fá aðgang að einkaupplýsingum.</string>
+    <string name="permdesc_downloadWithoutNotification">Leyfir forriti að sækja skrár í gegnum niðurhalsstjórnun án þess að birta notandanum tilkynningu.</string>
+    <string name="permlab_accessAllDownloads">Aðgangur að öllu niðurhali kerfis</string>
+    <string name="permlab_downloadCacheNonPurgeable">Taka frá pláss í skyndiminni niðurhals</string>
+    <string name="permlab_downloadCompletedIntent">Senda tilkynningar um niðurhal.</string>
+    <string name="permlab_downloadManager">Aðgangur að niðurhalsstjórnun.</string>
+    <string name="permlab_downloadManagerAdvanced">Ítarlegir eiginleikar niðurhalsstjórnunar.</string>
+    <string name="permlab_downloadWithoutNotification">sækja skrár án tilkynningar</string>
+    <string name="root_downloads">Niðurhal</string>
+    <string name="storage_description">Niðurhal</string>
+    <string name="wifi_recommended_body">"Ef þetta %1$s  niðurhal er hafið kann rafhlaðan að tæmast hraðar og/eða notkun farsímagagnatengingar að verða mjög mikil, sem kann að hafa í för með sér að símafyrirtækið þitt rukki þig aukalega, allt eftir áskrift.
+
+ Ýttu á %2$s til að hefja þetta niðurhal næst þegar þú tengist Wi-Fi neti."</string>
+    <string name="wifi_recommended_title">Setja í biðröð til að sækja síðar?</string>
+    <string name="wifi_required_body">"Þú verður að nota Wi-Fi til að ljúka þessu %1$s  niðurhali. 
+
+Ýttu á %2$s  til að hefja þetta niðurhal næst þegar þú tengist Wi-Fi neti."</string>
+    <string name="wifi_required_title">Of stórt niðurhal fyrir kerfi símafyrirtækis</string>
+</resources>

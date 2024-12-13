@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Správca sprievodných zariadení</string>
+    <string name="chooser_title">Vyberte profil %1$s, ktorý bude spravovať aplikácia &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Povoliť aplikácii &lt;strong>%1$s&lt;/strong> spravovať zariadenie &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_no">Nepovoliť</string>
+    <string name="consent_yes">Povoliť</string>
+    <string name="profile_name_generic">zariadenie</string>
+    <string name="profile_name_watch">hodinky</string>
+    <string name="profile_summary">Táto aplikácia sa vyžaduje na správu profilu %1$s. %2$s</string>
+</resources>

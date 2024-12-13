@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="disable_tether_notification_message">Контактирајте со администраторот за детали</string>
+    <string name="disable_tether_notification_title">Врзувањето е оневозможено</string>
+    <string name="no_upstream_notification_disable_button" />
+    <string name="no_upstream_notification_message" />
+    <string name="no_upstream_notification_title" />
+    <string name="notification_channel_tethering_status">Статус на точката на пристап и врзувањето</string>
+    <string name="tethered_notification_message">Допрете за поставување.</string>
+    <string name="tethered_notification_title">Активно е врзување или точка на пристап</string>
+    <string name="upstream_roaming_notification_message" />
+    <string name="upstream_roaming_notification_title" />
+</resources>

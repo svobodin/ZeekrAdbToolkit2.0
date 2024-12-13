@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">コンパニオン デバイス マネージャ</string>
+    <string name="chooser_title">&lt;strong>%2$s&lt;/strong> の管理対象となる%1$sの選択</string>
+    <string name="confirmation_title">&lt;strong>%1$s&lt;/strong> に &lt;strong>%2$s&lt;/strong> の管理を許可する</string>
+    <string name="consent_no">許可しない</string>
+    <string name="consent_yes">許可</string>
+    <string name="profile_name_generic">デバイス</string>
+    <string name="profile_name_watch">ウォッチ</string>
+    <string name="profile_summary">このアプリは %1$s の管理に必要です。%2$s</string>
+</resources>

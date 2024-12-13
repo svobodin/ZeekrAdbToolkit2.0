@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="owner_name">Förare</string>
+    <string name="permlab_accessCoarseLocation">endast åtkomst till ungefärlig plats i förgrunden</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">Aktivera mikrofonen</string>
+</resources>

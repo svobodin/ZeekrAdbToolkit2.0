@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Správce stahování</string>
+    <string name="button_cancel_download">Zrušit</string>
+    <string name="button_queue_for_wifi">Fronta</string>
+    <string name="button_start_now">Spustit</string>
+    <string name="download_error">Neúspěšné</string>
+    <string name="download_no_application_title">Soubor nelze otevřít</string>
+    <string name="download_queued">Ve frontě</string>
+    <string name="download_remaining">%s do stažení</string>
+    <string name="download_running">Probíhá</string>
+    <string name="download_running_percent">Probíhá, %s</string>
+    <string name="download_unknown_title">&lt;Bez názvu></string>
+    <string name="notification_download_complete">Stahování dokončeno.</string>
+    <string name="notification_download_failed">Stahování bylo neúspěšné.</string>
+    <string name="notification_need_wifi_for_size">Vzhledem k velikosti stahovaného souboru je vyžadováno připojení Wi-Fi.</string>
+    <string name="notification_paused_in_background">Pozastaveno na pozadí.</string>
+    <string name="permdesc_accessAllDownloads">Umožňuje aplikaci zobrazit a upravovat všechna stahování zahájená libovolnou aplikací v systému.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Umožňuje aplikaci stahovat soubory do mezipaměti stahování, kterou nelze automaticky vymazat, pokud správce stahování potřebuje více místa.</string>
+    <string name="permdesc_downloadCompletedIntent">Umožňuje aplikaci odesílat oznámení o dokončení stahování. Škodlivé aplikace mohou pomocí těchto oprávnění zmást jiné aplikace, které stahují soubory.</string>
+    <string name="permdesc_downloadManager">Umožňuje aplikaci získat přístup do správce stahování a použít jej ke stahování souborů. Škodlivé aplikace mohou toto oprávnění použít k přerušení stahování a získání přístupu k soukromým údajům.</string>
+    <string name="permdesc_downloadManagerAdvanced">Umožňuje aplikaci získat přístup k pokročilým funkcím správce stahování. Škodlivé aplikace mohou toto oprávnění použít k přerušení stahování a získání přístupu k soukromým údajům.</string>
+    <string name="permdesc_downloadWithoutNotification">Umožňuje aplikaci stahovat soubory prostřednictvím správce stahování bez oznámení uživateli.</string>
+    <string name="permlab_accessAllDownloads">Přístup ke všem systémovým stahováním</string>
+    <string name="permlab_downloadCacheNonPurgeable">Rezervovat místo v mezipaměti stahování</string>
+    <string name="permlab_downloadCompletedIntent">Odeslat oznámení o stahování.</string>
+    <string name="permlab_downloadManager">Získat přístup ke správci stahování.</string>
+    <string name="permlab_downloadManagerAdvanced">Pokročilé funkce správce stahování.</string>
+    <string name="permlab_downloadWithoutNotification">stahování souborů bez oznámení</string>
+    <string name="root_downloads">Stahování</string>
+    <string name="storage_description">Stažené soubory</string>
+    <string name="wifi_recommended_body">"Stahování (%1$s ) může zkrátit výdrž baterie nebo příliš zatížit mobilní připojení a přivodit poplatky dle datového tarifu.
+
+ Chcete-li stahování spustit při dalším připojení k Wi-Fi, dotkněte se možnosti %2$s."</string>
+    <string name="wifi_recommended_title">Zařadit do fronty pro pozdější stažení?</string>
+    <string name="wifi_required_body">"K dokončení tohoto stahování o velikosti %1$s  je třeba připojení Wi-Fi. 
+
+Chcete-li stahování spustit při příštím připojení k síti Wi-Fi, dotkněte se možnosti %2$s ."</string>
+    <string name="wifi_required_title">Stahovaný soubor je pro síť operátora příliš velký</string>
+</resources>

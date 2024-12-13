@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ସକ୍ରିୟ ଷ୍ଟବ୍</string>
+    <string name="message_not_supported">କୌଣସି ଆପ୍‌ ଏହାକୁ ନିୟନ୍ତ୍ରଣ କରିପାରିବେ ନାହିଁ।</string>
+    <string name="pip_not_supported">ଏହି ଡିଭାଇସରେ ପିକଚର୍ ଇନ୍ ପିକଚର୍ ସମର୍ଥିତ ନୁହେଁ</string>
+    <string name="stub_name">କିଛିନାହିଁ</string>
+</resources>

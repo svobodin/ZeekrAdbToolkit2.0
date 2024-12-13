@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="additional_permissions_decor_title">ଅତିରିକ୍ତ ଅନୁମତି</string>
+    <string name="app_permissions_decor_title">ଆପ୍‌ର ଅନୁମତି</string>
+    <string name="current_permission_template">%1$s / %2$s</string>
+    <string name="grant_dialog_button_deny_dont_ask_again">ମନାକରନ୍ତୁ ଏବଂ ପୁଣି ପଚାରନ୍ତୁ ନାହିଁ</string>
+    <string name="grant_dialog_how_to_change">ସେଟିଙ୍ଗ ଓ ଆପ୍‌ରେ ଏହାକୁ ଆପଣ ପରେ ବଦଳାଇପାରିବେ</string>
+    <string name="manage_permissions_decor_title">ଆପ୍‌ର ଅନୁମତି</string>
+    <string name="permission_apps_decor_title">%1$s ଅନୁମତି</string>
+    <string name="preference_show_system_apps">ସିଷ୍ଟମ୍‍ ଆପ୍‍ ଦେଖାନ୍ତୁ</string>
+    <string name="system_apps_decor_title">%1$s ଅନୁମତି</string>
+</resources>

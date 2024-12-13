@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">Payagan ang ^1 na i-delete ang ^2 na audio file?</item>
+        <item quantity="one">Payagan ang ^1 na i-delete ang ^2 audio file?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">Payagan ang ^1 na i-delete ang ^2 na item?</item>
+        <item quantity="one">Payagan ang ^1 na i-delete ang ^2 item?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">Payagan ang ^1 na i-delete ang ^2 na larawan?</item>
+        <item quantity="one">Payagan ang ^1 na i-delete ang ^2 larawan?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">Payagan ang ^1 na i-delete ang ^2 na video?</item>
+        <item quantity="one">Payagan ang ^1 na i-delete ang ^2 video?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">At ^1 pang item</item>
+        <item quantity="one">At ^1 pang item</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">+^1</item>
+        <item quantity="one">+^1</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">Nagde-delete ng ^1 na audio file…</item>
+        <item quantity="one">Nagde-delete ng ^1 audio file…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">Nagde-delete ng ^1 na item…</item>
+        <item quantity="one">Nagde-delete ng ^1 item…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">Nagde-delete ng ^1 na larawan…</item>
+        <item quantity="one">Nagde-delete ng ^1 larawan…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">Nagde-delete ng ^1 na video…</item>
+        <item quantity="one">Nagde-delete ng ^1 video…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">Naglilipat ng ^1 na audio file sa trash…</item>
+        <item quantity="one">Naglilipat ng ^1 audio file sa trash…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">Naglilipat ng ^1 na item sa trash…</item>
+        <item quantity="one">Naglilipat ng ^1 item sa trash…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">Naglilipat ng ^1 na larawan sa trash…</item>
+        <item quantity="one">Naglilipat ng ^1 larawan sa trash…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">Naglilipat ng ^1 na video sa trash…</item>
+        <item quantity="one">Naglilipat ng ^1 video sa trash…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">Nag-aalis ng ^1 na audio file sa trash…</item>
+        <item quantity="one">Nag-aalis ng ^1 audio file sa trash…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">Nag-aalis ng ^1 na item sa trash…</item>
+        <item quantity="one">Nag-aalis ng ^1 item sa trash…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">Nag-aalis ng ^1 na larawan sa trash…</item>
+        <item quantity="one">Nag-aalis ng ^1 larawan sa trash…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">Nag-aalis ng ^1 na video sa trash…</item>
+        <item quantity="one">Nag-aalis ng ^1 video sa trash…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">Nagbabago ng ^1 na audio file…</item>
+        <item quantity="one">Nagbabago ng ^1 audio file…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">Nagbabago ng ^1 na item…</item>
+        <item quantity="one">Nagbabago ng ^1 item…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">Nagbabago ng ^1 na larawan…</item>
+        <item quantity="one">Nagbabago ng ^1 larawan…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">Nagbabago ng ^1 na video…</item>
+        <item quantity="one">Nagbabago ng ^1 video…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">Payagan ang ^1 na ilipat sa trash ang ^2 na audio file?</item>
+        <item quantity="one">Payagan ang ^1 na ilipat sa trash ang ^2 audio file?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">Payagan ang ^1 na ilipat sa trash ang ^2 na item?</item>
+        <item quantity="one">Payagan ang ^1 na ilipat sa trash ang ^2 item?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">Payagan ang ^1 na ilipat sa trash ang ^2 na larawan?</item>
+        <item quantity="one">Payagan ang ^1 na ilipat sa trash ang ^2 larawan?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">Payagan ang ^1 na ilipat sa trash ang ^2 na video?</item>
+        <item quantity="one">Payagan ang ^1 na ilipat sa trash ang ^2 video?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">Payagan ang ^1 na alisin sa trash ang ^2 na audio file?</item>
+        <item quantity="one">Payagan ang ^1 na alisin sa trash ang ^2 audio file?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">Payagan ang ^1 na alisin sa trash ang ^2 na item?</item>
+        <item quantity="one">Payagan ang ^1 na alisin sa trash ang ^2 item?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">Payagan ang ^1 na alisin sa trash ang ^2 na larawan?</item>
+        <item quantity="one">Payagan ang ^1 na alisin sa trash ang ^2 larawan?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">Payagan ang ^1 na alisin sa trash ang ^2 na video?</item>
+        <item quantity="one">Payagan ang ^1 na alisin sa trash ang ^2 video?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">Payagan ang ^1 na i-modify ang ^2 na audio file?</item>
+        <item quantity="one">Payagan ang ^1 na i-modify ang ^2 audio file?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">Payagan ang ^1 na baguhin ang ^2 na item?</item>
+        <item quantity="one">Payagan ang ^1 na baguhin ang ^2 item?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">Payagan ang ^1 na baguhin ang ^2 na larawan?</item>
+        <item quantity="one">Payagan ang ^1 na baguhin ang ^2 larawan?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">Payagan ang ^1 na baguhin ang ^2 na video?</item>
+        <item quantity="one">Payagan ang ^1 na baguhin ang ^2 video?</item>
+    </plurals>
+</resources>

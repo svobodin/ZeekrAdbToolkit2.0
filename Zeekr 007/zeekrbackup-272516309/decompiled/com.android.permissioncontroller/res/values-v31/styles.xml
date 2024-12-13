@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppPermissionLocationAccuracyTitle">
+        <item name="android:textAppearance">?android:textAppearanceListItem</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textDirection">locale</item>
+    </style>
+    <style name="AppPermissionRadioButton" parent="@android:style/Widget.DeviceDefault.CompoundButton.RadioButton">
+        <item name="android:textAppearance">?android:textAppearanceListItem</item>
+        <item name="android:paddingTop">8.0dip</item>
+        <item name="android:paddingBottom">8.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">16.0dip</item>
+        <item name="android:textDirection">locale</item>
+        <item name="android:paddingStart">?android:listPreferredItemPaddingStart</item>
+    </style>
+    <style name="Settings" parent="@style/Theme.SubSettingsBase" />
+    <style name="Theme.AlertDialog.SettingsLib" parent="@style/Theme.AppCompat.DayNight.Dialog.Alert">
+        <item name="android:colorBackground">@color/settingslib_dialog_background</item>
+        <item name="android:clipChildren">true</item>
+        <item name="android:clipToPadding">true</item>
+        <item name="android:windowSoftInputMode">adjustResize</item>
+        <item name="android:colorError">@color/settingslib_dialog_colorError</item>
+        <item name="colorAccent">@color/settingslib_dialog_accent</item>
+        <item name="dialogCornerRadius">@dimen/settingslib_dialogCornerRadius</item>
+    </style>
+    <style name="Theme.SettingsBase" parent="@android:style/Theme.DeviceDefault.Settings">
+        <item name="android:progressBarStyleHorizontal">@style/HorizontalProgressBar.SettingsLib</item>
+        <item name="android:textAppearanceListItem">@style/TextAppearance.PreferenceTitle.SettingsLib</item>
+        <item name="android:listPreferredItemPaddingLeft">24.0dip</item>
+        <item name="android:listPreferredItemPaddingRight">16.0dip</item>
+        <item name="android:listPreferredItemPaddingStart">24.0dip</item>
+        <item name="android:listPreferredItemPaddingEnd">16.0dip</item>
+        <item name="android:switchStyle">@style/Switch.SettingsLib</item>
+        <item name="preferenceTheme">@style/PreferenceTheme.SettingsLib</item>
+    </style>
+    <style name="Theme.SubSettingsBase" parent="@style/Theme.SettingsBase">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="alertDialogTheme">@style/Theme.AlertDialog.SettingsLib</item>
+        <item name="colorControlNormal">?android:colorControlNormal</item>
+    </style>
+    <style name="CollapsingToolbarTitle.Collapsed" parent="@android:style/TextAppearance.DeviceDefault.Widget.ActionBar.Title">
+        <item name="android:textSize">20.0dip</item>
+        <item name="android:textColor">@color/settingslib_text_color_primary_device_default</item>
+        <item name="android:fontFamily">@string/settingslib_config_headlineFontFamily</item>
+    </style>
+    <style name="CollapsingToolbarTitle.Expanded" parent="@style/CollapsingToolbarTitle.Collapsed">
+        <item name="android:textSize">36.0dip</item>
+        <item name="android:textColor">@color/settingslib_text_color_primary_device_default</item>
+    </style>
+    <style name="HorizontalProgressBar.SettingsLib" parent="@android:style/Widget.Material.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/settingslib_progress_horizontal</item>
+        <item name="android:scaleY">0.5</item>
+    </style>
+    <style name="PreferenceTheme.SettingsLib" parent="@style/PreferenceThemeOverlay">
+        <item name="checkBoxPreferenceStyle">@style/SettingsCheckBoxPreference.SettingsLib</item>
+        <item name="dialogPreferenceStyle">@style/SettingsPreference.SettingsLib</item>
+        <item name="dropdownPreferenceStyle">@style/SettingsDropdownPreference.SettingsLib</item>
+        <item name="editTextPreferenceStyle">@style/SettingsEditTextPreference.SettingsLib</item>
+        <item name="footerPreferenceStyle">@style/Preference.Material</item>
+        <item name="preferenceCategoryStyle">@style/SettingsCategoryPreference.SettingsLib</item>
+        <item name="preferenceCategoryTitleTextAppearance">@style/TextAppearance.CategoryTitle.SettingsLib</item>
+        <item name="preferenceStyle">@style/SettingsPreference.SettingsLib</item>
+        <item name="seekBarPreferenceStyle">@style/SettingsSeekbarPreference.SettingsLib</item>
+        <item name="switchPreferenceStyle">@style/SettingsSwitchPreference.SettingsLib</item>
+    </style>
+    <style name="SettingsCategoryPreference.SettingsLib" parent="@style/Preference.Category.Material">
+        <item name="allowDividerAbove">@bool/settingslib_config_allow_divider</item>
+        <item name="allowDividerBelow">@bool/settingslib_config_allow_divider</item>
+        <item name="iconSpaceReserved">@bool/settingslib_config_icon_space_reserved</item>
+    </style>
+    <style name="SettingsCheckBoxPreference.SettingsLib" parent="@style/Preference.CheckBoxPreference.Material">
+        <item name="iconSpaceReserved">@bool/settingslib_config_icon_space_reserved</item>
+        <item name="layout">@layout/settingslib_preference</item>
+    </style>
+    <style name="SettingsDropdownPreference.SettingsLib" parent="@style/Preference.DropDown.Material">
+        <item name="iconSpaceReserved">@bool/settingslib_config_icon_space_reserved</item>
+        <item name="layout">@layout/settingslib_dropdown_preference</item>
+    </style>
+    <style name="SettingsEditTextPreference.SettingsLib" parent="@style/Preference.DialogPreference.EditTextPreference.Material">
+        <item name="iconSpaceReserved">@bool/settingslib_config_icon_space_reserved</item>
+        <item name="layout">@layout/settingslib_preference</item>
+    </style>
+    <style name="SettingsPreference.SettingsLib" parent="@style/Preference.Material">
+        <item name="iconSpaceReserved">@bool/settingslib_config_icon_space_reserved</item>
+        <item name="layout">@layout/settingslib_preference</item>
+    </style>
+    <style name="SettingsSeekbarPreference.SettingsLib" parent="@style/Preference.SeekBarPreference.Material">
+        <item name="iconSpaceReserved">@bool/settingslib_config_icon_space_reserved</item>
+    </style>
+    <style name="SettingsSwitchPreference.SettingsLib" parent="@style/Preference.SwitchPreference.Material">
+        <item name="iconSpaceReserved">@bool/settingslib_config_icon_space_reserved</item>
+        <item name="layout">@layout/settingslib_preference</item>
+    </style>
+    <style name="Switch.SettingsLib" parent="@android:style/Widget.Material.CompoundButton.Switch">
+        <item name="android:minHeight">@dimen/settingslib_preferred_minimum_touch_target</item>
+        <item name="android:thumb">@drawable/settingslib_switch_thumb</item>
+        <item name="android:track">@drawable/settingslib_switch_track</item>
+        <item name="android:switchMinWidth">52.0dip</item>
+    </style>
+    <style name="TextAppearance.CategoryTitle.SettingsLib" parent="@android:style/TextAppearance.DeviceDefault.Medium">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="TextAppearance.PreferenceTitle.SettingsLib" parent="@android:style/TextAppearance.Material.Subhead">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:fontFamily">@string/settingslib_config_headlineFontFamily</item>
+    </style>
+    <style name="Theme.CollapsingToolbar.Settings" parent="@style/Theme.MaterialComponents.DayNight">
+        <item name="colorAccent">@color/settingslib_accent_device_default_light</item>
+        <item name="colorPrimary">@color/settingslib_primary_device_default_settings_light</item>
+        <item name="elevationOverlayColor">?colorPrimary</item>
+        <item name="elevationOverlayEnabled">true</item>
+    </style>
+</resources>

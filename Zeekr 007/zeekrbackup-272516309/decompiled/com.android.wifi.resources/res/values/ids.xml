@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="enter_pin_section" />
+    <item type="id" name="info" />
+    <item type="id" name="name" />
+    <item type="id" name="value" />
+    <item type="id" name="wifi_p2p_wps_pin" />
+</resources>

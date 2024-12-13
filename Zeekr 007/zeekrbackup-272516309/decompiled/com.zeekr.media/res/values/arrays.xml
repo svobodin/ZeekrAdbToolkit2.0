@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="collection_tab_array">
+        <item>@string/collection_single</item>
+        <item>@string/collection_hi_res_album</item>
+        <item>@string/collection_station_album</item>
+    </string-array>
+    <string-array name="fragment_category_tab_array">
+        <item>@string/category_tab_rock</item>
+        <item>@string/category_tab_jazz</item>
+        <item>@string/category_tab_popular</item>
+        <item>@string/category_tab_opera</item>
+        <item>@string/category_tab_relaxed</item>
+    </string-array>
+    <string-array name="hirtory_tab_array">
+        <item>@string/hirtory_sing</item>
+        <item>@string/hirtory_sound</item>
+    </string-array>
+    <string-array name="recent_tab_array">
+        <item>@string/collection_single</item>
+        <item>@string/recent_program</item>
+        <item>@string/collection_hi_res_album</item>
+        <item>@string/recent_album_program</item>
+    </string-array>
+</resources>

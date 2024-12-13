@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="channel_black_list">
+        <item>ALR</item>
+        <item>SCN</item>
+        <item>SCN_HEADSUP</item>
+        <item>GEN</item>
+        <item>DSK</item>
+        <item>TPP</item>
+        <item>BAT</item>
+        <item>HNT</item>
+        <item>NETWORK_STATUS</item>
+        <item>NETWORK_ALERTS</item>
+        <item>NETWORK_AVAILABLE</item>
+        <item>USB</item>
+        <item>SYSTEM_CHANGES</item>
+        <item>VIRTUAL_KEYBOARD</item>
+        <item>PHYSICAL_KEYBOARD</item>
+        <item>SECURITY</item>
+        <item>CAR_MODE</item>
+        <item>ACCOUNT</item>
+        <item>DEVELOPER</item>
+        <item>UPDATES</item>
+        <item>VPN</item>
+        <item>HEAVY_WEIGHT_APP</item>
+        <item>FOREGROUND_SERVICE</item>
+        <item>DO_NOT_DISTURB</item>
+        <item>HEAVY_WEIGHT_APP</item>
+        <item>QDMAUI_Noti_Channel</item>
+    </string-array>
+    <string-array name="notify_black_list">
+        <item>android</item>
+        <item>system</item>
+        <item>com.android.systemui</item>
+        <item>com.android.server.telecom</item>
+        <item>com.android.phone</item>
+        <item>com.android.bluetooth</item>
+        <item>com.google.android.inputmethod.pinyin</item>
+        <item>com.android.settings</item>
+    </string-array>
+</resources>

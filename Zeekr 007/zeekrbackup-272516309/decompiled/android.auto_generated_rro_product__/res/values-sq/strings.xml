@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="owner_name">Drejtuesi</string>
+    <string name="permlab_accessCoarseLocation">qasu në vendndodhjen e përafërt vetëm në plan të parë</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">Aktivizo mikrofonin</string>
+</resources>

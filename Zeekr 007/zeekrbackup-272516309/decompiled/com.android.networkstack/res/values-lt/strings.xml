@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Tinklo tvarkymo įrankis</string>
+    <string name="connected">Prisijungta</string>
+    <string name="notification_channel_description_connected">Pranešimai rodomi, kai įrenginys sėkmingai autentifikuotas naudoti fiksuotųjų portalų tinklą</string>
+    <string name="notification_channel_description_network_venue_info">Pranešimai rodomi informuojant, kad tinkle yra vietos informacijos puslapis</string>
+    <string name="notification_channel_name_connected">Fiksuotojo portalo autentifikavimas</string>
+    <string name="notification_channel_name_network_venue_info">Tinklo vietos informacija</string>
+    <string name="tap_for_info">Prisijungta / žr. svetainę palietę</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">‏%1$s : لا يمكنك الاتصال بشبكة Verizon Wi-Fi Access من خارج نطاق تغطية Verizon.</string>
+    <string name="wifi_eap_error_message_code_32761">‏%1$s : لم تشترك في Verizon Wi-Fi Access. يُرجى الاتصال بالرقم ‎800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32762">‏%1$s : حدثت مشكلة في حسابك على Verizon Wi-Fi Access. يُرجى الاتصال بالرقم ‎800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32763">‏%1$s : سبق واتصلت بشبكة Verizon Wi-Fi Access.</string>
+    <string name="wifi_eap_error_message_code_32764">‏%1$s : حدثت مشكلة أثناء اتصالك بشبكة Verizon Wi-Fi Access. يُرجى الاتصال بالرقم ‎800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32765">‏%1$s : حدثت مشكلة في حسابك على Verizon Wi-Fi Access. يُرجى الاتصال بالرقم ‎800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32766">‏%1$s : Verizon Wi-Fi Access غير متاح في موقعك الجغرافية. يُرجى إعادة المحاولة لاحقًا أو المحاولة من موقع جغرافي مختلف.</string>
+</resources>

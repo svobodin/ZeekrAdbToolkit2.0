@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">પ્રવૃત્તિ સ્ટબ</string>
+    <string name="message_not_supported">કોઈ ઍપ આ ક્રિયાને હૅન્ડલ કરી શકશે નહીં</string>
+    <string name="pip_not_supported">આ ડિવાઇસ પર ચિત્ર-માં-ચિત્ર સુવિધા સપોર્ટ કરતી નથી</string>
+    <string name="stub_name">કોઈ નહીં</string>
+</resources>

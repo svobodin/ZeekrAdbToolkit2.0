@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Inicia sesión na rede</string>
+    <string name="action_bar_title">Iniciar sesión en %1$s</string>
+    <string name="action_do_not_use_network">Non utilizar esta rede</string>
+    <string name="action_use_network">Utilizar esta rede tal como está</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">Notificacións nas que se mostra o progreso das descargas de ficheiros</string>
+    <string name="channel_description_downloads">Notificacións nas que se mostran as descargas completadas ou canceladas</string>
+    <string name="channel_name_download_progress">Progreso das descargas</string>
+    <string name="channel_name_downloads">Descargas</string>
+    <string name="custom_scheme_example">Por exemplo, a páxina de inicio de sesión pode requirir unha aplicación específica para a autenticación</string>
+    <string name="custom_scheme_warning">A rede á que estás tentando unirte solicita abrir outra aplicación.</string>
+    <string name="download_completed">Completouse a descarga</string>
+    <string name="downloading_paramfile">Descargando %1$s</string>
+    <string name="error_continue_via_browser">Continuar igualmente co navegador</string>
+    <string name="error_downloading_paramfile">Non se puido descargar %1$s</string>
+    <string name="no_bypass_error_vpnwarning">Ademais, non é posible omitir este erro porque actualmente o dispositivo está executando unha VPN.</string>
+    <string name="ok">Aceptar</string>
+    <string name="page_info">Información da páxina</string>
+    <string name="page_info_address">Enderezo:</string>
+    <string name="ssl_error_date_invalid">Este certificado ten unha data non válida.</string>
+    <string name="ssl_error_example">Por exemplo, é posible que a páxina de inicio de sesión non pertenza á organización que se mostra.</string>
+    <string name="ssl_error_expired">Este certificado caducou.</string>
+    <string name="ssl_error_invalid">Este certificado non é válido.</string>
+    <string name="ssl_error_mismatch">O nome do sitio non coincide co nome que aparece no certificado.</string>
+    <string name="ssl_error_not_yet_valid">Este certificado aínda non é válido.</string>
+    <string name="ssl_error_unknown">Produciuse un erro descoñecido relacionado co certificado.</string>
+    <string name="ssl_error_untrusted">Este certificado non procede dunha autoridade de confianza.</string>
+    <string name="ssl_error_view_certificate">Ver certificado</string>
+    <string name="ssl_error_warning">A rede á que tentas unirte ten problemas de seguranza.</string>
+    <string name="ssl_security_warning_title">Advertencia de seguranza</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
+</resources>

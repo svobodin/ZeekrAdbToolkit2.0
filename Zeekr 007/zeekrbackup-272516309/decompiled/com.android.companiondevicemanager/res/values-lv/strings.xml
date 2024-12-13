@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Palīgierīču pārzinis</string>
+    <string name="chooser_title">Profila (%1$s) izvēle, ko pārvaldīt lietotnē &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Atļauja lietotnei &lt;strong>%1$s&lt;/strong> pārvaldīt ierīci &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_no">Neatļaut</string>
+    <string name="consent_yes">Atļaut</string>
+    <string name="profile_name_generic">ierīce</string>
+    <string name="profile_name_watch">pulkstenis</string>
+    <string name="profile_summary">Šī lietotne ir nepieciešama jūsu profila (%1$s) pārvaldībai. %2$s</string>
+</resources>

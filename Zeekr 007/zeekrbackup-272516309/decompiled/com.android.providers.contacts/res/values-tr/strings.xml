@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Kişi Deposu</string>
+    <string name="debug_dump_database_message">Birazdan 1) veritabanınızın kişilerle ilgili tüm bilgilerini ve çağrı günlüğünün tamamını içeren bir kopyasını dahili depolama birimine kaydetmek ve 2) bunu e-postayla göndermek üzeresiniz. Bu kopyayı cihazın dışına aktardıktan veya e-posta alındıktan sonra hemen silmeyi unutmayın.</string>
+    <string name="debug_dump_delete_button">Şimdi sil</string>
+    <string name="debug_dump_email_body">Tüm kişi bilgilerimi içeren kişiler veritabanımı ekte bulabilirsiniz. Dikkatli kullanın.</string>
+    <string name="debug_dump_email_sender_picker">Dosyanızı göndermek için bir program seçin</string>
+    <string name="debug_dump_email_subject">Kişiler veritabanı ektedir</string>
+    <string name="debug_dump_start_button">Başlat</string>
+    <string name="debug_dump_title">Kişiler veritabanını kopyala</string>
+    <string name="default_directory">Kişiler</string>
+    <string name="local_invisible_directory">Diğer</string>
+    <string name="provider_label">Kişiler</string>
+    <string name="sharedUserLabel">Android Çekirdek Uygulamaları</string>
+    <string name="upgrade_out_of_memory_notification_text">Yeni sürüme geçişi tamamlamak için hafifçe dokunun</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Kişileri yeni sürüme geçirmek için daha fazla bellek gerekiyor.</string>
+    <string name="upgrade_out_of_memory_notification_title">Kişiler için depolama alanı yeni sürüme geçiriliyor</string>
+    <string name="voicemail_from_column">"Sesli mesaj gönderen: "</string>
+</resources>

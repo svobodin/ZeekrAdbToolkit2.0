@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">%1$d mere</item>
+        <item quantity="one">%1$d mere</item>
+    </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">%1$d apps er ikke blevet brugt i et par måneder. Tryk for at gennemgå dem</item>
+        <item quantity="one">%1$d app er ikke blevet brugt i et par måneder. Tryk for at gennemgå den</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">%1$d apps er ikke blevet brugt i et par måneder</item>
+        <item quantity="one">%1$d app er ikke blevet brugt i et par måneder</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s dage</item>
+        <item quantity="one">%s dag</item>
+    </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">%s dage</item>
+        <item quantity="one">%s dag</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">%s timer</item>
+        <item quantity="one">%s time</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">%s min.</item>
+        <item quantity="one">%s min.</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">%s sek.</item>
+        <item quantity="one">%s sek.</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s timer</item>
+        <item quantity="one">%s time</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s minutter</item>
+        <item quantity="one">%s minut</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nye notifikationer</item>
+        <item quantity="one">%d ny notifikation</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s apps</item>
+        <item quantity="one">%s app</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s apps</item>
+        <item quantity="one">%s app</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">Anvendes af %1$d apps</item>
+        <item quantity="one">Anvendes af %1$d app</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"Seneste adgang: %1$s
+%2$s adgange"</item>
+        <item quantity="one">"Seneste adgang: %1$s
+%2$s adgang"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"Seneste adgang: %1$s
+%2$s adgange (%3$s i baggrunden)"</item>
+        <item quantity="one">"Seneste adgang: %1$s
+%2$s adgange (%3$s i baggrunden)"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"Seneste adgang: %1$s
+%2$s adgange (%3$s i baggrunden)
+Varighed: %3$s"</item>
+        <item quantity="one">"Seneste adgang: %1$s
+%2$s adgang (%3$s i baggrunden)
+Varighed: %3$s"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"Seneste adgang: %1$s
+%2$s adgange
+Varighed: %3$s"</item>
+        <item quantity="one">"Seneste adgang: %1$s
+%2$s adgang
+Varighed: %3$s"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s sekunder</item>
+        <item quantity="one">%s sekund</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">%1$d apps, du ikke bruger</item>
+        <item quantity="one">%1$d app, du ikke bruger</item>
+    </plurals>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">相机应用</item>
+        <item quantity="one">相机应用</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">电子邮件客户端应用</item>
+        <item quantity="one">电子邮件客户端应用</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">电话应用</item>
+        <item quantity="one">电话应用</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">已尝试 %d 次</item>
+        <item quantity="one">已尝试 %d 次</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d 个应用</item>
+        <item quantity="one">%d 个应用</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">至少 %d 个应用</item>
+        <item quantity="one">至少 %d 个应用</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d 条新通知</item>
+        <item quantity="one">%d 条新通知</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">已连接 %1$d 个设备</item>
+        <item quantity="one">已连接 %1$d 个设备</item>
+    </plurals>
+</resources>

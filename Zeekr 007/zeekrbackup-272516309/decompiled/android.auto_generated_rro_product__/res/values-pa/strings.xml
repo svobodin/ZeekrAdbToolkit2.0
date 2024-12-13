@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="owner_name">ਡਰਾਈਵਰ</string>
+    <string name="permlab_accessCoarseLocation">ਸਿਰਫ਼ ਫੋਰਗ੍ਰਾਊਂਡ ਵਿੱਚ ਅਨੁਮਾਨਿਤ ਟਿਕਾਣੇ ਤੱਕ ਪਹੁੰਚ ਕਰੋ</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">ਮਾਈਕ੍ਰੋਫ਼ੋਨ ਨੂੰ ਚਾਲੂ ਕਰੋ</string>
+</resources>

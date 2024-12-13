@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">Системийн холболтын нөөцүүд</string>
+    <string name="mobile_no_internet">Мобайл сүлжээнд интернэт хандалт байхгүй байна</string>
+    <string name="network_available_sign_in">Сүлжээнд нэвтэрнэ үү</string>
+    <string name="network_partial_connectivity">%1$s зарим үйлчилгээнд хандах боломжгүй байна</string>
+    <string name="network_partial_connectivity_detailed">Ямар ч тохиолдолд холбогдохын тулд товших</string>
+    <string name="network_switch_metered">%1$s руу шилжүүлсэн</string>
+    <string name="network_switch_metered_detail">%2$s интернет холболтгүй үед төхөөрөмж %1$s-г ашигладаг. Төлбөр гарч болзошгүй.</string>
+    <string name="network_switch_metered_toast">%1$s-с %2$s руу шилжүүлсэн</string>
+    <string name="network_switch_type_name_unknown">үл мэдэгдэх сүлжээний төрөл</string>
+    <string name="other_networks_no_internet">Сүлжээнд интернэт хандалт байхгүй байна</string>
+    <string name="private_dns_broken_detailed">Хувийн DNS серверт хандах боломжгүй байна</string>
+    <string name="wifi_available_sign_in">Wi-Fi сүлжээнд нэвтэрнэ үү</string>
+    <string name="wifi_no_internet">%1$s-д интернэтийн хандалт алга</string>
+    <string name="wifi_no_internet_detailed">Сонголт хийхийн тулд товшино уу</string>
+</resources>

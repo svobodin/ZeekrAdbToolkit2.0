@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="numberOfDays">
+        <item quantity="other">den</item>
+        <item quantity="one">den</item>
+        <item quantity="few">dni</item>
+        <item quantity="many">dnů</item>
+    </plurals>
+</resources>

@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="actionbar_option_entries">
+        <item>@string/actionbar_wifi</item>
+        <item>@string/actionbar_network</item>
+        <item>@string/actionbar_battery</item>
+        <item>@string/actionbar_battery_percent</item>
+        <item>@string/actionbar_clock</item>
+    </string-array>
+    <string-array name="actionbar_option_values">
+        <item>WIFI</item>
+        <item>NETWORK</item>
+        <item>BATTERY</item>
+        <item>BATTERYPERCENT</item>
+        <item>CLOCK</item>
+    </string-array>
+    <string-array name="app_return_seconds_entries">
+        <item>@string/gesture_disabled</item>
+        <item>1 second</item>
+        <item>5 seconds</item>
+        <item>10 seconds</item>
+        <item>15 seconds</item>
+        <item>20 seconds</item>
+        <item>30 seconds</item>
+    </string-array>
+    <string-array name="app_return_seconds_values">
+        <item>-1</item>
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="background_audio_mode_entries">
+        <item>@string/duck_background_audio</item>
+        <item>@string/mute_background_audio</item>
+    </string-array>
+    <string-array name="background_audio_mode_values">
+        <item>duck</item>
+        <item>mute</item>
+    </string-array>
+    <string-array name="bottom_nav_position_entries">
+        <item>@string/position_bottom</item>
+        <item>@string/position_left</item>
+        <item>@string/position_right</item>
+    </string-array>
+    <string-array name="bottom_nav_position_values">
+        <item>BOTTOM</item>
+        <item>LEFT</item>
+        <item>RIGHT</item>
+    </string-array>
+    <array name="color_palette">
+        <item>#fff44336</item>
+        <item>#ffe91e63</item>
+        <item>#ff9c27b0</item>
+        <item>#ff673ab7</item>
+        <item>#ff3f51b5</item>
+        <item>#ff2196f3</item>
+        <item>#ff03a9f4</item>
+        <item>#ff00bcd4</item>
+        <item>#ff009688</item>
+        <item>#ff4caf50</item>
+        <item>#ff8bc34a</item>
+        <item>#ffcddc39</item>
+        <item>#ffffeb3b</item>
+        <item>#ffffc107</item>
+        <item>#ffff9800</item>
+        <item>#ffff5722</item>
+        <item>#ff795548</item>
+        <item>#ff9e9e9e</item>
+        <item>#ff607d8b</item>
+    </array>
+    <array name="color_picker_options">
+        <item>#fff03434</item>
+        <item>#ffec644b</item>
+        <item>#ffd24d57</item>
+        <item>#fff22613</item>
+        <item>#ffd91e18</item>
+        <item>#ff96281b</item>
+        <item>#ffef4836</item>
+        <item>#ffd64541</item>
+        <item>#ffc0392b</item>
+        <item>#ffcf000f</item>
+        <item>#ffe74c3c</item>
+        <item>#ffdb0a5b</item>
+        <item>#fff64747</item>
+        <item>#fff1a9a0</item>
+        <item>#ffd2527f</item>
+        <item>#ffe08283</item>
+        <item>#fff62459</item>
+        <item>#ffe26a6a</item>
+        <item>#ff947cb0</item>
+        <item>#ffdcc6e0</item>
+        <item>#ff663399</item>
+        <item>#ff674172</item>
+        <item>#ffaea8d3</item>
+        <item>#ff913d88</item>
+        <item>#ff9a12b3</item>
+        <item>#ffbf55ec</item>
+        <item>#ffbe90d4</item>
+        <item>#ff8e44ad</item>
+        <item>#ff9b59b6</item>
+        <item>#ff013243</item>
+        <item>#ff446cb3</item>
+        <item>#ffe4f1fe</item>
+        <item>#ff4183d7</item>
+        <item>#ff59abe3</item>
+        <item>#ff81cfe0</item>
+        <item>#ff52b3d9</item>
+        <item>#ffc5eff7</item>
+        <item>#ff22a7f0</item>
+        <item>#ff3498db</item>
+        <item>#ff2c3e50</item>
+        <item>#ff19b5fe</item>
+        <item>#ff336e7b</item>
+        <item>#ff22313f</item>
+        <item>#ff6bb9f0</item>
+        <item>#ff1e8bc3</item>
+        <item>#ff3a539b</item>
+        <item>#ff34495e</item>
+        <item>#ff67809f</item>
+        <item>#ff2574a9</item>
+        <item>#ff1f3a93</item>
+        <item>#ff89c4f4</item>
+        <item>#ff4b77be</item>
+        <item>#ff5c97bf</item>
+        <item>#ff00e640</item>
+        <item>#ff91b496</item>
+        <item>#ff4ecdc4</item>
+        <item>#ffa2ded0</item>
+        <item>#ff87d37c</item>
+        <item>#ff90c695</item>
+        <item>#ff26a65b</item>
+        <item>#ff03c9a9</item>
+        <item>#ff68c3a3</item>
+        <item>#ff65c6bb</item>
+        <item>#ff1bbc9b</item>
+        <item>#ff1ba39c</item>
+        <item>#ff66cc99</item>
+        <item>#ff36d7b7</item>
+        <item>#ffc8f7c5</item>
+        <item>#ff86e2d5</item>
+        <item>#ff2ecc71</item>
+        <item>#ff16a085</item>
+        <item>#ff3fc380</item>
+        <item>#ff019875</item>
+        <item>#ff03a678</item>
+        <item>#ff4daf7c</item>
+        <item>#ff2abb9b</item>
+        <item>#ff00b16a</item>
+        <item>#ff1e824c</item>
+        <item>#ff049372</item>
+        <item>#ff26c281</item>
+        <item>#fffabe58</item>
+        <item>#ffe9d460</item>
+        <item>#fffde3a7</item>
+        <item>#fff89406</item>
+        <item>#ffeb9532</item>
+        <item>#ffe87e04</item>
+        <item>#fff4b350</item>
+        <item>#fff2784b</item>
+        <item>#ffeb974e</item>
+        <item>#fff5ab35</item>
+        <item>#ffd35400</item>
+        <item>#fff39c12</item>
+        <item>#fff9690e</item>
+        <item>#fff9bf3b</item>
+        <item>#fff27935</item>
+        <item>#ffe67e22</item>
+        <item>#ffececec</item>
+        <item>#ffd2d7d3</item>
+        <item>#ffeeeeee</item>
+        <item>#ffbdc3c7</item>
+        <item>#ffecf0f1</item>
+        <item>#ff95a5a6</item>
+        <item>#ffdadfe1</item>
+        <item>#ffabb7b7</item>
+        <item>#fff2f1ef</item>
+        <item>#ffbfbfbf</item>
+        <item>#ff6c7a89</item>
+        <item>#ff172026</item>
+        <item>#ff000000</item>
+    </array>
+    <array name="contact_backgrounds">
+        <item>#ff556575</item>
+        <item>#ffb3ba5a</item>
+        <item>#ffe15f3f</item>
+        <item>#ffb6712e</item>
+        <item>#ff517ad4</item>
+        <item>#ff8b5e87</item>
+        <item>#ff21bd76</item>
+        <item>#ffadb858</item>
+        <item>#ff32b67a</item>
+        <item>#ffb5af00</item>
+        <item>#ff96b3dc</item>
+        <item>#ffaf9bdc</item>
+        <item>#ffbe1e2a</item>
+        <item>#ffcb5a10</item>
+        <item>#ff349676</item>
+        <item>#ff2c5aa0</item>
+    </array>
+    <string-array name="disable_gps_screens_entries">
+        <item>@string/ab_title_phone</item>
+        <item>@string/ab_title_home</item>
+        <item>@string/ab_title_music</item>
+        <item>@string/ab_title_shortcuts</item>
+    </string-array>
+    <string-array name="disable_gps_screens_values">
+        <item>com.bitspice.automate.phone.PhoneFragment</item>
+        <item>com.bitspice.automate.home.HomeFragment</item>
+        <item>com.bitspice.automate.music.MusicFragment</item>
+        <item>com.bitspice.automate.shortcuts.ShortcutsFragment</item>
+    </string-array>
+    <array name="empty_values" />
+    <string-array name="enabled_screen_entries">
+        <item>@string/ab_title_maps</item>
+        <item>@string/ab_title_phone</item>
+        <item>@string/ab_title_music</item>
+        <item>@string/ab_title_shortcuts</item>
+    </string-array>
+    <string-array name="enabled_screen_values">
+        <item>com.bitspice.automate.maps.MapsFragment</item>
+        <item>com.bitspice.automate.phone.PhoneFragment</item>
+        <item>com.bitspice.automate.music.MusicFragment</item>
+        <item>com.bitspice.automate.shortcuts.ShortcutsFragment</item>
+    </string-array>
+    <string-array name="gesture_entries">
+        <item>@string/gesture_disabled</item>
+        <item>@string/gesture_voice_input</item>
+        <item>@string/gesture_play_pause</item>
+        <item>@string/gesture_next_track</item>
+        <item>@string/gesture_prev_track</item>
+        <item>@string/gesture_right_screen</item>
+        <item>@string/gesture_left_screen</item>
+    </string-array>
+    <string-array name="gesture_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="grid_screens_entries">
+        <item>@string/ab_title_home</item>
+        <item>@string/ab_title_phone</item>
+        <item>@string/ab_title_shortcuts</item>
+        <item>@string/menu</item>
+    </string-array>
+    <string-array name="grid_screens_values">
+        <item>com.bitspice.automate.home.HomeFragment</item>
+        <item>com.bitspice.automate.phone.PhoneFragment</item>
+        <item>com.bitspice.automate.shortcuts.ShortcutsFragment</item>
+        <item>menu</item>
+    </string-array>
+    <string-array name="home_notif_entries">
+        <item>@string/notif_events</item>
+        <item>@string/notif_media</item>
+        <item>@string/notif_recent_places</item>
+        <item>@string/notif_weather</item>
+        <item>@string/notif_messages</item>
+        <item>@string/notif_directions</item>
+    </string-array>
+    <string-array name="home_notif_values">
+        <item>EVENT</item>
+        <item>MUSIC</item>
+        <item>MAPS</item>
+        <item>WEATHER</item>
+        <item>SMS</item>
+        <item>DIRECTION</item>
+    </string-array>
+    <string-array name="home_screen_entries">
+        <item>@string/ab_title_maps</item>
+        <item>@string/ab_title_phone</item>
+        <item>@string/ab_title_home</item>
+        <item>@string/ab_title_music</item>
+        <item>@string/ab_title_shortcuts</item>
+    </string-array>
+    <string-array name="home_screen_values">
+        <item>com.bitspice.automate.maps.MapsFragment</item>
+        <item>com.bitspice.automate.phone.PhoneFragment</item>
+        <item>com.bitspice.automate.home.HomeFragment</item>
+        <item>com.bitspice.automate.music.MusicFragment</item>
+        <item>com.bitspice.automate.shortcuts.ShortcutsFragment</item>
+    </string-array>
+    <string-array name="pinned_notif_entries">
+        <item>@string/notif_none</item>
+        <item>@string/notif_events</item>
+        <item>@string/notif_media</item>
+        <item>@string/notif_recent_places</item>
+        <item>@string/notif_weather</item>
+        <item>@string/notif_messages</item>
+        <item>@string/notif_directions</item>
+    </string-array>
+    <string-array name="pinned_notif_values">
+        <item>NONE</item>
+        <item>EVENT</item>
+        <item>MUSIC</item>
+        <item>MAPS</item>
+        <item>WEATHER</item>
+        <item>SMS</item>
+        <item>DIRECTION</item>
+    </string-array>
+    <string-array name="preferred_orientation_entries">
+        <item>@string/gesture_disabled</item>
+        <item>@string/portrait</item>
+        <item>@string/landscape</item>
+        <item>@string/reversed_portrait</item>
+        <item>@string/reversed_landscape</item>
+    </string-array>
+    <string-array name="preferred_orientation_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="speed_alert_frequency_entries">
+        <item>@string/gesture_disabled</item>
+        <item>@string/pref_speed_warning_frequency_high</item>
+        <item>@string/pref_speed_warning_frequency_medium</item>
+        <item>@string/pref_speed_warning_frequency_low</item>
+    </string-array>
+    <string-array name="speed_alert_frequency_values">
+        <item>-1</item>
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="theme_option_entries">
+        <item>@string/pref_cat_theme_day_theme</item>
+        <item>@string/pref_cat_theme_night_theme</item>
+        <item>@string/theme_auto</item>
+        <item>@string/theme_custom</item>
+    </string-array>
+    <string-array name="theme_option_values">
+        <item>day</item>
+        <item>night</item>
+        <item>auto</item>
+        <item>custom</item>
+    </string-array>
+    <string-array name="voice_volume_entries">
+        <item>@string/voice_volume_soft</item>
+        <item>@string/voice_volume_normal</item>
+        <item>@string/voice_volume_loud</item>
+    </string-array>
+    <string-array name="voice_volume_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="weather_provider_entries">
+        <item>OpenWeatherMap</item>
+        <item>Yahoo! Weather</item>
+    </string-array>
+    <string-array name="weather_provider_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

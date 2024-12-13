@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ਸੰਬੰਧੀ ਡੀਵਾਈਸ ਪ੍ਰਬੰਧਕ</string>
+    <string name="chooser_title">&lt;strong>%2$s&lt;/strong> ਵੱਲੋਂ ਪ੍ਰਬੰਧਿਤ ਕੀਤੇ ਜਾਣ ਲਈ %1$s ਚੁਣੋ</string>
+    <string name="confirmation_title">&lt;strong>%1$s&lt;/strong> ਨੂੰ ਤੁਹਾਡੇ &lt;strong>%2$s&lt;/strong> ਦਾ ਪ੍ਰਬੰਧਨ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ</string>
+    <string name="consent_no">ਇਜਾਜ਼ਤ ਨਾ ਦਿਓ</string>
+    <string name="consent_yes">ਇਜਾਜ਼ਤ ਦਿਓ</string>
+    <string name="profile_name_generic">ਡੀਵਾਈਸ</string>
+    <string name="profile_name_watch">ਸਮਾਰਟ-ਵਾਚ</string>
+    <string name="profile_summary">ਤੁਹਾਡੇ %1$s ਦਾ ਪ੍ਰਬੰਧਨ ਕਰਨ ਲਈ ਇਹ ਐਪ ਲੋੜੀਂਦੀ ਹੈ। %2$s</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ଡାଉନଲୋଡ୍‌ ମ୍ୟାନେଜର୍‌</string>
+    <string name="button_cancel_download">ବାତିଲ୍ କରନ୍ତୁ</string>
+    <string name="button_queue_for_wifi">ଧାଡ଼ିରେ ରଖନ୍ତୁ</string>
+    <string name="button_start_now">ବର୍ତ୍ତମାନ ଆରମ୍ଭ କରନ୍ତୁ</string>
+    <string name="download_error">ଅସଫଳ</string>
+    <string name="download_no_application_title">ଫାଇଲ୍‌କୁ ଖୋଲିପାରିବ ନାହିଁ</string>
+    <string name="download_queued">ଧାଡ଼ିରେ ରଖାଯାଇଛି</string>
+    <string name="download_remaining">%s ଅବଶିଷ୍ଟ ଅଛି</string>
+    <string name="download_running">ଜାରି ଅଛି</string>
+    <string name="download_running_percent">ଜାରି ଅଛି, %s</string>
+    <string name="download_unknown_title">&lt;ନାମହୀନ></string>
+    <string name="notification_download_complete">ଡାଉନଲୋଡ୍ ହୋଇଗଲା।</string>
+    <string name="notification_download_failed">ଡାଉନଲୋଡ୍‌ ବିଫଳ</string>
+    <string name="notification_need_wifi_for_size">ଡାଉନଲୋଡ୍‌ ଆକାର ୱାଇ-ଫାଇ ଆବଶ୍ୟକ କରେ|</string>
+    <string name="notification_paused_in_background">ବ୍ୟାକ୍‌ଗ୍ରାଉଣ୍ଡରେ ପଜ୍‌ ହୋଇ ରହିଛି|</string>
+    <string name="permdesc_accessAllDownloads">ସିଷ୍ଟମ୍‌ରେ ଯେକୌଣସି ଆପ୍‌ ଦ୍ୱାରା ଆରମ୍ଭ କରାଯାଇଥିବା ସମସ୍ତ ଡାଉନଲୋଡ୍‌କୁ ଦେଖିବା ଓ ସଂଶୋଧନ କରିବା ପାଇଁ ଆପ୍‌କୁ ଅନୁମତି ଦିଅନ୍ତୁ|</string>
+    <string name="permdesc_downloadCacheNonPurgeable">ଆପ୍‌କୁ ଡାଉନଲୋଡ୍‌ କ୍ୟାଶ୍‌ରେ ଫାଇଲ୍‌ଗୁଡ଼ିକୁ ଡାଉନଲୋଡ୍‌ କରିବାକୁ ଦେଇଥାଏ, ଯେଉଁଗୁଡ଼ିକୁ ଡାଉନଲୋଡ୍‌ ମ୍ୟାନେଜର୍‌କୁ ଅଧିକ ସ୍ଥାନ ଆବଶ୍ୟକ ହେଲେ ସ୍ୱଚାଳିତ ଭାବେ ଡିଲିଟ୍‌ କରିହେବ ନାହିଁ|</string>
+    <string name="permdesc_downloadCompletedIntent">ସମ୍ପୂର୍ଣ୍ଣ ହୋଇଥିବା ଡାଉନଲୋଡ୍‌ଗୁଡ଼ିକ ବିଷୟରେ ବିଜ୍ଞପ୍ତି ପଠାଇବା ପାଇଁ ଆପ୍‌କୁ ଅନୁମତି ଦେଇଥାଏ| କ୍ଷତିକାରକ ଆପ୍‌ଗୁଡ଼ିକ ଏହାକୁ, ଅନ୍ୟ ଆପ୍‌ଗୁଡ଼ିକୁ ଭ୍ରମିତ କରିବା ପାଇଁ ବ୍ୟବହାର କରିପାରନ୍ତି, ଯେଉଁଗୁଡ଼ିକ ଫାଇଲ୍‌ ଡାଉନଲୋଡ୍‌ କରନ୍ତି|</string>
+    <string name="permdesc_downloadManager">ଡାଉନଲୋଡ୍‌ ମ୍ୟାନେଜର୍‌କୁ ଆକ୍ସେସ୍‌ କରିବା ପାଇଁ ଏବଂ ଫାଇଲ୍‌ ଡାଉନଲୋଡ୍‌ କରିବାକୁ ଏହାକୁ ବ୍ୟବହାର କରିବା ପାଇଁ ଆପ୍‌କୁ ଅନୁମତି ଦେଇଥାଏ| କ୍ଷତିକାରକ ଆପ୍‌ଗୁଡ଼ିକ ଏହାକୁ, ଡାଉନଲୋଡ୍‌ରେ ବିଘ୍ନ କରିବାକୁ ଏବଂ ବ୍ୟକ୍ତିଗତ ସୂଚନା ଆକ୍ସେସ୍‌ କରିବା ପାଇଁ ବ୍ୟବହାର କରିପାରନ୍ତି|</string>
+    <string name="permdesc_downloadManagerAdvanced">ଡାଉନଲୋଡ୍‌ ମ୍ୟାନେଜର୍‌ର ଉନ୍ନତ କାର୍ଯ୍ୟକାରିତାକୁ ଆକ୍ସେସ୍‌ କରିବା ପାଇଁ ଆପ୍‌କୁ ଅନୁମତି ଦେଇଥାଏ| କ୍ଷତିକାରକ ଆପ୍‌ଗୁଡ଼ିକ ଏହାକୁ, ଡାଉନଲୋଡ୍‌ରେ ବିଘ୍ନ କରିବାକୁ ଏବଂ ବ୍ୟକ୍ତିଗତ ସୂଚନା ଆକ୍ସେସ୍‌ କରିବା ପାଇଁ ବ୍ୟବହାର କରିପାରନ୍ତି|</string>
+    <string name="permdesc_downloadWithoutNotification">ୟୁଜର୍‌ଙ୍କୁ ବିଜ୍ଞପ୍ତି ନଦେଖାଇ ଡାଉନଲୋଡ୍‌ ମ୍ୟାନେଜର୍‌ ମାଧ୍ୟମରେ ଫାଇଲ୍‌ଗୁଡ଼ିକୁ ଡାଉନଲୋଡ୍‌ କରିବା ପାଇଁ ଆପ୍‌କୁ ଅନୁମତି ଦେଇଥାଏ|</string>
+    <string name="permlab_accessAllDownloads">ସମସ୍ତ ସିଷ୍ଟମ୍‌ ଡାଉନଲୋଡ୍‌କୁ ଆକ୍ସେସ୍‌ କରନ୍ତୁ</string>
+    <string name="permlab_downloadCacheNonPurgeable">ଡାଉନଲୋଡ୍‌ କ୍ୟାଶ୍‌ରେ ସ୍ପେସ୍‌ ରିଜର୍ଭ କରନ୍ତୁ</string>
+    <string name="permlab_downloadCompletedIntent">ଡାଉନଲୋଡ୍‌ ବିଜ୍ଞପ୍ତି ପଠାନ୍ତୁ|</string>
+    <string name="permlab_downloadManager">ଡାଉନଲୋଡ୍‌ ମ୍ୟାନେଜର୍‌ ଆକ୍ସେସ୍‌ କରନ୍ତୁ|</string>
+    <string name="permlab_downloadManagerAdvanced">ଉନ୍ନତ ଡାଉନଲୋଡ୍‌ ମ୍ୟାନେଜର୍‌ କାର୍ଯ୍ୟକାରିତା|</string>
+    <string name="permlab_downloadWithoutNotification">କୌଣସି ବିଜ୍ଞପ୍ତି ବିନା ଫାଇଲ୍‌ଗୁଡ଼ିକୁ ଡାଉନଲୋଡ୍‌ କରନ୍ତୁ</string>
+    <string name="root_downloads">ଡାଉନଲୋଡ୍‌</string>
+    <string name="storage_description">ଡାଉନଲୋଡ୍‌</string>
+    <string name="wifi_recommended_body">"ଏହି %1$s ର ଡାଉନଲୋଡ୍‌ ଆରମ୍ଭ କଲେ ଆପଣଙ୍କ ବ୍ୟାଟେରୀ ଶୀଘ୍ର ସରିଯାଇପାରେ ଏବଂ/କିମ୍ୱା ମୋବାଇଲ୍‌ର ଅନେକ ଡାଟା ଖର୍ଚ୍ଚ ହୋଇପାରେ, ଯାହା ପାଇଁ ମୋବାଇଲ୍‌ ଅପରେଟର୍‌, ଆପଣଙ୍କ ଡାଟା ପ୍ଲାନ୍‌ ହିସାବରେ ଆପଣଙ୍କଠାରୁ ପଇସା ନେଇପାରେ|
+
+ ଆଗାମୀ ଥର ଯେତେବେଳେ ଆପଣ ୱାଇ-ଫାଇ ନେଟୱର୍କ ସହିତ ଯୋଡ଼ିହେବେ, ଏହି ଡାଉନଲୋଡ୍‌ ଆରମ୍ଭ କରିବା ପାଇଁ %2$sକୁ ସ୍ପର୍ଶ କରନ୍ତୁ|"</string>
+    <string name="wifi_recommended_title">ପରେ ଡାଉନଲୋଡ୍‌ କରିବା ପାଇଁ ଧାଡ଼ିରେ ରଖିବେ?</string>
+    <string name="wifi_required_body">"ଏହି %1$s ର ଡାଉନଲୋଡ୍‌ ସାରିବା ପାଇଁ ଆପଣଙ୍କୁ ନିଶ୍ଚିତ ଭାବେ ୱାଇ-ଫାଇର ବ୍ୟବହାର କରିବାକୁ ପଡ଼ିବ| 
+
+ପରବର୍ତ୍ତୀ ସମୟରେ ଯେତେବେଳେ ଆପଣ କୌଣସି ୱାଇ-ଫାଇ ନେଟ୍‌ୱର୍କ ସହିତ ଯୋଡ଼ିହେବେ, ଏହି ଡାଉନଲୋଡ୍‌ ଆରମ୍ଭ କରିବା ପାଇଁ %2$s କୁ ସ୍ପର୍ଶ କରନ୍ତୁ|"</string>
+    <string name="wifi_required_title">ଅପରେଟର୍‌ ନେଟ୍‌ୱର୍କ ପାଇଁ ଡାଉନଲୋଡ୍‌ ବହୁତ ବଡ଼ ଅଟେ</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Исклучи ја точката на пристап</string>
+    <string name="no_upstream_notification_message">Уредите не може да се поврзат на интернет</string>
+    <string name="no_upstream_notification_title">Точката на пристап нема интернет</string>
+    <string name="upstream_roaming_notification_message">При роаминг може да се наплатат дополнителни трошоци</string>
+    <string name="upstream_roaming_notification_title">Точката на пристап е вклучена</string>
+    <string name="upstream_roaming_notification_continue_button">Продолжи</string>
+</resources>

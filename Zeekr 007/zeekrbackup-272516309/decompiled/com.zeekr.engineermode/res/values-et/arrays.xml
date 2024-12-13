@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>Saint-Martin</item>
+        <item>Hollandi Kariibi mere saared</item>
+        <item>Curaçao</item>
+        <item>Lõuna-Sudaan</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Kesk-Austraalia – NT</item>
+        <item>Kesk-Austraalia – SA</item>
+        <item>Ida-Austraalia aeg – Queensland</item>
+        <item>Ida-Austraalia aeg – New South Wales</item>
+        <item>Mäestikuvööndi standardaeg – Dawson Creek</item>
+        <item>Kesk-Ameerika standardaeg – Saskatchewan</item>
+        <item>Idaranniku standardaeg – Atikokan</item>
+        <item>Atlandi ookeani standardaeg – Québec</item>
+        <item>Hawaii ja Aleuudi saared – Hawaii</item>
+        <item>Hawaii ja Aleuudi saared – Alaska</item>
+        <item>Vaikse ookeani standardaeg – Metlakatla</item>
+        <item>Mäestikuvööndi standardaeg – Arizona</item>
+        <item>Vaikse ookeani aeg – Baja, California</item>
+        <item>Mäestikuvööndi aeg – Chihuahua</item>
+        <item>Kesk-Ameerika aeg – Tamaulipas</item>
+        <item>Mäestikuvööndi aeg – Sonora</item>
+        <item>Ida-Aafrika aeg</item>
+        <item>Atlandi ookeani standardaeg</item>
+        <item>Atlandi ookeani standardaeg</item>
+        <item>Ida-Euroopa aeg</item>
+        <item>Kaliningradi aeg</item>
+        <item>Amazon – Rondônia</item>
+        <item>Brasiilia – Pará</item>
+    </string-array>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">Mga app na camera</item>
+        <item quantity="one">Mga app na camera</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">Mga app na email client</item>
+        <item quantity="one">Mga app na email client</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">Mga app na telepono</item>
+        <item quantity="one">Mga app na telepono</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d na pagsubok</item>
+        <item quantity="one">%d pagsubok</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d na app</item>
+        <item quantity="one">%d app</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">Minimum na %d na app</item>
+        <item quantity="one">Minimum na %d app</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d na bagong notification</item>
+        <item quantity="one">%d bagong notification</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d na device ang nakakonekta</item>
+        <item quantity="one">%1$d device ang nakakonekta</item>
+    </plurals>
+</resources>

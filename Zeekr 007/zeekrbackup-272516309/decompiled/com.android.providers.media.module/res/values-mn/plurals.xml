@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">^1-д ^2 аудио файл устгахыг зөвшөөрөх үү?</item>
+        <item quantity="one">^1-д энэ аудио файлыг устгахыг зөвшөөрөх үү?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">^1-д ^2 зүйл устгахыг зөвшөөрөх үү?</item>
+        <item quantity="one">^1-д энэ зүйлийг устгахыг зөвшөөрөх үү?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">^1-д ^2 зураг устгахыг зөвшөөрөх үү?</item>
+        <item quantity="one">^1-д энэ зургийг устгахыг зөвшөөрөх үү?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">^1-д ^2 видео устгахыг зөвшөөрөх үү?</item>
+        <item quantity="one">^1-д энэ видеог устгахыг зөвшөөрөх үү?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">Нэмээд нэмэлт ^1 зүйл</item>
+        <item quantity="one">Нэмээд нэмэлт ^1 зүйл</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">+^1</item>
+        <item quantity="one">+^1</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">^1 аудио файлыг устгаж байна…</item>
+        <item quantity="one">Аудио файлыг устгаж байна…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">^1 зүйлийг устгаж байна…</item>
+        <item quantity="one">Зүйлийг устгаж байна…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">^1 зургийг устгаж байна…</item>
+        <item quantity="one">Зургийг устгаж байна…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">^1 видеог устгаж байна…</item>
+        <item quantity="one">Видеог устгаж байна…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">^1 аудио файлыг хогийн сав руу зөөж байна…</item>
+        <item quantity="one">Аудио файлыг хогийн сав руу зөөж байна…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">^1 зүйлийг хогийн сав руу зөөж байна…</item>
+        <item quantity="one">Зүйлийг хогийн сав руу зөөж байна…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">^1 зургийг хогийн сав руу зөөж байна…</item>
+        <item quantity="one">Зургийг хогийн сав руу зөөж байна…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">^1 видеог хогийн сав руу зөөж байна…</item>
+        <item quantity="one">Видеог хогийн сав руу зөөж байна…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">^1 аудио файлыг хогийн савнаас гадагш зөөж байна…</item>
+        <item quantity="one">Аудио файлыг хогийн савнаас гадагш зөөж байна…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">^1 зүйлийг хогийн савнаас гадагш зөөж байна…</item>
+        <item quantity="one">Зүйлийг хогийн савнаас гадагш зөөж байна…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">^1 зургийг хогийн савнаас гадагш зөөж байна…</item>
+        <item quantity="one">Зургийг хогийн савнаас гадагш зөөж байна…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">^1 видеог хогийн савнаас гадагш зөөж байна…</item>
+        <item quantity="one">Видеог хогийн савнаас гадагш зөөж байна…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">^1 аудио файлыг өөрчилж байна…</item>
+        <item quantity="one">Аудио файлыг өөрчилж байна…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">^1 зүйлийг өөрчилж байна…</item>
+        <item quantity="one">Зүйлийг өөрчилж байна…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">^1 зургийг өөрчилж байна…</item>
+        <item quantity="one">Зургийг өөрчилж байна…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">^1 видеог өөрчилж байна…</item>
+        <item quantity="one">Видеог өөрчилж байна…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">^1-д ^2 аудио файлыг хогийн сав руу зөөхийг зөвшөөрөх үү?</item>
+        <item quantity="one">^1-д энэ аудио файлыг хогийн сав руу зөөхийг зөвшөөрөх үү?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">^1-д хогийн сав руу ^2 зүйлийг зөөхийг зөвшөөрөх үү?</item>
+        <item quantity="one">^1-д энэ зүйлийг хогийн сав руу зөөхийг зөвшөөрөх үү?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">^1-д ^2 зургийг хогийн сав руу зөөхийг зөвшөөрөх үү?</item>
+        <item quantity="one">^1-д энэ зургийг хогийн сав руу зөөхийг зөвшөөрөх үү?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">^1-д ^2 видеог хогийн сав руу зөөхийг зөвшөөрөх үү?</item>
+        <item quantity="one">^1-д энэ видеог хогийн сав руу зөөхийг зөвшөөрөх үү?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">^1-д ^2 аудио файлыг хогийн савнаас гаргахыг зөвшөөрөх үү?</item>
+        <item quantity="one">^1-д энэ аудио файлыг хогийн савнаас гаргахыг зөвшөөрөх үү?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">^1-д ^2 зүйлийг хогийн савнаас гаргахыг зөвшөөрөх үү?</item>
+        <item quantity="one">^1-д энэ зүйлийг хогийн савнаас гаргахыг зөвшөөрөх үү?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">^1-д ^2 зургийг хогийн савнаас гаргахыг зөвшөөрөх үү?</item>
+        <item quantity="one">^1-д энэ зургийг хогийн савнаас гаргахыг зөвшөөрөх үү?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">^1-д ^2 видеог хогийн савнаас гаргахыг зөвшөөрөх үү?</item>
+        <item quantity="one">^1-д энэ видеог хогийн савнаас гаргахыг зөвшөөрөх үү?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">^1-д ^2 аудио файл өөрчлөхийг зөвшөөрөх үү?</item>
+        <item quantity="one">^1-д энэ аудио файлыг өөрчлөхийг зөвшөөрөх үү?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">^1-д ^2 зүйл өөрчлөхийг зөвшөөрөх үү?</item>
+        <item quantity="one">^1-д энэ зүйлийг өөрчлөхийг зөвшөөрөх үү?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">^1-д ^2 зураг өөрчлөхийг зөвшөөрөх үү?</item>
+        <item quantity="one">^1-д энэ зургийг өөрчлөхийг зөвшөөрөх үү?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">^1-д ^2 видео өөрчлөхийг зөвшөөрөх үү?</item>
+        <item quantity="one">^1-д энэ видеог өөрчлөхийг зөвшөөрөх үү?</item>
+    </plurals>
+</resources>

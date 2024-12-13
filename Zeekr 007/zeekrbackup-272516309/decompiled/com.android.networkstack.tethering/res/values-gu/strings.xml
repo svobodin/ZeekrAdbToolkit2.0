@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="disable_tether_notification_message">વિગતો માટે તમારા વ્યવસ્થાપકનો સંપર્ક કરો</string>
+    <string name="disable_tether_notification_title">ઇન્ટરનેટ શેર કરવાની સુવિધા બંધ કરી છે</string>
+    <string name="no_upstream_notification_disable_button" />
+    <string name="no_upstream_notification_message" />
+    <string name="no_upstream_notification_title" />
+    <string name="notification_channel_tethering_status">હૉટસ્પૉટ અને ઇન્ટરનેટ શેર કરવાની સુવિધાનું સ્ટેટસ</string>
+    <string name="tethered_notification_message">સેટઅપ કરવા માટે ટૅપ કરો.</string>
+    <string name="tethered_notification_title">ઇન્ટરનેટ શેર કરવાની સુવિધા અથવા હૉટસ્પૉટ સક્રિય છે</string>
+    <string name="upstream_roaming_notification_message" />
+    <string name="upstream_roaming_notification_title" />
+</resources>

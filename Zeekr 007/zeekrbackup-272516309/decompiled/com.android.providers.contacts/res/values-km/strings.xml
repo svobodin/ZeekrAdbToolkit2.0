@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ឧបករណ៍​ផ្ទុក​ទំនាក់ទំនង</string>
+    <string name="debug_dump_database_message">អ្នក​ហៀបនឹង ១) ចម្លង​មូលដ្ឋាន​ទិន្នន័យ​របស់​អ្នក​ដែល​រួម​មាន​ព័ត៌មាន​ទំនាក់ទំនង និង​កំណត់ហេតុ​ហៅ​ទាំងអស់​ទៅកាន់​ឧបករណ៍​ផ្ទុក​ខាងក្នុង ២) ផ្ញើ​អ៊ីមែល​វា​។ ចងចាំ​ថា​អ្នក​ត្រូវ​លុប​ច្បាប់​ចម្លង​ភ្លាមៗ បន្ទាប់ពី​បាន​ចម្លង​ចេញពី​ឧបករណ៍ ឬ​បាន​ទទួល​អ៊ីមែល។</string>
+    <string name="debug_dump_delete_button">លុប​ឥឡូវ</string>
+    <string name="debug_dump_email_body">ឯកសារ​ភ្ជាប់​គឺជា​មូលដ្ឋាន​ទិន្នន័យ​ទំនាក់ទំនង​ព្រមទាំង​ព័ត៌មាន​ទំនាក់ទំនង​ទាំង​អស់​របស់​ខ្ញុំ។ ប្រើ​វា​ដោយ​ប្រុងប្រយ័ត្ន។</string>
+    <string name="debug_dump_email_sender_picker">ជ្រើស​កម្មវិធី​ដើម្បី​ផ្ញើ​ឯកសារ​របស់​អ្នក</string>
+    <string name="debug_dump_email_subject">បាន​ភ្ជាប់​មូលដ្ឋាន​ទិន្នន័យ​ទំនាក់ទំនង</string>
+    <string name="debug_dump_start_button">ចាប់ផ្ដើម​</string>
+    <string name="debug_dump_title">ចម្លង​មូលដ្ឋាន​ទិន្នន័យ​ទំនាក់ទំនង</string>
+    <string name="default_directory">ទំនាក់ទំនង</string>
+    <string name="local_invisible_directory">ផ្សេងៗ</string>
+    <string name="provider_label">ទំនាក់ទំនង</string>
+    <string name="sharedUserLabel">កម្មវិធី​​សំខាន់ៗ​របស់ Android</string>
+    <string name="upgrade_out_of_memory_notification_text">ប៉ះដើម្បីបញ្ចប់ការអាប់គ្រេត</string>
+    <string name="upgrade_out_of_memory_notification_ticker">ការ​ធ្វើ​បច្ចុប្បន្នភាព​ទំនាក់ទំនង​ត្រូវការ​អង្គ​ចងចាំ​ច្រើន</string>
+    <string name="upgrade_out_of_memory_notification_title">ធ្វើ​បច្ចុប្បន្នភាព​ឧបករណ៍​ផ្ទុក​ទំនាក់ទំនង</string>
+    <string name="voicemail_from_column">"សារ​ជា​សំឡេង​ពី "</string>
+</resources>

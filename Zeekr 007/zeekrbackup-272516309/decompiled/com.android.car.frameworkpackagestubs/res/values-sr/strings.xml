@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Део активности</string>
+    <string name="message_not_supported">Ниједна апл. не може да обради ову радњу</string>
+    <string name="pip_not_supported">Слика у слици није подржана на овом уређају</string>
+    <string name="stub_name">Нема</string>
+</resources>

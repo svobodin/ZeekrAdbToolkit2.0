@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ਸੰਪਰਕ ਸਟੋਰੇਜ</string>
+    <string name="debug_dump_database_message">ਤੁਸੀਂ ਇਹ ਕਰਨ ਵਾਲੇ ਹੋ 1) ਆਪਣੇ ਡਾਟਾਬੇਸ ਦੀ ਇੱਕ ਕਾਪੀ ਬਣਾਓ ਜਿਸ ਵਿੱਚ ਸਾਰੀ ਸੰਪਰਕ ਸੰਬੰਧਿਤ ਜਾਣਕਾਰੀ ਅਤੇ ਅੰਦਰੂਨੀ ਸਟੋਰੇਜ ਵਿੱਚ ਸਾਰਾ ਕਾਲ ਲੌਗ ਸ਼ਾਮਲ ਹੋਵੇ ਅਤੇ 2) ਇਸਨੂੰ ਈਮੇਲ ਕਰੋ। ਜਿਵੇਂ ਹੀ ਤੁਸੀਂ ਇਸਨੂੰ ਸਫਲਤਾਪੂਰਵਕ ਕਾਪੀ ਕਰ ਲਓ ਜਾਂ ਈਮੇਲ ਪ੍ਰਾਪਤ ਕਰ ਲਓ, ਕਾਪੀ ਮਿਟਾਉਣਾ ਯਾਦ ਰੱਖੋ।</string>
+    <string name="debug_dump_delete_button">ਹੁਣ ਮਿਟਾਓ</string>
+    <string name="debug_dump_email_body">ਅਟੈਚ ਕੀਤਾ ਮੇਰੀ ਸਾਰੀ ਸੰਪਰਕ ਜਾਣਕਾਰੀ ਵਾਲਾ ਮੇਰਾ ਸੰਪਰਕ ਡਾਟਾਬੇਸ ਹੈ। ਸਾਵਧਾਨੀ ਨਾਲ ਵਰਤੋ।</string>
+    <string name="debug_dump_email_sender_picker">ਆਪਣੀ ਫਾਈਲ ਭੇਜਣ ਲਈ ਇੱਕ ਪ੍ਰੋਗਰਾਮ ਚੁਣੋ</string>
+    <string name="debug_dump_email_subject">ਸੰਪਰ Db ਅਟੈਚ ਕੀਤਾ</string>
+    <string name="debug_dump_start_button">ਚਾਲੂ ਕਰੋ</string>
+    <string name="debug_dump_title">ਸੰਪਰਕ ਡਾਟਾਬੇਸ ਕਾਪੀ ਕਰੋ</string>
+    <string name="default_directory">ਸੰਪਰਕ</string>
+    <string name="local_invisible_directory">ਹੋਰ</string>
+    <string name="provider_label">ਸੰਪਰਕ</string>
+    <string name="sharedUserLabel">Android Core ਐਪਸ</string>
+    <string name="upgrade_out_of_memory_notification_text">ਅੱਪਗ੍ਰੇਡ ਮੁਕੰਮਲ ਕਰਨ ਲਈ ਟੈਪ ਕਰੋ।</string>
+    <string name="upgrade_out_of_memory_notification_ticker">ਸੰਪਰਕ ਅਪਗ੍ਰੇਡ ਲਈ ਵੱਧ ਮੈਮਰੀ ਦੀ ਲੋੜ ਹੈ।</string>
+    <string name="upgrade_out_of_memory_notification_title">ਸੰਪਰਕਾਂ ਲਈ ਸਟੋਰੇਜ ਅਪਗ੍ਰੇਡ ਕਰ ਰਿਹਾ ਹੈ</string>
+    <string name="voicemail_from_column">"ਇਸ ਤੋਂ ਵੌਇਸਮੇਲ "</string>
+</resources>

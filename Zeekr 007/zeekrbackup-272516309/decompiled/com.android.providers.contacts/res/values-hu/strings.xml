@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Névjegytár</string>
+    <string name="debug_dump_database_message">Ön arra készül, hogy 1) másolatot készítsen a belső tárhelyre az adatbázisról, amely magában foglalja az összes névjegyet és minden kapcsolódó adatot, valamint a hívásnaplót, illetve hogy 2) e-mailben elküldje azt. Ne feledje azonnal törölni a másolatot, amint sikeresen átmásolta a készülékről, vagy amint megkapta az e-mailt.</string>
+    <string name="debug_dump_delete_button">Törlés most</string>
+    <string name="debug_dump_email_body">Csatolva a névjegyadatbázisom, amely a névjegyeim összes adatát tartalmazza. Óvatosan kezeld.</string>
+    <string name="debug_dump_email_sender_picker">Válasszon programot a fájl elküldéséhez.</string>
+    <string name="debug_dump_email_subject">Névjegyadatbázis csatolva.</string>
+    <string name="debug_dump_start_button">Indítás</string>
+    <string name="debug_dump_title">Névjegyadatbázis másolása</string>
+    <string name="default_directory">Címtár</string>
+    <string name="local_invisible_directory">Egyéb</string>
+    <string name="provider_label">Címtár</string>
+    <string name="sharedUserLabel">Alap Android-alkalmazások</string>
+    <string name="upgrade_out_of_memory_notification_text">Koppintson a frissítés befejezéséhez.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">A névjegyek frissítéséhez több memóriára van szükség.</string>
+    <string name="upgrade_out_of_memory_notification_title">Névjegyek tárolójának frissítése</string>
+    <string name="voicemail_from_column">"Hangüzenet tőle: "</string>
+</resources>

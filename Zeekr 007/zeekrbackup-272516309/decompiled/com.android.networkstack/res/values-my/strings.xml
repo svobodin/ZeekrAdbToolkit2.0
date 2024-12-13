@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">ကွန်ရက်မန်နေဂျာ</string>
+    <string name="connected">ချိတ်ဆက်ထားသည်</string>
+    <string name="notification_channel_description_connected">Captive portal ကွန်ရက်တွင် စက်ကို အောင်မြင်စွာ အထောက်အထားစိစစ်ပြီးသောအခါ အကြောင်းကြားချက်များ ပြသည်</string>
+    <string name="notification_channel_description_network_venue_info">ကွန်ရက်တွင် နေရာအချက်အလက် စာမျက်နှာ ရှိကြောင်း ညွှန်ပြရန် အကြောင်းကြားချက်များ ပြသည်</string>
+    <string name="notification_channel_name_connected">Captive portal အထောက်အထားစိစစ်ခြင်း</string>
+    <string name="notification_channel_name_network_venue_info">ကွန်ရက်နေရာအချက်အလက်</string>
+    <string name="tap_for_info">ချိတ်ဆက်ထားသည် / ဝဘ်ဆိုက်ကိုကြည့်ရန် တို့ပါ</string>
+</resources>

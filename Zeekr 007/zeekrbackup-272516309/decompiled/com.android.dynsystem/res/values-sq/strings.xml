@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">Fut fjalëkalimin tënd dhe vazhdo te përditësimet e sistemit dinamik</string>
+    <string name="notification_action_cancel">Anulo</string>
+    <string name="notification_action_discard">Hiq</string>
+    <string name="notification_action_reboot_to_dynsystem">Rinis</string>
+    <string name="notification_action_reboot_to_origin">Rinis</string>
+    <string name="notification_dynsystem_in_use">Aktualisht po ekzekutohet në një sistem dinamik. Rinise për të përdorur versionin origjinal të Android.</string>
+    <string name="notification_image_validation_failed">Verifikimi i imazhit dështoi. Ndërprit instalimin.</string>
+    <string name="notification_install_completed">Sistemi dinamik është gati. Për të nisur përdorimin e tij, rinise pajisjen.</string>
+    <string name="notification_install_failed">Instalimi dështoi</string>
+    <string name="notification_install_inprogress">Instalimi në vazhdim</string>
+    <string name="toast_dynsystem_discarded">Sistemi dinamik u hoq</string>
+    <string name="toast_failed_to_disable_dynsystem">Çaktivizimi i sistemit dinamik dështoi</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Sistemi dinamik nuk mund të rinisej ose të ngarkohej</string>
+</resources>

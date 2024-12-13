@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">Усиление низких частот</string>
+    <string name="ci_extreme">Усилитель FX</string>
+    <string name="classical">Классическая музыка</string>
+    <string name="dance">Танцевальная музыка</string>
+    <string name="eq_dialog_title">Эквалайзер</string>
+    <string name="flat">Спокойная музыка</string>
+    <string name="folk">Фолк</string>
+    <string name="headset_plug">Чтобы услышать эти эффекты, подключите наушники.</string>
+    <string name="heavy_metal">Хеви-метал</string>
+    <string name="hip_hop">Хип-хоп</string>
+    <string name="jazz">Джаз</string>
+    <string name="no_effects">Эффекты недоступны.</string>
+    <string name="normal">Стандарт</string>
+    <string name="picker_title">Управление звуковыми эффектами</string>
+    <string name="pop">Поп-музыка</string>
+    <string name="rock">Рок</string>
+    <string name="setup">Настройка</string>
+    <string name="user">Пользовательские настройки</string>
+    <string name="virtualizer_strength">Объемный звук</string>
+</resources>

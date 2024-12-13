@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Մուտք գործել ցանց</string>
+    <string name="action_bar_title">Մուտք գործել %1$s</string>
+    <string name="action_do_not_use_network">Չօգտագործել այս ցանցը</string>
+    <string name="action_use_network">Օգտագործել այս ցանցն ինչպես կա</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">Ծանուցումներ, որոնք ցույց են տալիս ֆայլերի ներբեռնման ընթացքը</string>
+    <string name="channel_description_downloads">Ծանուցումներ, որոնք ցույց են տալիս ավարտված կամ չեղարկված ներբեռնումները</string>
+    <string name="channel_name_download_progress">Ներբեռնման ընթացքը</string>
+    <string name="channel_name_downloads">Ներբեռնումներ</string>
+    <string name="custom_scheme_example">Օրինակ՝ մուտքի էջը կարող է պահանջել նույնականացում որոշակի հավելվածում</string>
+    <string name="custom_scheme_warning">Ցանցը, որին փորձում եք միանալ, պահանջում է այլ հավելված բացել</string>
+    <string name="download_completed">Ներբեռնումն ավարտվեց</string>
+    <string name="downloading_paramfile">Ներբեռնվում է %1$s ֆայլը</string>
+    <string name="error_continue_via_browser">Շարունակել դիտարկիչի միջոցով</string>
+    <string name="error_downloading_paramfile">Չհաջողվեց ներբեռնել %1$s ֆայլը</string>
+    <string name="no_bypass_error_vpnwarning">Բացի այդ, այս սխալը հնարավոր չէ շրջանցել, քանի որ սարքն այժմ VPN է աշխատացնում։</string>
+    <string name="ok">Եղավ</string>
+    <string name="page_info">Էջի մասին</string>
+    <string name="page_info_address">Հասցե՝</string>
+    <string name="ssl_error_date_invalid">Հավաստագրի ամսաթիվն անվավեր է:</string>
+    <string name="ssl_error_example">Օրինակ՝ մուտքի էջը կարող է ցուցադրված կազմակերպության էջը չլինել:</string>
+    <string name="ssl_error_expired">Հավաստագրի ժամկետը լրացել է:</string>
+    <string name="ssl_error_invalid">Հավաստագիրն անվավեր է:</string>
+    <string name="ssl_error_mismatch">Կայքի անունը չի համապատասխանում հավաստագրում նշված անվանը:</string>
+    <string name="ssl_error_not_yet_valid">Հավաստագիրը դեռ վավեր չէ:</string>
+    <string name="ssl_error_unknown">Հավաստագրի հետ կապված անհայտ սխալ առաջացավ:</string>
+    <string name="ssl_error_untrusted">Հավաստագրի աղբյուրը վստահելի չէ:</string>
+    <string name="ssl_error_view_certificate">Դիտել հավաստագիրը</string>
+    <string name="ssl_error_warning">Ցանցը, որին փորձում եք միանալ, անվտանգության խնդիրներ ունի:</string>
+    <string name="ssl_security_warning_title">Զգուշացում</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

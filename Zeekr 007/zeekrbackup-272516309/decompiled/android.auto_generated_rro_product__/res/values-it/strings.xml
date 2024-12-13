@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="owner_name">Autista</string>
+    <string name="permlab_accessCoarseLocation">Accesso alla posizione approssimativa solo in primo piano</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">Attiva il microfono</string>
+</resources>

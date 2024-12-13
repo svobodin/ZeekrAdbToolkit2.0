@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="layout" name="car_ui_list_preference_with_toolbar">@null</item>
+    <item type="layout" name="car_ui_preference_fragment_with_toolbar">@null</item>
+    <item type="layout" name="car_ui_recycler_view_item">@null</item>
+    <item type="layout" name="car_ui_toolbar_menu_item_primary">@layout/car_ui_toolbar_menu_item</item>
+    <item type="layout" name="car_ui_toolbar_tab_item_layout">@layout/car_ui_toolbar_tab_item</item>
+    <item type="layout" name="car_ui_toolbar_tab_item_layout_flexible">@layout/car_ui_toolbar_tab_item_flexible</item>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>Сент-Мартин</item>
+        <item>Карибын Нидерланд</item>
+        <item>Кюрасао</item>
+        <item>Өмнөд Судан</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Австралийн төвийн - NT</item>
+        <item>Австралын төвийн - SA</item>
+        <item>Австралийн зүүн - QLD</item>
+        <item>Австралийн зүүн - NSW</item>
+        <item>Уулын стандарт - Давсон Крийк</item>
+        <item>Төвийн стандарт - Саскачеван</item>
+        <item>Зүүн стандарт - Атикокан</item>
+        <item>Атлантик стандарт - Квебек</item>
+        <item>Хавай-Алеутиан - Хавай</item>
+        <item>Хавай-Алеутиан - Аляск</item>
+        <item>Номхон далайн стандарт - Метлакатла</item>
+        <item>Уулын стандарт - Аризона</item>
+        <item>Номхон далайн - Баха Калифорниа</item>
+        <item>Уулын - Чивава</item>
+        <item>Төвийн - Тамаулипас</item>
+        <item>Уулын - Сонора</item>
+        <item>Зүүн Африкын цаг</item>
+        <item>Атлантын стандарт цаг</item>
+        <item>Атлантын стандарт цаг</item>
+        <item>Зүүн Европын цаг</item>
+        <item>Калининградын цаг</item>
+        <item>Амазон - Рондониа</item>
+        <item>Бразилиа - Пара</item>
+    </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_color">#fff2f3f4</color>
+    <color name="bg_rear_btn_text_color">#ffffffff</color>
+    <color name="bg_rear_btn_tint">#ff141416</color>
+    <color name="color_dialog_habit_btn_bg_tint">#ffe5e6e8</color>
+    <color name="color_dialog_habit_btn_text">#ffe1e3e5</color>
+    <color name="color_dialog_habit_control_tips">#66383a3d</color>
+    <color name="color_dialog_habit_name">#ff383a3d</color>
+    <color name="color_dialog_habit_tab_button_bg_check">#fff88650</color>
+    <color name="color_dialog_habit_tab_icon_uncheck">#99383a3d</color>
+    <color name="color_dialog_habit_title_bg">#33c2c7cc</color>
+    <color name="color_dialog_habit_wheel_text_tips">#fff88650</color>
+    <color name="color_dialog_massage_program_name">#ff000000</color>
+</resources>

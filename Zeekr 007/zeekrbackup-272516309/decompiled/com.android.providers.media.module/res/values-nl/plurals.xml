@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">^1 toestaan ^2 audiobestanden te verwijderen?</item>
+        <item quantity="one">^1 toestaan dit audiobestand te verwijderen?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">^1 toestaan ^2 items te verwijderen?</item>
+        <item quantity="one">^1 toestaan dit item te verwijderen?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">"^1 toestaan ^2 foto's te verwijderen?"</item>
+        <item quantity="one">^1 toestaan deze foto te verwijderen?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">"^1 toestaan ^2 video's te verwijderen?"</item>
+        <item quantity="one">^1 toestaan deze video te verwijderen?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">Plus ^1 extra items</item>
+        <item quantity="one">Plus ^1 extra item</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">+^1</item>
+        <item quantity="one">+^1</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">^1 audiobestanden verwijderen…</item>
+        <item quantity="one">Audiobestand verwijderen…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">^1 items verwijderen…</item>
+        <item quantity="one">Item verwijderen…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">"^1 foto's verwijderen…"</item>
+        <item quantity="one">Foto verwijderen…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">"^1 video's verwijderen…"</item>
+        <item quantity="one">Video verwijderen…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">^1 audiobestanden naar prullenbak verplaatsen…</item>
+        <item quantity="one">Audiobestand naar prullenbak verplaatsen…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">^1 items naar prullenbak verplaatsen…</item>
+        <item quantity="one">Item naar prullenbak verplaatsen…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">"^1 foto's naar prullenbak verplaatsen…"</item>
+        <item quantity="one">Foto naar prullenbak verplaatsen…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">"^1 video's naar prullenbak verplaatsen…"</item>
+        <item quantity="one">Video naar prullenbak verplaatsen…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">^1 audiobestanden uit prullenbak halen…</item>
+        <item quantity="one">Audiobestand uit prullenbak halen…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">^1 items uit prullenbak halen…</item>
+        <item quantity="one">Item uit prullenbak halen…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">"^1 foto's uit prullenbak halen…"</item>
+        <item quantity="one">Foto uit prullenbak halen…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">"^1 video's uit prullenbak halen…"</item>
+        <item quantity="one">Video uit prullenbak halen…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">^1 audiobestanden aanpassen…</item>
+        <item quantity="one">Audiobestand aanpassen…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">^1 items aanpassen…</item>
+        <item quantity="one">Item aanpassen…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">"^1 foto's aanpassen…"</item>
+        <item quantity="one">Foto aanpassen…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">"^1 video's aanpassen…"</item>
+        <item quantity="one">Video aanpassen…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">^1 toestaan ^2 audiobestanden naar de prullenbak te verplaatsen?</item>
+        <item quantity="one">^1 toestaan dit audiobestand naar de prullenbak te verplaatsen?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">^1 toestaan ^2 items naar de prullenbak te verplaatsen?</item>
+        <item quantity="one">^1 toestaan dit item naar de prullenbak te verplaatsen?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">"^1 toestaan ^2 foto's naar de prullenbak te verplaatsen?"</item>
+        <item quantity="one">^1 toestaan deze foto naar de prullenbak te verplaatsen?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">"^1 toestaan ^2 video's naar de prullenbak te verplaatsen?"</item>
+        <item quantity="one">^1 toestaan deze video naar de prullenbak te verplaatsen?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">^1 toestaan ^2 audiobestanden uit de prullenbak te halen?</item>
+        <item quantity="one">^1 toestaan dit audiobestand uit de prullenbak te halen?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">^1 toestaan ^2 items uit de prullenbak te halen?</item>
+        <item quantity="one">^1 toestaan dit item uit de prullenbak te halen?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">"^1 toestaan ^2 foto's uit de prullenbak te halen?"</item>
+        <item quantity="one">^1 toestaan deze foto uit de prullenbak te halen?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">"^1 toestaan ^2 video's uit de prullenbak te halen?"</item>
+        <item quantity="one">^1 toestaan deze video uit de prullenbak te halen?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">^1 toestaan ^2 audiobestanden te wijzigen?</item>
+        <item quantity="one">^1 toestaan dit audiobestand te wijzigen?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">^1 toestaan ^2 items te wijzigen?</item>
+        <item quantity="one">^1 toestaan dit item te wijzigen?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">"^1 toestaan ^2 foto's te wijzigen?"</item>
+        <item quantity="one">^1 toestaan deze foto te wijzigen?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">"^1 toestaan ^2 video's te wijzigen?"</item>
+        <item quantity="one">^1 toestaan deze video te wijzigen?</item>
+    </plurals>
+</resources>

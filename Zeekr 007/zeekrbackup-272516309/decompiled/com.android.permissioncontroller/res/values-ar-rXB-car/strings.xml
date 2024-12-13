@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unused_apps_page_summary">"‏‮If‬‏ ‏‮an‬‏ ‏‮app‬‏ ‏‮is‬‏ ‏‮unused‬‏ ‏‮for‬‏ ‏‮a‬‏ ‏‮few‬‏ ‏‮months:‬‏
+
+‏‮•‬‏ ‏‮Permissions‬‏ ‏‮are‬‏ ‏‮removed‬‏ ‏‮to‬‏ ‏‮protect‬‏ ‏‮your‬‏ ‏‮data‬‏
+‏‮•‬‏ ‏‮Temporary‬‏ ‏‮files‬‏ ‏‮are‬‏ ‏‮removed‬‏ ‏‮to‬‏ ‏‮free‬‏ ‏‮up‬‏ ‏‮space‬‏"</string>
+</resources>

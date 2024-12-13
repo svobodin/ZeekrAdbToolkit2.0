@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Desactivar zona wifi</string>
+    <string name="no_upstream_notification_message">Os dispositivos non se poden conectar a Internet</string>
+    <string name="no_upstream_notification_title">A zona wifi non ten acceso a Internet</string>
+    <string name="upstream_roaming_notification_message">Pódense aplicar cargos adicionais en itinerancia</string>
+    <string name="upstream_roaming_notification_title">A zona wifi está activada</string>
+    <string name="upstream_roaming_notification_continue_button">Continuar</string>
+</resources>

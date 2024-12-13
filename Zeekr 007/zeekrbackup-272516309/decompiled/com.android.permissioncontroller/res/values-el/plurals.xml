@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">%1$d ακόμα</item>
+        <item quantity="one">%1$d ακόμα</item>
+    </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">%1$d εφαρμογές δεν έχουν χρησιμοποιηθεί τους τελευταίους μήνες. Πατήστε για έλεγχο.</item>
+        <item quantity="one">%1$d εφαρμογή δεν έχει χρησιμοποιηθεί τους τελευταίους μήνες. Πατήστε για έλεγχο.</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">%1$d εφαρμογές δεν έχουν χρησιμοποιηθεί τους τελευταίους μήνες.</item>
+        <item quantity="one">%1$d εφαρμογή δεν έχει χρησιμοποιηθεί τους τελευταίους μήνες.</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s ημέρες</item>
+        <item quantity="one">1 ημέρα</item>
+    </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">%s ημέρες</item>
+        <item quantity="one">1 ημέρα</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">%s ώρες</item>
+        <item quantity="one">1 ώρα</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">%s λεπτά</item>
+        <item quantity="one">1 λεπτό</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">%s δευτερόλεπτα</item>
+        <item quantity="one">1 δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s ώρες</item>
+        <item quantity="one">1 ώρα</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s λεπτά</item>
+        <item quantity="one">1 λεπτό</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d νέες ειδοποιήσεις</item>
+        <item quantity="one">%d νέα ειδοποίηση</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s εφαρμογές</item>
+        <item quantity="one">1 εφαρμογή</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s εφαρμογές</item>
+        <item quantity="one">1 εφαρμογή</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">Χρησιμοποιείται από %1$d εφαρμογές</item>
+        <item quantity="one">Χρησιμοποιείται από 1 εφαρμογή</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"Τελευταία πρόσβαση: %1$s
+%2$s προσβάσεις"</item>
+        <item quantity="one">"Τελευταία πρόσβαση: %1$s
+%2$s πρόσβαση"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"Τελευταία πρόσβαση: %1$s
+%2$s προσβάσεις (%3$s στο παρασκήνιο)"</item>
+        <item quantity="one">"Τελευταία πρόσβαση: %1$s
+%2$s πρόσβαση (%3$s στο παρασκήνιο)"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"Τελευταία πρόσβαση: %1$s
+%2$s προσβάσεις (%3$s στο παρασκήνιο)
+Διάρκεια: %3$s"</item>
+        <item quantity="one">"Τελευταία πρόσβαση: %1$s
+%2$s πρόσβαση (%3$s στο παρασκήνιο)
+Διάρκεια: %3$s"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"Τελευταία πρόσβαση: %1$s
+%2$s προσβάσεις
+Διάρκεια: %3$s"</item>
+        <item quantity="one">"Τελευταία πρόσβαση: %1$s
+%2$s πρόσβαση
+Διάρκεια: %3$s"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s δευτερόλεπτα</item>
+        <item quantity="one">1 δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">%1$d εφαρμογές που δεν χρησιμοποιούνται</item>
+        <item quantity="one">%1$d εφαρμογή που δεν χρησιμοποιείται</item>
+    </plurals>
+</resources>

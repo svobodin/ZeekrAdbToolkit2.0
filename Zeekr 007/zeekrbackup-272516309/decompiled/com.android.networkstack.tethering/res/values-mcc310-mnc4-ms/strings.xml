@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Matikan penambatan</string>
+    <string name="no_upstream_notification_message">Peranti tidak dapat disambungkan</string>
+    <string name="no_upstream_notification_title">Penambatan tiada Internet</string>
+    <string name="upstream_roaming_notification_message">Caj tambahan mungkin digunakan semasa perayauan</string>
+    <string name="upstream_roaming_notification_title">Tempat liputan atau penambatan dihidupkan</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">I-Shell</string>
+    <string name="bugreport_add_details_to_zip_failed">Ayikwazi ukwengeza imininingwane yombiko wesiphazamisi kufayela le-zip</string>
+    <string name="bugreport_confirm">Imibiko yeziphazamisi iqukethe idatha kusuka kumafayela elogo ahlukahlukene esistimu, angabandakanya idatha oyibheka njengezwelayo (njengokusetshenziswa kohlelo lokusebenza nedatha yendawo). Yabelana kuphela ngemibiko yesiphazamisi nabantu obethembayo nezinhlelo zokusebenza.</string>
+    <string name="bugreport_confirm_dont_repeat">Ungabonisi futhi</string>
+    <string name="bugreport_finished_pending_screenshot_text">Thepha ukuze wabelane ngombiko wesiphazamisi ngaphandle kwesithombe-skrini noma ulinde isithombe-skrini ukuthi siqede</string>
+    <string name="bugreport_finished_text">Thepha ukuze wabelane ngombiko wakho wesiphazamisi</string>
+    <string name="bugreport_finished_title">Umbiko wesiphazamisi ongu-#%d uthwetshuliwe</string>
+    <string name="bugreport_in_progress_title">Umbiko wesiphazamisi ongu-#%d uyacutshungulwa</string>
+    <string name="bugreport_info_action">Imininingwane</string>
+    <string name="bugreport_info_description">Isifinyezo sesiphazamisi</string>
+    <string name="bugreport_info_dialog_title">Imininingwane yombiko wesiphazamisi ongu-#%d</string>
+    <string name="bugreport_info_name">Igama lefayela</string>
+    <string name="bugreport_info_title">Isihloko sesiphazamisi</string>
+    <string name="bugreport_intent_chooser_title">Yabelana ngombiko wesiphazamisi</string>
+    <string name="bugreport_notification_channel">Imibiko yeziphazamiso</string>
+    <string name="bugreport_screenshot_action">Isithombe-skrini</string>
+    <string name="bugreport_screenshot_failed">Isithombe-skrini asikwazanga ukuthathwa.</string>
+    <string name="bugreport_screenshot_taken">Isithombe-skrini sithathwe ngempumelelo.</string>
+    <string name="bugreport_storage_title">Imibiko yeziphazamiso</string>
+    <string name="bugreport_unnamed">awunikiwe igama</string>
+    <string name="bugreport_unreadable_text">Ifayela lombiko wesiphazamso alikwazanga ukufundwa</string>
+    <string name="bugreport_updating_title">Ingeza imininingwane kumbiko wesiphazamisi</string>
+    <string name="bugreport_updating_wait">Sicela ulinde...</string>
+    <string name="save">Londoloza</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

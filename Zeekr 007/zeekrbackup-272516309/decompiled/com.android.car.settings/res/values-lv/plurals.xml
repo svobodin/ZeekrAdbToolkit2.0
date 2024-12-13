@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">Kameras lietotnes</item>
+        <item quantity="zero">Kameras lietotnes</item>
+        <item quantity="one">Kameras lietotnes</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">E-pasta klienta lietotnes</item>
+        <item quantity="zero">E-pasta klienta lietotnes</item>
+        <item quantity="one">E-pasta klienta lietotnes</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">Tālruņa lietotnes</item>
+        <item quantity="zero">Tālruņa lietotnes</item>
+        <item quantity="one">Tālruņa lietotnes</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d mēģinājumi</item>
+        <item quantity="zero">%d mēģinājumu</item>
+        <item quantity="one">%d mēģinājums</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d lietotnes</item>
+        <item quantity="zero">%d lietotņu</item>
+        <item quantity="one">%d lietotne</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">Vismaz %d lietotnes</item>
+        <item quantity="zero">Vismaz %d lietotņu</item>
+        <item quantity="one">Vismaz %d lietotne</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d jauni paziņojumi</item>
+        <item quantity="zero">%d jaunu paziņojumu</item>
+        <item quantity="one">%d jauns paziņojums</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">Pievienotas %1$d ierīces</item>
+        <item quantity="zero">Pievienotas %1$d ierīces</item>
+        <item quantity="one">Pievienota %1$d ierīce</item>
+    </plurals>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Desaktibatu konexioa partekatzeko aukera</string>
+    <string name="no_upstream_notification_message">Ezin dira konektatu gailuak</string>
+    <string name="no_upstream_notification_title">Konexioa partekatzeko aukerak ez du Interneteko konexiorik</string>
+    <string name="upstream_roaming_notification_message">Baliteke kostu gehigarriak ordaindu behar izatea ibiltaritzan</string>
+    <string name="upstream_roaming_notification_title">Wifi-gunea edo konexioa partekatzeko aukera aktibatuta dago</string>
+</resources>

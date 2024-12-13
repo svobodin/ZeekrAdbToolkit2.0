@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_assistant">Android ଆଡେପ୍ଟିଭ୍ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="tc_notif_code_copied_to_clipboard">କୋଡ୍ କପି କରାଯାଇଛି</string>
+    <string name="tc_notif_copy_code_desc">“%1$s“ କପି କରନ୍ତୁ</string>
+</resources>

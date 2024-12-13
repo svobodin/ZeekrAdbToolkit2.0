@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crop_wallpaper">ຕັດພາບພື້ນຫຼັງ</string>
+    <string name="wallpaper_instructions">ຕັ້ງເປັນພາບພື້ນຫຼັງ</string>
+    <string name="wallpaper_load_fail">ບໍ່ສາມາດໂຫຼດຮູບເປັນພາບພື້ນຫຼັງໄດ້</string>
+</resources>

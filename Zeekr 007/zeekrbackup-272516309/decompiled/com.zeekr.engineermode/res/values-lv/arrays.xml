@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>Sintmārtena</item>
+        <item>Nīderlandes Karību salas</item>
+        <item>Kirasao</item>
+        <item>Dienvidsudāna</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Austrālijas centr. laiks — NT</item>
+        <item>Austrālijas centr. laiks — SA</item>
+        <item>Austrālijas austrumu laiks — QLD</item>
+        <item>Austrālijas austrumu laiks — NSW</item>
+        <item>Kalnu r. st. laiks — Dousonkrīka</item>
+        <item>Centr. st. laiks — Saskačevana</item>
+        <item>Austrumu standarta laiks — Atikokana</item>
+        <item>Atlantijas standarta laiks — Kvebeka</item>
+        <item>Havaju–Aleutu laiks — Havajas</item>
+        <item>Havaju–Aleutu laiks — Aļaska</item>
+        <item>Klusā ok. st. laiks — Metlakatla</item>
+        <item>Kalnu rajona st. laiks — Arizona</item>
+        <item>Klusā ok. l. — Lejaskalifornija</item>
+        <item>Kalnu rajona laiks — Čivava</item>
+        <item>Centrālais laiks — Tamaulipasa</item>
+        <item>Kalnu rajona laiks — Sonora</item>
+        <item>Austrumāfrikas laiks</item>
+        <item>Atlantijas standarta laiks</item>
+        <item>Atlantijas standarta laiks</item>
+        <item>Austrumeiropas laiks</item>
+        <item>Kaļiņingradas laiks</item>
+        <item>Amazone — Rondonija</item>
+        <item>Brazilja — Para</item>
+    </string-array>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sim аппын харилцах цонх</string>
+    <string name="install_carrier_app_defer_action">Одоо биш</string>
+    <string name="install_carrier_app_description">Та шинэ SIM-ээ зөв ажиллуулахын тулд %1$s аппыг суулгах хэрэгтэй болно</string>
+    <string name="install_carrier_app_description_default">Та шинэ SIM-ээ зөв ажиллуулахын тулд оператор компанийхаа аппыг суулгах хэрэгтэй болно</string>
+    <string name="install_carrier_app_download_action">Апп татах</string>
+    <string name="install_carrier_app_title">Мобайл үйлчилгээг идэвхжүүлэх</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Буцах</string>
+    <string name="suw_more_button_label">Илүү</string>
+    <string name="suw_next_button_label">Дараах</string>
+</resources>

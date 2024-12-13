@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ໂຕຈັດການການດາວໂຫລດ</string>
+    <string name="button_cancel_download">ຍົກເລີກ</string>
+    <string name="button_queue_for_wifi">ຄິວ</string>
+    <string name="button_start_now">ເລີ່ມດຽວນີ້</string>
+    <string name="download_error">ບໍ່ສຳເລັດ</string>
+    <string name="download_no_application_title">ບໍ່ສາມດາເປີດໄຟລ໌ໄດ້</string>
+    <string name="download_queued">ເຂົ້າຄິວແລ້ວ</string>
+    <string name="download_remaining">ຍັງເຫຼືອ %s</string>
+    <string name="download_running">ກຳລັງດຳເນີນການ</string>
+    <string name="download_running_percent">​ກຳ​ລັງ​ດຳ​ເນີນ​ການ, %s</string>
+    <string name="download_unknown_title">&lt;ບໍ່ມີຊື່></string>
+    <string name="notification_download_complete">ການດາວໂຫຼດສໍາເລັດແລ້ວ.</string>
+    <string name="notification_download_failed">ດາວໂຫຼດບໍ່ສຳເລັດ.</string>
+    <string name="notification_need_wifi_for_size">ຂະຫນາດການດາວໂຫຼດຕ້ອງໃຊ້ການເຊື່ອມຕໍ່ Wi-Fi.</string>
+    <string name="notification_paused_in_background">ຢຸດຊົ່ວຄາວໃນເບື້ອງຫຼັງແລ້ວ.</string>
+    <string name="permdesc_accessAllDownloads">ອະນຸຍາດໃຫ້ແອັບຯ ເບິ່ງ ແລະ ແກ້ໄຂການດາວໂຫລດທັງໝົດທີ່ເລີ່ມໂດຍທຸກໆແອັບຯໃນລະບົບ.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">ອະນຸຍາດໃຫ້ແອັບຯ ດາວໂຫລດໄຟລ໌ໄປຍັງບ່ອນເກັບການດາວໂຫລດຊົ່ວຄາວ, ທີ່ບໍ່ສາມາດລຶບໂດຍອັດຕະໂນມັດ ຫາກໂຕຈັດການການດາວໂຫລດຕ້ອງການພື້ນທີ່ເພີ່ມ.</string>
+    <string name="permdesc_downloadCompletedIntent">ອະນຸຍາດໃຫ້ແອັບຯ ສົ່ງການແຈ້ງເຕືອນເມື່ອດາວໂຫລດສຳເລັດແລ້ວ. ແອັບຯທີ່ມີອັນຕະລາຍ ສາມາດໃຊ້ການເຮັດວຽກນີ້ ສ້າງຄວາມສັບສົນໃຫ້ແອັບຯ ອື່ນໆທີ່ດາວໂຫລດໄຟລ໌ໄດ້.</string>
+    <string name="permdesc_downloadManager">ອະນຸາຍາດໃຫ້ແອັບຯ ເຂົ້າເຖິງໂຕຈັດການການດາວໂຫລດ ແລະໃຊ້ມັນເພື່ອດາວໂຫລດໄຟລ໌. ແອັບຯທີ່ມີອັນຕະລາຍສາມາດໃຊ້ການເຮັດວຽກນີ້ ເພື່ອແຊກແຊງການດາວໂຫລດ ແລະເຂົ້າເຖິງຂໍ້ມູນສ່ວນໂຕໄດ້.</string>
+    <string name="permdesc_downloadManagerAdvanced">ອະນຸຍາດໃຫ້ແອັບຯ ເຂົ້າເຖິງຄວາມສາມາດຂັ້ນສູງຂອງໂຕຈັດການການດາວໂຫລດ. ແອັບຯທີ່ມີອັນຕະລາຍ ສາມາດໃຊ້ການເຮັດວຽກນີ້ ເພື່ອແຊກແຊງການດາວໂຫລດ ແລະເຂົ້າເຖິງຂໍ້ມູນສ່ວນໂຕໄດ້.</string>
+    <string name="permdesc_downloadWithoutNotification">ອະນຸຍາດໃຫ້ແອັບຯດັ່ງກ່າວ ດາວໂຫລດໄຟລ໌ຜ່ານໂຕຈັດການການດາວໂຫລດ ໂດຍບໍ່ແຈ້ງເຕືອນຜູ່ໃຊ້ແຕ່ຢ່າງໃດ.</string>
+    <string name="permlab_accessAllDownloads">ເຂົ້າເຖິງການດາວໂຫລດທັງໝົດຂອງລະບົບ</string>
+    <string name="permlab_downloadCacheNonPurgeable">ເນື້ອທີ່ສະຫງວນໃນບ່ອນເກັບການດາວໂຫລດຊົ່ວຄາວ</string>
+    <string name="permlab_downloadCompletedIntent">ສົ່ງການແຈ້ງເຕືອນການດາວໂຫລດ.</string>
+    <string name="permlab_downloadManager">ເຂົ້າເຖິງໂຕຈັດການການດາວໂຫລດ.</string>
+    <string name="permlab_downloadManagerAdvanced">ຄວາມສາມາດຂັ້ນສູງຂອງໂຕຈັດການການດາວໂຫລດ.</string>
+    <string name="permlab_downloadWithoutNotification">ດາວໂຫລດໄຟລ໌ໂດຍບໍ່ແຈ້ງເຕືອນ</string>
+    <string name="root_downloads">ດາວໂຫລດ</string>
+    <string name="storage_description">ດາວໂຫລດ</string>
+    <string name="wifi_recommended_body">"ການດາວໂຫລດໄຟລ໌ໃຫຍ່ຂະໜາດ %1$s   ນີ້ ອາດເຮັດອາຍຸແບັດເຕີຣີຂອງທ່ານສັ້ນລົງ ຫຼື ນຳໃຊ້ຂໍ້ມູນການເຊື່ອມຕໍ່ຂໍ້ມູນຜ່ານມືຖືຫຼາຍ, ເຊິ່ງເຮັດໃຫ້ທ່ານອາດຕ້ອງເສຍຄ່າບໍລິການແພງຂຶ້ນ.
+
+ ສຳຜັດ %2$s ເພື່ອເລີ່ມການດາວໂຫລດນີ້ ເມື່ອມີການທ່ານເຊື່ອມຕໍ່ WiFi ໃນຄັ້ງຕໍ່ໄປ."</string>
+    <string name="wifi_recommended_title">ເຂົ້າຄິວເພື່ອດາວໂຫລດໃນພາຍຫຼັງ?</string>
+    <string name="wifi_required_body">"ທ່ານຕ້ອງໃຊ້ Wi-Fi ເພື່ອດາວໂຫລດໄຟລ໌ຂະໜາດ %1$s  ນີ້. 
+ 
+ ແຕະທີ່ %2$s  ເພື່ອເລີ່ມການດາວໂຫລດນີ້ ເມື່ອມີການທ່ານເຊື່ອມຕໍ່ WiFi ໃນຄັ້ງຕໍ່ໄປ."</string>
+    <string name="wifi_required_title">ການດາວໂຫລດໃຫຍ່ເກີນໄປທີ່ຈະດາວໂຫລດຜ່ານລະບົບອິນເຕີເນັດມືຖື</string>
+</resources>

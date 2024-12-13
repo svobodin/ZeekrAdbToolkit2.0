@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Downloadbeheer</string>
+    <string name="button_cancel_download">Annuleren</string>
+    <string name="button_queue_for_wifi">Wachtrij</string>
+    <string name="button_start_now">Nu starten</string>
+    <string name="download_error">Mislukt</string>
+    <string name="download_no_application_title">Kan bestand niet openen</string>
+    <string name="download_queued">In wachtrij</string>
+    <string name="download_remaining">Nog %s</string>
+    <string name="download_running">In uitvoering</string>
+    <string name="download_running_percent">Wordt uitgevoerd, %s</string>
+    <string name="download_unknown_title">&lt;Zonder titel></string>
+    <string name="notification_download_complete">Downloaden is voltooid.</string>
+    <string name="notification_download_failed">Downloaden is mislukt.</string>
+    <string name="notification_need_wifi_for_size">Wifi nodig voor download</string>
+    <string name="notification_paused_in_background">Onderbr. op achtergrond.</string>
+    <string name="permdesc_accessAllDownloads">Hiermee kan de app alle downloads bekijken en wijzigen die door een systeemapp zijn gestart.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Hiermee kan de app bestanden downloaden naar de downloadcache die niet automatisch kunnen worden verwijderd wanneer downloadbeheer meer ruimte nodig heeft.</string>
+    <string name="permdesc_downloadCompletedIntent">Hiermee kan de app meldingen verzenden over voltooide downloads. Schadelijke apps kunnen dit gebruiken om andere apps die bestanden downloaden in verwarring te brengen.</string>
+    <string name="permdesc_downloadManager">Hiermee heeft de app toegang tot downloadbeheer en kan de app via downloadbeheer bestanden downloaden. Schadelijke apps kunnen dit gebruiken om downloads te verstoren en toegang te krijgen tot persoonlijke informatie.</string>
+    <string name="permdesc_downloadManagerAdvanced">Hiermee heeft de app toegang tot de geavanceerde functies van downloadbeheer. Schadelijke apps kunnen dit gebruiken om downloads te verstoren en toegang te krijgen tot persoonlijke informatie.</string>
+    <string name="permdesc_downloadWithoutNotification">Hiermee kan de app bestanden downloaden via downloadbeheer zonder dat de gebruiker een melding krijgt.</string>
+    <string name="permlab_accessAllDownloads">Toegang geven tot alle systeemdownloads</string>
+    <string name="permlab_downloadCacheNonPurgeable">Ruimte in de downloadcache reserveren</string>
+    <string name="permlab_downloadCompletedIntent">Downloadmeldingen verzenden.</string>
+    <string name="permlab_downloadManager">Downloadbeheer bekijken.</string>
+    <string name="permlab_downloadManagerAdvanced">Geavanceerde functies van de downloadbeheerder.</string>
+    <string name="permlab_downloadWithoutNotification">bestanden downloaden zonder melding</string>
+    <string name="root_downloads">Downloads</string>
+    <string name="storage_description">Downloads</string>
+    <string name="wifi_recommended_body">"Als je deze download van %1$s  nu start, kan dit de levensduur van de batterij verkorten en/of leiden tot bovenmatig gebruik van je mobiele-dataverbinding. Je provider kan hiervoor kosten rekenen.
+
+ Raak '%2$s' aan om deze download te starten wanneer je verbinding hebt met een wifi-netwerk."</string>
+    <string name="wifi_recommended_title">In wachtrij plaatsen voor later downloaden?</string>
+    <string name="wifi_required_body">"Je moet wifi gebruiken om deze download van %1$s  te voltooien. 
+
+Tik %2$s  om deze download te starten wanneer je verbinding hebt met een wifi-netwerk."</string>
+    <string name="wifi_required_title">Download te groot voor providernetwerk</string>
+</resources>

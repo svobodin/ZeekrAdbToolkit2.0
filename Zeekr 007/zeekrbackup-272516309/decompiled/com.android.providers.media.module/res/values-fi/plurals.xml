@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">Saako ^1 poistaa ^2 audiotiedostoa?</item>
+        <item quantity="one">Saako ^1 poistaa tämän audiotiedoston?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">Saako ^1 poistaa ^2 kohdetta?</item>
+        <item quantity="one">Saako ^1 poistaa tämän?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">Saako ^1 poistaa ^2 kuvaa?</item>
+        <item quantity="one">Saako ^1 poistaa tämän kuvan?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">Saako ^1 poistaa ^2 videota?</item>
+        <item quantity="one">Saako ^1 poistaa tämän videon?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">Ja ^1 muuta asiaa</item>
+        <item quantity="one">Ja ^1 muu asia</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">+^1</item>
+        <item quantity="one">+^1</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">Poistetaan ^1 audiotiedostoa…</item>
+        <item quantity="one">Poistetaan audiotiedostoa…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">Poistetaan ^1 kohdetta…</item>
+        <item quantity="one">Poistetaan kohdetta…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">Poistetaan ^1 valokuvaa…</item>
+        <item quantity="one">Poistetaan valokuvaa…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">Poistetaan ^1 videota…</item>
+        <item quantity="one">Poistetaan videota…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">Siirretään ^1 audiotiedostoa roskakoriin…</item>
+        <item quantity="one">Siirretään audiotiedostoa roskakoriin…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">Siirretään ^1 kohdetta roskakoriin…</item>
+        <item quantity="one">Siirretään kohdetta roskakoriin…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">Siirretään ^1 valokuvaa roskakoriin…</item>
+        <item quantity="one">Siirretään valokuvaa roskakoriin…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">Siirretään ^1 videota roskakoriin…</item>
+        <item quantity="one">Siirretään videota roskakoriin…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">Siirretään ^1 audiotiedostoa pois roskakorista…</item>
+        <item quantity="one">Siirretään audiotiedostoa pois roskakorista…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">Siirretään ^1 kohdetta pois roskakorista…</item>
+        <item quantity="one">Siirretään kohdetta pois roskakorista…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">Siirretään ^1 valokuvaa pois roskakorista…</item>
+        <item quantity="one">Siirretään valokuvaa pois roskakorista…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">Siirretään ^1 videota pois roskakorista…</item>
+        <item quantity="one">Siirretään videota pois roskakorista…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">Muokataan ^1 audiotiedostoa…</item>
+        <item quantity="one">Muokataan audiotiedostoa…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">Muokataan ^1 kohdetta…</item>
+        <item quantity="one">Muokataan kohdetta…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">Muokataan ^1 valokuvaa…</item>
+        <item quantity="one">Muokataan valokuvaa…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">Muokataan ^1 videota…</item>
+        <item quantity="one">Muokataan videota…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">Saako ^1 siirtää ^2 audiotiedostoa roskakoriin?</item>
+        <item quantity="one">Saako ^1 siirtää tämän audiotiedoston roskakoriin?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">Saako ^1 siirtää ^2 kohdetta roskakoriin?</item>
+        <item quantity="one">Saako ^1 siirtää tämän roskakoriin?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">Saako ^1 siirtää ^2 kuvaa roskakoriin?</item>
+        <item quantity="one">Saako ^1 siirtää tämän kuvan roskakoriin?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">Saako ^1 siirtää ^2 videota roskakoriin?</item>
+        <item quantity="one">Saako ^1 siirtää tämän videon roskakoriin?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">Saako ^1 ottaa ^2 audiotiedostoa pois roskakorista?</item>
+        <item quantity="one">Saako ^1 ottaa tämän audiotiedoston pois roskakorista?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">Saako ^1 ottaa ^2 kohdetta pois roskakorista?</item>
+        <item quantity="one">Saako ^1 ottaa tämän pois roskakorista?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">Saako ^1 ottaa ^2 kuvaa pois roskakorista?</item>
+        <item quantity="one">Saako ^1 ottaa tämän kuvan pois roskakorista?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">Saako ^1 ottaa ^2 videota pois roskakorista?</item>
+        <item quantity="one">Saako ^1 ottaa tämän videon pois roskakorista?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">Saako ^1 muokata ^2 audiotiedostoa?</item>
+        <item quantity="one">Saako ^1 muokata tätä audiotiedostoa?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">Saako ^1 muokata ^2 kohdetta?</item>
+        <item quantity="one">Saako ^1 muokata tätä?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">Saako ^1 muokata ^2 kuvaa?</item>
+        <item quantity="one">Saako ^1 muokata tätä kuvaa?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">Saako ^1 muokata ^2 videota?</item>
+        <item quantity="one">Saako ^1 muokata tätä videota?</item>
+    </plurals>
+</resources>

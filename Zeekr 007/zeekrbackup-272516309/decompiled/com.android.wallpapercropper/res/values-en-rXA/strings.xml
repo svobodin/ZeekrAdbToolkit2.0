@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crop_wallpaper">[Çŕöþ ŵåļļþåþéŕ one two three]</string>
+    <string name="wallpaper_instructions">[Šéţ ŵåļļþåþéŕ one two]</string>
+    <string name="wallpaper_load_fail">"[Çöûļðñ'ţ ļöåð îḿåĝé åš ŵåļļþåþéŕ one two three four]"</string>
+</resources>

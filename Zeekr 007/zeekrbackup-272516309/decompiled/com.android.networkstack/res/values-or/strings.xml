@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">ନେଟୱାର୍କ ପରିଚାଳକ</string>
+    <string name="connected">ସଂଯୋଗ କରାଯାଇଛି</string>
+    <string name="notification_channel_description_connected">ଡିଭାଇସଟି ଏକ କ୍ୟାପ୍ଟିଭ୍ ପୋର୍ଟାଲ୍ ନେଟୱାର୍କରେ ସଫଳତାର ସହିତ ପ୍ରାମାଣିକୃତ ହେଲେ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ ଦେଖାଯାଏ</string>
+    <string name="notification_channel_description_network_venue_info">ନେଟୱାର୍କରେ ଏକ ଭେନ୍ୟୁ ସୂଚନା ପୃଷ୍ଠା ଅଛି ବୋଲି ସୂଚିତ କରିବାକୁ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ ଦେଖାଯାଏ</string>
+    <string name="notification_channel_name_connected">କ୍ୟାପ୍ଟିଭ୍ ପୋର୍ଟାଲ୍ ପ୍ରାମାଣିକତା</string>
+    <string name="notification_channel_name_network_venue_info">ନେଟୱାର୍କ ଭେନ୍ୟୁ ସୂଚନା</string>
+    <string name="tap_for_info">ସଂଯୁକ୍ତ ଅଛି / ୱେବସାଇଟ୍ ଦେଖିବା ପାଇଁ ଟାପ୍ କରନ୍ତୁ</string>
+</resources>

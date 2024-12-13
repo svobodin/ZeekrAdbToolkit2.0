@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s : Eine Verbindung mit Verizon Wi-Fi Access ist außerhalb der Abdeckung von Verizon nicht möglich.</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s : Du bist nicht bei Verizon Wi-Fi Access angemeldet. Bitte ruf uns unter 800-922-0204 an.</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s : Es gibt ein Problem mit deinem Verizon Wi-Fi Access-Konto. Bitte ruf uns unter 800-922-0204 an.</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s : Du bist bereits mit Verizon Wi-Fi Access verbunden.</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s : Es kann keine Verbindung zu Verizon Wi-Fi Access hergestellt werden. Bitte ruf uns unter 800-922-0204 an.</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s : Es gibt ein Problem mit deinem Verizon Wi-Fi Access-Konto. Bitte ruf uns unter 800-922-0204 an.</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s : Verizon Wi-Fi Access ist an deinem Standort nicht verfügbar. Du kannst es später noch einmal oder von einem anderen Standort aus versuchen.</string>
+</resources>

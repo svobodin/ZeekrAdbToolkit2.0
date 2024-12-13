@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>სენ-მარტინი</item>
+        <item>კარიბიული ნიდერლანდი</item>
+        <item>კურაჩაო</item>
+        <item>სამხრეთ სუდანი</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Australian Central - NT</item>
+        <item>Australian Central - SA</item>
+        <item>Australian Eastern - QLD</item>
+        <item>Australian Eastern - NSW</item>
+        <item>Mountain Standard - დოუსონ ქრიქი</item>
+        <item>Central Standard - სასკაჩევანი</item>
+        <item>Eastern Standard - ატიკოკანი</item>
+        <item>Atlantic Standard - კვებეკი</item>
+        <item>ჰავაი-ალეუტიური - ჰავაი</item>
+        <item>ჰავაი-ალეუტიური - ალასკა</item>
+        <item>Pacific Standard - მეტლაკატია</item>
+        <item>Mountain Standard - არიზონა</item>
+        <item>Pacific - ბაჰა კალიფორნია</item>
+        <item>Mountain - ჩიჰუაჰუა</item>
+        <item>Central - ტამოლიპასი</item>
+        <item>Mountain - სანორა</item>
+        <item>აღმოსავლეთ აფრიკის დრო</item>
+        <item>ატლანტიკური სტანდარტული დრო</item>
+        <item>ატლანტიკური სტანდარტული დრო</item>
+        <item>აღმოსავლეთ ევროპის დრო</item>
+        <item>კალინინგრადის დრო</item>
+        <item>ამაზონი - რონდონია</item>
+        <item>ბრაზილია - პარა</item>
+    </string-array>
+</resources>

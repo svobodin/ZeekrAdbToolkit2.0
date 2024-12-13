@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stub de actividade</string>
+    <string name="message_not_supported">Ningunha app pode procesar esta acción</string>
+    <string name="pip_not_supported">A función de pantalla superposta non se admite neste dispositivo</string>
+    <string name="stub_name">Ningún</string>
+</resources>

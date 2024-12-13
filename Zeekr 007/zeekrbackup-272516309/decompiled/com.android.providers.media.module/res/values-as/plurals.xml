@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">^1ক ^2 টা অডিঅ’ ফাইল মচিবলৈ অনুমতি দিবনে?</item>
+        <item quantity="one">^1ক ^2 টা অডিঅ’ ফাইল মচিবলৈ অনুমতি দিবনে?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">^1ক ^2 টা বস্তু মচিবলৈ অনুমতি দিবনে?</item>
+        <item quantity="one">^1ক ^2 টা বস্তু মচিবলৈ অনুমতি দিবনে?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">^1ক ^2 খন ফট’ মচিবলৈ অনুমতি দিবনে?</item>
+        <item quantity="one">^1ক ^2 খন ফট’ মচিবলৈ অনুমতি দিবনে?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">^1ক ^2 টা ভিডিঅ’ মচিবলৈ অনুমতি দিবনে?</item>
+        <item quantity="one">^1ক ^2 টা ভিডিঅ’ মচিবলৈ অনুমতি দিবনে?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">আৰু ^1 টা অতিৰিক্ত বস্তু</item>
+        <item quantity="one">আৰু ^1 টা অতিৰিক্ত বস্তু</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">+^1 টা</item>
+        <item quantity="one">+^1 টা</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">^1 টা অডিঅ’ ফাইল মচি থকা হৈছে…</item>
+        <item quantity="one">^1 টা অডিঅ’ ফাইল মচি থকা হৈছে…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">^1 টা বস্তু মচি থকা হৈছে…</item>
+        <item quantity="one">^1 টা বস্তু মচি থকা হৈছে…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">^1 খন ফট’ মচি থকা হৈছে…</item>
+        <item quantity="one">^1 খন ফট’ মচি থকা হৈছে…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">^1 টা ভিডিঅ’ মচি থকা হৈছে…</item>
+        <item quantity="one">^1 টা ভিডিঅ’ মচি থকা হৈছে…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">^1 টা অডিঅ’ ফাইল ট্ৰেশ্বলৈ নি থকা হৈছে…</item>
+        <item quantity="one">^1 টা অডিঅ’ ফাইল ট্ৰেশ্বলৈ নি থকা হৈছে…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">^1 টা বস্তু ট্ৰেশ্বলৈ নি থকা হৈছে…</item>
+        <item quantity="one">^1 টা বস্তু ট্ৰেশ্বলৈ নি থকা হৈছে…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">^1 খন ফট’ ট্ৰেশ্বলৈ নি থকা হৈছে…</item>
+        <item quantity="one">^1 খন ফট’ ট্ৰেশ্বলৈ নি থকা হৈছে…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">^1 টা ভিডিঅ’ ট্ৰেশ্বলৈ নি থকা হৈছে…</item>
+        <item quantity="one">^1 টা ভিডিঅ’ ট্ৰেশ্বলৈ নি থকা হৈছে…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">^1 টা অডিঅ’ ফাইল ট্ৰেশ্বৰ পৰা বাহিৰলৈ নি থকা হৈছে…</item>
+        <item quantity="one">^1 টা অডিঅ’ ফাইল ট্ৰেশ্বৰ পৰা বাহিৰলৈ নি থকা হৈছে…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">^1 টা বস্তু ট্ৰেশ্বৰ পৰা বাহিৰলৈ নি থকা হৈছে…</item>
+        <item quantity="one">^1 টা বস্তু ট্ৰেশ্বৰ পৰা বাহিৰলৈ নি থকা হৈছে…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">^1 খন ফট’ ট্ৰেশ্বৰ পৰা বাহিৰলৈ নি থকা হৈছে…</item>
+        <item quantity="one">^1 খন ফট’ ট্ৰেশ্বৰ পৰা বাহিৰলৈ নি থকা হৈছে…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">^1 টা ভিডিঅ’ ট্ৰেশ্বৰ পৰা বাহিৰলৈ নি থকা হৈছে…</item>
+        <item quantity="one">^1 টা ভিডিঅ’ ট্ৰেশ্বৰ পৰা বাহিৰলৈ নি থকা হৈছে…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">^1 টা অডিঅ’ ফাইল সংশোধন কৰি থকা হৈছে…</item>
+        <item quantity="one">^1 টা অডিঅ’ ফাইল সংশোধন কৰি থকা হৈছে…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">^1 টা বস্তু সংশোধন কৰি থকা হৈছে…</item>
+        <item quantity="one">^1 টা বস্তু সংশোধন কৰি থকা হৈছে…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">^1 খন ফট’ সংশোধন কৰি থকা হৈছে…</item>
+        <item quantity="one">^1 খন ফট’ সংশোধন কৰি থকা হৈছে…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">^1 টা ভিডিঅ’ সংশোধন কৰি থকা হৈছে…</item>
+        <item quantity="one">^1 টা ভিডিঅ’ সংশোধন কৰি থকা হৈছে…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">^1ক ^2 টা অডিঅ’ ফাইল ট্ৰেশ্বলৈ স্থানান্তৰ কৰিবলৈ অনুমতি দিবনে?</item>
+        <item quantity="one">^1ক ^2 টা অডিঅ’ ফাইল ট্ৰেশ্বলৈ স্থানান্তৰ কৰিবলৈ অনুমতি দিবনে?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">^1ক ^2 টা বস্তু ট্ৰেশ্বলৈ স্থানান্তৰ কৰিবলৈ অনুমতি দিবনে?</item>
+        <item quantity="one">^1ক ^2 টা বস্তু ট্ৰেশ্বলৈ স্থানান্তৰ কৰিবলৈ অনুমতি দিবনে?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">^1ক ^2 খন ফট’ ট্ৰেশ্বলৈ স্থানান্তৰ কৰিবলৈ অনুমতি দিবনে?</item>
+        <item quantity="one">^1ক ^2 খন ফট’ ট্ৰেশ্বলৈ স্থানান্তৰ কৰিবলৈ অনুমতি দিবনে?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">^1ক ^2 টা ভিডিঅ’ ট্ৰেশ্বলৈ স্থানান্তৰ কৰিবলৈ অনুমতি দিবনে?</item>
+        <item quantity="one">^1ক ^2 টা ভিডিঅ’ ট্ৰেশ্বলৈ স্থানান্তৰ কৰিবলৈ অনুমতি দিবনে?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">^1ক ^2 টা অডিঅ’ ফাইল ট্ৰেশ্বৰ পৰা বাহিৰলৈ স্থানান্তৰ কৰিবলৈ অনুমতি দিবনে?</item>
+        <item quantity="one">^1ক ^2 টা অডিঅ’ ফাইল ট্ৰেশ্বৰ পৰা বাহিৰলৈ স্থানান্তৰ কৰিবলৈ অনুমতি দিবনে?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">^1ক ^2 টা বস্তু ট্ৰেশ্বৰ পৰা বাহিৰলৈ স্থানান্তৰ কৰিবলৈ অনুমতি দিবনে?</item>
+        <item quantity="one">^1ক ^2 টা বস্তু ট্ৰেশ্বৰ পৰা বাহিৰলৈ স্থানান্তৰ কৰিবলৈ অনুমতি দিবনে?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">^1ক ^2 খন ফট’ ট্ৰেশ্বৰ পৰা বাহিৰলৈ স্থানান্তৰ কৰিবলৈ অনুমতি দিবনে?</item>
+        <item quantity="one">^1ক ^2 খন ফট’ ট্ৰেশ্বৰ পৰা বাহিৰলৈ স্থানান্তৰ কৰিবলৈ অনুমতি দিবনে?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">^1ক ^2 টা ভিডিঅ’ ট্ৰেশ্বৰ পৰা বাহিৰলৈ স্থানান্তৰ কৰিবলৈ অনুমতি দিবনে?</item>
+        <item quantity="one">^1ক ^2 টা ভিডিঅ’ ট্ৰেশ্বৰ পৰা বাহিৰলৈ স্থানান্তৰ কৰিবলৈ অনুমতি দিবনে?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">^1ক ^2 টা অডিঅ’ ফাইল সংশোধন কৰিবলৈ অনুমতি দিবনে?</item>
+        <item quantity="one">^1ক ^2 টা অডিঅ’ ফাইল সংশোধন কৰিবলৈ অনুমতি দিবনে?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">^1ক ^2 টা বস্তু সংশোধন কৰিবলৈ অনুমতি দিবনে?</item>
+        <item quantity="one">^1ক ^2 টা বস্তু সংশোধন কৰিবলৈ অনুমতি দিবনে?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">^1ক ^2 খন ফট’ সংশোধন কৰিবলৈ অনুমতি দিবনে?</item>
+        <item quantity="one">^1ক ^2 খন ফট’ সংশোধন কৰিবলৈ অনুমতি দিবনে?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">^1ক ^2 টা ভিডিঅ’ সংশোধন কৰিবলৈ অনুমতি দিবনে?</item>
+        <item quantity="one">^1ক ^2 টা ভিডিঅ’ সংশোধন কৰিবলৈ অনুমতি দিবনে?</item>
+    </plurals>
+</resources>

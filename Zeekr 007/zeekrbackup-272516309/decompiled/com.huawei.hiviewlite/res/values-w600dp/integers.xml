@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="hwcolumnsystem_cs_bubble_count">6</integer>
+    <integer name="hwcolumnsystem_cs_bubble_max_count">6</integer>
+    <integer name="hwcolumnsystem_cs_button_count">3</integer>
+    <integer name="hwcolumnsystem_cs_button_max_count">6</integer>
+    <integer name="hwcolumnsystem_cs_card_count">6</integer>
+    <integer name="hwcolumnsystem_cs_card_max_count">6</integer>
+    <integer name="hwcolumnsystem_cs_content_count">6</integer>
+    <integer name="hwcolumnsystem_cs_content_max_count">6</integer>
+    <integer name="hwcolumnsystem_cs_double_button_count">6</integer>
+    <integer name="hwcolumnsystem_cs_double_button_max_count">6</integer>
+    <integer name="hwcolumnsystem_cs_large_bottomtab_count">8</integer>
+    <integer name="hwcolumnsystem_cs_large_bottomtab_max_count">8</integer>
+    <integer name="hwcolumnsystem_cs_large_dialog_count">5</integer>
+    <integer name="hwcolumnsystem_cs_large_dialog_max_count">5</integer>
+    <integer name="hwcolumnsystem_cs_large_toolbar_count">8</integer>
+    <integer name="hwcolumnsystem_cs_large_toolbar_max_count">8</integer>
+    <integer name="hwcolumnsystem_cs_menu_max_count">6</integer>
+    <integer name="hwcolumnsystem_cs_small_bottomtab_count">6</integer>
+    <integer name="hwcolumnsystem_cs_small_bottomtab_max_count">6</integer>
+    <integer name="hwcolumnsystem_cs_small_dialog_count">4</integer>
+    <integer name="hwcolumnsystem_cs_small_dialog_max_count">4</integer>
+    <integer name="hwcolumnsystem_cs_small_toolbar_count">6</integer>
+    <integer name="hwcolumnsystem_cs_small_toolbar_max_count">6</integer>
+    <integer name="hwcolumnsystem_cs_toast_max_count">6</integer>
+    <integer name="hwcolumnsystem_cs_total_count">8</integer>
+</resources>

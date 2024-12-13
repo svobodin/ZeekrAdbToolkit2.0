@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Menedżer pobierania</string>
+    <string name="button_cancel_download">Anuluj</string>
+    <string name="button_queue_for_wifi">Dodaj do kolejki</string>
+    <string name="button_start_now">Rozpocznij teraz</string>
+    <string name="download_error">Niepowodzenie</string>
+    <string name="download_no_application_title">Nie można otworzyć pliku</string>
+    <string name="download_queued">W kolejce</string>
+    <string name="download_remaining">Pozostało: %s</string>
+    <string name="download_running">W toku</string>
+    <string name="download_running_percent">W toku, %s</string>
+    <string name="download_unknown_title">&lt;Bez nazwy></string>
+    <string name="notification_download_complete">Pobieranie ukończone.</string>
+    <string name="notification_download_failed">Pobranie nie powiodło się.</string>
+    <string name="notification_need_wifi_for_size">Pobieranie wymaga Wi-Fi</string>
+    <string name="notification_paused_in_background">Wstrzymane w tle.</string>
+    <string name="permdesc_accessAllDownloads">Zezwala aplikacji na wyświetlanie i modyfikowanie wszystkich plików pobranych w dowolnej aplikacji w systemie.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Zezwala aplikacji na pobieranie plików do pamięci podręcznej, która nie może zostać automatycznie usunięta, gdy menedżer pobierania potrzebuje więcej miejsca.</string>
+    <string name="permdesc_downloadCompletedIntent">Zezwala aplikacji na wysyłanie powiadomień o ukończonym pobieraniu. Złośliwe aplikacje mogą używać tego uprawnienia do wprowadzania w błąd innych aplikacji, które pobierają pliki.</string>
+    <string name="permdesc_downloadManager">Zezwala aplikacji na dostęp do menedżera pobierania i korzystanie z niego w celu pobierania plików. Złośliwe aplikacje mogą wykorzystać tę możliwość w celu zakłócenia pobierania i uzyskania dostępu do informacji prywatnych.</string>
+    <string name="permdesc_downloadManagerAdvanced">Zezwala aplikacji na dostęp do zaawansowanych funkcji menedżera pobierania. Złośliwe aplikacje mogą wykorzystać tę możliwość w celu zakłócenia pobierania i uzyskania dostępu do informacji prywatnych.</string>
+    <string name="permdesc_downloadWithoutNotification">Zezwala aplikacji na pobieranie plików przez menedżera pobierania bez wyświetlania powiadomień.</string>
+    <string name="permlab_accessAllDownloads">Dostęp do wszystkich pobranych pozycji w systemie</string>
+    <string name="permlab_downloadCacheNonPurgeable">Zarezerwuj miejsce w pamięci podręcznej pobierania</string>
+    <string name="permlab_downloadCompletedIntent">Wysyłanie powiadomień o pobraniu.</string>
+    <string name="permlab_downloadManager">Dostęp do menedżera pobierania.</string>
+    <string name="permlab_downloadManagerAdvanced">Zaawansowane funkcje menedżera pobierania.</string>
+    <string name="permlab_downloadWithoutNotification">pobieranie plików bez powiadomienia</string>
+    <string name="root_downloads">Pobrane</string>
+    <string name="storage_description">Pobrane</string>
+    <string name="wifi_recommended_body">"Pobranie %1$s  może skrócić czas pracy na baterii i spowodować przekroczenie limitu transmisji danych, za co operator może naliczyć dodatkowe opłaty.
+
+Wybierz %2$s, aby pobrać po połączeniu z siecią Wi-Fi."</string>
+    <string name="wifi_recommended_title">Czy dodać do kolejki do późniejszego pobrania?</string>
+    <string name="wifi_required_body">"Do pobrania %1$s  musisz użyć połączenia Wi-Fi. 
+
+Wybierz %2$s , aby pobrać po nawiązaniu połączenia z siecią Wi-Fi."</string>
+    <string name="wifi_required_title">Zbyt duży plik do pobrania dla sieci operatora</string>
+</resources>

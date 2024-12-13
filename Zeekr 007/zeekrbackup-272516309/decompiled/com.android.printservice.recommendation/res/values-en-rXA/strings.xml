@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_vendor_brother">[βŕöţĥéŕ one two]</string>
+    <string name="plugin_vendor_canon">[Çåñöñ one]</string>
+    <string name="plugin_vendor_epson">[Éþšöñ one]</string>
+    <string name="plugin_vendor_fuji_xerox">[Fûĵî ×éŕöх one two]</string>
+    <string name="plugin_vendor_google_cloud_print">[Çļöûð Þŕîñţ one two]</string>
+    <string name="plugin_vendor_hp">[ĤÞ one]</string>
+    <string name="plugin_vendor_konica_minolta">[Ķöñîçå Ḿîñöļţå one two three]</string>
+    <string name="plugin_vendor_lexmark">[Ļéхḿåŕķ one two]</string>
+    <string name="plugin_vendor_morpia">[Ḿöþŕîå one two]</string>
+    <string name="plugin_vendor_samsung">[Šåḿšûñĝ one two]</string>
+    <string name="plugin_vendor_xerox">[×éŕöх one]</string>
+    <string name="status_bar_notification_info_overflow">[999+ one]</string>
+</resources>

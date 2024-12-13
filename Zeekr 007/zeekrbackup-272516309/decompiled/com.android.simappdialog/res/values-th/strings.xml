@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sim App Dialog</string>
+    <string name="install_carrier_app_defer_action">ไว้ทีหลัง</string>
+    <string name="install_carrier_app_description">คุณจะต้องติดตั้งแอป %1$s เพื่อให้ซิมใหม่ทำงานได้อย่างถูกต้อง</string>
+    <string name="install_carrier_app_description_default">คุณจะต้องติดตั้งแอปของผู้ให้บริการเพื่อให้ซิมใหม่ทำงานได้อย่างถูกต้อง</string>
+    <string name="install_carrier_app_download_action">ดาวน์โหลดแอป</string>
+    <string name="install_carrier_app_title">เปิดใช้งานบริการมือถือ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">กลับ</string>
+    <string name="suw_more_button_label">เพิ่มเติม</string>
+    <string name="suw_next_button_label">ถัดไป</string>
+</resources>

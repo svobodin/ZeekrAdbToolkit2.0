@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Download Manager</string>
+    <string name="button_cancel_download">Atcelt</string>
+    <string name="button_queue_for_wifi">Rinda</string>
+    <string name="button_start_now">Sākt tūlīt</string>
+    <string name="download_error">Neizdevās</string>
+    <string name="download_no_application_title">Nevar atvērt failu</string>
+    <string name="download_queued">Ievietots rindā</string>
+    <string name="download_remaining">Atlikušais laiks: %s</string>
+    <string name="download_running">Notiek lejupielāde</string>
+    <string name="download_running_percent">Notiek (%s)</string>
+    <string name="download_unknown_title">&lt;Bez nosaukuma></string>
+    <string name="notification_download_complete">Lejupielāde ir pabeigta.</string>
+    <string name="notification_download_failed">Lejupielāde neizdevās.</string>
+    <string name="notification_need_wifi_for_size">Lejupiel. nepiec. Wi-Fi.</string>
+    <string name="notification_paused_in_background">Pārtraukta fonā.</string>
+    <string name="permdesc_accessAllDownloads">Ļauj lietotnei skatīt un pārveidot visas lejupielādes, kas veiktas, izmantojot jebkuru sistēmas lietotni.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Ļauj lietotnei lejupielādes kešatmiņā lejupielādēt failus, kurus nevar automātiski izdzēst, ja lejupielāžu pārvaldniekam nepieciešama papildu vieta.</string>
+    <string name="permdesc_downloadCompletedIntent">Ļauj lietotnei sūtīt paziņojumus par pabeigtām lejupielādēm. Ļaunprātīgas lietotnes var izmantot šo atļauju, lai maldinātu citas lietotnes, kurās tiek lejupielādēti faili.</string>
+    <string name="permdesc_downloadManager">Ļauj lietotnei piekļūt lejupielāžu pārvaldniekam un izmantot to failu lejupielādei. Ļaunprātīgas lietotnes var izmantot šo atļauju, lai traucētu lejupielādes un piekļūtu privātai informācijai.</string>
+    <string name="permdesc_downloadManagerAdvanced">Ļauj lietotnei piekļūt lejupielāžu pārvaldnieka papildu funkcijām. Ļaunprātīgas lietotnes var izmantot šo atļauju, lai traucētu lejupielādes un piekļūtu privātai informācijai.</string>
+    <string name="permdesc_downloadWithoutNotification">Ļauj lietotnei lejupielādēt failus, izmantojot lejupielāžu pārvaldnieku, nerādot nekādus paziņojumus lietotājam.</string>
+    <string name="permlab_accessAllDownloads">Piekļuve visām sistēmas lejupielādēm</string>
+    <string name="permlab_downloadCacheNonPurgeable">Rezervēt vietu lejupielādes kešatmiņā</string>
+    <string name="permlab_downloadCompletedIntent">Lejupielāžu paziņojumu sūtīšana.</string>
+    <string name="permlab_downloadManager">Piekļuve lietojumprogrammai Download Manager.</string>
+    <string name="permlab_downloadManagerAdvanced">Izvērstas Download Manager funkcijas.</string>
+    <string name="permlab_downloadWithoutNotification">lejupielādēt failus bez brīdinājuma</string>
+    <string name="root_downloads">Lejupielādes</string>
+    <string name="storage_description">Lejupielādes</string>
+    <string name="wifi_recommended_body">"Sākot šo lejupiel. (%1$s ) tūlīt, var samaz. akum. darb. ilg. un/vai var tikt pārslog. mob. datu pārr. sav. Ja sav. tiek pārslog., jūsu mob. sak. oper. var no jums iekasēt maksu atkarībā no izmant. datu pārr. apjoma plāna.
+
+Pieskarieties %2$s, lai sāktu šo lejupiel., kad tiks izveidots sav. ar Wi-Fi tīklu."</string>
+    <string name="wifi_recommended_title">Vai ievietot rindā, lai lejupielādētu vēlāk?</string>
+    <string name="wifi_required_body">"Lai pabeigtu šo lejupielādi (%1$s ), ir jāizmanto Wi-Fi. 
+
+Pieskarieties %2$s , lai sāktu šo lejupielādi, kad tiks izveidots savienojums ar Wi-Fi tīklu."</string>
+    <string name="wifi_required_title">Lejupielāde ir pārāk liela operatora tīklam.</string>
+</resources>

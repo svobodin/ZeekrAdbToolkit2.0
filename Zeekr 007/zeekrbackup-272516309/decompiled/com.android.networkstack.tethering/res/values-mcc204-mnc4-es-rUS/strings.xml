@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Desactiva el hotspot</string>
+    <string name="no_upstream_notification_message">Los dispositivos no pueden conectarse a Internet</string>
+    <string name="no_upstream_notification_title">El hotspot no tiene conexión a Internet</string>
+    <string name="upstream_roaming_notification_message">Es posible que se apliquen cargos adicionales por roaming</string>
+    <string name="upstream_roaming_notification_title">El hotspot está activado</string>
+    <string name="upstream_roaming_notification_continue_button">Continuar</string>
+</resources>

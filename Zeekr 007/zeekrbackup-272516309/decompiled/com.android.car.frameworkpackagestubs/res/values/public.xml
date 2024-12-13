@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="string" name="app_name" id="0x7f010000" />
+    <public type="string" name="message_not_supported" id="0x7f010001" />
+    <public type="string" name="pip_not_supported" id="0x7f010002" />
+    <public type="string" name="stub_name" id="0x7f010003" />
+</resources>

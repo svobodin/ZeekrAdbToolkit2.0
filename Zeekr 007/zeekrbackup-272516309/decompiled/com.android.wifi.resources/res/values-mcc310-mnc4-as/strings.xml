@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s : আপুনি Verizon কভাৰেজ ক্ষেত্ৰৰ বাহিৰৰ পৰা Verizon Wi-Fi Accessৰ সৈতে সংযোগ কৰিব নোৱাৰে।</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s : আপুনি Verizon Wi-Fi Access ছাবস্ক্ৰাইব কৰা নাই। অনুগ্ৰহ কৰি ৮০০-৯২২-০২০৪ নম্বৰটোত আমালৈ কল কৰক।</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s : আপোনাৰ Verizon Wi-Fi Access একাউণ্টটোত কিবা সমস্যা আছে। অনুগ্ৰহ কৰি ৮০০-৯২২-০২০৪ নম্বৰটোত আমালৈ কল কৰক।</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s : আপুনি ইতিমধ্যে Verizon Wi-Fi Accessৰ সৈতে সংযুক্ত হৈ আছে।</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s : আপোনাক Verizon Wi-Fi Accessৰ সৈতে সংযোগ কৰাত এটা সমস্যা হৈছে। অনুগ্ৰহ কৰি ৮০০-৯২২-০২০৪ নম্বৰটোত আমালৈ কল কৰক।</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s : আপোনাৰ Verizon Wi-Fi Access একাউণ্টটোত কিবা সমস্যা আছে। অনুগ্ৰহ কৰি ৮০০-৯২২-০২০৪ নম্বৰটোত আমালৈ কল কৰক।</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s : Verizon Wi-Fi Access আপোনাৰ অৱস্থানৰ পৰা উপলব্ধ নহয়। পাছত পুনৰ চেষ্টা কৰক অথবা এটা বেলেগ অৱস্থানৰ পৰা চেষ্টা কৰক।</string>
+</resources>

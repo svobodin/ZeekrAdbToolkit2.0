@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">Апликации за камера</item>
+        <item quantity="one">Апликации за камера</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">Апликации за клиент за е-пошта</item>
+        <item quantity="one">Апликации за клиент за е-пошта</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">Апликации за телефон</item>
+        <item quantity="one">Апликации за телефон</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d обиди</item>
+        <item quantity="one">%d обид</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d апликации</item>
+        <item quantity="one">%d апликација</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">Минимум %d апликации</item>
+        <item quantity="one">Минимум %d апликација</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нови известувања</item>
+        <item quantity="one">%d ново известување</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">Поврзани се %1$d уреди</item>
+        <item quantity="one">Поврзан е %1$d уред</item>
+    </plurals>
+</resources>

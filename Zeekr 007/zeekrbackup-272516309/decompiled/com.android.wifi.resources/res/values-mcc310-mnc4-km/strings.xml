@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s៖ អ្នកមិនអាចភ្ជាប់​ទៅការចូលប្រើ Wi-Fi របស់ Verizon ពីក្រៅ​តំបន់គ្រប់ដណ្ដប់​របស់ Verizon បានទេ។</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s៖ អ្នកមិនបានជាវ​ការចូលប្រើ Wi-Fi របស់ Verizon ទេ។ សូមហៅទូរសព្ទ​មកយើង​តាមរយៈលេខ 800-922-0204។</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s៖ មានបញ្ហា​ជាមួយគណនី​ចូលប្រើ Wi-Fi របស់ Verizon របស់អ្នក។ សូមហៅទូរសព្ទ​មកយើង​តាមរយៈលេខ 800-922-0204។</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s៖ អ្នកបានភ្ជាប់​ទៅការចូលប្រើ Wi-Fi របស់ Verizon រួចហើយ។</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s៖ មានបញ្ហា​ក្នុងការ​ភ្ជាប់អ្នក​ទៅការចូលប្រើ Wi-Fi របស់ Verizon។ សូមហៅទូរសព្ទ​មកយើង​តាមរយៈលេខ 800-922-0204។</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s៖ មានបញ្ហា​ជាមួយគណនី​ចូលប្រើ Wi-Fi របស់ Verizon របស់អ្នក។ សូមហៅទូរសព្ទ​មកយើង​តាមរយៈលេខ 800-922-0204។</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s៖ មិនអាចប្រើ​ការចូលប្រើ Wi-Fi របស់ Verizon ពីទីតាំង​របស់អ្នក​បានទេ។ សូមព្យាយាម​ម្ដងទៀត​នៅពេលក្រោយ ឬសាកល្បងពី​ទីតាំងផ្សេង។</string>
+</resources>

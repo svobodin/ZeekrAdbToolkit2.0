@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">Aumento de graves</string>
+    <string name="ci_extreme">Amplificador FX</string>
+    <string name="classical">Clássica</string>
+    <string name="dance">Dança</string>
+    <string name="eq_dialog_title">Equalizador</string>
+    <string name="flat">Monótona</string>
+    <string name="folk">Folk</string>
+    <string name="headset_plug">Ligue os auscultadores para estes efeitos.</string>
+    <string name="heavy_metal">Heavy metal</string>
+    <string name="hip_hop">Hip-hop</string>
+    <string name="jazz">Jazz</string>
+    <string name="no_effects">Efeitos não disponíveis.</string>
+    <string name="normal">Normal</string>
+    <string name="picker_title">Painel de efeitos musicais</string>
+    <string name="pop">Pop</string>
+    <string name="rock">Rock</string>
+    <string name="setup">Configuração</string>
+    <string name="user">Utilizador</string>
+    <string name="virtualizer_strength">Som surround</string>
+</resources>

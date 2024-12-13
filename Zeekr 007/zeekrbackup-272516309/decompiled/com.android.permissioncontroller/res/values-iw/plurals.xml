@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">עוד %1$d</item>
+        <item quantity="one">עוד %1$d</item>
+        <item quantity="two">עוד %1$d</item>
+        <item quantity="many">עוד %1$d</item>
+    </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">כבר כמה חודשים שלא נעשה שימוש ב-%1$d אפליקציות. יש להקיש כדי לבדוק</item>
+        <item quantity="one">כבר כמה חודשים שלא נעשה שימוש באפליקציה אחת (%1$d). יש להקיש כדי לבדוק</item>
+        <item quantity="two">כבר כמה חודשים שלא נעשה שימוש ב-%1$d אפליקציות. יש להקיש כדי לבדוק</item>
+        <item quantity="many">כבר כמה חודשים שלא נעשה שימוש ב-%1$d אפליקציות. יש להקיש כדי לבדוק</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">כבר כמה חודשים שלא נעשה שימוש ב-%1$d אפליקציות</item>
+        <item quantity="one">כבר כמה חודשים שלא נעשה שימוש באפליקציה אחת (%1$d)</item>
+        <item quantity="two">כבר כמה חודשים שלא נעשה שימוש ב-%1$d אפליקציות</item>
+        <item quantity="many">כבר כמה חודשים שלא נעשה שימוש ב-%1$d אפליקציות</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s ימים</item>
+        <item quantity="one">יום אחד</item>
+        <item quantity="two">יומיים (%s)</item>
+        <item quantity="many">%s ימים</item>
+    </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">%s ימים</item>
+        <item quantity="one">יום אחד</item>
+        <item quantity="two">יומיים (%s)</item>
+        <item quantity="many">%s ימים</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">%s שעות</item>
+        <item quantity="one">שעה אחת</item>
+        <item quantity="two">שעתיים (%s)</item>
+        <item quantity="many">%s שעות</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">%s דק‘</item>
+        <item quantity="one">דקה</item>
+        <item quantity="two">%s דק‘</item>
+        <item quantity="many">%s דק‘</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">%s שנ‘</item>
+        <item quantity="one">שנייה אחת</item>
+        <item quantity="two">%s שנ‘</item>
+        <item quantity="many">%s שנ‘</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s שעות</item>
+        <item quantity="one">שעה אחת</item>
+        <item quantity="two">שעתיים (%s)</item>
+        <item quantity="many">%s שעות</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s דקות</item>
+        <item quantity="one">דקה אחת</item>
+        <item quantity="two">%s דקות</item>
+        <item quantity="many">%s דקות</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d התראות חדשות</item>
+        <item quantity="one">התראה חדשה אחת (%d)</item>
+        <item quantity="two">%d התראות חדשות</item>
+        <item quantity="many">%d התראות חדשות</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s אפליקציות</item>
+        <item quantity="one">אפליקציה אחת</item>
+        <item quantity="two">%s אפליקציות</item>
+        <item quantity="many">%s אפליקציות</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s אפליקציות</item>
+        <item quantity="one">אפליקציה אחת</item>
+        <item quantity="two">%s אפליקציות</item>
+        <item quantity="many">%s אפליקציות</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">נעשה שימוש על ידי %1$d אפליקציות</item>
+        <item quantity="one">נעשה שימוש על ידי אפליקציה אחת</item>
+        <item quantity="two">נעשה שימוש על ידי %1$d אפליקציות</item>
+        <item quantity="many">נעשה שימוש על ידי %1$d אפליקציות</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"גישה אחרונה: %1$s
+%2$s קבלות גישה"</item>
+        <item quantity="one">"גישה אחרונה: %1$s
+ גישה אחת (%2$s)"</item>
+        <item quantity="two">"גישה אחרונה: %1$s
+%2$s קבלות גישה"</item>
+        <item quantity="many">"גישה אחרונה: %1$s
+%2$s קבלות גישה"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"גישה אחרונה: %1$s
+%2$s קבלות גישה (%3$s ברקע)"</item>
+        <item quantity="one">"גישה אחרונה: %1$s
+ גישה אחת [%2$s] (%3$s ברקע)"</item>
+        <item quantity="two">"גישה אחרונה: %1$s
+%2$s קבלות גישה (%3$s ברקע)"</item>
+        <item quantity="many">"גישה אחרונה: %1$s
+%2$s קבלות גישה (%3$s ברקע)"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"גישה אחרונה: %1$s
+%2$s קבלות גישה (%3$s ברקע)
+משך הזמן: %3$s"</item>
+        <item quantity="one">"גישה אחרונה: %1$s
+ גישה אחת (%2$s, %3$s ברקע)
+משך הזמן: %3$s"</item>
+        <item quantity="two">"גישה אחרונה: %1$s
+%2$s קבלות גישה (%3$s ברקע)
+משך הזמן: %3$s"</item>
+        <item quantity="many">"גישה אחרונה: %1$s
+%2$s קבלות גישה (%3$s ברקע)
+משך הזמן: %3$s"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"גישה אחרונה: %1$s
+%2$s קבלות גישה
+משך הזמן: %3$s"</item>
+        <item quantity="one">"גישה אחרונה: %1$s
+ גישה אחת (%2$s)
+משך הזמן: %3$s"</item>
+        <item quantity="two">"גישה אחרונה: %1$s
+%2$s קבלות גישה
+משך הזמן: %3$s"</item>
+        <item quantity="many">"גישה אחרונה: %1$s
+%2$s קבלות גישה
+משך הזמן: %3$s"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s שניות</item>
+        <item quantity="one">שנייה אחת</item>
+        <item quantity="two">%s שניות</item>
+        <item quantity="many">%s שניות</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">%1$d אפליקציות שמזמן לא השתמשת בהן</item>
+        <item quantity="one">אפליקציה אחת (%1$d) שמזמן לא השתמשת בה</item>
+        <item quantity="two">%1$d אפליקציות שמזמן לא השתמשת בהן</item>
+        <item quantity="many">%1$d אפליקציות שמזמן לא השתמשת בהן</item>
+    </plurals>
+</resources>

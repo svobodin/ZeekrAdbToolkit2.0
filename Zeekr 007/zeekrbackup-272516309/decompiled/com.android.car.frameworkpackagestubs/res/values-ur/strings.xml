@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stub کی سرگرمی</string>
+    <string name="message_not_supported">یہ عمل کوئی ایپلیکیشن ہینڈل نہیں کر سکتی</string>
+    <string name="pip_not_supported">تصویر میں تصویر اس آلے پر تعاون یافتہ نہیں ہے</string>
+    <string name="stub_name">کوئی نہیں</string>
+</resources>

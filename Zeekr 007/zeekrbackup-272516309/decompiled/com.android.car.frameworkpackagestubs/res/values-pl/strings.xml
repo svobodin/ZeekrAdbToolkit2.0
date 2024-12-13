@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Szablon aktywności</string>
+    <string name="message_not_supported">Aplikacje nie mogą obsłużyć działania</string>
+    <string name="pip_not_supported">Obraz w obrazie nie jest obsługiwany na tym urządzeniu</string>
+    <string name="stub_name">Brak</string>
+</resources>

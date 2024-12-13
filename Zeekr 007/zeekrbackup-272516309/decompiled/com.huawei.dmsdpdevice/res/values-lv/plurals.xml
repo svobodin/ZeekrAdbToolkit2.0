@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_long_press_zoom_scale_tips">
+        <item quantity="other">%s reižu tuvinājums</item>
+        <item quantity="zero">%s reižu tuvinājums</item>
+        <item quantity="one">%s reizes tuvinājums</item>
+    </plurals>
+</resources>

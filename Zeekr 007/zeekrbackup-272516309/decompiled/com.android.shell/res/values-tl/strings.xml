@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_add_details_to_zip_failed">Hindi makapagdagdag ng mga detalye ng ulat ng bug sa zip file</string>
+    <string name="bugreport_confirm">"Ang mga ulat ng bug ay naglalaman ng data mula sa iba't ibang log file ng system, na maaaring maglaman ng data na itinuturing mong sensitibo (gaya ng paggamit ng app at data ng lokasyon). Ibahagi lang ang mga ulat ng bug sa mga tao at app na pinagkakatiwalaan mo."</string>
+    <string name="bugreport_confirm_dont_repeat">Huwag nang ipakitang muli</string>
+    <string name="bugreport_finished_pending_screenshot_text">Mag-tap para ibahagi ang iyong ulat ng bug nang walang screenshot o hintaying matapos ang screenshot</string>
+    <string name="bugreport_finished_text">Mag-tap upang ibahagi ang iyong ulat ng bug</string>
+    <string name="bugreport_finished_title">Na-capture ang ulat ng bug na #%d</string>
+    <string name="bugreport_in_progress_title">Binubuo na ang ulat ng bug na #%d</string>
+    <string name="bugreport_info_action">Mga Detalye</string>
+    <string name="bugreport_info_description">Buod ng bug</string>
+    <string name="bugreport_info_dialog_title">Mga detalye ng ulat ng bug na #%d</string>
+    <string name="bugreport_info_name">Filename</string>
+    <string name="bugreport_info_title">Pamagat ng bug</string>
+    <string name="bugreport_intent_chooser_title">Ibahagi ang Ulat ng bug</string>
+    <string name="bugreport_notification_channel">Mga ulat ng bug</string>
+    <string name="bugreport_screenshot_action">Screenshot</string>
+    <string name="bugreport_screenshot_failed">Hindi makunan ng screenshot.</string>
+    <string name="bugreport_screenshot_taken">Matagumpay na nakakuha ng screenshot.</string>
+    <string name="bugreport_storage_title">Mga ulat sa bug</string>
+    <string name="bugreport_unnamed">walang pangalan</string>
+    <string name="bugreport_unreadable_text">Hindi mabasa ang file ng pag-uulat ng bug</string>
+    <string name="bugreport_updating_title">Pagdaragdag ng mga detalye sa ulat ng bug</string>
+    <string name="bugreport_updating_wait">Mangyaring maghintay...</string>
+    <string name="save">I-save</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">কেমেৰা এপ্‌সমূহ</item>
+        <item quantity="one">কেমেৰা এপ্‌সমূহ</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">ইমেইল ক্লাইণ্ট এপ্‌সমূহ</item>
+        <item quantity="one">ইমেইল ক্লাইণ্ট এপ্‌সমূহ</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">ফ’ন এপ্‌সমূহ</item>
+        <item quantity="one">ফ’ন এপ্‌সমূহ</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d টা প্ৰয়াস</item>
+        <item quantity="one">%d টা প্ৰয়াস</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d টা এপ্‌</item>
+        <item quantity="one">%d টা এপ্‌</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">ন্যূনতম %d টা এপ্‌</item>
+        <item quantity="one">ন্যূনতম %d টা এপ্‌</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d new notifications</item>
+        <item quantity="one">%d new notification</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$dটা ডিভাইচ সংযোগ হ’ল</item>
+        <item quantity="one">%1$dটা ডিভাইচ সংযোগ হ’ল</item>
+    </plurals>
+</resources>

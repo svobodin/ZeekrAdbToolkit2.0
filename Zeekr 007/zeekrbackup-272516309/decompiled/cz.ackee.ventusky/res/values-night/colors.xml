@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="btn_selected_border">@color/white_20_alpha</color>
+    <color name="chart_bar_highlight">@color/cod_gray</color>
+    <color name="chart_grid">@color/mine_shaft</color>
+    <color name="chart_param_inactive">@color/mine_shaft</color>
+    <color name="city_detail_country_background">#ff0f0f14</color>
+    <color name="general_accent_light">@color/colorPrimary</color>
+    <color name="general_primary">@color/white</color>
+    <color name="layer_list_background">@color/black_90_alpha</color>
+    <color name="splash_screen">@color/big_stone</color>
+    <color name="surfacePrimary">@color/black</color>
+    <color name="surfaceSecondary">@color/white</color>
+    <color name="surfaceSecondary10Alpha">@color/white_10_alpha</color>
+    <color name="textColorAlternative">@color/dusty_gray</color>
+    <color name="textColorPrimary">@color/white</color>
+    <color name="textColorPrimary30Alpha">@color/white_30_alpha</color>
+    <color name="textColorSecondary">@color/black</color>
+    <color name="text_forecast_panel_default">@color/white</color>
+    <color name="text_forecast_panel_misc_data">@color/white</color>
+    <color name="text_forecast_panel_tab_inactive">@color/white_67_alpha</color>
+</resources>

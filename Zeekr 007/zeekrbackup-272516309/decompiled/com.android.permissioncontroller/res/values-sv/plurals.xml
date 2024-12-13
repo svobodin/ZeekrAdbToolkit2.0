@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">%1$d till</item>
+        <item quantity="one">%1$d till</item>
+    </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">%1$d appar har inte använts på några månader. Tryck för att granska</item>
+        <item quantity="one">%1$d app har inte använts på några månader. Tryck för att granska</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">%1$d appar har inte använts på några månader</item>
+        <item quantity="one">%1$d app har inte använts på ett par månader</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s dagar</item>
+        <item quantity="one">1 dag</item>
+    </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">%s dagar</item>
+        <item quantity="one">1 dag</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">%s timmar</item>
+        <item quantity="one">1 timme</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">%s min</item>
+        <item quantity="one">1 min</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">%s sek</item>
+        <item quantity="one">1 sek</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s timmar</item>
+        <item quantity="one">1 timme</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s minuter</item>
+        <item quantity="one">1 minut</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nya aviseringar</item>
+        <item quantity="one">%d ny avisering</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s appar</item>
+        <item quantity="one">1 app</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s appar</item>
+        <item quantity="one">1 app</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">Används av %1$d appar</item>
+        <item quantity="one">Används av 1 app</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"Senaste åtkomst: %1$s
+%2$s åtkomster"</item>
+        <item quantity="one">"Senaste åtkomst: %1$s
+%2$s åtkomst"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"Senaste åtkomst: %1$s
+%2$s åtkomster (%3$s i bakgrunden)"</item>
+        <item quantity="one">"Senaste åtkomst: %1$s
+%2$s åtkomst (%3$s i bakgrunden)"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"Senaste åtkomst: %1$s
+%2$s åtkomster (%3$s i bakgrunden)
+Varaktighet: %3$s"</item>
+        <item quantity="one">"Senaste åtkomst: %1$s
+%2$s åtkomst (%3$s i bakgrunden)
+Varaktighet: %3$s"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"Senaste åtkomst: %1$s
+%2$s åtkomster
+Varaktighet: %3$s"</item>
+        <item quantity="one">"Senaste åtkomst: %1$s
+%2$s åtkomst
+Varaktighet: %3$s"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s sekunder</item>
+        <item quantity="one">1 sekund</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">%1$d appar som inte används</item>
+        <item quantity="one">%1$d app som inte används</item>
+    </plurals>
+</resources>

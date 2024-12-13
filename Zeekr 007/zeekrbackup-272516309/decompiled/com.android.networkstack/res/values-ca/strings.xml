@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Administrador de xarxes</string>
+    <string name="connected">Connectat</string>
+    <string name="notification_channel_description_connected">"Les notificacions es mostren quan el dispositiu s'ha autenticat correctament a una xarxa de portal captiu"</string>
+    <string name="notification_channel_description_network_venue_info">"Les notificacions es mostren per indicar que la xarxa té una pàgina d'informació del lloc"</string>
+    <string name="notification_channel_name_connected">Autenticació del portal captiu</string>
+    <string name="notification_channel_name_network_venue_info">Informació sobre el lloc de la xarxa</string>
+    <string name="tap_for_info">Connectat / Toca per veure el lloc web</string>
+</resources>

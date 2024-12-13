@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">"%1$s : Verizon Wi-Fi Access'ке Verizon иштеген аймактан сырткары жерде туташа албайсыз."</string>
+    <string name="wifi_eap_error_message_code_32761">"%1$s : Verizon Wi-Fi Access'ке катталган эмессиз. 800-922-0204 номерине телефон чалыңыз."</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s : Verizon Wi-Fi Access аккаунтуңузда маселе келип чыкты. 800-922-0204 номерине телефон чалыңыз.</string>
+    <string name="wifi_eap_error_message_code_32763">"%1$s : Verizon Wi-Fi Access'ке туташып турасыз."</string>
+    <string name="wifi_eap_error_message_code_32764">"%1$s : Verizon Wi-Fi Access'ке туташууда маселе келип чыкты. 800-922-0204 номерине телефон чалыңыз."</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s : Verizon Wi-Fi Access аккаунтуңузда маселе келип чыкты. 800-922-0204 номерине телефон чалыңыз.</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s : Verizon Wi-Fi Access сиз жүргөн жерде жеткиликтүү эмес. Кийинчерээк же башка жерден кайталаңыз.</string>
+</resources>

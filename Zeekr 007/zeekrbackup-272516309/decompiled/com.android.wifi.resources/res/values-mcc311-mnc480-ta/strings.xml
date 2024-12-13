@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s : Verizon கவரேஜ் பகுதியைத் தாண்டி Verizon வைஃபை Accessஸுடன் இணைக்க முடியாது.</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s : நீங்கள் Verizon வைஃபை Accessஸிற்கு சந்தா செய்யவில்லை. 800-922-0204 என்ற எண்ணில் எங்களைத் தொடர்புகொள்ளவும்.</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s : உங்கள் Verizon வைஃபை Access கணக்கில் சிக்கல் உள்ளது. 800-922-0204 என்ற எண்ணில் எங்களைத் தொடர்புகொள்ளவும்.</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s : Verizon வைஃபை Accessஸுடன் ஏற்கெனவே இணைப்பில் உள்ளீர்கள்.</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s : Verizon வைஃபை Accessஸுடன் இணைப்பதில் சிக்கல் உள்ளது. 800-922-0204 என்ற எண்ணில் எங்களைத் தொடர்புகொள்ளவும்.</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s : உங்கள் Verizon வைஃபை Access கணக்கில் சிக்கல் உள்ளது. 800-922-0204 என்ற எண்ணில் எங்களைத் தொடர்புகொள்ளவும்.</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s : உங்கள் பகுதிக்கு Verizon வைஃபை Access சேவை கிடைக்கவில்லை. மீண்டும் முயலவும் அல்லது வேறு இருப்பிடத்தில் இருந்து முயலவும்.</string>
+</resources>

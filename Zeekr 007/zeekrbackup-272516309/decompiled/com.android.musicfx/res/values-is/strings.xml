@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">Bassaaukning</string>
+    <string name="ci_extreme">FX aukning</string>
+    <string name="classical">Klassík</string>
+    <string name="dance">Dans</string>
+    <string name="eq_dialog_title">Tónjafnari</string>
+    <string name="flat">Flatt</string>
+    <string name="folk">Þjóðlagatónlist</string>
+    <string name="headset_plug">Tengdu heyrnartól til að fá þessi áhrif.</string>
+    <string name="heavy_metal">Þungarokk</string>
+    <string name="hip_hop">Hipphopp</string>
+    <string name="jazz">Djass</string>
+    <string name="no_effects">Áhrif ekki í boði.</string>
+    <string name="normal">Venjulegt</string>
+    <string name="picker_title">Stjórnborð tónlistaráhrifa</string>
+    <string name="pop">Popp</string>
+    <string name="rock">Rokk</string>
+    <string name="setup">Uppsetning</string>
+    <string name="user">Notandi</string>
+    <string name="virtualizer_strength">Víðóma hljóð</string>
+</resources>

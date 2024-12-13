@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s：您无法从 Verizon 覆盖区域外的地点连接到 Verizon WLAN Access。</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s：您没有订阅 Verizon WLAN Access。请拨打 800-922-0204 与我们联系。</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s：您的 Verizon WLAN Access 帐号出现问题。请拨打 800-922-0204 与我们联系。</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s：您已连接到 Verizon WLAN Access。</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s：将您连接到 Verizon WLAN Access 时出现问题。请拨打 800-922-0204 与我们联系。</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s：您的 Verizon WLAN Access 帐号出现问题。请拨打 800-922-0204 与我们联系。</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s：Verizon WLAN Access 在您所在的地点无法使用。请稍后重试，或换个地点再试一次。</string>
+</resources>

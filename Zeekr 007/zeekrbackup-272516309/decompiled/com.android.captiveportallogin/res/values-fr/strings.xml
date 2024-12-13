@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Se connecter au réseau</string>
+    <string name="action_bar_title">Se connecter à %1$s</string>
+    <string name="action_do_not_use_network">Ne pas utiliser ce réseau</string>
+    <string name="action_use_network">Utiliser ce réseau tel quel</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">Notifications affichant la progression des téléchargements de fichiers</string>
+    <string name="channel_description_downloads">Notifications affichant les téléchargements terminés ou annulés</string>
+    <string name="channel_name_download_progress">Progression du téléchargement</string>
+    <string name="channel_name_downloads">Téléchargements</string>
+    <string name="custom_scheme_example">"Par exemple, la page de connexion peut exiger une application particulière pour effectuer l'authentification"</string>
+    <string name="custom_scheme_warning">"Le réseau que vous essayez de rejoindre nécessite l'ouverture d'une autre application."</string>
+    <string name="download_completed">Téléchargement terminé</string>
+    <string name="downloading_paramfile">Téléchargement de \"%1$s\"…</string>
+    <string name="error_continue_via_browser">Continuer quand même dans le navigateur</string>
+    <string name="error_downloading_paramfile">Impossible de télécharger \"%1$s\"</string>
+    <string name="no_bypass_error_vpnwarning">"De plus, cette erreur ne peut pas être ignorée, car l'appareil exécute actuellement un VPN."</string>
+    <string name="ok">OK</string>
+    <string name="page_info">Informations sur la page</string>
+    <string name="page_info_address">Adresse :</string>
+    <string name="ssl_error_date_invalid">"La date de ce certificat n'est pas valide."</string>
+    <string name="ssl_error_example">"Par exemple, la page de connexion peut ne pas appartenir à l'organisation représentée."</string>
+    <string name="ssl_error_expired">Ce certificat a expiré.</string>
+    <string name="ssl_error_invalid">"Ce certificat n'est pas valide."</string>
+    <string name="ssl_error_mismatch">Le nom du site ne correspond pas au nom indiqué dans le certificat.</string>
+    <string name="ssl_error_not_yet_valid">"Ce certificat n'est pas encore valide."</string>
+    <string name="ssl_error_unknown">Erreur de certificat inconnue.</string>
+    <string name="ssl_error_untrusted">"Ce certificat provient d'une autorité non approuvée."</string>
+    <string name="ssl_error_view_certificate">Afficher le certificat</string>
+    <string name="ssl_error_warning">Le réseau que vous essayez de rejoindre présente des problèmes de sécurité.</string>
+    <string name="ssl_security_warning_title">Avertissement de sécurité</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

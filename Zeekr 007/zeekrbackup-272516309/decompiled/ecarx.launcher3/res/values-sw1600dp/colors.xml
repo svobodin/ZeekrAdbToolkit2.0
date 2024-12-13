@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="weather_card_bg">#ffffffff</color>
+    <color name="scenario_engine_card_bg_night">#ff1d1f24</color>
+</resources>

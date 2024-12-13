@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_summary_active">
+        <item quantity="other">%d fájl letöltése folyamatban van</item>
+        <item quantity="one">1 fájl letöltése folyamatban van</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">%d fájl várakozik</item>
+        <item quantity="one">1 fájl várakozik</item>
+    </plurals>
+</resources>

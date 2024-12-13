@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Laita yhteyden jakaminen pois päältä</string>
+    <string name="no_upstream_notification_message">Laitteet eivät voi muodostaa yhteyttä</string>
+    <string name="no_upstream_notification_title">Ei jaettavaa internetyhteyttä</string>
+    <string name="upstream_roaming_notification_message">Roaming voi aiheuttaa lisämaksuja</string>
+    <string name="upstream_roaming_notification_title">Hotspot tai yhteyden jakaminen on päällä</string>
+</resources>

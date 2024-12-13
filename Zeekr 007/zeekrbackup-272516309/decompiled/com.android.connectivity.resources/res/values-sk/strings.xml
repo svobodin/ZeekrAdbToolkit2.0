@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">Zdroje možností pripojenia systému</string>
+    <string name="mobile_no_internet">Mobilná sieť nemá prístup k internetu</string>
+    <string name="network_available_sign_in">Prihlásenie do siete</string>
+    <string name="network_partial_connectivity">%1$s má obmedzené pripojenie</string>
+    <string name="network_partial_connectivity_detailed">Ak sa chcete aj napriek tomu pripojiť, klepnite</string>
+    <string name="network_switch_metered">Prepnuté na sieť: %1$s</string>
+    <string name="network_switch_metered_detail">Keď %2$s nemá prístup k internetu, zariadenie používa %1$s. Môžu sa účtovať poplatky.</string>
+    <string name="network_switch_metered_toast">Prepnuté zo siete %1$s na sieť %2$s</string>
+    <string name="network_switch_type_name_unknown">neznámy typ siete</string>
+    <string name="other_networks_no_internet">Sieť nemá prístup k internetu</string>
+    <string name="private_dns_broken_detailed">K súkromnému serveru DNS sa nepodarilo získať prístup</string>
+    <string name="wifi_available_sign_in">Prihlásiť sa do siete Wi‑Fi</string>
+    <string name="wifi_no_internet">%1$s nemá prístup k internetu</string>
+    <string name="wifi_no_internet_detailed">Klepnutím získate možnosti</string>
+</resources>

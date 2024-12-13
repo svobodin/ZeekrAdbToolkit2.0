@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_long_press_zoom_scale_tips">
+        <item quantity="other">%s ಬಾರಿ ಝೂಮ್</item>
+        <item quantity="one">%s ಬಾರಿ ಝೂಮ್</item>
+    </plurals>
+</resources>

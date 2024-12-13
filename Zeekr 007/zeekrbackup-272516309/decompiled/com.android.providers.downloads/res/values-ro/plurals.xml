@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_summary_active">
+        <item quantity="other">Se descarcă %d de fișiere</item>
+        <item quantity="one">Se descarcă un fișier</item>
+        <item quantity="few">Se descarcă %d fișiere</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">%d de fișiere în așteptare</item>
+        <item quantity="one">Un fișier în așteptare</item>
+        <item quantity="few">%d fișiere în așteptare</item>
+    </plurals>
+</resources>

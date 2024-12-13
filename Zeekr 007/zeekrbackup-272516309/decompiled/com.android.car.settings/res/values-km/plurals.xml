@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">កម្មវិធី​កាមេរ៉ា</item>
+        <item quantity="one">កម្មវិធី​កាមេរ៉ា</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">កម្មវិធី​ផ្ញើអ៊ីមែល</item>
+        <item quantity="one">កម្មវិធី​ផ្ញើអ៊ីមែល</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">កម្មវិធី​ទូរសព្ទ</item>
+        <item quantity="one">កម្មវិធី​ទូរសព្ទ</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">ព្យាយាមបញ្ចូល %d ដង</item>
+        <item quantity="one">ព្យាយាមបញ្ចូល %d ដង</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">កម្មវិធី %d</item>
+        <item quantity="one">កម្មវិធី %d</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">មានកម្មវិធី​អប្បបរមាចំនួន %d</item>
+        <item quantity="one">មានកម្មវិធី​អប្បបរមាចំនួន %d</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">ការជូនដំណឹងថ្មី %d</item>
+        <item quantity="one">ការជូនដំណឹងថ្មី %d</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">ឧបករណ៍ %1$d បានភ្ជាប់</item>
+        <item quantity="one">ឧបករណ៍ %1$d បានភ្ជាប់</item>
+    </plurals>
+</resources>

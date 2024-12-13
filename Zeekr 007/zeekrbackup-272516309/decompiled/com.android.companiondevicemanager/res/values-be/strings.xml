@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Менеджар спадарожнай прылады</string>
+    <string name="chooser_title">Выберыце прыладу (%1$s), якой будзе кіраваць праграма &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Дазвольце праграме &lt;strong>%1$s&lt;/strong> кіраваць прыладай &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_no">Не дазваляць</string>
+    <string name="consent_yes">Дазволіць</string>
+    <string name="profile_name_generic">прылада</string>
+    <string name="profile_name_watch">гадзіннік</string>
+    <string name="profile_summary">Гэта праграма неабходная для кіравання профілем \"%1$s\". %2$s</string>
+</resources>

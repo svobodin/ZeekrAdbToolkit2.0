@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">Güçlü bas</string>
+    <string name="ci_extreme">FX booster</string>
+    <string name="classical">Klasik</string>
+    <string name="dance">Dans</string>
+    <string name="eq_dialog_title">Ekolayzer</string>
+    <string name="flat">Düz</string>
+    <string name="folk">Folk</string>
+    <string name="headset_plug">Bu efektler için kulaklığı takın.</string>
+    <string name="heavy_metal">Heavy Metal</string>
+    <string name="hip_hop">Hip Hop</string>
+    <string name="jazz">Caz</string>
+    <string name="no_effects">Efektler kullanılamıyor.</string>
+    <string name="normal">Normal</string>
+    <string name="picker_title">Müzik efektleri kontrol paneli</string>
+    <string name="pop">Pop</string>
+    <string name="rock">Rock</string>
+    <string name="setup">Kur</string>
+    <string name="user">Kullanıcı</string>
+    <string name="virtualizer_strength">Surround ses</string>
+</resources>

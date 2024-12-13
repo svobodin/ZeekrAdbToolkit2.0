@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Διαχειριστής δικτύου</string>
+    <string name="connected">Συνδέθηκε</string>
+    <string name="notification_channel_description_connected">Εμφανίζονται ειδοποιήσεις όταν η συσκευή έχει πραγματοποιήσει επιτυχώς έλεγχο ταυτότητας σε δίκτυο με πύλη υποδοχής.</string>
+    <string name="notification_channel_description_network_venue_info">Εμφανίζονται ειδοποιήσεις για να υποδείξουν ότι το δίκτυο διαθέτει σελίδα πληροφοριών για τον τόπο.</string>
+    <string name="notification_channel_name_connected">Έλεγχος ταυτότητας πύλης υποδοχής</string>
+    <string name="notification_channel_name_network_venue_info">Πληροφορίες τόπου δικτύου</string>
+    <string name="tap_for_info">Συνδέθηκε/Πατήστε για προβολή του ιστοτόπου</string>
+</resources>

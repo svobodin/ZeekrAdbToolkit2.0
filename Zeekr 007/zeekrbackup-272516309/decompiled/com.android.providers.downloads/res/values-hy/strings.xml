@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Ներբեռնման կառավարիչ</string>
+    <string name="button_cancel_download">Չեղարկել</string>
+    <string name="button_queue_for_wifi">Հերթագրել</string>
+    <string name="button_start_now">Սկսել հիմա</string>
+    <string name="download_error">Չի կատարվել</string>
+    <string name="download_no_application_title">Հնարավոր չէ բացել ֆայլը</string>
+    <string name="download_queued">Հերթագրված է</string>
+    <string name="download_remaining">մինչ ավարտը՝ %s</string>
+    <string name="download_running">Ընթացքի մեջ է</string>
+    <string name="download_running_percent">Ընթացքի մեջ է` %s</string>
+    <string name="download_unknown_title">&lt;Անվերնագիր></string>
+    <string name="notification_download_complete">Ներբեռնումն ավարտված է:</string>
+    <string name="notification_download_failed">Ներբեռնումը ձախողվել է:</string>
+    <string name="notification_need_wifi_for_size">Ներբեռնման ծավալը պահանջում է Wi-Fi:</string>
+    <string name="notification_paused_in_background">Ընդմիջված է հետնաշերտում:</string>
+    <string name="permdesc_accessAllDownloads">Թույլատրում է հավելվածին դիտել և փոփոխել բոլոր ներբեռնումները` կապված համակարգի ցանկացած ծրագրի հետ:</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Թույլատրում է հավելվածին ներբեռնել ֆայլերը ներբեռնման շտեմ, որոնք հնարավոր չէ ավտոմատ ջնջել, երբ ներբեռնման կառավարիչը հավելյալ ծավալի կարիք ունի:</string>
+    <string name="permdesc_downloadCompletedIntent">Թույլատրում է հավելվածին ուղարկել ավարտված ներբեռնումների մասին ծանուցումներ: Վնասաբեր ծրագրերը կարող են օգտագործել սա՝ այլ ֆայլեր ներբեռնող ծրագրերը վնասելու համար:</string>
+    <string name="permdesc_downloadManager">Թույլատրում է հավելվածին օգտագործել ներբեռնման կառավարիչը և կիրառել ֆայլերի ներբեռնման համար: Վնասաբեր ծրագրերը կարող են օգտագործել սա՝ ներբեռնումները վնասելու և անձնական տեղեկություններն օգտագործելու համար:</string>
+    <string name="permdesc_downloadManagerAdvanced">Թույլատրում է հավելվածին օգտագործել ներբեռնման կառավարչի ընդլայնված գործառույթները: Վնասաբեր ծրագրերը կարող են օգտագործել սա՝ ներբեռնումները վնասելու և անձնական տեղեկություններն օգտագործելու համար:</string>
+    <string name="permdesc_downloadWithoutNotification">Թույլատրում է հավելվածին ներբեռնել ֆայլեր ներբեռնման կառավարչի միջոցով՝ առանց օգտագործողին որևէ ծանուցում ցուցադրելու:</string>
+    <string name="permlab_accessAllDownloads">Օգտագործել բոլոր համակարգային ներբեռնումները</string>
+    <string name="permlab_downloadCacheNonPurgeable">Խնայել ներբեռնման շտեմի տարածությունը</string>
+    <string name="permlab_downloadCompletedIntent">Ուղարկել ներբեռնման ծանուցումներ:</string>
+    <string name="permlab_downloadManager">Գործարկել ներբեռնման կառավարիչը:</string>
+    <string name="permlab_downloadManagerAdvanced">Ընդլայնված ներբեռնման կառավարչի գործառույթներ:</string>
+    <string name="permlab_downloadWithoutNotification">ներբեռնել ֆայլերը՝ առանց ծանուցման</string>
+    <string name="root_downloads">Ներբեռնումներ</string>
+    <string name="storage_description">Ներբեռնումներ</string>
+    <string name="wifi_recommended_body">"Այս %1$s  ներբեռնումը հիմա սկսելը կարող է կարճեցնել ձեր մարտկոցի կյանքը և/կամ բերել ձեր բբջային տվյալների կապի ավելորդ օգտագործման, որը կարող է ուղեկցվել ծախսերով ձեր բջջային օպերատորի կողմից՝ կախված ձեր տվյալների փաթեթից:
+
+ Հպեք %2$s ստորև՝ այս ներբեռնումը սկսելու հաջորդ անգամ, երբ միացած կլինեք որևէ Wi-Fi ցանցի:"</string>
+    <string name="wifi_recommended_title">Հերթագրե՞լ ավելի ուշ ներբեռնելու համար:</string>
+    <string name="wifi_required_body">"Դուք պետք է օգտագործեք Wi-Fi՝ այս %1$s  ներբեռնումն ավարտելու համար: 
+
+Հպեք %2$s ՝ սկսելու այս ներբեռնումը հաջորդ անգամ, երբ միացած կլինեք որևէ Wi-Fi ցանցի:"</string>
+    <string name="wifi_required_title">Ներբեռնումը չափազանց մեծ է օպերատորի ցանցի համար</string>
+</resources>

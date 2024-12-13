@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">još %1$d</item>
+        <item quantity="one">još %1$d</item>
+        <item quantity="few">još %1$d</item>
+    </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">%1$d aplikacija nije korišćeno nekoliko meseci. Dodirnite da biste pregledali</item>
+        <item quantity="one">%1$d aplikacija nije korišćena nekoliko meseci. Dodirnite da biste pregledali</item>
+        <item quantity="few">%1$d aplikacije nisu korišćene nekoliko meseci. Dodirnite da biste pregledali</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">%1$d aplikacija nije korišćeno nekoliko meseci</item>
+        <item quantity="one">%1$d aplikacija nije korišćena nekoliko meseci</item>
+        <item quantity="few">%1$d aplikacije nisu korišćene nekoliko meseci</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s dana</item>
+        <item quantity="one">%s dan</item>
+        <item quantity="few">%s dana</item>
+    </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">%s dana</item>
+        <item quantity="one">%s dan</item>
+        <item quantity="few">%s dana</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">%s sati</item>
+        <item quantity="one">%s sat</item>
+        <item quantity="few">%s sata</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">%s min</item>
+        <item quantity="one">%s min</item>
+        <item quantity="few">%s min</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">%s sek</item>
+        <item quantity="one">%s sek</item>
+        <item quantity="few">%s sek</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s sati</item>
+        <item quantity="one">%s sat</item>
+        <item quantity="few">%s sata</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s minuta</item>
+        <item quantity="one">%s minut</item>
+        <item quantity="few">%s minuta</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obaveštenja</item>
+        <item quantity="one">%d novo obaveštenje</item>
+        <item quantity="few">%d nova obaveštenja</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s aplikacija</item>
+        <item quantity="one">%s aplikacija</item>
+        <item quantity="few">%s aplikacije</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s aplikacija</item>
+        <item quantity="one">%s aplikacija</item>
+        <item quantity="few">%s aplikacije</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">Koristi %1$d aplikacija</item>
+        <item quantity="one">Koristi %1$d aplikacija</item>
+        <item quantity="few">Koriste %1$d aplikacije</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"Poslednji pristup: %1$s
+%2$s pristupa"</item>
+        <item quantity="one">"Poslednji pristup: %1$s
+%2$s pristup"</item>
+        <item quantity="few">"Poslednji pristup: %1$s
+%2$s pristupa"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"Poslednji pristup: %1$s
+%2$s pristupa (%3$s u pozadini)"</item>
+        <item quantity="one">"Poslednji pristup: %1$s
+%2$s pristup (%3$s u pozadini)"</item>
+        <item quantity="few">"Poslednji pristup: %1$s
+%2$s pristupa (%3$s u pozadini)"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"Poslednji pristup: %1$s
+%2$s pristupa (%3$s u pozadini)
+Trajanje: %3$s"</item>
+        <item quantity="one">"Poslednji pristup: %1$s
+%2$s pristup (%3$s u pozadini)
+Trajanje: %3$s"</item>
+        <item quantity="few">"Poslednji pristup: %1$s
+%2$s pristupa (%3$s u pozadini)
+Trajanje: %3$s"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"Poslednji pristup: %1$s
+%2$s pristupa
+Trajanje: %3$s"</item>
+        <item quantity="one">"Poslednji pristup: %1$s
+%2$s pristup
+Trajanje: %3$s"</item>
+        <item quantity="few">"Poslednji pristup: %1$s
+%2$s pristupa
+Trajanje: %3$s"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s sekundi</item>
+        <item quantity="one">%s sekunda</item>
+        <item quantity="few">%s sekunde</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">%1$d aplikacija koje se ne koriste</item>
+        <item quantity="one">%1$d aplikacija koja se ne koristi</item>
+        <item quantity="few">%1$d aplikacije koje se ne koriste</item>
+    </plurals>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">සහායක උපාංග කළමනාකරු</string>
+    <string name="chooser_title">&lt;strong>%2$s&lt;/strong> මගින් කළමනාකරණය කරනු ලැබීමට %1$sක් තෝරන්න</string>
+    <string name="confirmation_title">&lt;strong>%1$s&lt;/strong> හට ඔබගේ &lt;strong>%2$s&lt;/strong> කළමනාකරණය කිරීමට ඉඩ දෙන්න</string>
+    <string name="consent_no">ඉඩ නොදෙන්න</string>
+    <string name="consent_yes">ඉඩ දෙන්න</string>
+    <string name="profile_name_generic">උපාංගය</string>
+    <string name="profile_name_watch">ඔරලෝසුව</string>
+    <string name="profile_summary">මෙම යෙදුමට ඔබගේ %1$s කළමනාකරණය කිරීමට අවශ්‍යයි. %2$s</string>
+</resources>

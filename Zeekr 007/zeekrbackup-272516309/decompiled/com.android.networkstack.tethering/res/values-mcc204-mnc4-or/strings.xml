@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">ହଟସ୍ପଟ ବନ୍ଦ କରନ୍ତୁ</string>
+    <string name="no_upstream_notification_message">ଡିଭାଇସଗୁଡ଼ିକ ଇଣ୍ଟର୍ନେଟ୍ ସହ ସଂଯୋଗ କରାଯାଇପାରିବ ନାହିଁ</string>
+    <string name="no_upstream_notification_title">ହଟସ୍ପଟରେ କୌଣସି ଇଣ୍ଟର୍ନେଟ୍ ସଂଯୋଗ ନାହିଁ</string>
+    <string name="upstream_roaming_notification_message">ରୋମିଂରେ ଥିବା ସମୟରେ ଅତିରିକ୍ତ ଶୁଳ୍କ ଲାଗୁ ହୋଇପାରେ</string>
+    <string name="upstream_roaming_notification_title">ହଟସ୍ପଟ ଚାଲୁ ଅଛି</string>
+    <string name="upstream_roaming_notification_continue_button">ଜାରି ରଖନ୍ତୁ</string>
+</resources>

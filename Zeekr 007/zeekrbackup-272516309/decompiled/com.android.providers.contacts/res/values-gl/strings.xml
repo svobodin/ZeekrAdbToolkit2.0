@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Almacenamento de contactos</string>
+    <string name="debug_dump_database_message">Estás a punto de 1) realizar unha copia da túa base de datos que inclúe toda a información relacionada cos contactos e todos os rexistros de chamadas no almacenamento interno, e de 2) envialo por correo electrónico. Non esquezas eliminar a copia en canto a copies correctamente fóra do dispositivo ou en canto se reciba o correo electrónico.</string>
+    <string name="debug_dump_delete_button">Eliminar agora</string>
+    <string name="debug_dump_email_body">A miña base de datos de contactos con toda a información dos meus contactos vai anexada a esta mensaxe. Debe tratarse con coidado.</string>
+    <string name="debug_dump_email_sender_picker">Escoller un programa para enviar o teu ficheiro</string>
+    <string name="debug_dump_email_subject">Base de datos de contactos anexada</string>
+    <string name="debug_dump_start_button">Iniciar</string>
+    <string name="debug_dump_title">Copiar base de datos dos contactos</string>
+    <string name="default_directory">Contactos</string>
+    <string name="local_invisible_directory">Outro</string>
+    <string name="provider_label">Contactos</string>
+    <string name="sharedUserLabel">Aplicacións básicas de Android</string>
+    <string name="upgrade_out_of_memory_notification_text">Toca para completar a actualización.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">A actualización dos contactos necesita máis memoria.</string>
+    <string name="upgrade_out_of_memory_notification_title">Actualizando almacenamento dos contactos</string>
+    <string name="voicemail_from_column">"Correo de voz de "</string>
+</resources>

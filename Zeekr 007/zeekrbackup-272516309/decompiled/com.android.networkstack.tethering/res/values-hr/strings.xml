@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="disable_tether_notification_message">Obratite se administratoru da biste saznali pojedinosti</string>
+    <string name="disable_tether_notification_title">Modemsko je povezivanje onemogućeno</string>
+    <string name="no_upstream_notification_disable_button" />
+    <string name="no_upstream_notification_message" />
+    <string name="no_upstream_notification_title" />
+    <string name="notification_channel_tethering_status">Status žarišne točke i modemskog povezivanja</string>
+    <string name="tethered_notification_message">Dodirnite da biste postavili.</string>
+    <string name="tethered_notification_title">Modemsko povezivanje ili žarišna točka aktivni</string>
+    <string name="upstream_roaming_notification_message" />
+    <string name="upstream_roaming_notification_title" />
+</resources>

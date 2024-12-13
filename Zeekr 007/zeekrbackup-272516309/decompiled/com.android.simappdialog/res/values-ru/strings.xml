@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Приложение для SIM-карты</string>
+    <string name="install_carrier_app_defer_action">Позже</string>
+    <string name="install_carrier_app_description">Чтобы новая SIM-карта работала корректно, установите приложение оператора \"%1$s\".</string>
+    <string name="install_carrier_app_description_default">Чтобы новая SIM-карта работала корректно, установите приложение оператора связи.</string>
+    <string name="install_carrier_app_download_action">Скачать приложение</string>
+    <string name="install_carrier_app_title">Активируйте мобильную связь</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
+    <string name="suw_back_button_label">Назад</string>
+    <string name="suw_more_button_label">Ещё</string>
+    <string name="suw_next_button_label">Далее</string>
+</resources>

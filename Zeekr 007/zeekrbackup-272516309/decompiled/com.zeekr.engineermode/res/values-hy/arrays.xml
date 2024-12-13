@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>Սեն Մարտեն</item>
+        <item>Կարիբյան Նիդեռլանդներ</item>
+        <item>Կյուրասաո</item>
+        <item>Հարավային Սուդան</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Կենտրոնական Ավստրալիա - NT</item>
+        <item>Կենտրոնական Ավստրալիա - SA</item>
+        <item>Արևելյան Ավստրալիա - QLD</item>
+        <item>Արևելյան Ավստրալիա - NSW</item>
+        <item>Լեռնային ստանդարտ - Դոուսոն-Կրիկ</item>
+        <item>Կենտրոնական ստանդարտ - Սասկաչևան</item>
+        <item>Արևելյան ստանդարտ - Ատիկոկան</item>
+        <item>Ատլանտյան ստանդարտ - Քվեբեք</item>
+        <item>Հավայի - Ալեության - Հավայի</item>
+        <item>Հավայի - Ալեության - Ալյասկա</item>
+        <item>Խաղաղօվկիանոսյան Ստանդ. - Մետլակատլա</item>
+        <item>Լեռնային ստանդ. - Արիզոնա</item>
+        <item>Խաղաղօվկ. - Ստորին Կալիֆոռնիա</item>
+        <item>Լեռնային - Չիհուահուա</item>
+        <item>Կենտրոնական - Տամաուլիպաս</item>
+        <item>Լեռնային - Սոնորա</item>
+        <item>Արևելյան Աֆրիկայի ժամանակ</item>
+        <item>Ատլանտյան ստանդարտ ժամանակ</item>
+        <item>Ատլանտյան ստանդարտ ժամանակ</item>
+        <item>Արևելաևրոպական ժամանակ</item>
+        <item>Կալինինգրադի ժամանակ</item>
+        <item>Ամազոն - Ռոնդոնիա</item>
+        <item>Բրազիլիա - Պարա</item>
+    </string-array>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Διαχείριση λήψεων</string>
+    <string name="button_cancel_download">Ακύρωση</string>
+    <string name="button_queue_for_wifi">Ουρά</string>
+    <string name="button_start_now">Έναρξη τώρα</string>
+    <string name="download_error">Ανεπιτυχής</string>
+    <string name="download_no_application_title">Δεν είναι δυνατό το άνοιγμα του αρχείου</string>
+    <string name="download_queued">Σε ουρά</string>
+    <string name="download_remaining">Απομένουν %s</string>
+    <string name="download_running">Σε εξέλιξη</string>
+    <string name="download_running_percent">Σε εξέλιξη, %s</string>
+    <string name="download_unknown_title">&lt;Χωρίς τίτλο></string>
+    <string name="notification_download_complete">Η λήψη ολοκληρώθηκε.</string>
+    <string name="notification_download_failed">Ανεπιτυχής λήψη.</string>
+    <string name="notification_need_wifi_for_size">Η λήψη απαιτεί Wi-Fi</string>
+    <string name="notification_paused_in_background">Σε παύση στο παρασκήνιο</string>
+    <string name="permdesc_accessAllDownloads">Επιτρέπει στην εφαρμογή την προβολή και τροποποίηση όλων των λήψεων που ξεκίνησαν από οποιαδήποτε εφαρμογή του συστήματος.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">"Επιτρέπει στην εφαρμογή τη λήψη αρχείων στην προσωρινή μνήμη λήψης, η οποία δεν είναι δυνατό να διαγραφεί αυτόματα όταν παρουσιαστεί έλλειψη χώρου στη  διαχείριση λήψεων."</string>
+    <string name="permdesc_downloadCompletedIntent">Επιτρέπει στην εφαρμογή την αποστολή ειδοποιήσεων σχετικά με τις λήψεις που έχουν ολοκληρωθεί. Οι κακόβουλες εφαρμογές μπορούν να χρησιμοποιήσουν αυτή τη λειτουργία για να μπερδέψουν άλλες εφαρμογές που πραγματοποιούν λήψη αρχείων.</string>
+    <string name="permdesc_downloadManager">Επιτρέπει στην εφαρμογή την πρόσβαση στη διαχείριση λήψεων και τη χρήση του για τη λήψη αρχείων. Οι κακόβουλες εφαρμογές μπορούν να χρησιμοποιήσουν αυτήν τη δυνατότητα για να διακόψουν λήψεις και να αποκτήσουν πρόσβαση σε απόρρητες πληροφορίες.</string>
+    <string name="permdesc_downloadManagerAdvanced">Επιτρέπει στην εφαρμογή την πρόσβαση στις σύνθετες λειτουργίες του προγράμματος διαχείρισης λήψεων. Οι κακόβουλες εφαρμογές μπορούν να χρησιμοποιήσουν αυτήν τη δυνατότητα για να διακόψουν λήψεις και να αποκτήσουν πρόσβαση σε απόρρητες πληροφορίες.</string>
+    <string name="permdesc_downloadWithoutNotification">Επιτρέπει στην εφαρμογή τη λήψη αρχείων μέσω του προγράμματος διαχείρισης λήψεων χωρίς την εμφάνιση κάποιας ειδοποίησης στο χρήστη.</string>
+    <string name="permlab_accessAllDownloads">Πρόσβαση σε όλα τα στοιχεία λήψης</string>
+    <string name="permlab_downloadCacheNonPurgeable">Διατηρήστε χώρο στην προσωρινή μνήμη λήψης</string>
+    <string name="permlab_downloadCompletedIntent">Αποστολή ειδοποιήσεων λήψης.</string>
+    <string name="permlab_downloadManager">Πρόσβαση στη διαχείριση λήψεων.</string>
+    <string name="permlab_downloadManagerAdvanced">Σύνθετες λειτουργίες προγράμματος διαχείρισης λήψεων.</string>
+    <string name="permlab_downloadWithoutNotification">λήψη αρχείων χωρίς ειδοποίηση</string>
+    <string name="root_downloads">Λήψεις</string>
+    <string name="storage_description">Λήψεις</string>
+    <string name="wifi_recommended_body">"Αυτή η λήψη μεγ. %1$s  ίσως μειώσει τη διάρκ.ζωής της μπατ. ή/και να κάνει υπερβ.χρήση της σύνδ. δεδ. κιν. Ίσως υπάρξουν χρεώσ.από την εταιρ. βάσει του προγρ.δεδομ.
+
+ Αγγίξτε %2$s για λήψη όταν συνδ. μέσω Wi-Fi."</string>
+    <string name="wifi_recommended_title">Προσθήκη στην ουρά για να κάνετε λήψη αργότερα;</string>
+    <string name="wifi_required_body">"Θα πρέπει να χρησιμοποιήσετε Wi-Fi για την ολοκλήρωση αυτής της λήψης μεγέθους %1$s . 
+
+Αγγίξτε το στοιχείο %2$s  για να ξεκινήσετε αυτήν τη λήψη την επόμενη φορά που θα συνδεθείτε σε δίκτυο Wi-Fi."</string>
+    <string name="wifi_required_title">Πολύ μεγάλο αρχείο λήψης για δίκτυο παρόχου.</string>
+</resources>

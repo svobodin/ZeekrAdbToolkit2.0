@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">Süsteemi ühenduvuse allikad</string>
+    <string name="mobile_no_internet">Mobiilsidevõrgul puudub Interneti-ühendus</string>
+    <string name="network_available_sign_in">Võrku sisselogimine</string>
+    <string name="network_partial_connectivity">Võrgu %1$s ühendus on piiratud</string>
+    <string name="network_partial_connectivity_detailed">Puudutage, kui soovite siiski ühenduse luua</string>
+    <string name="network_switch_metered">Lülitati võrgule %1$s</string>
+    <string name="network_switch_metered_detail">Seade kasutab võrku %1$s, kui võrgul %2$s puudub juurdepääs Internetile. Rakenduda võivad tasud.</string>
+    <string name="network_switch_metered_toast">Lülitati võrgult %1$s võrgule %2$s</string>
+    <string name="network_switch_type_name_unknown">tundmatu võrgutüüp</string>
+    <string name="other_networks_no_internet">Võrgul puudub Interneti-ühendus</string>
+    <string name="private_dns_broken_detailed">Privaatsele DNS-serverile ei pääse juurde</string>
+    <string name="wifi_available_sign_in">Logi sisse WiFi-võrku</string>
+    <string name="wifi_no_internet">Võrgul %1$s puudub Interneti-ühendus</string>
+    <string name="wifi_no_internet_detailed">Puudutage valikute nägemiseks</string>
+</resources>

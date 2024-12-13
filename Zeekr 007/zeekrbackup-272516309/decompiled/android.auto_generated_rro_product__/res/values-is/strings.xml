@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="owner_name">Ökumaður</string>
+    <string name="permlab_accessCoarseLocation">aðgangur að áætlaðri staðsetningu aðeins í forgrunni</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">Kveikja á hljóðnema</string>
+</resources>

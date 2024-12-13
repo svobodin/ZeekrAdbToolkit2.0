@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">Angiv din adgangskode, og fortsæt til Dynamiske systemopdateringer</string>
+    <string name="notification_action_cancel">Annuller</string>
+    <string name="notification_action_discard">Afbryd</string>
+    <string name="notification_action_reboot_to_dynsystem">Genstart</string>
+    <string name="notification_action_reboot_to_origin">Genstart</string>
+    <string name="notification_dynsystem_in_use">Der køres i øjeblikket et dynamisk system. Genstart for at bruge den oprindelige Android-version.</string>
+    <string name="notification_image_validation_failed">Systembilledet kunne ikke valideres. Afbryd installationen.</string>
+    <string name="notification_install_completed">Det dynamiske system er klar. Hvis du vil begynde at bruge det, skal du genstarte din enhed.</string>
+    <string name="notification_install_failed">Installationen mislykkedes</string>
+    <string name="notification_install_inprogress">Installation i gang</string>
+    <string name="toast_dynsystem_discarded">Det dynamiske system blev slettet</string>
+    <string name="toast_failed_to_disable_dynsystem">Det dynamiske system kunne ikke deaktiveres</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Det dynamiske system kan ikke genstartes eller indlæses</string>
+</resources>

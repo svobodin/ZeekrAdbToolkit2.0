@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">تحسين الصوت العميق الخفيض</string>
+    <string name="ci_extreme">معزِّز FX</string>
+    <string name="classical">موسيقى كلاسيكية</string>
+    <string name="dance">موسيقى رقص</string>
+    <string name="eq_dialog_title">مُعادِل الأصوات</string>
+    <string name="flat">موسيقى منخفضة النغمة</string>
+    <string name="folk">موسيقى شعبية</string>
+    <string name="headset_plug">يمكنك توصيل سماعات الرأس للاستماع إلى هذه التأثيرات.</string>
+    <string name="heavy_metal">هيفي ميتال</string>
+    <string name="hip_hop">هيب هوب</string>
+    <string name="jazz">موسيقى جاز</string>
+    <string name="no_effects">التأثيرات غير متاحة.</string>
+    <string name="normal">عادي</string>
+    <string name="picker_title">لوحة تحكم التأثيرات الموسيقية</string>
+    <string name="pop">موسيقى بوب</string>
+    <string name="rock">موسيقى روك</string>
+    <string name="setup">الإعداد</string>
+    <string name="user">مستخدم</string>
+    <string name="virtualizer_strength">صوت محيطي</string>
+</resources>

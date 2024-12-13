@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settingslib_config_bodyFontFamily">@android:string/config_companionDeviceManagerPackage</string>
+    <string name="settingslib_config_bodyFontFamilyMedium">@android:string/config_controlsPackage</string>
+    <string name="settingslib_config_headlineFontFamily" />
+    <string name="settingslib_config_headlineFontFamilyMedium">@android:string/config_dozeUdfpsLongPressSensorType</string>
+</resources>

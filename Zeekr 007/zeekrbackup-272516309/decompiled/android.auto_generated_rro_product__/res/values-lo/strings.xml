@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="owner_name">ຄົນຂັບລົດ</string>
+    <string name="permlab_accessCoarseLocation">ເຂົ້າເຖິງສະຖານທີ່ໂດຍປະມານເມື່ອຢູ່ໃນພື້ນໜ້າເທົ່ານັ້ນ</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">ເປີດໄມໂຄຣໂຟນ</string>
+</resources>

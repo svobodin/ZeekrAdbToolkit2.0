@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Склад за контакти</string>
+    <string name="debug_dump_database_message">Вие 1) ќе направите копија на вашата база на податоци која ги опфаќа сите информации поврзани со контакти и сета евиденција на повици во внатрешната меморија и 2) ќе ја испратите по е-пошта. Не заборавајте да ја избришете копијата откако успешно сте ја ископирале од уредот или електронската порака е примена.</string>
+    <string name="debug_dump_delete_button">Избриши сега</string>
+    <string name="debug_dump_email_body">Во прилог е мојата база на податоци со контакти со сите информации за моите контакти. Ракувајте внимателно.</string>
+    <string name="debug_dump_email_sender_picker">Избери програма за испраќање на твојата датотека</string>
+    <string name="debug_dump_email_subject">Базата на податоци со контакти е приложена</string>
+    <string name="debug_dump_start_button">Започни</string>
+    <string name="debug_dump_title">Копирај база на податоци со контакти</string>
+    <string name="default_directory">Контакти</string>
+    <string name="local_invisible_directory">Друг</string>
+    <string name="provider_label">Контакти</string>
+    <string name="sharedUserLabel">Основни апликации на Android</string>
+    <string name="upgrade_out_of_memory_notification_text">Допри за да заврши надградбата.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">За надградбата на контакти е потребно повеќе меморија.</string>
+    <string name="upgrade_out_of_memory_notification_title">Надградување меморија за контакти</string>
+    <string name="voicemail_from_column">"Говорна пошта од "</string>
+</resources>

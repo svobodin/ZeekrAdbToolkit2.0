@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Penghenti Aktivitas</string>
+    <string name="message_not_supported">Tidak ada apl yang bisa menangani tindakan ini</string>
+    <string name="pip_not_supported">Picture-in-Picture tidak didukung di perangkat ini</string>
+    <string name="stub_name">Tak Ada</string>
+</resources>

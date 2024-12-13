@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_missing_private_key">ایک سرٹیفکیٹ انسٹال کرنے کیلئے نجی کلید درکار ہے</string>
+    <string name="action_missing_user_cert">ایک نجی کلید انسٹال کرنے کیلئے سرٹیفکیٹ درکار ہے</string>
+    <string name="app_name">سرٹیفیکیٹ انسٹال کنندہ</string>
+    <string name="ca_cert_is_added">‏CA سرٹیفکیٹ انسٹال کیا گیا</string>
+    <string name="ca_certificate">‏CA سرٹیفکیٹ</string>
+    <string name="cert_missing_error">انسٹال نہیں کیا جا سکا کیونکہ سرٹیفکیٹ فائل تلاش نہیں کی جا سکی۔</string>
+    <string name="cert_not_saved">سرٹیفیکیٹ انسٹال نہیں ہے۔</string>
+    <string name="cert_read_error">انسٹال نہیں کیا جا سکا کیونکہ سرٹیفکیٹ فائل پڑھی نہیں جاسکی۔</string>
+    <string name="cert_temp_error">عارضی ناکامی۔ براہ کرم بعد میں دوبارہ کوشش کریں۔</string>
+    <string name="cert_too_large_error">انسٹال نہیں کیا جا سکا کیونکہ سرٹیفکیٹ کا سائز کافی بڑا ہے۔</string>
+    <string name="certificate">سرٹیفکیٹ</string>
+    <string name="certificate_capabilities_warning">نوٹ: اس سرٹیفکیٹ کا جاری کنندہ آلہ پر آنے والی اور اس سے جانے والی سبھی ٹریفک کی جانچ کر سکتا ہے۔</string>
+    <string name="certificate_name">سرٹیفیکیٹ کا نام</string>
+    <string name="credential_info">پیکیج کے مشمولات:</string>
+    <string name="credential_password">سرٹیفکیٹس اخذ کرنے کیلئے پاس ورڈ ٹائپ کریں۔</string>
+    <string name="credential_usage_label">اسناد کا استعمال:</string>
+    <string name="done_label">ہوگیا</string>
+    <string name="extracting_pkcs12">اخذ کر رہا ہے…</string>
+    <string name="install_done">‏%1$s اسنادات کو Wi-Fi کی جانب سے محفوظ کردہ نیٹ ورکس میں شامل کر دیا گیا ہے۔</string>
+    <string name="install_done_title">اسنادات کو انسٹال کر دیا گیا</string>
+    <string name="invalid_cert">سرٹیفیکیٹ غلط ہے۔</string>
+    <string name="invalid_certificate_close_button">بند کریں</string>
+    <string name="invalid_certificate_message">اس فائل کو بطور %1$s استعمال نہیں کیا جا سکتا</string>
+    <string name="invalid_certificate_title">اس فائل کو استعمال نہیں کر سکتے</string>
+    <string name="n_cacrts">‏‎%d CA سرٹیفیکیٹس</string>
+    <string name="name_char_error">صرف حروف اور اعداد پر مشتمل ایک نام ٹائپ کریں۔</string>
+    <string name="name_credential_dialog_title">اس سرٹیفکیٹ کا نام رکھیں</string>
+    <string name="name_empty_error">ایک نام ٹائپ کریں۔</string>
+    <string name="no_cert_to_saved">انسٹال کرنے کیلئے کوئی سرٹیفیکیٹ نہیں ہے۔</string>
+    <string name="one_cacrt">‏ایک CA سرٹیفیکیٹ</string>
+    <string name="one_usercrt">ایک صارف کا سرٹیفیکیٹ</string>
+    <string name="one_userkey">ایک صارف کی کلید</string>
+    <string name="only_primary_user_allowed">صرف اس آلہ کا مالک ہی سرٹیفکیٹس انسٹال کر سکتا ہے۔</string>
+    <string name="p12_description">‏PKCS12 کی اسٹور میں سرٹیفیکیٹس۔</string>
+    <string name="password_empty_error">پاس ورڈ ٹائپ کریں۔</string>
+    <string name="password_error">درست پاس ورڈ ٹائپ کریں۔</string>
+    <string name="pick_file_title">ایک سرٹیفکیٹ منتخب کریں</string>
+    <string name="pkcs12_file_password_dialog_title">‏‎%s سے نکالیں</string>
+    <string name="pkcs12_password_dialog_title">سرٹیفیکیٹ نکالیں</string>
+    <string name="redirect_ca_certificate_close_button">بند کریں</string>
+    <string name="redirect_ca_certificate_title">‏ترتیبات میں CA سرٹیفکیٹس انسٹال کریں</string>
+    <string name="redirect_ca_certificate_with_app_info_message">‏%1$s سے ترتیبات میں یہ سرٹیفکیٹ انسٹال ہونی چاہیے۔ صرف ان تنظیموں سے CA سرٹیفکیٹس انسٹال کریں جن پر آپ کو اعتماد ہے۔</string>
+    <string name="select_certificate_usage_title">سرٹیفکیٹ کی قسم منتخب کریں</string>
+    <string name="unable_to_save_cert">سرٹیفکیٹ کو محفوظ نہیں کیا جاسکا۔ اسناد کا اسٹوریج فعال نہیں ہے یا درست طریقے سے شروع نہیں کیا گیا ہے۔</string>
+    <string name="user_cert_is_added">صارف کا سرٹیفیکیٹ انسٹال کیا گیا</string>
+    <string name="user_certificate">‏VPN اور ایپ صارف کا سرٹیفکیٹ</string>
+    <string name="userkey_type">الگورتھم:</string>
+    <string name="wifi_cancel_label">منسوخ کریں</string>
+    <string name="wifi_cert_is_added">‏Wi-Fi کا سرٹیفکیٹ انسٹال کیا گیا</string>
+    <string name="wifi_certificate">‏Wi-Fi سرٹیفکیٹ</string>
+    <string name="wifi_config_text">"‏نام: ‎%1$s
+FQDN: %2$s
+رومنگ کنسورشیمز: ‎%3$s
+Realm: %4$s
+Auth طریقہ: EAP-%5$s
+"</string>
+    <string name="wifi_detail_label">تفصیلات</string>
+    <string name="wifi_detail_title">‏تفصیلات برائے ‎%s</string>
+    <string name="wifi_dismiss_label">برخاست کریں</string>
+    <string name="wifi_install_label">انسٹال کریں</string>
+    <string name="wifi_installer_detail">‏%1$s کے ذریعہ دستیاب نیٹ ورکس سے منسلک کرنے کیلئے Wi-Fi اسنادات انسٹال کریں۔</string>
+    <string name="wifi_installer_download_error">ڈاؤن لوڈ کردہ فائل میں مسائل ہیں اور اسے انسٹال نہیں کیا جا سکتا ہے۔ قینی بنائیں کہ آپ نے درست ماخذ سے فائل ڈاؤن لوڈ کی ہے۔</string>
+    <string name="wifi_installer_fail">‏Wi-Fi اسنادات کو ڈاؤن لوڈ نہیں کیا جا سکتا ہے۔ فائل کو دوبارہ ڈاؤن لوڈ کرنے کی کوشش کریں۔</string>
+    <string name="wifi_installer_fail_no_wifi">‏Wi-Fi آن کریں اور دوبارہ کوشش کریں۔</string>
+    <string name="wifi_installer_fail_no_wifi_title">انسٹالیشن منسوخ ہو گئی</string>
+    <string name="wifi_installer_fail_title">انسٹال نہیں ہو سکتا</string>
+    <string name="wifi_installing_label">انسٹال کیا جا رہا ہے</string>
+    <string name="wifi_no_config">کوئی نہیں</string>
+    <string name="wifi_sim_config_text">"SIM: %s
+"</string>
+    <string name="wifi_title">‏Wi-Fi پروفائل</string>
+    <string name="wifi_tls_config_text">"‏کلائنٹ کا سرٹیفکیٹ:
+‎%1$s
+کلید: ‎%2$s
+"</string>
+    <string name="wifi_trust_config_text">"‏بھروسہ کا سرٹیفکیٹ:
+‎%s
+"</string>
+    <string name="wifi_ttls_config_text">"‏صارف کا نام: ‎%s
+"</string>
+</resources>

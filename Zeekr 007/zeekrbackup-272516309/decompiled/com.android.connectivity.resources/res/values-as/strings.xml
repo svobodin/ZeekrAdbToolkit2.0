@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">ছিষ্টেম সংযোগৰ উৎস</string>
+    <string name="mobile_no_internet">ম’বাইল নেটৱৰ্কৰ কোনো ইণ্টাৰনেটৰ এক্সেছ নাই</string>
+    <string name="network_available_sign_in">নেটৱৰ্কত ছাইন ইন কৰক</string>
+    <string name="network_partial_connectivity">%1$sৰ সকলো সেৱাৰ এক্সেছ নাই</string>
+    <string name="network_partial_connectivity_detailed">যিকোনো প্ৰকাৰে সংযোগ কৰিবলৈ টিপক</string>
+    <string name="network_switch_metered">%1$sলৈ সলনি কৰা হ’ল</string>
+    <string name="network_switch_metered_detail">"যেতিয়া %2$sত ইণ্টাৰনেট নাথাকে, তেতিয়া ডিভাইচে %1$sক ব্যৱহাৰ কৰে। মাচুল প্ৰযোজ্য হ'ব পাৰে।"</string>
+    <string name="network_switch_metered_toast">%1$sৰ পৰা %2$s লৈ সলনি কৰা হ’ল</string>
+    <string name="network_switch_type_name_unknown">অজ্ঞাত প্ৰকাৰৰ নেটৱৰ্ক</string>
+    <string name="other_networks_no_internet">নেটৱৰ্কৰ কোনো ইণ্টাৰনেটৰ এক্সেছ নাই</string>
+    <string name="private_dns_broken_detailed">ব্যক্তিগত DNS ছাৰ্ভাৰ এক্সেছ কৰিব নোৱাৰি</string>
+    <string name="wifi_available_sign_in">ৱাই-ফাই নেটৱৰ্কত ছাইন ইন কৰক</string>
+    <string name="wifi_no_internet">%1$sৰ ইণ্টাৰনেটৰ এক্সেছ নাই</string>
+    <string name="wifi_no_internet_detailed">অধিক বিকল্পৰ বাবে টিপক</string>
+</resources>

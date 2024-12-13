@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ಸಂಪರ್ಕಗಳ ಸಂಗ್ರಹಣೆ</string>
+    <string name="debug_dump_database_message">ನೀವು 1) ಎಲ್ಲಾ ಸಂಪರ್ಕಗಳ ಸಂಬಂಧಿಸಿದ ಮಾಹಿತಿಯನ್ನು ಒಳಗೊಂಡಿರುವ ನಿಮ್ಮ ಡೇಟಾಬೇಸ್ ನಕಲು ಮಾಡಲು ಮತ್ತು ಆಂತರಿಕ ಸಂಗ್ರಹಣೆಗೆ ಎಲ್ಲ ಕರೆಯ ಲಾಗ್‌ ಮಾಡಲು ಮತ್ತು 2) ಇಮೇಲ್‌‌ ಮಾಡಲಿರುವಿರಿ. ನೀವು ಸಾಧನವನ್ನು ಯಶಸ್ವಿಯಾಗಿ ನಕಲು ಮಾಡಿದ ಬಳಿಕ ಅಥವಾ ಇಮೇಲ್‌ ಸ್ವೀಕರಿಸಿದ ಕೂಡಲೇ ನಕಲು ಅಳಿಸುವುದನ್ನು ನೆನಪಿನಲ್ಲಿರಿಸಿಕೊಳ್ಳಿ.</string>
+    <string name="debug_dump_delete_button">ಈಗ ಅಳಿಸಿ</string>
+    <string name="debug_dump_email_body">ನನ್ನ ಎಲ್ಲ ಸಂಪರ್ಕಗಳನ್ನು ಒಳಗೊಂಡಿರುವ ನನ್ನ ಸಂಪರ್ಕಗಳ ಡೇಟಾಬೇಸ್‌‌ ಲಗತ್ತಿಸಲಾಗಿದೆ. ಎಚ್ಚರಿಕೆಯಿಂದ ನಿಭಾಯಿಸಿ.</string>
+    <string name="debug_dump_email_sender_picker">ನಿಮ್ಮ ಫೈಲ್ ಕಳುಹಿಸಲು ಪ್ರೋಗ್ರಾಂ ಒಂದನ್ನು ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="debug_dump_email_subject">ಸಂಪರ್ಕಗಳ Db ಲಗತ್ತಿಸಲಾಗಿದೆ</string>
+    <string name="debug_dump_start_button">ಪ್ರಾರಂಭಿಸು</string>
+    <string name="debug_dump_title">ಸಂಪರ್ಕಗಳ ಡೇಟಾಬೇಸ್‌‌ ನಕಲಿಸಿ</string>
+    <string name="default_directory">ಸಂಪರ್ಕಗಳು</string>
+    <string name="local_invisible_directory">ಇತರೆ</string>
+    <string name="provider_label">ಸಂಪರ್ಕಗಳು</string>
+    <string name="sharedUserLabel">Android Core ಅಪ್ಲಿಕೇಶನ್‌ಗಳು</string>
+    <string name="upgrade_out_of_memory_notification_text">ಅಪ್‌ಗ್ರೇಡ್ ಪೂರ್ಣಗೊಳಿಸಲು ಟ್ಯಾಪ್ ಮಾಡಿ.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">ಸಂಪರ್ಕಗಳ ಅಪ್‌ಗ್ರೇಡ್‌‌ಗೆ ಹೆಚ್ಚಿನ ಸ್ಮರಣೆಯ ಅಗತ್ಯವಿದೆ.</string>
+    <string name="upgrade_out_of_memory_notification_title">ಸಂಪರ್ಕಗಳಿಗಾಗಿ ಸಂಗ್ರಹಣೆಯನ್ನು ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ</string>
+    <string name="voicemail_from_column">"ಇದರಿಂದ ಧ್ವನಿಮೇಲ್‌ "</string>
+</resources>

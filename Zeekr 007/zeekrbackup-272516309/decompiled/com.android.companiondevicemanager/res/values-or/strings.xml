@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ସହଯୋଗୀ ଡିଭାଇସ୍ ପରିଚାଳକ</string>
+    <string name="chooser_title">&lt;strong>%2$s&lt;/strong> ଦ୍ୱାରା ପରିଚାଳିତ ହେବା ପାଇଁ ଏକ %1$sକୁ ବାଛନ୍ତୁ</string>
+    <string name="confirmation_title">ଆପଣଙ୍କ &lt;strong>%2$s&lt;/strong>କୁ ପରିଚାଳନା କରିବା ପାଇଁ &lt;strong>%1$s&lt;/strong>କୁ ଅନୁମତି ଦିଅନ୍ତୁ</string>
+    <string name="consent_no">ଅନୁମତି ଦିଅନ୍ତୁ ନାହିଁ</string>
+    <string name="consent_yes">ଅନୁମତି ଦିଅନ୍ତୁ</string>
+    <string name="profile_name_generic">ଡିଭାଇସ୍</string>
+    <string name="profile_name_watch">ୱାଚ୍</string>
+    <string name="profile_summary">ଆପଣଙ୍କ %1$sକୁ ପରିଚାଳନା କରିବା ପାଇଁ ଏହି ଆପ୍ ଆବଶ୍ୟକ। %2$s</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_add_details_to_zip_failed">Dodavanje detalja izveštaja o grešci u zip datoteku nije uspelo</string>
+    <string name="bugreport_confirm">Izveštaji o greškama sadrže podatke iz različitih sistemskih datoteka evidencije, koji obuhvataju lične i privatne podatke (poput korišćenja aplikacija i podataka o lokaciji). Delite izveštaje o greškama samo sa aplikacijama i ljudima u koje imate poverenja.</string>
+    <string name="bugreport_confirm_dont_repeat">Ne prikazuj ponovo</string>
+    <string name="bugreport_finished_pending_screenshot_text">Dodirnite za deljenje izveštaja o grešci bez snimka ekrana ili sačekajte da se napravi snimak ekrana</string>
+    <string name="bugreport_finished_text">Dodirnite da biste delili izveštaj o grešci</string>
+    <string name="bugreport_finished_title">Izveštaj o grešci #%d je snimljen</string>
+    <string name="bugreport_in_progress_title">Izveštaj o grešci #%d se generiše</string>
+    <string name="bugreport_info_action">Detalji</string>
+    <string name="bugreport_info_description">Rezime greške</string>
+    <string name="bugreport_info_dialog_title">Detalji izveštaja o grešci #%d</string>
+    <string name="bugreport_info_name">Naziv datoteke</string>
+    <string name="bugreport_info_title">Naslov greške</string>
+    <string name="bugreport_intent_chooser_title">Deli izveštaj o grešci</string>
+    <string name="bugreport_notification_channel">Izveštaji o greškama</string>
+    <string name="bugreport_screenshot_action">Snimci ekrana</string>
+    <string name="bugreport_screenshot_failed">Snimanje ekrana nije uspelo.</string>
+    <string name="bugreport_screenshot_taken">Snimak ekrana je napravljen.</string>
+    <string name="bugreport_storage_title">Izveštaji o greškama</string>
+    <string name="bugreport_unnamed">neimenovano</string>
+    <string name="bugreport_unreadable_text">Datoteka izveštaja o grešci ne može da se pročita</string>
+    <string name="bugreport_updating_title">Dodaju se detalji u izveštaj o grešci</string>
+    <string name="bugreport_updating_wait">Sačekajte...</string>
+    <string name="save">Sačuvaj</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

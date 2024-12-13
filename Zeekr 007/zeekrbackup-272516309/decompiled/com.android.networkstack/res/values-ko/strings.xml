@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">네트워크 관리자</string>
+    <string name="connected">연결됨</string>
+    <string name="notification_channel_description_connected">기기가 종속 포털 네트워크에 액세스하도록 인증되었을 때 표시되는 알림입니다.</string>
+    <string name="notification_channel_description_network_venue_info">네트워크에 장소 정보 페이지가 있음을 나타내기 위해 표시되는 알림입니다.</string>
+    <string name="notification_channel_name_connected">종속 포털 인증</string>
+    <string name="notification_channel_name_network_venue_info">네트워크 장소 정보</string>
+    <string name="tap_for_info">연결됨 / 탭하여 웹사이트 보기</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">I-Bass boost</string>
+    <string name="ci_extreme">Ukulekelela kwe-FX</string>
+    <string name="classical">I-Classic</string>
+    <string name="dance">Umdanso</string>
+    <string name="eq_dialog_title">I-Equalizer</string>
+    <string name="flat">Okuphansi</string>
+    <string name="folk">I-Folk</string>
+    <string name="headset_plug">Xhuma okwasekhanda kule miphumela.</string>
+    <string name="heavy_metal">I-Heavy Metal</string>
+    <string name="hip_hop">I-Hip Hop</string>
+    <string name="jazz">I-Jazz</string>
+    <string name="no_effects">Imiphumela ayitholakali</string>
+    <string name="normal">Okujwayelekile</string>
+    <string name="picker_title">Iphaneli yokuphatha imphumela yomculo</string>
+    <string name="pop">I-Pop</string>
+    <string name="rock">I-Rock</string>
+    <string name="setup">Ukumisa</string>
+    <string name="user">Umsebenzisi</string>
+    <string name="virtualizer_strength">Umsindo ozungelezile</string>
+</resources>

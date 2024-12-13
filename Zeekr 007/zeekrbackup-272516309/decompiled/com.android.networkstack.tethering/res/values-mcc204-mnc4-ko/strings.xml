@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">핫스팟 사용 중지</string>
+    <string name="no_upstream_notification_message">기기를 인터넷에 연결할 수 없음</string>
+    <string name="no_upstream_notification_title">핫스팟이 인터넷에 연결되지 않음</string>
+    <string name="upstream_roaming_notification_message">로밍 중에는 추가 요금이 발생할 수 있습니다.</string>
+    <string name="upstream_roaming_notification_title">핫스팟 사용 중</string>
+    <string name="upstream_roaming_notification_continue_button">계속</string>
+</resources>

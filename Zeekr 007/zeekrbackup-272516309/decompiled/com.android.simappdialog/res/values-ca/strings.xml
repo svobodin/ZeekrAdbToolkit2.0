@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sim App Dialog</string>
+    <string name="install_carrier_app_defer_action">Ara no</string>
+    <string name="install_carrier_app_description">"Si vols que la teva SIM nova funcioni correctament, has d'instal·lar l'aplicació %1$s"</string>
+    <string name="install_carrier_app_description_default">"Si vols que la teva SIM nova funcioni correctament, has d'instal·lar l'aplicació de l'operador"</string>
+    <string name="install_carrier_app_download_action">"Baixa l'aplicació"</string>
+    <string name="install_carrier_app_title">Activa el servei mòbil</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Enrere</string>
+    <string name="suw_more_button_label">Més</string>
+    <string name="suw_next_button_label">Següent</string>
+</resources>

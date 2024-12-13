@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">ແອັບກ້ອງຖ່າຍຮູບ</item>
+        <item quantity="one">ແອັບກ້ອງຖ່າຍຮູບ</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">ແອັບໂປຣແກຣມອີເມວ</item>
+        <item quantity="one">ແອັບໂປຣແກຣມອີເມວ</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">ແອັບໂທລະສັບ</item>
+        <item quantity="one">ແອັບໂທລະສັບ</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">ພະຍາຍາມ %d ເທື່ອ</item>
+        <item quantity="one">ພະຍາຍາມ %d ເທື່ອ</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d ແອັບ</item>
+        <item quantity="one">%d ແອັບ</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">ຂັ້ນຕ່ຳ %d ແອັບ</item>
+        <item quantity="one">ຂັ້ນຕ່ຳ %d ແອັບ</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d ການແຈ້ງເຕືອນໃໝ່</item>
+        <item quantity="one">%d ການແຈ້ງເຕືອນໃໝ່</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">ເຊື່ອມຕໍ່ %1$d ອຸປະກອນແລ້ວ</item>
+        <item quantity="one">ເຊື່ອມຕໍ່ %1$d ອຸປະກອນແລ້ວ</item>
+    </plurals>
+</resources>

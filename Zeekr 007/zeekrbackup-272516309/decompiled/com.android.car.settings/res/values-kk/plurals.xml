@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">Камера қолданбалары</item>
+        <item quantity="one">Камера қолданбасы</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">Электрондық поштаның клиенттік қолданбалары</item>
+        <item quantity="one">Электрондық поштаның клиенттік қолданбасы</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">Телефон қолданбалары</item>
+        <item quantity="one">Телефон қолданбасы</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d әрекет</item>
+        <item quantity="one">%d әрекет</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d қолданба</item>
+        <item quantity="one">%d қолданба</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">Кемінде %d қолданба</item>
+        <item quantity="one">Кемінде %d қолданба</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d жаңа хабарландыру</item>
+        <item quantity="one">%d жаңа хабарландыру</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d құрылғы қосылды</item>
+        <item quantity="one">%1$d құрылғы қосылды</item>
+    </plurals>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Pengurus rangkaian</string>
+    <string name="connected">Disambungkan</string>
+    <string name="notification_channel_description_connected">Pemberitahuan ditunjukkan apabila peranti telah berjaya disahkan ke rangkaian portal terbolot</string>
+    <string name="notification_channel_description_network_venue_info">Pemberitahuan dipaparkan untuk menunjukkan rangkaian mempunyai halaman maklumat tempat</string>
+    <string name="notification_channel_name_connected">Pengesahan portal terbolot</string>
+    <string name="notification_channel_name_network_venue_info">Maklumat tempat rangkaian</string>
+    <string name="tap_for_info">Disambungkan / Ketik untuk melihat laman web</string>
+</resources>

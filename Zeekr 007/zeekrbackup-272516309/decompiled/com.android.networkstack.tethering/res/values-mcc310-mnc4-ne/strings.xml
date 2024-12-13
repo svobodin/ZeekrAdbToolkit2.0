@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">टेदरिङ निष्क्रिय पार्नुहोस्</string>
+    <string name="no_upstream_notification_message">यन्त्रहरू कनेक्ट गर्न सकिएन</string>
+    <string name="no_upstream_notification_title">टेदरिङमार्फत इन्टरनेट कनेक्सन प्राप्त हुन सकेन</string>
+    <string name="upstream_roaming_notification_message">रोमिङ सेवा प्रयोग गर्दा अतिरिक्त शुल्क लाग्न सक्छ</string>
+    <string name="upstream_roaming_notification_title">हटस्पट वा टेदरिङ सक्रिय छ</string>
+</resources>

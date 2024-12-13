@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">Gib dein Passwort ein und fahre mit Dynamic System Updates fort</string>
+    <string name="notification_action_cancel">Abbrechen</string>
+    <string name="notification_action_discard">Verwerfen</string>
+    <string name="notification_action_reboot_to_dynsystem">Neu starten</string>
+    <string name="notification_action_reboot_to_origin">Neu starten</string>
+    <string name="notification_dynsystem_in_use">Momentan wird ein dynamisches System ausgeführt. Durch einen Neustart kannst du zur ursprünglichen Android-Version zurückkehren.</string>
+    <string name="notification_image_validation_failed">Fehler bei der Imagevalidierung. Die Installation wird abgebrochen.</string>
+    <string name="notification_install_completed">Das dynamische System kann verwendet werden. Starte dazu dein Gerät neu.</string>
+    <string name="notification_install_failed">Fehler bei der Installation</string>
+    <string name="notification_install_inprogress">Installation läuft</string>
+    <string name="toast_dynsystem_discarded">Dynamisches System verworfen</string>
+    <string name="toast_failed_to_disable_dynsystem">Fehler beim Deaktivieren des dynamischen Systems</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Neustart und Laden des dynamischen Systems nicht möglich</string>
+</resources>

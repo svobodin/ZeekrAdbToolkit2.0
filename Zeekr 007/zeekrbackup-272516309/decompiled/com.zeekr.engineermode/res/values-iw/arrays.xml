@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>סנט מארטן</item>
+        <item>האיים הקריביים ההולנדיים</item>
+        <item>קוראסאו</item>
+        <item>דרום סודן</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>‏מרכז אוסטרליה – NT</item>
+        <item>‏מרכז אוסטרליה – SA</item>
+        <item>‏מזרח אוסטרליה – QLD</item>
+        <item>‏מזרח אוסטרליה – NSW</item>
+        <item>אזור ההרים (חורף) – דוסון קריק</item>
+        <item>"מרכז ארה\"ב (חורף) – ססקצ'ואן"</item>
+        <item>החוף המזרחי (חורף) – אטיקוקן</item>
+        <item>אוקיינוס אטלנטי (חורף) – קוויבק</item>
+        <item>הוואי-אלאוטיים – הוואי</item>
+        <item>הוואי-אלאוטיים - אלסקה</item>
+        <item>מערב ארה\"ב (חורף) – מטלקטלה</item>
+        <item>אזור ההרים (חורף) – אריזונה</item>
+        <item>מערב ארה\"ב – באחה קליפורניה</item>
+        <item>"הרים – צ'יוואווה"</item>
+        <item>מרכז ארה\"ב – טמאוליפס</item>
+        <item>הרים – סונורה</item>
+        <item>שעון מזרח אפריקה</item>
+        <item>שעון האוקיינוס האטלנטי (חורף)</item>
+        <item>שעון האוקיינוס האטלנטי</item>
+        <item>שעון מזרח אירופה</item>
+        <item>שעון קלינינגרד</item>
+        <item>אמזונס – רונדוניה</item>
+        <item>ברזיליה – פארה</item>
+    </string-array>
+</resources>

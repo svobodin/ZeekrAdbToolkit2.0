@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="button_type_android4">
+        <item>1</item>
+        <item>@string/button_type_android4</item>
+    </string-array>
+    <string-array name="button_type_android5_home">
+        <item>3</item>
+        <item>@string/button_type_android5_home</item>
+    </string-array>
+    <string-array name="button_type_android6">
+        <item>4</item>
+        <item>@string/button_type_android6</item>
+    </string-array>
+    <string-array name="button_type_androidL">
+        <item>2</item>
+        <item>@string/button_type_androidL</item>
+    </string-array>
+    <string-array name="button_type_classic">
+        <item>0</item>
+        <item>@string/button_type_classic</item>
+    </string-array>
+    <array name="floating_button_types">
+        <item>@array/button_type_classic</item>
+        <item>@array/button_type_android4</item>
+        <item>@array/button_type_androidL</item>
+        <item>@array/button_type_android5_home</item>
+        <item>@array/button_type_android6</item>
+    </array>
+    <array name="iconCloseItems">
+        <item>@array/iconCloseItems0</item>
+        <item>@array/iconCloseItems3</item>
+        <item>@array/iconCloseItems5</item>
+        <item>@array/iconCloseItems8</item>
+        <item>@array/iconCloseItems10</item>
+    </array>
+    <string-array name="iconCloseItems0">
+        <item>0</item>
+        <item>@string/iconCloseTime0</item>
+    </string-array>
+    <string-array name="iconCloseItems10">
+        <item>10</item>
+        <item>@string/iconCloseTime10</item>
+    </string-array>
+    <string-array name="iconCloseItems3">
+        <item>3</item>
+        <item>@string/iconCloseTime3</item>
+    </string-array>
+    <string-array name="iconCloseItems5">
+        <item>5</item>
+        <item>@string/iconCloseTime5</item>
+    </string-array>
+    <string-array name="iconCloseItems8">
+        <item>8</item>
+        <item>@string/iconCloseTime8</item>
+    </string-array>
+    <array name="navibar_button_types">
+        <item>@array/button_type_android4</item>
+        <item>@array/button_type_androidL</item>
+        <item>@array/button_type_android5_home</item>
+        <item>@array/button_type_android6</item>
+    </array>
+    <string-array name="position_array">
+        <item>Upper right</item>
+        <item>Upper left</item>
+        <item>Bottom right</item>
+        <item>Bottom left</item>
+    </string-array>
+    <string-array name="watch_size_array">
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+</resources>

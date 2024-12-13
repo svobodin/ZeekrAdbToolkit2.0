@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Lülita kuumkoht välja</string>
+    <string name="no_upstream_notification_message">Seadmed ei saa Internetiga ühendust luua</string>
+    <string name="no_upstream_notification_title">Kuumkohal puudub Interneti-ühendus</string>
+    <string name="upstream_roaming_notification_message">Rändluse kasutamisega võivad kaasneda lisatasud</string>
+    <string name="upstream_roaming_notification_title">Kuumkoht on sees</string>
+    <string name="upstream_roaming_notification_continue_button">Jätka</string>
+</resources>

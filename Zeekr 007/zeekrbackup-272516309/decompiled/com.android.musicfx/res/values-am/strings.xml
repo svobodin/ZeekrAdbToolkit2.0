@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">ቤዝ መጨመር</string>
+    <string name="ci_extreme">የድምጽ ተጽዕኖ መጨመሪያ</string>
+    <string name="classical">ክላሲካል</string>
+    <string name="dance">ጭፈራ</string>
+    <string name="eq_dialog_title">ማመጣጠኛ</string>
+    <string name="flat">ወጥ</string>
+    <string name="folk">አገረሰብ</string>
+    <string name="headset_plug">እነዚህን ተፅዕኖዎች ለማግኘት እባክዎ የጆሮ ማዳመጫች ይሰኩ።</string>
+    <string name="heavy_metal">ከባድ ሜታል</string>
+    <string name="hip_hop">ሂፕ ሆፕ</string>
+    <string name="jazz">ጃዝ</string>
+    <string name="no_effects">ተፅዕኖዎች አልተገኙም።</string>
+    <string name="normal">መደበኛ</string>
+    <string name="picker_title">የሙዚቃ ተፅዕኖዎች የቁጥጥር ፓነል</string>
+    <string name="pop">ፖፕ</string>
+    <string name="rock">ሮክ</string>
+    <string name="setup">አዋቅር</string>
+    <string name="user">ተጠቃሚ</string>
+    <string name="virtualizer_strength">የዙሪያ ድምፅ</string>
+</resources>

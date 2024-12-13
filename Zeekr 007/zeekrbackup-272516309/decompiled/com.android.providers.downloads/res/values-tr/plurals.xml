@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_summary_active">
+        <item quantity="other">%d dosya indiriliyor</item>
+        <item quantity="one">1 dosya indiriliyor</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">%d dosya bekliyor</item>
+        <item quantity="one">1 dosya bekliyor</item>
+    </plurals>
+</resources>

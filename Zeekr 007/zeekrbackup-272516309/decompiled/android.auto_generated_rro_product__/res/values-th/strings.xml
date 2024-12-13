@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="owner_name">ผู้ขับรถ</string>
+    <string name="permlab_accessCoarseLocation">เข้าถึงตำแหน่งโดยประมาณเมื่ออยู่เบื้องหน้าเท่านั้น</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">เปิดไมโครโฟน</string>
+</resources>

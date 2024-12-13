@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Kasamang Device Manager</string>
+    <string name="chooser_title">Pumili ng %1$s para pamahalaan ng &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Payagan ang &lt;strong>%1$s&lt;/strong> na pamahalaan ang iyong &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_no">Huwag payagan</string>
+    <string name="consent_yes">Payagan</string>
+    <string name="profile_name_generic">device</string>
+    <string name="profile_name_watch">relo</string>
+    <string name="profile_summary">Kinakailangan ang app na ito para pamahalaan ang iyong %1$s. %2$s</string>
+</resources>

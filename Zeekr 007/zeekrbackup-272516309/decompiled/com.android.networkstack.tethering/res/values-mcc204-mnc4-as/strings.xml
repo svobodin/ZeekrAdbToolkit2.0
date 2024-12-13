@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">হটস্পট অফ কৰক</string>
+    <string name="no_upstream_notification_message">ডিভাইচসমূহ ইণ্টাৰনেটৰ সৈতে সংযোগ কৰিব নোৱাৰি</string>
+    <string name="no_upstream_notification_title">হটস্পটৰ কোনো ইণ্টাৰনেট নাই</string>
+    <string name="upstream_roaming_notification_message">"ৰ'মিঙত থাকিলে অতিৰিক্ত মাচুল প্ৰযোজ্য হ’ব পাৰে"</string>
+    <string name="upstream_roaming_notification_title">হটস্পট অন হৈ আছে</string>
+    <string name="upstream_roaming_notification_continue_button">অব্যাহত ৰাখক</string>
+</resources>

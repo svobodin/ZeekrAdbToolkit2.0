@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">Tizim aloqa resurslari</string>
+    <string name="mobile_no_internet">Mobil tarmoq internetga ulanmagan</string>
+    <string name="network_available_sign_in">Tarmoqqa kirish</string>
+    <string name="network_partial_connectivity">%1$s nomli tarmoqda aloqa cheklangan</string>
+    <string name="network_partial_connectivity_detailed">Baribir ulash uchun bosing</string>
+    <string name="network_switch_metered">Yangi ulanish: %1$s</string>
+    <string name="network_switch_metered_detail">Agar %2$s tarmoqda internet uzilsa, qurilma %1$sga ulanadi. Sarflangan trafik uchun haq olinishi mumkin.</string>
+    <string name="network_switch_metered_toast">%1$s tarmog‘idan %2$s tarmog‘iga o‘tildi</string>
+    <string name="network_switch_type_name_unknown">nomaʼlum tarmoq turi</string>
+    <string name="other_networks_no_internet">Tarmoq internetga ulanmagan</string>
+    <string name="private_dns_broken_detailed">Xususiy DNS server ishlamayapti</string>
+    <string name="wifi_available_sign_in">Wi-Fi tarmoqqa kirish</string>
+    <string name="wifi_no_internet">%1$s nomli tarmoqda internetga ruxsati yoʻq</string>
+    <string name="wifi_no_internet_detailed">Variantlarni ko‘rsatish uchun bosing</string>
+</resources>

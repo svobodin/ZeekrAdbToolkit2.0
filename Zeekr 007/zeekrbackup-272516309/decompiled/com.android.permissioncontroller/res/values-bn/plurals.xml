@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">আরও %1$dটি</item>
+        <item quantity="one">আরও %1$dটি</item>
+    </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">কয়েক মাস ধরে %1$dটি অ্যাপ ব্যবহার করা হয়নি। পর্যালোচনা করতে ট্যাপ করুন</item>
+        <item quantity="one">কয়েক মাস ধরে %1$dটি অ্যাপ ব্যবহার করা হয়নি। পর্যালোচনা করতে ট্যাপ করুন</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">কয়েক মাস ধরে %1$dটি অ্যাপ ব্যবহার করা হয়নি</item>
+        <item quantity="one">কয়েক মাস ধরে %1$dটি অ্যাপ ব্যবহার করা হয়নি</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s দিন</item>
+        <item quantity="one">%s দিন</item>
+    </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">%s দিন</item>
+        <item quantity="one">%s দিন</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">%s ঘণ্টা</item>
+        <item quantity="one">%s ঘণ্টা</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">%s মিনিট</item>
+        <item quantity="one">%s মিনিট</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">%s সেকেন্ড</item>
+        <item quantity="one">%s সেকেন্ড</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s ঘণ্টা</item>
+        <item quantity="one">%s ঘণ্টা</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s মিনিট</item>
+        <item quantity="one">%s মিনিট</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%dটি নতুন বিজ্ঞপ্তি</item>
+        <item quantity="one">%dটি নতুন বিজ্ঞপ্তি</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%sটি অ্যাপ</item>
+        <item quantity="one">%sটি অ্যাপ</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%sটি অ্যাপ</item>
+        <item quantity="one">%sটি অ্যাপ</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">%1$dটি অ্যাপ ব্যবহার করেছে</item>
+        <item quantity="one">%1$dটি অ্যাপ ব্যবহার করেছে</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"শেষবার অ্যাক্সেস করা হয়েছে: %1$s
+%2$sবার অ্যাক্সেস করা হয়েছে"</item>
+        <item quantity="one">"শেষবার অ্যাক্সেস করা হয়েছে: %1$s
+%2$sবার অ্যাক্সেস করা হয়েছে"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"শেষবার অ্যাক্সেস করা হয়েছে: %1$s
+%2$sবার অ্যাক্সেস করা হয়েছে (ব্যাকগ্রাউন্ডে %3$sবার)"</item>
+        <item quantity="one">"শেষবার অ্যাক্সেস করা হয়েছে: %1$s
+%2$sবার অ্যাক্সেস করা হয়েছে (ব্যাকগ্রাউন্ডে %3$sবার)"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"শেষবার অ্যাক্সেস করা হয়েছে: %1$s
+%2$sবার অ্যাক্সেস (ব্যাকগ্রাউন্ডে %3$sবার)
+সময়সীমা: %3$s"</item>
+        <item quantity="one">"শেষবার অ্যাক্সেস করা হয়েছে: %1$s
+%2$sবার অ্যাক্সেস (ব্যাকগ্রাউন্ডে %3$sবার)
+সময়সীমা: %3$s"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"শেষবার অ্যাক্সেস করা হয়েছে: %1$s
+%2$sবার অ্যাক্সেস করা হয়েছে
+সময়সীমা: %3$s"</item>
+        <item quantity="one">"শেষবার অ্যাক্সেস করা হয়েছে: %1$s
+%2$sবার অ্যাক্সেস করা হয়েছে
+সময়সীমা: %3$s"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s সেকেন্ড</item>
+        <item quantity="one">%s সেকেন্ড</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">ব্যবহার হয়নি এমন %1$dটি অ্যাপ</item>
+        <item quantity="one">ব্যবহার হয়নি এমন %1$dটি অ্যাপ</item>
+    </plurals>
+</resources>

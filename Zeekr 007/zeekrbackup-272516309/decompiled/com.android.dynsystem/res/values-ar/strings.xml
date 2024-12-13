@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">يُرجى إدخال كلمة مرور والمتابعة إلى \"تحديثات النظام الديناميكية\"</string>
+    <string name="notification_action_cancel">إلغاء</string>
+    <string name="notification_action_discard">تجاهل</string>
+    <string name="notification_action_reboot_to_dynsystem">إعادة التشغيل</string>
+    <string name="notification_action_reboot_to_origin">إعادة التشغيل</string>
+    <string name="notification_dynsystem_in_use">‏يتم الآن تشغيل نظام ديناميكي. يجب إعادة التشغيل لاستخدام الإصدار الأصلي لنظام Android.</string>
+    <string name="notification_image_validation_failed">تعذّر التحقّق من النسخة. يجب إلغاء التثبيت.</string>
+    <string name="notification_install_completed">النظام الديناميكي جاهز. لبدء استخدامه، يجب إعادة تشغيل الجهاز.</string>
+    <string name="notification_install_failed">تعذّر التثبيت.</string>
+    <string name="notification_install_inprogress">التثبيت قيد التقدّم.</string>
+    <string name="toast_dynsystem_discarded">تم تجاهل النظام الديناميكي.</string>
+    <string name="toast_failed_to_disable_dynsystem">تعذّر إيقاف النظام الديناميكي.</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">لا يمكن إعادة التشغيل أو تحميل النظام الديناميكي.</string>
+</resources>

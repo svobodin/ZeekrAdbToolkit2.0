@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">ஹாட்ஸ்பாட்டை ஆஃப் செய்</string>
+    <string name="no_upstream_notification_message">சாதனங்களால் இணையத்தில் இணைய இயலவில்லை</string>
+    <string name="no_upstream_notification_title">ஹாட்ஸ்பாட்டில் இணையம் இல்லை</string>
+    <string name="upstream_roaming_notification_message">ரோமிங்கின்போது கூடுதல் கட்டணங்கள் விதிக்கப்படக்கூடும்</string>
+    <string name="upstream_roaming_notification_title">ஹாட்ஸ்பாட் ஆன் செய்யப்பட்டுள்ளது</string>
+    <string name="upstream_roaming_notification_continue_button">தொடர்க</string>
+</resources>

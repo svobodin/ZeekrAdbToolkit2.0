@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">Pojačavanje basova</string>
+    <string name="ci_extreme">Pojačavanje efekata</string>
+    <string name="classical">Klasična</string>
+    <string name="dance">Dance</string>
+    <string name="eq_dialog_title">Ekvalizator</string>
+    <string name="flat">Ravno</string>
+    <string name="folk">Narodna</string>
+    <string name="headset_plug">Priključite slušalice da čujete ove efekte.</string>
+    <string name="heavy_metal">Heavy Metal</string>
+    <string name="hip_hop">Hip hop</string>
+    <string name="jazz">Jazz</string>
+    <string name="no_effects">Efekti nisu dostupni.</string>
+    <string name="normal">Normalno</string>
+    <string name="picker_title">Kontrolna ploča muzičkih efekata</string>
+    <string name="pop">Pop</string>
+    <string name="rock">Rock</string>
+    <string name="setup">Postavljanje</string>
+    <string name="user">Korisnički</string>
+    <string name="virtualizer_strength">Okružujući zvuk</string>
+</resources>

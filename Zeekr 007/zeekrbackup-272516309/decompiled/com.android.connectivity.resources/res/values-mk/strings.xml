@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">System Connectivity Resources</string>
+    <string name="mobile_no_internet">Мобилната мрежа нема интернет-пристап</string>
+    <string name="network_available_sign_in">Најавете се на мрежа</string>
+    <string name="network_partial_connectivity">%1$s има ограничена поврзливост</string>
+    <string name="network_partial_connectivity_detailed">Допрете за да се поврзете и покрај тоа</string>
+    <string name="network_switch_metered">Префрлено на %1$s</string>
+    <string name="network_switch_metered_detail">Уредот користи %1$s кога %2$s нема пристап до интернет. Може да се наплатат трошоци.</string>
+    <string name="network_switch_metered_toast">Префрлено од %1$s на %2$s</string>
+    <string name="network_switch_type_name_unknown">непознат тип мрежа</string>
+    <string name="other_networks_no_internet">Мрежата нема интернет-пристап</string>
+    <string name="private_dns_broken_detailed">Не може да се пристапи до приватниот DNS-сервер</string>
+    <string name="wifi_available_sign_in">Најавете се на мрежа на Wi-Fi</string>
+    <string name="wifi_no_internet">%1$s нема интернет-пристап</string>
+    <string name="wifi_no_internet_detailed">Допрете за опции</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">مدیر شبکه</string>
+    <string name="connected">متصل</string>
+    <string name="notification_channel_description_connected">اعلان‌هایی که پس از راستی‌آزمایی موفق دستگاه در یک شبکه درگاه مهمان نشان داده می‌شوند</string>
+    <string name="notification_channel_description_network_venue_info">اعلان‌هایی که نمایش داده می‌شوند تا نشان دهند شبکه صفحه اطلاعات محل دارد</string>
+    <string name="notification_channel_name_connected">راستی‌آزمایی درگاه مهمان</string>
+    <string name="notification_channel_name_network_venue_info">اطلاعات محل شبکه</string>
+    <string name="tap_for_info">متصل شد / برای مشاهده وب‌سایت ضربه بزنید</string>
+</resources>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">Încă %1$d</item>
+        <item quantity="one">Încă %1$d</item>
+        <item quantity="few">Încă %1$d</item>
+    </plurals>
+    <plurals name="auto_revoke_permission_notification_content_count">
+        <item quantity="other">%1$d de aplicații nu au fost folosite de câteva luni. Atingeți pentru a examina.</item>
+        <item quantity="one">%1$d aplicație nu a fost folosită de câteva luni. Atingeți pentru a examina.</item>
+        <item quantity="few">%1$d aplicații nu au fost folosite de câteva luni. Atingeți pentru a examina.</item>
+    </plurals>
+    <plurals name="auto_revoke_setting_subtitle_count">
+        <item quantity="other">%1$d de aplicații nu au fost folosite de câteva luni</item>
+        <item quantity="one">%1$d aplicație nu a fost folosită de câteva luni</item>
+        <item quantity="few">%1$d aplicații nu au fost folosite de câteva luni</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s de zile</item>
+        <item quantity="one">O zi</item>
+        <item quantity="few">%s zile</item>
+    </plurals>
+    <plurals name="duration_used_days">
+        <item quantity="other">%s de zile</item>
+        <item quantity="one">O zi</item>
+        <item quantity="few">%s zile</item>
+    </plurals>
+    <plurals name="duration_used_hours">
+        <item quantity="other">%s de ore</item>
+        <item quantity="one">O oră</item>
+        <item quantity="few">%s ore</item>
+    </plurals>
+    <plurals name="duration_used_minutes">
+        <item quantity="other">%s de minute</item>
+        <item quantity="one">1 min</item>
+        <item quantity="few">%s min</item>
+    </plurals>
+    <plurals name="duration_used_seconds">
+        <item quantity="other">%s de sec</item>
+        <item quantity="one">O sec.</item>
+        <item quantity="few">%s sec</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s de ore</item>
+        <item quantity="one">O oră</item>
+        <item quantity="few">%s ore</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s de minute</item>
+        <item quantity="one">1 minut</item>
+        <item quantity="few">%s minute</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d de notificări noi</item>
+        <item quantity="one">%d notificare nouă</item>
+        <item quantity="few">%d notificări noi</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s de aplic.</item>
+        <item quantity="one">O aplic.</item>
+        <item quantity="few">%s aplicații</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s de aplicații</item>
+        <item quantity="one">O aplicație</item>
+        <item quantity="few">%s aplicații</item>
+    </plurals>
+    <plurals name="permission_usage_preference_label">
+        <item quantity="other">Folosită de %1$d de aplicații</item>
+        <item quantity="one">Folosită de o aplicație</item>
+        <item quantity="few">Folosită de %1$d aplicații</item>
+    </plurals>
+    <plurals name="permission_usage_summary">
+        <item quantity="other">"Ultima accesare: %1$s
+%2$s de accesări"</item>
+        <item quantity="one">"Ultima accesare: %1$s
+%2$so accesare"</item>
+        <item quantity="few">"Ultima accesare: %1$s
+%2$s accesări"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background">
+        <item quantity="other">"Ultima accesare: %1$s
+%2$s de accesări (%3$s în fundal)"</item>
+        <item quantity="one">"Ultima accesare: %1$s
+%2$so accesare (%3$s în fundal)"</item>
+        <item quantity="few">"Ultima accesare: %1$s
+%2$s accesări (%3$s în fundal)"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_background_duration">
+        <item quantity="other">"Ultima accesare: %1$s
+%2$s de accesări (%3$s în fundal)
+Durată: %3$s"</item>
+        <item quantity="one">"Ultima accesare: %1$s
+%2$so accesare (%3$s în fundal)
+Durată: %3$s"</item>
+        <item quantity="few">"Ultima accesare: %1$s
+%2$s accesări (%3$s în fundal)
+Durată: %3$s"</item>
+    </plurals>
+    <plurals name="permission_usage_summary_duration">
+        <item quantity="other">"Ultima accesare: %1$s
+%2$s de accesări
+Durată: %3$s"</item>
+        <item quantity="one">"Ultima accesare: %1$s
+%2$so accesare
+Durata: %3$s"</item>
+        <item quantity="few">"Ultima accesare: %1$s
+%2$s accesări
+Durata: %3$s"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s de secunde</item>
+        <item quantity="one">O secundă</item>
+        <item quantity="few">%s secunde</item>
+    </plurals>
+    <plurals name="unused_apps_notification_title">
+        <item quantity="other">%1$d de aplicații nefolosite</item>
+        <item quantity="one">%1$d aplicație nefolosită</item>
+        <item quantity="few">%1$d aplicații nefolosite</item>
+    </plurals>
+</resources>

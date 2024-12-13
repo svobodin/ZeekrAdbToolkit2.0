@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Татан авалтын Менежер</string>
+    <string name="button_cancel_download">Цуцлах</string>
+    <string name="button_queue_for_wifi">Хүлээх</string>
+    <string name="button_start_now">Одоо эхлүүлэх</string>
+    <string name="download_error">Амжилтгүй</string>
+    <string name="download_no_application_title">Файлыг нээж чадахгүй байна</string>
+    <string name="download_queued">Хүлээлгэнд</string>
+    <string name="download_remaining">%s үлдсэн</string>
+    <string name="download_running">Үргэлжилж байгаа</string>
+    <string name="download_running_percent">Үргэлжилж байгаа, %s</string>
+    <string name="download_unknown_title">&lt;Гарчиггүй></string>
+    <string name="notification_download_complete">Татаж авч дууслаа.</string>
+    <string name="notification_download_failed">Амжилттай татаж авлаа.</string>
+    <string name="notification_need_wifi_for_size">Татаж авах хэмжээ Wi-Fi шаардана.</string>
+    <string name="notification_paused_in_background">Ар талд түр зогсоогдсон</string>
+    <string name="permdesc_accessAllDownloads">Апп нь системийн дурын апп-н эхлүүлсэн бүх татан авалтуудыг үзэх, өөрчлөх боломжтой.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Апп нь татан авалтын менежерт илүү зай хэрэгтэй болсон үед автоматаар устгалгүйгээр файлыг татан авалтын кеш-д хадгалах боломжтой.</string>
+    <string name="permdesc_downloadCompletedIntent">Апп нь татан авч дууссан талаарх мэдэгдэл явуулах боломжтой. Хортой апп-ууд энийг ашиглан файл татдаг бусад апп-уудыг төөрөгдөлд оруулж болно.</string>
+    <string name="permdesc_downloadManager">Апп нь татан авалтын менежерт хандалт хийх, үүнийг ашиглан файл татах боломжтой. Хортой апп-ууд үүнийг ашиглан татан авалтыг тасалдуулах, хувийн мэдээлэлд хандалт хийх боломжтой.</string>
+    <string name="permdesc_downloadManagerAdvanced">Апп нь татан авалтын менежерийн дэлгэрэнгүй функцуудад хандалт хийх боломжтой. Хортой апп-ууд үүнийг ашиглан татан авалтыг тасалдуулах, хувийн мэдээлэлд хандалт хийх боломжтой.</string>
+    <string name="permdesc_downloadWithoutNotification">Апп нь хэрэглэгчид ямар нэгэн мэдэгдэл харуулахгүйгээр татан авагчаар дамжуулан файл татаж авах боломжтой.</string>
+    <string name="permlab_accessAllDownloads">Системийн татан авсан бүх файлуудад хандалт хийх</string>
+    <string name="permlab_downloadCacheNonPurgeable">Татан авалтын кеш дотор зай нөөцлөх</string>
+    <string name="permlab_downloadCompletedIntent">Татан авалтын мэдэгдэл илгээх.</string>
+    <string name="permlab_downloadManager">Татан авалтын менежерт хандалт хийх.</string>
+    <string name="permlab_downloadManagerAdvanced">Татан авалтын менежерийн дэлгэрэнгүй функцууд.</string>
+    <string name="permlab_downloadWithoutNotification">мэдэгдэл өгөхгүйгээр файлуудыг татаж авах</string>
+    <string name="root_downloads">Татан авалтууд</string>
+    <string name="storage_description">Татаж авсан файл</string>
+    <string name="wifi_recommended_body">"Энэ %1$s  татан авалтыг одоо эхлүүлснээр таны зайны цэнэг дуусах болон/эсхүл мобайл дата холболтыг хэт их хэрэглэх, улмаар өндөр төлбөр төлөхөд хүрч болзошгүй. Дараагийн удаа WiFi сүлжээнд холбогдохдоо татаж эхлүүлэхийн тулд доорхыг 
+
+ Товшино уу %2$s."</string>
+    <string name="wifi_recommended_title">Дараа татахаар хүлээлгэх үү?</string>
+    <string name="wifi_required_body">"Та энэ %1$s  татан авалтыг гүйцээхийн тулд Wi-Fi-д холбогдох шаардлагатай. Та дараагийн удаа Wi-Fi сүлжээнд холбогдмогц энэ татан авалтыг эхлүүлэхийн тулд 
+
+Хүрнэ үү %2$s "</string>
+    <string name="wifi_required_title">Татан авалт нь операторын сүлжээнд хэт том байна</string>
+</resources>

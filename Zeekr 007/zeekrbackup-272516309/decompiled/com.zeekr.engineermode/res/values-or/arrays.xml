@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>ସିଣ୍ଟ ମାର୍ଟେନ୍‍</item>
+        <item>କେରିବିଆନ୍‌ ନେଦର୍‌ଲ୍ୟାଣ୍ଡ</item>
+        <item>କ୍ୟୁରାସାଓ</item>
+        <item>ଦକ୍ଷିଣ ସୁଡାନ୍‌</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>ମଧ୍ୟ ଅଷ୍ଟ୍ରେଲୀୟ - NT</item>
+        <item>ମଧ୍ୟ ଅଷ୍ଟ୍ରେଲୀୟ - SA</item>
+        <item>ପୂର୍ବ ଅଷ୍ଟ୍ରେଲୀୟ - QLD</item>
+        <item>ପୂର୍ବ ଅଷ୍ଟ୍ରେଲୀୟ - NSW</item>
+        <item>ପର୍ବତୀୟ ମାନକ - ଡସନ୍‌ କ୍ରୀକ୍‌</item>
+        <item>କେନ୍ଦ୍ରୀୟ ମାନକ - ସାସ୍କେଚେୱାନ୍‌</item>
+        <item>ପୂର୍ବ ମାନକ - ଆଟିକୋକାନ୍‌</item>
+        <item>ଆଟଲାଣ୍ଟିକ୍‌ ମାନକ - କ୍ୱେବେକ୍‌</item>
+        <item>ହାୱାଇ-ଆଲ୍ୟୁଶିଆନ୍‌ - ହାୱାଇ</item>
+        <item>ହାୱାଇ-ଆଲ୍ୟୁଶିଆନ୍‌ - ଆଲାସ୍କା</item>
+        <item>ପ୍ରଶାନ୍ତ ମାନକ - ମେଟଲାକାଟଲା</item>
+        <item>ପର୍ବତୀୟ ମାନକ - ଆରିଜୋନା</item>
+        <item>ପ୍ରଶାନ୍ତ - ବାଜା କାଲିଫର୍ନିଆ</item>
+        <item>ପର୍ବତ - ଚିହୁଆହୁଆ</item>
+        <item>ମଧ୍ୟ - ଟମାଉଲିପାସ୍‌</item>
+        <item>ପର୍ବତ - ସୋନୋରା</item>
+        <item>ପୂର୍ବ ଆଫ୍ରିକାର ସମୟ</item>
+        <item>ଆଟଲାଣ୍ଟିକ୍‌ ମାନକ ସମୟ</item>
+        <item>ଆଟଲାଣ୍ଟିକ୍‌ ମାନକ ସମୟ</item>
+        <item>ପୂର୍ବ ୟୁରୋପୀୟ ସମୟ</item>
+        <item>କାଲିନିନଗ୍ରାଦ୍‌ ସମୟ</item>
+        <item>ଆମାଜନ୍‌ - ରୋଣ୍ଡୋନିଆ</item>
+        <item>ବ୍ରାସିଲିୟା - ପେରା</item>
+    </string-array>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Hifadhi ya Anwani</string>
+    <string name="debug_dump_database_message">Unaelekea 1) kuunda nakala ya hifadhidata yako ambayo inajumuisha maelezo yote yanayohusiana na anwani na kumbukumbu zote za simu katika hifadhi ya ndani, na 2) uitume kwa barua pepe. Kumbuka kufuta nakala pindi tu utakapomaliza kuinakili kutoka kwenye kifaa au barua pepe itakapopokewa.</string>
+    <string name="debug_dump_delete_button">Futa sasa</string>
+    <string name="debug_dump_email_body">Kilichoambatishwa ni hifadhidata ya anwani zangu iliyo na maelezo yote ya anwani zangu. Ishughulikie kwa uangalifu.</string>
+    <string name="debug_dump_email_sender_picker">Chagua programu ili kutuma faili yako</string>
+    <string name="debug_dump_email_subject">Db ya anwani imeambatishwa</string>
+    <string name="debug_dump_start_button">Anza</string>
+    <string name="debug_dump_title">Nakili hifadhidata ya anwani</string>
+    <string name="default_directory">Anwani</string>
+    <string name="local_invisible_directory">Nyingineyo</string>
+    <string name="provider_label">Anwani</string>
+    <string name="sharedUserLabel">Programu Msingi za Android</string>
+    <string name="upgrade_out_of_memory_notification_text">Gusa ili ukamilishe kusasisha anwani.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Kupandishwa gredi kwa anwani kunahitaji kumbukumbu zaidi.</string>
+    <string name="upgrade_out_of_memory_notification_title">Inapandisha gredi hifadhi ya anwani</string>
+    <string name="voicemail_from_column">"Barua ya sauti kutoka "</string>
+</resources>

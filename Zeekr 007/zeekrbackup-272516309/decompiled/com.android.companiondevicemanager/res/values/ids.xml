@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="button_cancel" />
+    <item type="id" name="button_pair" />
+    <item type="id" name="buttons" />
+    <item type="id" name="container" />
+    <item type="id" name="device_list" />
+    <item type="id" name="profile_summary" />
+    <item type="id" name="title" />
+</resources>

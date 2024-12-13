@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">Құпия сөзіңізді енгізіңіз және Dynamic System Updates функциясына өтіңіз.</string>
+    <string name="notification_action_cancel">Бас тарту</string>
+    <string name="notification_action_discard">Жабу</string>
+    <string name="notification_action_reboot_to_dynsystem">Қайта қосу</string>
+    <string name="notification_action_reboot_to_origin">Қайта қосу</string>
+    <string name="notification_dynsystem_in_use">Әзірге динамикалық жүйе пайдаланылуда. Бастапқы Android нұсқасын пайдалану үшін қайта қосыңыз.</string>
+    <string name="notification_image_validation_failed">Кескін тексерілмеді. Орнатуды доғарыңыз.</string>
+    <string name="notification_install_completed">Динамикалық жүйе дайын. Оны пайдалану үшін құрылғыңызды қайта қосыңыз.</string>
+    <string name="notification_install_failed">Орнатылмады.</string>
+    <string name="notification_install_inprogress">Орнатылып жатыр.</string>
+    <string name="toast_dynsystem_discarded">Динамикалық жүйе өшірілді.</string>
+    <string name="toast_failed_to_disable_dynsystem">Динамикалық жүйе өшірілмеді.</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Динамикалық жүйені қайта қосу не жүктеу мүмкін емес.</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">システム接続リソース</string>
+    <string name="mobile_no_internet">モバイル ネットワークがインターネットに接続されていません</string>
+    <string name="network_available_sign_in">ネットワークにログインしてください</string>
+    <string name="network_partial_connectivity">%1$s の接続が制限されています</string>
+    <string name="network_partial_connectivity_detailed">接続するにはタップしてください</string>
+    <string name="network_switch_metered">「%1$s」に切り替えました</string>
+    <string name="network_switch_metered_detail">デバイスで「%2$s」によるインターネット接続ができない場合に「%1$s」を使用します。通信料が発生することがあります。</string>
+    <string name="network_switch_metered_toast">「%1$s」から「%2$s」に切り替えました</string>
+    <string name="network_switch_type_name_unknown">不明なネットワーク タイプ</string>
+    <string name="other_networks_no_internet">ネットワークがインターネットに接続されていません</string>
+    <string name="private_dns_broken_detailed">プライベート DNS サーバーにアクセスできません</string>
+    <string name="wifi_available_sign_in">Wi-Fiネットワークにログイン</string>
+    <string name="wifi_no_internet">%1$s はインターネットにアクセスできません</string>
+    <string name="wifi_no_internet_detailed">タップしてその他のオプションを表示</string>
+</resources>

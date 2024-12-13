@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Регистрация в сети</string>
+    <string name="action_bar_title">Войти: %1$s</string>
+    <string name="action_do_not_use_network">Не использовать эту сеть</string>
+    <string name="action_use_network">Использовать эту сеть</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">Уведомления, показывающие индикатор скачивания файлов</string>
+    <string name="channel_description_downloads">Уведомления, показывающие завершенные и отмененные скачивания</string>
+    <string name="channel_name_download_progress">Индикатор скачивания</string>
+    <string name="channel_name_downloads">Скачивания</string>
+    <string name="custom_scheme_example">Например, страница входа в аккаунт может запросить открытие определенного приложения для аутентификации.</string>
+    <string name="custom_scheme_warning">Сеть, к которой вы хотите подключиться, запрашивает открытие другого приложения.</string>
+    <string name="download_completed">Скачивание завершено.</string>
+    <string name="downloading_paramfile">Скачивание файла \"%1$s\"…</string>
+    <string name="error_continue_via_browser">Игнорировать и открыть браузер</string>
+    <string name="error_downloading_paramfile">Не удалось скачать файл \"%1$s\".</string>
+    <string name="no_bypass_error_vpnwarning">Эту ошибку нельзя обойти, так как устройство подключено к VPN.</string>
+    <string name="ok">ОК</string>
+    <string name="page_info">О странице</string>
+    <string name="page_info_address">Адрес:</string>
+    <string name="ssl_error_date_invalid">Дата сертификата недействительна.</string>
+    <string name="ssl_error_example">Например, страница входа в аккаунт может быть фиктивной.</string>
+    <string name="ssl_error_expired">Срок действия сертификата истек.</string>
+    <string name="ssl_error_invalid">Сертификат недействителен.</string>
+    <string name="ssl_error_mismatch">Название сайта отличается от указанного в сертификате.</string>
+    <string name="ssl_error_not_yet_valid">Сертификат ещё не действителен.</string>
+    <string name="ssl_error_unknown">Неизвестная ошибка, связанная с сертификатом.</string>
+    <string name="ssl_error_untrusted">Этот сертификат получен из ненадежных источников.</string>
+    <string name="ssl_error_view_certificate">Показать сертификат</string>
+    <string name="ssl_error_warning">Сеть, к которой вы хотите подключиться, небезопасна.</string>
+    <string name="ssl_security_warning_title">Предупреждение об опасности</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
+</resources>

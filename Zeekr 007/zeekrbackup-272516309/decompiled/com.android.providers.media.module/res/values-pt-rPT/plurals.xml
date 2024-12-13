@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">Permitir que a app ^1 elimine ^2 ficheiros de áudio?</item>
+        <item quantity="one">Permitir que a app ^1 elimine este ficheiro de áudio?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">Permitir que a app ^1 elimine ^2 itens?</item>
+        <item quantity="one">Permitir que a app ^1 elimine este item?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">Permitir que a app ^1 elimine ^2 fotos?</item>
+        <item quantity="one">Permitir que a app ^1 elimine esta foto?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">Permitir que a app ^1 elimine ^2 vídeos?</item>
+        <item quantity="one">Permitir que a app ^1 elimine este vídeo?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">E ^1 itens adicionais</item>
+        <item quantity="one">E ^1 item adicional</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">+^1</item>
+        <item quantity="one">+^1</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">A eliminar ^1 ficheiros de áudio…</item>
+        <item quantity="one">A eliminar o ficheiro de áudio…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">A eliminar ^1 itens…</item>
+        <item quantity="one">A eliminar o item…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">A eliminar ^1 fotos…</item>
+        <item quantity="one">A eliminar a foto…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">A eliminar ^1 vídeos…</item>
+        <item quantity="one">A eliminar o vídeo…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">A mover ^1 ficheiros de áudio para o lixo…</item>
+        <item quantity="one">A mover o ficheiro de áudio para o lixo…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">A mover ^1 itens para o lixo…</item>
+        <item quantity="one">A mover o item para o lixo…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">A mover ^1 fotos para o lixo…</item>
+        <item quantity="one">A mover a foto para o lixo…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">A mover ^1 vídeos para o lixo…</item>
+        <item quantity="one">A mover o vídeo para o lixo…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">A retirar ^1 ficheiros de áudio do lixo…</item>
+        <item quantity="one">A retirar o ficheiro de áudio do lixo…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">A retirar ^1 itens do lixo…</item>
+        <item quantity="one">A retirar o item do lixo…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">A retirar ^1 fotos do lixo…</item>
+        <item quantity="one">A retirar a foto do lixo…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">A retirar ^1 vídeos do lixo…</item>
+        <item quantity="one">A retirar o vídeo do lixo…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">A modificar ^1 ficheiros de áudio…</item>
+        <item quantity="one">A modificar o ficheiro de áudio…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">A modificar ^1 itens…</item>
+        <item quantity="one">A modificar o item…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">A modificar ^1 fotos…</item>
+        <item quantity="one">A modificar a foto…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">A modificar ^1 vídeos…</item>
+        <item quantity="one">A modificar o vídeo…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">Permitir que a app ^1 mova ^2 ficheiros de áudio para o lixo?</item>
+        <item quantity="one">Permitir que a app ^1 mova este ficheiro de áudio para o lixo?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">Permitir que a app ^1 mova ^2 itens para o lixo?</item>
+        <item quantity="one">Permitir que a app ^1 mova este item para o lixo?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">Permitir que a app ^1 mova ^2 fotos para o lixo?</item>
+        <item quantity="one">Permitir que a app ^1 mova esta foto para o lixo?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">Permitir que a app ^1 mova ^2 vídeos para o lixo?</item>
+        <item quantity="one">Permitir que a app ^1 mova este vídeo para o lixo?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">Permitir que a app ^1 retire ^2 ficheiros de áudio do lixo?</item>
+        <item quantity="one">Permitir que a app ^1 retire este ficheiro de áudio do lixo?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">Permitir que a app ^1 retire ^2 itens do lixo?</item>
+        <item quantity="one">Permitir que a app ^1 retire este item do lixo?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">Permitir que a app ^1 retire ^2 fotos do lixo?</item>
+        <item quantity="one">Permitir que a app ^1 retire esta foto do lixo?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">Permitir que a app ^1 retire ^2 vídeos do lixo?</item>
+        <item quantity="one">Permitir que a app ^1 retire este vídeo do lixo?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">Permitir que a app ^1 modifique ^2 ficheiros de áudio?</item>
+        <item quantity="one">Permitir que a app ^1 modifique este ficheiro de áudio?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">Permitir que a app ^1 modifique ^2 itens?</item>
+        <item quantity="one">Permitir que a app ^1 modifique este item?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">Permitir que a app ^1 modifique ^2 fotos?</item>
+        <item quantity="one">Permitir que a app ^1 modifique esta foto?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">Permitir que a app ^1 modifique ^2 vídeos?</item>
+        <item quantity="one">Permitir que a app ^1 modifique este vídeo?</item>
+    </plurals>
+</resources>

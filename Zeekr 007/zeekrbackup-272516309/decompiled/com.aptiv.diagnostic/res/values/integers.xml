@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="audio_balance_value">0</integer>
+    <integer name="audio_eq_index">0</integer>
+    <integer name="audio_fade_value">0</integer>
+    <integer name="best_position_for_remote_amp">3</integer>
+    <integer name="cancel_button_image_alpha">127</integer>
+    <integer name="iess_state_for_remote_amp">0</integer>
+    <integer name="media_ducking_gain_for_nav">20</integer>
+    <integer name="media_ducking_gain_for_rvc">100</integer>
+    <integer name="mstartup_volume_config">10</integer>
+    <integer name="speed_compensation_level">2</integer>
+    <integer name="status_bar_notification_info_maxnum">999</integer>
+</resources>

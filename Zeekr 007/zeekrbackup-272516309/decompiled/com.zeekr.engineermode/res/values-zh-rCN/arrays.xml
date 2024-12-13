@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>圣马丁岛</item>
+        <item>荷兰加勒比</item>
+        <item>库拉索</item>
+        <item>南苏丹</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>澳大利亚中部时间 - 北领地</item>
+        <item>澳大利亚中部时间 - 南澳洲</item>
+        <item>澳大利亚东部时间 - 昆士兰</item>
+        <item>澳大利亚东部时间 - 新南威尔斯</item>
+        <item>山地标准时间 - 道森克里克</item>
+        <item>中部标准时间 - 萨斯喀彻温</item>
+        <item>东部标准时间 - 阿蒂科肯</item>
+        <item>大西洋标准时间 - 魁北克</item>
+        <item>夏威夷阿留申时间 - 夏威夷</item>
+        <item>夏威夷阿留申时间 - 阿拉斯加</item>
+        <item>太平洋标准时间 - 梅特拉卡特拉</item>
+        <item>山地标准时间 - 亚利桑那州</item>
+        <item>太平洋时间 - 下加利福尼亚</item>
+        <item>山地时间 - 奇瓦瓦</item>
+        <item>中部时间 - 塔毛利帕斯</item>
+        <item>山地时间 - 索诺拉</item>
+        <item>东非时间</item>
+        <item>大西洋标准时间</item>
+        <item>大西洋标准时间</item>
+        <item>东欧时间</item>
+        <item>加里宁格勒时间</item>
+        <item>亚马逊 - 朗多尼亚</item>
+        <item>巴西利亚 - 帕拉</item>
+    </string-array>
+</resources>

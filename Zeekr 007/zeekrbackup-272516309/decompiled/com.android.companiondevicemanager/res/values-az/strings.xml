@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Kompanyon Cihaz Meneceri</string>
+    <string name="chooser_title">&lt;strong>%2$s&lt;/strong> tərəfindən idarə ediləcək %1$s seçin</string>
+    <string name="confirmation_title">&lt;strong>%1$s&lt;/strong> tətbiqinə &lt;strong>%2$s&lt;/strong> cihazınızı idarə etməsinə icazə verin</string>
+    <string name="consent_no">İcazə verməyin</string>
+    <string name="consent_yes">İcazə verin</string>
+    <string name="profile_name_generic">cihaz</string>
+    <string name="profile_name_watch">izləyin</string>
+    <string name="profile_summary">Bu tətbiq %1$s profilinizi idarə etmək üçün lazımdır. %2$s</string>
+</resources>

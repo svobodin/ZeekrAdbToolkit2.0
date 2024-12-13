@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Ցանցի կառավարիչ</string>
+    <string name="connected">Միացված է</string>
+    <string name="notification_channel_description_connected">Ծանուցումներ, որոնք ցուցադրվում են, երբ ցանցի մուտքի էջում հաջողվում է նույնականացնել սարքը</string>
+    <string name="notification_channel_description_network_venue_info">Ծանուցումներ, որոնք ցույց են տալիս այն էջը, որում առկա են տեղեկություններ սարքի հասանելիության վայրի մասին</string>
+    <string name="notification_channel_name_connected">Նույնականացում մուտքի էջում</string>
+    <string name="notification_channel_name_network_venue_info">Տվյալներ ցանցի հասանելիության տեղի մասին</string>
+    <string name="tap_for_info">Միացված է / Հպեք՝ կայքը դիտելու համար</string>
+</resources>

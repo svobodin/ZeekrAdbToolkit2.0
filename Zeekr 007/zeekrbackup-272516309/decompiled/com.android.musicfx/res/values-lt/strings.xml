@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">Žemųjų dažnių išryškinimas</string>
+    <string name="ci_extreme">FX booster</string>
+    <string name="classical">Klasikinė muzika</string>
+    <string name="dance">Šokių muzika</string>
+    <string name="eq_dialog_title">Glodintuvas</string>
+    <string name="flat">Bemolis</string>
+    <string name="folk">Liaudies muzika</string>
+    <string name="headset_plug">Įkiškite ausines, kad būtų pateiki šie efektai.</string>
+    <string name="heavy_metal">Sunkusis metalas</string>
+    <string name="hip_hop">Hiphopas</string>
+    <string name="jazz">Džiazas</string>
+    <string name="no_effects">Efektai nepasiekiami.</string>
+    <string name="normal">Įprasta</string>
+    <string name="picker_title">Muzikos efektų valdymo skyd.</string>
+    <string name="pop">Popmuzika</string>
+    <string name="rock">Rokas</string>
+    <string name="setup">Sąranka</string>
+    <string name="user">Naudotojo</string>
+    <string name="virtualizer_strength">Erdvinis garsas</string>
+</resources>

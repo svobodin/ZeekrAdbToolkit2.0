@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SuwThemeGlif.DayNight" parent="@style/SuwThemeGlif" />
+    <style name="SuwThemeGlifV2.DayNight" parent="@style/SuwThemeGlifV2" />
+    <style name="SuwThemeGlifV3.DayNight" parent="@style/SuwThemeGlifV3" />
+    <style name="SuwThemeMaterial.DayNight" parent="@style/SuwThemeMaterial" />
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Ngena ngemvume kunethiwekhi</string>
+    <string name="action_bar_title">Ngena ngemvume ku-%1$s</string>
+    <string name="action_do_not_use_network">Ungasebenzisi le nethiwekhi</string>
+    <string name="action_use_network">Sebenzisa le nethiwekhi njengoba injalo</string>
+    <string name="app_name">I-CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">Izaziso zibonisa ukuqhubeka kokulandwa kwefayela</string>
+    <string name="channel_description_downloads">Izaziso zibonisa ukulandwa okuqediwe noma okukhanseliwe</string>
+    <string name="channel_name_download_progress">Ukuqhubeka kokulandwa</string>
+    <string name="channel_name_downloads">Okulandiwe</string>
+    <string name="custom_scheme_example">Isibonelo, ikhasi lokungena ngemvume lingadinga uhlelo lokusebenza oluthile ukuze kufakazelwe ubuqiniso</string>
+    <string name="custom_scheme_warning">Inethiwekhi ozama ukuyijoyina icela ukuvula olunye uhlelo lokusebenza.</string>
+    <string name="download_completed">Ukulanda kuqedile</string>
+    <string name="downloading_paramfile">Ilanda okungu-%1$s</string>
+    <string name="error_continue_via_browser">Qhubeka noma kunjalo ngesiphequluli</string>
+    <string name="error_downloading_paramfile">Ayikwazanga ukulanda okungu-%1$s</string>
+    <string name="no_bypass_error_vpnwarning">Ngokungeziwe, ngeke kwenzeke ukudlula leli phutha ngoba okwamanje idivayisi isebenzisa i-VPN.</string>
+    <string name="ok">KULUNGILE</string>
+    <string name="page_info">Ulwazi lekhasi</string>
+    <string name="page_info_address">Ikheli:</string>
+    <string name="ssl_error_date_invalid">Lesi sitifiketi sinosuku olungalungile.</string>
+    <string name="ssl_error_example">Isibonelo, ikhasi lokungena ngemvume kungenzeka lingelenhlangano ebonisiwe.</string>
+    <string name="ssl_error_expired">Lesi sitifiketi siphelelwe yisikhathi</string>
+    <string name="ssl_error_invalid">Lesi sitifiketi asilungile.</string>
+    <string name="ssl_error_mismatch">Igama lesayithi alifani negama elikusitifiketi.</string>
+    <string name="ssl_error_not_yet_valid">Lesi sitifiketi asivumelekile okwamanje.</string>
+    <string name="ssl_error_unknown">Iphutha lesitifiketi elingaziwa.</string>
+    <string name="ssl_error_untrusted">Lesi sitifiketi asisuki kusiphathimandla esithembekile.</string>
+    <string name="ssl_error_view_certificate">Buka isitifiketi</string>
+    <string name="ssl_error_warning">Inethiwekhi ozama ukuyijoyina inezinkinga zokuvikela.</string>
+    <string name="ssl_security_warning_title">Isexwayiso sokuvikeleka</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

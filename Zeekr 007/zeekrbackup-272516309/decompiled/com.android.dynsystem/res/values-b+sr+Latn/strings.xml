@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">Unesite lozinku i nastavite do dinamičnih ažuriranja sistema</string>
+    <string name="notification_action_cancel">Otkaži</string>
+    <string name="notification_action_discard">Odbaci</string>
+    <string name="notification_action_reboot_to_dynsystem">Restartuj</string>
+    <string name="notification_action_reboot_to_origin">Restartuj</string>
+    <string name="notification_dynsystem_in_use">Trenutno je pokrenut dinamični sistem. Restartujte da biste koristili originalnu verziju Android-a.</string>
+    <string name="notification_image_validation_failed">Validacija slike diska nije uspela. Otkažite instalaciju.</string>
+    <string name="notification_install_completed">Dinamični sistem je spreman. Da biste počeli da ga koristite, restartujte uređaj.</string>
+    <string name="notification_install_failed">Instaliranje nije uspelo</string>
+    <string name="notification_install_inprogress">Instalira se</string>
+    <string name="toast_dynsystem_discarded">Dinamični sistem je odbačen</string>
+    <string name="toast_failed_to_disable_dynsystem">Onemogućavanje dinamičnog sistema nije uspelo</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Restartovanje ili učitavanje dinamičnog sistema nije uspelo</string>
+</resources>

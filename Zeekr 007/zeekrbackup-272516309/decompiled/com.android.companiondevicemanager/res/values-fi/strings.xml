@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Companion Device Manager</string>
+    <string name="chooser_title">Valitse %1$s, jota &lt;strong>%2$s&lt;/strong> hallinnoi</string>
+    <string name="confirmation_title">Salli, että &lt;strong>%1$s&lt;/strong> voi hallinnoida tätä laitettasi: &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_no">Älä salli</string>
+    <string name="consent_yes">Salli</string>
+    <string name="profile_name_generic">laite</string>
+    <string name="profile_name_watch">kello</string>
+    <string name="profile_summary">Profiilin (%1$s) ylläpitoon tarvitaan tätä sovellusta. %2$s</string>
+</resources>

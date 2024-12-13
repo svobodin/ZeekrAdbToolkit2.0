@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">Bas artırması</string>
+    <string name="ci_extreme">FX artırıcı</string>
+    <string name="classical">Klassik</string>
+    <string name="dance">Rəqs</string>
+    <string name="eq_dialog_title">Ekvalayzer</string>
+    <string name="flat">Sabit</string>
+    <string name="folk">Xalq mahnıları</string>
+    <string name="headset_plug">Bu effektlər üçün qulaqlıqları qoşun.</string>
+    <string name="heavy_metal">Ağır Metal</string>
+    <string name="hip_hop">Hip Hop</string>
+    <string name="jazz">Caz</string>
+    <string name="no_effects">Effektlər əlçatan deyil.</string>
+    <string name="normal">Normal</string>
+    <string name="picker_title">Musiqi effektləri idarə paneli</string>
+    <string name="pop">Pop</string>
+    <string name="rock">Rok</string>
+    <string name="setup">Ayarlama</string>
+    <string name="user">İstifadəçi</string>
+    <string name="virtualizer_strength">Dairəvi səs</string>
+</resources>

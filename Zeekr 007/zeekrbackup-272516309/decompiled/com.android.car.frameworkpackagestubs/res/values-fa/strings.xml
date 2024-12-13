@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الگوی فعالیت</string>
+    <string name="message_not_supported">هیچ برنامه‌ای نمی‌تواند این کنش را انجام دهد</string>
+    <string name="pip_not_supported">‏تصویر در تصویر در این دستگاه پشتیبانی نمی‌شود</string>
+    <string name="stub_name">هیچ‌کدام</string>
+</resources>

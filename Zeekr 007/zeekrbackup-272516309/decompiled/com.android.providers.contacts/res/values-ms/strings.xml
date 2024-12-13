@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Storan Kenalan</string>
+    <string name="debug_dump_database_message">Anda akan 1) membuat salinan pangkalan data anda yang termasuk semua maklumat berkaitan kenalan dan semua log panggilan ke storan dalaman dan 2) hantar melalui e-mel. Jangan lupa untuk memadam salinan ini sebaik sahaja anda telah berjaya menyalin daripada peranti atau apabila e-mel diterima.</string>
+    <string name="debug_dump_delete_button">Padamkan sekarang</string>
+    <string name="debug_dump_email_body">Dilampirkan pangkalan data kenalan saya yang mengandungi semua maklumat kenalan. Sila gunakan dengan cermat.</string>
+    <string name="debug_dump_email_sender_picker">Pilih program untuk menghantar fail anda</string>
+    <string name="debug_dump_email_subject">Pangkalan Data Kenalan dilampirkan</string>
+    <string name="debug_dump_start_button">Mula</string>
+    <string name="debug_dump_title">Salin pangkalan data kenalan</string>
+    <string name="default_directory">Kenalan</string>
+    <string name="local_invisible_directory">Lain-lain</string>
+    <string name="provider_label">Kenalan</string>
+    <string name="sharedUserLabel">Apl Teras Android</string>
+    <string name="upgrade_out_of_memory_notification_text">Ketik untuk menyelesaikan peningkatan.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Peningkatan kenalan memerlukan lebih banyak memori.</string>
+    <string name="upgrade_out_of_memory_notification_title">Meningkatkan storan untuk kenalan</string>
+    <string name="voicemail_from_column">"Mel suara daripada "</string>
+</resources>

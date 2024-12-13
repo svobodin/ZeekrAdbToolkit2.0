@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kodi i testimit i aktivitetit</string>
+    <string name="message_not_supported">"Asnjë aplikacion s'e menaxhon këtë veprim"</string>
+    <string name="pip_not_supported">\"Figura brenda figurës\" nuk mbështetet në këtë pajisje.</string>
+    <string name="stub_name">Asnjë</string>
+</resources>

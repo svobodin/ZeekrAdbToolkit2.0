@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">[Çöñţåçţš Šţöŕåĝé one two three]</string>
+    <string name="debug_dump_database_message">[Ýöû åŕé åɓöûţ ţö 1) ḿåķé å çöþý öƒ ýöûŕ ðåţåɓåšé ŵĥîçĥ îñçļûðéš åļļ çöñţåçţš ŕéļåţéð îñƒöŕḿåţîöñ åñð åļļ çåļļ ļöĝ ţö ţĥé îñţéŕñåļ šţöŕåĝé, åñð 2) éḿåîļ îţ. Ŕéḿéḿɓéŕ ţö ðéļéţé ţĥé çöþý åš šööñ åš ýöû ĥåVé šûççéššƒûļļý çöþîéð îţ öƒƒ ţĥé ðéVîçé öŕ ţĥé éḿåîļ îš ŕéçéîVéð. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five]</string>
+    <string name="debug_dump_delete_button">[Ðéļéţé ñöŵ one two]</string>
+    <string name="debug_dump_email_body">[Åţţåçĥéð îš ḿý çöñţåçţš ðåţåɓåšé ŵîţĥ åļļ ḿý çöñţåçţš îñƒöŕḿåţîöñ. Ĥåñðļé ŵîţĥ çåŕé. one two three four five six seven eight nine]</string>
+    <string name="debug_dump_email_sender_picker">[Çĥööšé å þŕöĝŕåḿ ţö šéñð ýöûŕ ƒîļé one two three four]</string>
+    <string name="debug_dump_email_subject">[Çöñţåçţš Ðɓ åţţåçĥéð one two three]</string>
+    <string name="debug_dump_start_button">[Šţåŕţ one]</string>
+    <string name="debug_dump_title">[Çöþý çöñţåçţš ðåţåɓåšé one two three]</string>
+    <string name="default_directory">[Çöñţåçţš one two]</string>
+    <string name="local_invisible_directory">[Öţĥéŕ one]</string>
+    <string name="provider_label">[Çöñţåçţš one two]</string>
+    <string name="sharedUserLabel">[Åñðŕöîð Çöŕé Åþþš one two three]</string>
+    <string name="upgrade_out_of_memory_notification_text">[Ţåþ ţö çöḿþļéţé ţĥé ûþĝŕåðé. one two three four]</string>
+    <string name="upgrade_out_of_memory_notification_ticker">[Çöñţåçţš ûþĝŕåðé ñééðš ḿöŕé ḿéḿöŕý. one two three four]</string>
+    <string name="upgrade_out_of_memory_notification_title">[Ûþĝŕåðîñĝ šţöŕåĝé ƒöŕ çöñţåçţš one two three four]</string>
+    <string name="voicemail_from_column">"[νöîçéḿåîļ ƒŕöḿ  one two three]"</string>
+</resources>

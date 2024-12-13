@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_long_press_zoom_scale_tips">
+        <item quantity="other">Zumiranje %s puta</item>
+        <item quantity="one">Zumiranje %s puta</item>
+        <item quantity="few">Zumiranje %s puta</item>
+    </plurals>
+</resources>

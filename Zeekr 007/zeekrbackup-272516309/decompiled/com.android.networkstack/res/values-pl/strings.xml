@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Menedżer sieci</string>
+    <string name="connected">Połączono</string>
+    <string name="notification_channel_description_connected">Powiadomienia są wyświetlane, gdy urządzenie zostanie uwierzytelnione w sieci portalu przechwytującego</string>
+    <string name="notification_channel_description_network_venue_info">Powiadomienia są wyświetlane, aby poinformować, że sieć posiada stronę z informacjami o miejscach wydarzeń</string>
+    <string name="notification_channel_name_connected">Uwierzytelnianie – portal przechwytujący</string>
+    <string name="notification_channel_name_network_venue_info">Sieć z informacjami o miejscach spotkań</string>
+    <string name="tap_for_info">Połączono / Kliknij, aby wyświetlić stronę</string>
+</resources>

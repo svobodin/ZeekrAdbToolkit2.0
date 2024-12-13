@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Онлайн-реєстрація</string>
+    <string name="app_name">OsuLogin</string>
+    <string name="sign_up_failed">Не вдалося зареєструватись</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

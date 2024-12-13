@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Vypnúť tethering</string>
+    <string name="no_upstream_notification_message">Zariadenia sa nemôžu pripojiť</string>
+    <string name="no_upstream_notification_title">Tethering nemá internetové pripojenie</string>
+    <string name="upstream_roaming_notification_message">Počas roamingu vám môžu byť účtované ďalšie poplatky</string>
+    <string name="upstream_roaming_notification_title">Je zapnutý hotspot alebo tethering</string>
+</resources>

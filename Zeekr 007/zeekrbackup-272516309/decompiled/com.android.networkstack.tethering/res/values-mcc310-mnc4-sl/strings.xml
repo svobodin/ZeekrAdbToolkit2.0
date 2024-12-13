@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Izklopi internetno povezavo prek mobilnega telefona</string>
+    <string name="no_upstream_notification_message">Napravi se ne moreta povezati</string>
+    <string name="no_upstream_notification_title">Internetna povezava prek mobilnega telefona ni vzpostavljena</string>
+    <string name="upstream_roaming_notification_message">Med gostovanjem lahko nastanejo dodatni stroški</string>
+    <string name="upstream_roaming_notification_title">Dostopna točka ali internetna povezava prek mobilnega telefona je vklopljena</string>
+</resources>

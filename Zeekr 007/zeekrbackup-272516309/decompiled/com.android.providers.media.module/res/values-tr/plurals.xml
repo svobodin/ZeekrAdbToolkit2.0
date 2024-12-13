@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">^1 uygulamasının ^2 ses dosyasını silmesine izin verilsin mi?</item>
+        <item quantity="one">^1 uygulamasının bu ses dosyasını silmesine izin verilsin mi?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">^1 uygulamasının ^2 öğeyi silmesine izin verilsin mi?</item>
+        <item quantity="one">^1 uygulamasının bu öğeyi silmesine izin verilsin mi?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">^1 uygulamasının ^2 fotoğrafı silmesine izin verilsin mi?</item>
+        <item quantity="one">^1 uygulamasının bu fotoğrafı silmesine izin verilsin mi?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">^1 uygulamasının ^2 videoyu silmesine izin verilsin mi?</item>
+        <item quantity="one">^1 uygulamasının bu videoyu silmesine izin verilsin mi?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">Ayrıca ^1 ek öğe</item>
+        <item quantity="one">Ayrıca ^1 ek öğe</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">+^1</item>
+        <item quantity="one">+^1</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">^1 ses dosyası siliniyor…</item>
+        <item quantity="one">Ses dosyası siliniyor…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">^1 öğe siliniyor…</item>
+        <item quantity="one">Öğe siliniyor…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">^1 fotoğraf siliniyor…</item>
+        <item quantity="one">Fotoğraf siliniyor…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">^1 video siliniyor…</item>
+        <item quantity="one">Video siliniyor…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">^1 ses dosyası çöp kutusuna taşınıyor…</item>
+        <item quantity="one">Ses dosyası çöp kutusuna taşınıyor…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">^1 öğe çöp kutusuna taşınıyor…</item>
+        <item quantity="one">Öğe çöp kutusuna taşınıyor…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">^1 fotoğraf çöp kutusuna taşınıyor…</item>
+        <item quantity="one">Fotoğraf çöp kutusuna taşınıyor…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">^1 video çöp kutusuna taşınıyor…</item>
+        <item quantity="one">Video çöp kutusuna taşınıyor…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">^1 ses dosyası çöp kutusundan geri yükleniyor…</item>
+        <item quantity="one">Ses dosyası çöp kutusundan geri yükleniyor…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">^1 öğe çöp kutusundan geri yükleniyor…</item>
+        <item quantity="one">Öğe çöp kutusundan geri yükleniyor…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">^1 fotoğraf çöp kutusundan geri yükleniyor…</item>
+        <item quantity="one">Fotoğraf çöp kutusundan geri yükleniyor…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">^1 video çöp kutusundan geri yükleniyor…</item>
+        <item quantity="one">Video çöp kutusundan geri yükleniyor…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">^1 ses dosyası değiştiriliyor…</item>
+        <item quantity="one">Ses dosyası değiştiriliyor…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">^1 öğe değiştiriliyor…</item>
+        <item quantity="one">Öğe değiştiriliyor…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">^1 fotoğraf değiştiriliyor…</item>
+        <item quantity="one">Fotoğraf değiştiriliyor…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">^1 video değiştiriliyor…</item>
+        <item quantity="one">Video değiştiriliyor…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">^1 uygulamasının ^2 ses dosyasını çöp kutusuna taşımasına izin verilsin mi?</item>
+        <item quantity="one">^1 uygulamasının bu ses dosyasını çöp kutusuna taşımasına izin verilsin mi?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">^1 uygulamasının ^2 öğeyi çöp kutusuna taşımasına izin verilsin mi?</item>
+        <item quantity="one">^1 uygulamasının bu öğeyi çöp kutusuna taşımasına izin verilsin mi?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">^1 uygulamasının ^2 fotoğrafı çöp kutusuna taşımasına izin verilsin mi?</item>
+        <item quantity="one">^1 uygulamasının bu fotoğrafı çöp kutusuna taşımasına izin verilsin mi?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">^1 uygulamasının ^2 videoyu çöp kutusuna taşımasına izin verilsin mi?</item>
+        <item quantity="one">^1 uygulamasının bu videoyu çöp kutusuna taşımasına izin verilsin mi?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">^1 uygulamasının ^2 ses dosyasını çöp kutusundan geri yüklemesine izin verilsin mi?</item>
+        <item quantity="one">^1 uygulamasının bu ses dosyasını çöp kutusundan geri yüklemesine izin verilsin mi?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">^1 uygulamasının ^2 öğeyi çöp kutusundan geri yüklemesine izin verilsin mi?</item>
+        <item quantity="one">^1 uygulamasının bu öğeyi çöp kutusundan geri yüklemesine izin verilsin mi?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">^1 uygulamasının ^2 fotoğrafı çöp kutusundan geri yüklemesine izin verilsin mi?</item>
+        <item quantity="one">^1 uygulamasının bu fotoğrafı çöp kutusundan geri yüklemesine izin verilsin mi?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">^1 uygulamasının ^2 videoyu çöp kutusundan geri yüklemesine izin verilsin mi?</item>
+        <item quantity="one">^1 uygulamasının bu videoyu çöp kutusundan geri yüklemesine izin verilsin mi?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">^1 uygulamasının ^2 ses dosyasını değiştirmesine izin verilsin mi?</item>
+        <item quantity="one">^1 uygulamasının bu ses dosyasını değiştirmesine izin verilsin mi?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">^1 uygulamasının ^2 öğeyi değiştirmesine izin verilsin mi?</item>
+        <item quantity="one">^1 uygulamasının bu öğeyi değiştirmesine izin verilsin mi?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">^1 uygulamasının ^2 fotoğrafı değiştirmesine izin verilsin mi?</item>
+        <item quantity="one">^1 uygulamasının bu fotoğrafı değiştirmesine izin verilsin mi?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">^1 uygulamasının ^2 videoyu değiştirmesine izin verilsin mi?</item>
+        <item quantity="one">^1 uygulamasının bu videoyu değiştirmesine izin verilsin mi?</item>
+    </plurals>
+</resources>

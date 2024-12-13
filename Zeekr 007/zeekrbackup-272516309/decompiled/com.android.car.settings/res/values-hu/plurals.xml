@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">Kameraalkalmazások</item>
+        <item quantity="one">Kameraalkalmazás</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">Levelezőprogram-alkalmazások</item>
+        <item quantity="one">Levelezőprogram-alkalmazás</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">Telefonalkalmazások</item>
+        <item quantity="one">Telefonalkalmazás</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d próbálkozás</item>
+        <item quantity="one">%d próbálkozás</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d alkalmazás</item>
+        <item quantity="one">%d alkalmazás</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">Legalább %d alkalmazás</item>
+        <item quantity="one">Legalább %d alkalmazás</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d új értesítés</item>
+        <item quantity="one">%d új értesítés</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d eszköz csatlakozik</item>
+        <item quantity="one">%1$d eszköz csatlakozik</item>
+    </plurals>
+</resources>

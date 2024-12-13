@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dialog Apl Sim</string>
+    <string name="install_carrier_app_defer_action">Bukan sekarang</string>
+    <string name="install_carrier_app_description">Untuk memastikan SIM baharu anda berfungsi dengan betul, anda perlu memasang apl %1$s</string>
+    <string name="install_carrier_app_description_default">Untuk memastikan SIM baharu anda berfungsi dengan betul, anda perlu memasang apl pembawa</string>
+    <string name="install_carrier_app_download_action">Muat turun apl</string>
+    <string name="install_carrier_app_title">Aktifkan perkhdmtn mudah alih</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Kembali</string>
+    <string name="suw_more_button_label">Lagi</string>
+    <string name="suw_next_button_label">Seterusnya</string>
+</resources>

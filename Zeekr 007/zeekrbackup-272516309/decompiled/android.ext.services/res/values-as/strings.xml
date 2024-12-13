@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_assistant">Android অভিযোজিত জাননী</string>
+    <string name="status_bar_notification_info_overflow">৯৯৯+</string>
+    <string name="tc_notif_code_copied_to_clipboard">ক’ড প্ৰতিলিপি কৰা হ’ল</string>
+    <string name="tc_notif_copy_code_desc">“%1$s“ প্ৰতিলিপি কৰক</string>
+</resources>

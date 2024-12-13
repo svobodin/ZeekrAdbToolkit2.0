@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Võrguhaldur</string>
+    <string name="connected">Ühendatud</string>
+    <string name="notification_channel_description_connected">Märguanded, mis kuvatakse siis, kui seadmel õnnestub hõiveportaaliga autentida</string>
+    <string name="notification_channel_description_network_venue_info">Märguanded, mis kuvatakse juhul, kui võrgul on asukoha teabeleht</string>
+    <string name="notification_channel_name_connected">Hõiveportaali autentimine</string>
+    <string name="notification_channel_name_network_venue_info">Võrgu asukoha teave</string>
+    <string name="tap_for_info">Ühendatud / puudutage veebisaidi vaatamiseks</string>
+</resources>

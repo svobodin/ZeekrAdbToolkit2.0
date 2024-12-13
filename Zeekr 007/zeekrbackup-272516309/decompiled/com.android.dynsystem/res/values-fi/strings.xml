@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">Lisää salasanasi ja jatka dynaamisiin järjestelmäpäivityksiin</string>
+    <string name="notification_action_cancel">Peru</string>
+    <string name="notification_action_discard">Hylkää</string>
+    <string name="notification_action_reboot_to_dynsystem">Käynn. uudelleen</string>
+    <string name="notification_action_reboot_to_origin">Käynn. uudelleen</string>
+    <string name="notification_dynsystem_in_use">Käyttää tällä hetkellä dynaamista järjestelmää. Käynnistä uudelleen käyttääksesi alkuperäistä Android-versiota.</string>
+    <string name="notification_image_validation_failed">Levykuvan vahvistus epäonnistui. Keskeytä asennus.</string>
+    <string name="notification_install_completed">Dynaaminen järjestelmä on valmis. Aloita sen käyttö käynnistämällä laite uudelleen.</string>
+    <string name="notification_install_failed">Asennus epäonnistui</string>
+    <string name="notification_install_inprogress">Asennus käynnissä</string>
+    <string name="toast_dynsystem_discarded">Dynaaminen järjestelmä hylätty</string>
+    <string name="toast_failed_to_disable_dynsystem">Dynaamisen järjestelmän käytöstäpoisto epäonnistui</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Dynaamista järjestelmää ei voi käynnistää uudelleen tai ladata</string>
+</resources>

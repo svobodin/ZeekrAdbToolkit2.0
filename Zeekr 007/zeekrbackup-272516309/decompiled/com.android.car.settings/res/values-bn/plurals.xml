@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">Camera অ্যাপ</item>
+        <item quantity="one">Camera অ্যাপ</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">ইমেল ক্লায়েন্ট অ্যাপ</item>
+        <item quantity="one">ইমেল ক্লায়েন্ট অ্যাপ</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">ফোন অ্যাপ</item>
+        <item quantity="one">ফোন অ্যাপ</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d বার চেষ্টা করা হয়েছে</item>
+        <item quantity="one">%d বার চেষ্টা করা হয়েছে</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%dটি অ্যাপ</item>
+        <item quantity="one">%dটি অ্যাপ</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">কমপক্ষে %dটি অ্যাপ</item>
+        <item quantity="one">কমপক্ষে %dটি অ্যাপ</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%dটি নতুন বিজ্ঞপ্তি</item>
+        <item quantity="one">%dটি নতুন বিজ্ঞপ্তি</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$dটি ডিভাইস কানেক্ট রয়েছে</item>
+        <item quantity="one">%1$dটি ডিভাইস কানেক্ট রয়েছে</item>
+    </plurals>
+</resources>

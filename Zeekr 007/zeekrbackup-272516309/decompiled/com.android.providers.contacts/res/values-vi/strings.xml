@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Bộ nhớ Danh bạ</string>
+    <string name="debug_dump_database_message">Bạn sắp 1) thực hiện sao chép cơ sở dữ liệu của mình bao gồm tất cả thông tin liên quan đến địa chỉ liên hệ và tất cả nhật ký cuộc gọi sang bộ nhớ trong, và 2) gửi bản sao đó qua email. Hãy nhớ xóa bản sao khỏi thiết bị hoặc email nhận được ngay khi bạn đã sao chép thành công.</string>
+    <string name="debug_dump_delete_button">Xóa ngay</string>
+    <string name="debug_dump_email_body">Phần đính kèm là cơ sở dữ liệu người liên hệ với tất cả thông tin người liên hệ của tôi. Hãy cẩn trọng khi xử lý.</string>
+    <string name="debug_dump_email_sender_picker">Chọn chương trình để gửi tệp của bạn</string>
+    <string name="debug_dump_email_subject">Đã đính kèm cơ sở dữ liệu người liên hệ</string>
+    <string name="debug_dump_start_button">Bắt đầu</string>
+    <string name="debug_dump_title">Sao chép cơ sở dữ liệu người liên hệ</string>
+    <string name="default_directory">Danh bạ</string>
+    <string name="local_invisible_directory">Khác</string>
+    <string name="provider_label">Danh bạ</string>
+    <string name="sharedUserLabel">Ứng dụng lõi Android</string>
+    <string name="upgrade_out_of_memory_notification_text">Nhấn để hoàn tất nâng cấp.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Nâng cấp danh bạ cần thêm bộ nhớ.</string>
+    <string name="upgrade_out_of_memory_notification_title">Đang nâng cấp dung lượng cho danh bạ</string>
+    <string name="voicemail_from_column">"Thư thoại từ "</string>
+</resources>

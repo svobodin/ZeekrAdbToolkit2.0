@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Управление подключенными устройствами</string>
+    <string name="chooser_title">Выберите устройство (%1$s), которым будет управлять приложение &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Разрешите приложению &lt;strong>%1$s&lt;/strong> управлять этим устройством: &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_no">Запретить</string>
+    <string name="consent_yes">Разрешить</string>
+    <string name="profile_name_generic">устройство</string>
+    <string name="profile_name_watch">часы</string>
+    <string name="profile_summary">Это приложение необходимо для управления вашим профилем \"%1$s\". %2$s</string>
+</resources>

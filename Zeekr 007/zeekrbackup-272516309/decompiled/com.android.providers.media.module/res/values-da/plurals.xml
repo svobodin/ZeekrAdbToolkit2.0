@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">Vil du give ^1 tilladelse til at slette ^2 lydfiler?</item>
+        <item quantity="one">Vil du give ^1 tilladelse til at slette ^2 lydfil?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">Vil du give ^1 tilladelse til at slette ^2 elementer?</item>
+        <item quantity="one">Vil du give ^1 tilladelse til at slette ^2 element?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">Vil du give ^1 tilladelse til at slette ^2 billeder?</item>
+        <item quantity="one">Vil du give ^1 tilladelse til at slette ^2 billede?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">Vil du give ^1 tilladelse til at slette ^2 videoer?</item>
+        <item quantity="one">Vil du give ^1 tilladelse til at slette ^2 video?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">Plus ^1 andre elementer</item>
+        <item quantity="one">Plus ^1 andet element</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">+^1</item>
+        <item quantity="one">+^1</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">Sletter ^1 lydfiler…</item>
+        <item quantity="one">Sletter ^1 lydfil…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">Sletter ^1 elementer…</item>
+        <item quantity="one">Sletter ^1 element…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">Sletter ^1 billeder…</item>
+        <item quantity="one">Sletter ^1 billede…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">Sletter ^1 videoer…</item>
+        <item quantity="one">Sletter ^1 video…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">Flytter ^1 lydfiler til papirkurven…</item>
+        <item quantity="one">Flytter ^1 lydfil til papirkurven…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">Flytter ^1 elementer til papirkurven…</item>
+        <item quantity="one">Flytter ^1 element til papirkurven…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">Flytter ^1 billeder til papirkurven…</item>
+        <item quantity="one">Flytter ^1 billede til papirkurven…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">Flytter ^1 videoer til papirkurven…</item>
+        <item quantity="one">Flytter ^1 video til papirkurven…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">Flytter ^1 lydfiler ud af papirkurven…</item>
+        <item quantity="one">Flytter ^1 lydfil ud af papirkurven…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">Flytter ^1 elementer ud af papirkurven…</item>
+        <item quantity="one">Flytter ^1 element ud af papirkurven…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">Flytter ^1 billeder ud af papirkurven…</item>
+        <item quantity="one">Flytter ^1 billede ud af papirkurven…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">Flytter ^1 videoer ud af papirkurven…</item>
+        <item quantity="one">Flytter ^1 video ud af papirkurven…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">Ændrer ^1 lydfiler…</item>
+        <item quantity="one">Ændrer ^1 lydfil…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">Ændrer ^1 elementer…</item>
+        <item quantity="one">Ændrer ^1 element…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">Ændrer ^1 billeder…</item>
+        <item quantity="one">Ændrer ^1 billede…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">Ændrer ^1 videoer…</item>
+        <item quantity="one">Ændrer ^1 video…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">Vil du give ^1 tilladelse til at flytte ^2 lydfiler til papirkurven?</item>
+        <item quantity="one">Vil du give ^1 tilladelse til at flytte ^2 lydfil til papirkurven?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">Vil du give ^1 tilladelse til at flytte ^2 elementer til papirkurven?</item>
+        <item quantity="one">Vil du give ^1 tilladelse til at flytte ^2 element til papirkurven?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">Vil du give ^1 tilladelse til at flytte ^2 billeder til papirkurven?</item>
+        <item quantity="one">Vil du give ^1 tilladelse til at flytte ^2 billede til papirkurven?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">Vil du give ^1 tilladelse til at flytte ^2 videoer til papirkurven?</item>
+        <item quantity="one">Vil du give ^1 tilladelse til at flytte ^2 video til papirkurven?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">Vil du give ^1 tilladelse til at flytte ^2 lydfiler ud af papirkurven?</item>
+        <item quantity="one">Vil du give ^1 tilladelse til at flytte ^2 lydfil ud af papirkurven?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">Vil du give ^1 tilladelse til at flytte ^2 elementer ud af papirkurven?</item>
+        <item quantity="one">Vil du give ^1 tilladelse til at flytte ^2 element ud af papirkurven?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">Vil du give ^1 tilladelse til at flytte ^2 billeder ud af papirkurven?</item>
+        <item quantity="one">Vil du give ^1 tilladelse til at flytte ^2 billede ud af papirkurven?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">Vil du give ^1 tilladelse til at flytte ^2 videoer ud af papirkurven?</item>
+        <item quantity="one">Vil du give ^1 tilladelse til at flytte ^2 video ud af papirkurven?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">Vil du give ^1 tilladelse til at ændre ^2 lydfiler?</item>
+        <item quantity="one">Vil du give ^1 tilladelse til at ændre ^2 lydfil?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">Vil du give ^1 tilladelse til at ændre ^2 elementer?</item>
+        <item quantity="one">Vil du give ^1 tilladelse til at ændre ^2 element?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">Vil du give ^1 tilladelse til at ændre ^2 billeder?</item>
+        <item quantity="one">Vil du give ^1 tilladelse til at ændre ^2 billede?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">Vil du give ^1 tilladelse til at ændre ^2 videoer?</item>
+        <item quantity="one">Vil du give ^1 tilladelse til at ændre ^2 video?</item>
+    </plurals>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ບ່ອນຈັດເກັບຂໍ້ມູນລາຍຊື່ຜູ່ຕິດຕໍ່</string>
+    <string name="debug_dump_database_message">ທ່ານກຳລັງຈະ 1) ສ້າງສຳເນົາຂອງຖານຂໍ້ມູນເຊິ່ງຈະມີ ຂໍ້ມູນທີ່ກ່ຽວຂ້ອງກັບລາຍຊື່ຜູ່ຕິດຕໍ່ ແລະບັນທຶກການໂທທັງໝົດ ເພື່ອຈັດເກັບໃນບ່ອນຈັດເກັບຂໍ້ມູນພາຍໃນ ແລະ 2) ສົ່ງມັນໄປທາງອີເມວ. ຫຼັງຈາກທ່ານສຳເນົາຂໍ້ມູນທີ່ສ້າງອອກຈາກອຸປະກອນນີ້ ຫຼືສົ່ງມັນຜ່ານທາງອີເມວສຳເລັດແລ້ວ ຢ່າລືມລຶບມັນອອກໂດຍທັນທີ.</string>
+    <string name="debug_dump_delete_button">ລຶບອອກດຽວນີ້</string>
+    <string name="debug_dump_email_body">ໄຟລ໌ທີ່ແນບມານຳ ແມ່ນຖານຂໍ້ມູນຂອງລາຍຊື່ຜູ່ຕິດຕໍ່ຂອງຂ້ອຍ. ກະລຸນາຈັດການດ້ວຍຄວາມລະມັດລະວັງ.</string>
+    <string name="debug_dump_email_sender_picker">ເລືອກໂປຣແກຣມເພື່ອສົ່ງໄຟລ໌ຂອງທ່ານ</string>
+    <string name="debug_dump_email_subject">ແນບໄຟລ໌ຖານຂໍ້ມູນລາຍຊື່ຜູ່ຕິດຕໍ່ແລ້ວ</string>
+    <string name="debug_dump_start_button">ເລີ່ມ​ຕົ້ນ</string>
+    <string name="debug_dump_title">ສຳເນົາຖານຂໍ້ມູນລາຍຊື່ຜູ່ຕິດຕໍ່</string>
+    <string name="default_directory">ລາຍຊື່ຜູ້ຕິດຕໍ່</string>
+    <string name="local_invisible_directory">ອື່ນໆ</string>
+    <string name="provider_label">ລາຍຊື່ຜູ້ຕິດຕໍ່</string>
+    <string name="sharedUserLabel">ແອັບພລິເຄຊັນຫຼັກຂອງ Android</string>
+    <string name="upgrade_out_of_memory_notification_text">ແຕະເພື່ອສຳເລັດການອັບເກຣດ.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">ການອັບເກຣດລາຍຊື່ຜູ່ຕິດຕໍ່ ຈະຕ້ອງໃຊ້ໜ່ວຍຄວາມຈຳເພີ່ມຕື່ມ.</string>
+    <string name="upgrade_out_of_memory_notification_title">ອັບເກຣດບ່ອນຈັດເກັບຂໍ້ມູນລາຍຊື່ຜູ່ຕິດຕໍ່</string>
+    <string name="voicemail_from_column">"ຂໍ້ຄວາມສຽງຈາກ "</string>
+</resources>

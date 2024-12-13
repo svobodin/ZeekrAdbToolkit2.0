@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dialog_fragment_width">356.0dip</dimen>
+    <dimen name="sud_decor_padding_top">128.0dip</dimen>
+</resources>

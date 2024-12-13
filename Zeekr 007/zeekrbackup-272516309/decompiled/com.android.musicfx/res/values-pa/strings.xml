@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">ਬੇਸ ਬੂਸਟ</string>
+    <string name="ci_extreme">FX ਬੂਸਟਰ</string>
+    <string name="classical">ਕਲਾਸਿਕਲ</string>
+    <string name="dance">ਡਾਂਸ</string>
+    <string name="eq_dialog_title">ਈਕਵਲਾਇਜ਼ਰ</string>
+    <string name="flat">ਫ਼ਲੈਟ</string>
+    <string name="folk">ਫ਼ੌਕ</string>
+    <string name="headset_plug">ਇਨ੍ਹਾਂ ਪ੍ਰਭਾਵਾਂ ਲਈ ਹੈੱਡਫ਼ੋਨ ਲਗਾਓ।</string>
+    <string name="heavy_metal">ਹੈਵੀ ਮੈਟਲ</string>
+    <string name="hip_hop">ਹਿੱਪ ਹੌਪ</string>
+    <string name="jazz">ਜੈਜ਼</string>
+    <string name="no_effects">ਪ੍ਰਭਾਵ ਉਪਲਬਧ ਨਹੀਂ ਹਨ।</string>
+    <string name="normal">ਸਧਾਰਨ</string>
+    <string name="picker_title">ਸੰਗੀਤ ਪ੍ਰਭਾਵਾਂ ਲਈ ਕੰਟਰੋਲ ਪੈਨਲ</string>
+    <string name="pop">ਪੌਪ</string>
+    <string name="rock">ਰੌਕ</string>
+    <string name="setup">ਸੈੱਟਅੱਪ ਕਰੋ</string>
+    <string name="user">ਵਰਤੋਂਕਾਰ</string>
+    <string name="virtualizer_strength">ਸਰਾਊਂਡ ਸਾਊਂਡ</string>
+</resources>

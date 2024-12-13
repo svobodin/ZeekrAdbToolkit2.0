@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">ማስተሳሰርን አጥፋ</string>
+    <string name="no_upstream_notification_message">መሣሪያዎችን ማገናኘት አይቻልም</string>
+    <string name="no_upstream_notification_title">ማስተሳሰር ምንም በይነመረብ የለውም</string>
+    <string name="upstream_roaming_notification_message">በሚያንዣብብበት ጊዜ ተጨማሪ ክፍያዎች ተፈጻሚ ሊሆኑ ይችላሉ</string>
+    <string name="upstream_roaming_notification_title">መገናኛ ነጥብ ወይም ማስተሳሰር በርቷል</string>
+</resources>

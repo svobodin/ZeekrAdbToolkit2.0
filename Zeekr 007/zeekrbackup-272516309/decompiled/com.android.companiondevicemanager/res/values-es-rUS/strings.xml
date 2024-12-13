@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Administrador de dispositivo complementario</string>
+    <string name="chooser_title">Elige un %1$s para que &lt;strong>%2$s&lt;/strong> lo administre</string>
+    <string name="confirmation_title">Permite que &lt;strong>%1$s&lt;/strong> administre tu &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_no">No permitir</string>
+    <string name="consent_yes">Permitir</string>
+    <string name="profile_name_generic">dispositivo</string>
+    <string name="profile_name_watch">reloj</string>
+    <string name="profile_summary">Esta app es necesaria para administrar tu %1$s. %2$s</string>
+</resources>

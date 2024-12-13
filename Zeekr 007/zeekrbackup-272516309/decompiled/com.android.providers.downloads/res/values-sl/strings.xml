@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Upravitelj prenosov</string>
+    <string name="button_cancel_download">Prekliči</string>
+    <string name="button_queue_for_wifi">Čakalna vrsta</string>
+    <string name="button_start_now">Začni zdaj</string>
+    <string name="download_error">Neuspešno</string>
+    <string name="download_no_application_title">Datoteke ni mogoče odpreti</string>
+    <string name="download_queued">V čakalni vrsti</string>
+    <string name="download_remaining">Še %s</string>
+    <string name="download_running">Poteka</string>
+    <string name="download_running_percent">Poteka – %s</string>
+    <string name="download_unknown_title">&lt;Brez naslova></string>
+    <string name="notification_download_complete">Prenos je končan.</string>
+    <string name="notification_download_failed">Prenos ni uspel.</string>
+    <string name="notification_need_wifi_for_size">Zahtev. je povez. Wi-Fi.</string>
+    <string name="notification_paused_in_background">Začas. ustav. v ozadju.</string>
+    <string name="permdesc_accessAllDownloads">Dovoli aplikaciji prikaz in spreminjanje vseh prenosov, ki jih je začela poljubna aplikacija v sistemu.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Dovoli aplikaciji prenašanje datotek v predpomnilnik za prenose, ki ga ni mogoče samodejno izbrisati, ko upravitelj prenosov potrebuje več prostora.</string>
+    <string name="permdesc_downloadCompletedIntent">Dovoli aplikaciji pošiljanje obvestil o končanih prenosih. Zlonamerne aplikacije lahko s tem zmedejo druge aplikacije, ki prenašajo datoteke.</string>
+    <string name="permdesc_downloadManager">Dovoli aplikaciji dostopanje do upravitelja prenosov in njegovo uporabo za prenos datotek. Zlonamerne aplikacije lahko s tem motijo prenose in dostopajo do zasebnih podatkov.</string>
+    <string name="permdesc_downloadManagerAdvanced">Dovoli aplikaciji dostopanje do dodatnih funkcij upravitelja prenosov. Zlonamerne aplikacije lahko s tem motijo prenose in dostopajo do zasebnih podatkov.</string>
+    <string name="permdesc_downloadWithoutNotification">Dovoli aplikaciji prenos datotek z upraviteljem prenosov, brez prikaza obvestila uporabniku.</string>
+    <string name="permlab_accessAllDownloads">Dostop do vseh sistemskih prenosov</string>
+    <string name="permlab_downloadCacheNonPurgeable">Rezerviraj prostor v predpomnilniku za prenose</string>
+    <string name="permlab_downloadCompletedIntent">Pošlji obvestila o prenosih.</string>
+    <string name="permlab_downloadManager">Dostop do upravitelja prenosov.</string>
+    <string name="permlab_downloadManagerAdvanced">Dodatne funkcije upravitelja prenosov.</string>
+    <string name="permlab_downloadWithoutNotification">prenos datotek brez obvestila</string>
+    <string name="root_downloads">Prenosi</string>
+    <string name="storage_description">Prenosi</string>
+    <string name="wifi_recommended_body">"Zaradi prenosa, velikega %1$s , se lahko porabi baterija in/ali prekomerno uporabijo mobilni podatki, kar vam lahko operater glede na naročnino zaračuna.
+
+Dotaknite se %2$s, če želite prenesti, ko boste povezani v Wi-Fi."</string>
+    <string name="wifi_recommended_title">Želite postaviti v čakalno vrsto za poznejši prenos?</string>
+    <string name="wifi_required_body">"Če želite dokončati prenos, velik %1$s , morate uporabiti povezavo Wi-Fi. 
+
+Dotaknite se možnosti %2$s , če želite začeti ta prenos naslednjič, ko boste povezani v omrežje Wi-Fi."</string>
+    <string name="wifi_required_title">Prenos je prevelik za operaterjevo omrežje</string>
+</resources>

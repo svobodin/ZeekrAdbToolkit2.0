@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_country_names">
+        <item>シントマールテン</item>
+        <item>オランダ領カリブ</item>
+        <item>キュラソー</item>
+        <item>南スーダン</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>オーストラリア中部 - NT</item>
+        <item>オーストラリア中部 - SA</item>
+        <item>オーストラリア東部 - QLD</item>
+        <item>オーストラリア東部 - NSW</item>
+        <item>山岳部標準 - ドーソンクリーク</item>
+        <item>中部標準 - サスカチュワン</item>
+        <item>東部標準 - アティコカン</item>
+        <item>大西洋標準 - ケベック</item>
+        <item>ハワイアリューシャン - ハワイ</item>
+        <item>ハワイアリューシャン - アラスカ</item>
+        <item>太平洋標準 - メトラカトラ</item>
+        <item>山岳部標準 - アリゾナ</item>
+        <item>太平洋 - バハカリフォルニア</item>
+        <item>山岳部 - チワワ</item>
+        <item>中部 - タマウリパス</item>
+        <item>山岳部 - ソノラ</item>
+        <item>東アフリカ時間</item>
+        <item>大西洋標準時</item>
+        <item>大西洋標準時</item>
+        <item>東ヨーロッパ時間</item>
+        <item>カリーニングラード時間</item>
+        <item>アマゾン - ロンドニア</item>
+        <item>ブラジリア - パラー</item>
+    </string-array>
+</resources>

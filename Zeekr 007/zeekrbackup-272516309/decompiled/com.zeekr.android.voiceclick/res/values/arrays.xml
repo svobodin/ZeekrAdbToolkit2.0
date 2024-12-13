@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="common_tts_reply">
+        <item>好的</item>
+        <item>遵命</item>
+        <item>收到</item>
+        <item>搞定</item>
+    </string-array>
+    <string-array name="enter_plan_route_tts">
+        <item>TTS_Common_Navi_interaction_5_12</item>
+        <item>TTS_Common_Navi_interaction_5_13</item>
+        <item>TTS_Common_Navi_interaction_5_14</item>
+    </string-array>
+    <string-array name="ignore_gamepkg">
+        <item>com.yongshi.tenojo.zeekr</item>
+        <item>com.Apinsky.Lite2048.zeekr</item>
+        <item>com.netease.aceracer</item>
+        <item>com.netease.party</item>
+    </string-array>
+</resources>

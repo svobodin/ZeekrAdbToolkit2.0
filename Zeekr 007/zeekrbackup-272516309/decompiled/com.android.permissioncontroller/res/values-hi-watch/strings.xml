@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="current_permission_template">%1$s / %2$s</string>
+    <string name="permission_summary_enforced_by_policy">बदला नहीं जा सकता</string>
+    <string name="grant_dialog_button_deny_dont_ask_again">अनुमति न दें, दोबारा न पूछें</string>
+    <string name="preference_show_system_apps">सिस्टम के ऐप्लिकेशन दिखाएं</string>
+    <string name="generic_cancel">रद्द करें</string>
+    <string name="generic_yes">हां</string>
+</resources>

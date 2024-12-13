@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="driving_power_flow_car_model" id="0x7f010000" />
+    <public type="drawable" name="tyre_pressure_car_model" id="0x7f010001" />
+    <public type="drawable" name="vehicle_car_logo_cs" id="0x7f010002" />
+    <public type="drawable" name="vehicle_car_model" id="0x7f010003" />
+    <public type="drawable" name="widget_iv_tire_left_green" id="0x7f010004" />
+    <public type="drawable" name="widget_iv_tire_left_red" id="0x7f010005" />
+    <public type="drawable" name="widget_iv_tire_right_green" id="0x7f010006" />
+    <public type="drawable" name="widget_iv_tire_right_red" id="0x7f010007" />
+</resources>

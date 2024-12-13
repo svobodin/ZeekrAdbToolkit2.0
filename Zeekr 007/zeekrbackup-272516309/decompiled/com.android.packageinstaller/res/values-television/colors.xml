@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lb_action_fragment_background">#ff111111</color>
+    <color name="lb_content_breadcrumb_text_color">#88f1f1f1</color>
+    <color name="lb_content_description_text_color">#88f1f1f1</color>
+    <color name="lb_content_title_text_color">#fff1f1f1</color>
+    <color name="lb_dialog_activity_background">#77000000</color>
+    <color name="lb_header_banner_color">#ff1f292d</color>
+    <color name="off_white">#ffeeeeee</color>
+</resources>

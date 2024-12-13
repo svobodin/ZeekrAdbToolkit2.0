@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Сховішча кантактаў</string>
+    <string name="debug_dump_database_message">Вы збіраецеся 1) зрабіць копію базы дадзеных, якая ўключае ў сябе ўсе звесткi пра кантакты і званкi на ўнутранай памяці, і 2) адправiць яго па электроннай пошце. Не забудзьцеся выдаліць копію, як толькі вы паспяхова скапіруеце іх на прыладу ці атрымаеце па электроннай пошце.</string>
+    <string name="debug_dump_delete_button">Выдаліць зараз</string>
+    <string name="debug_dump_email_body">Далучана база дадзеных маiх кантактаў з усёй інфармацыяй. Працуйце з ёй уважліва.</string>
+    <string name="debug_dump_email_sender_picker">Выберыце праграму для адпраўкі файла</string>
+    <string name="debug_dump_email_subject">Далучаны кантакты Dd</string>
+    <string name="debug_dump_start_button">Пачаць</string>
+    <string name="debug_dump_title">Капiраваць базу дадзеных кантактаў</string>
+    <string name="default_directory">Кантакты</string>
+    <string name="local_invisible_directory">Іншае</string>
+    <string name="provider_label">Кантакты</string>
+    <string name="sharedUserLabel">Асноўныя праграмы для Android</string>
+    <string name="upgrade_out_of_memory_notification_text">Дакраніцеся, каб скончыць абнаўленне.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Для абнаўлення кантактаў патрабуецца больш памяці.</string>
+    <string name="upgrade_out_of_memory_notification_title">Каб абнавiць кантакты, патрабуецца больш памяцi</string>
+    <string name="voicemail_from_column">"Галасавое паведамленне ад "</string>
+</resources>

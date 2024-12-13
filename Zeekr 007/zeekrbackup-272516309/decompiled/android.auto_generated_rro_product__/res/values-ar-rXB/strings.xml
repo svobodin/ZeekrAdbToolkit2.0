@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_UsbDeviceConnectionHandling_component">‏‮android.car.usb.handler/android.car.usb.handler.UsbHostManagementActivity‬‏</string>
+    <string name="config_dataUsageSummaryComponent">‏‮com.android.car.settings/com.android.car.settings.datausage.DataWarningAndLimitActivity‬‏</string>
+    <string name="config_dozeComponent">‏‮com.android.systemui/com.android.systemui.doze.DozeService‬‏</string>
+    <string name="config_headlineFontFamilyMedium">‏‮sans-serif-medium‬‏</string>
+    <string name="config_ims_package">‏‮org.codeaurora.ims‬‏</string>
+    <string name="owner_name">‏‮Driver‬‏</string>
+    <string name="permlab_accessCoarseLocation">‏‮access‬‏ ‏‮approximate‬‏ ‏‮location‬‏ ‏‮only‬‏ ‏‮in‬‏ ‏‮the‬‏ ‏‮foreground‬‏</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">‏‮Turn‬‏ ‏‮on‬‏ ‏‮microphone‬‏</string>
+</resources>

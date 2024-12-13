@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Skipanalína</string>
+    <string name="bugreport_add_details_to_zip_failed">Ekki tókst að bæta upplýsingum um villutilkynningu við ZIP-skrá</string>
+    <string name="bugreport_confirm">Villutilkynningar innihalda gögn úr ýmsum annálaskrám kerfisins sem gætu innihaldið upplýsingar sem þú telur viðkvæmar (til dæmis notkun forrita og staðsetningarupplýsingar). Deildu villutilkynningum bara með fólki og forritum sem þú treystir.</string>
+    <string name="bugreport_confirm_dont_repeat">Ekki sýna þetta aftur</string>
+    <string name="bugreport_finished_pending_screenshot_text">Ýttu til að deila villutilkynningunni án skjámyndar eða hinkraðu þangað til skjámyndin er tilbúin</string>
+    <string name="bugreport_finished_text">Ýttu til að deila villutilkynningunni</string>
+    <string name="bugreport_finished_title">Villutilkynning #%d búin til</string>
+    <string name="bugreport_in_progress_title">Verið er að búa til villutilkynningu #%d</string>
+    <string name="bugreport_info_action">Nánar</string>
+    <string name="bugreport_info_description">Villusamantekt</string>
+    <string name="bugreport_info_dialog_title">Upplýsingar villutilkynningar #%d</string>
+    <string name="bugreport_info_name">Skráarheiti</string>
+    <string name="bugreport_info_title">Heiti villu</string>
+    <string name="bugreport_intent_chooser_title">Deila villutilkynningu</string>
+    <string name="bugreport_notification_channel">Villutilkynningar</string>
+    <string name="bugreport_screenshot_action">Skjámynd</string>
+    <string name="bugreport_screenshot_failed">Ekki tókst að taka skjámynd.</string>
+    <string name="bugreport_screenshot_taken">Skjámynd tekin.</string>
+    <string name="bugreport_storage_title">Villutilkynningar</string>
+    <string name="bugreport_unnamed">án heitis</string>
+    <string name="bugreport_unreadable_text">Ekki var hægt að lesa úr villuskýrslunni</string>
+    <string name="bugreport_updating_title">Bætir upplýsingum við villutilkynningu</string>
+    <string name="bugreport_updating_wait">Augnablik...</string>
+    <string name="save">Vista</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

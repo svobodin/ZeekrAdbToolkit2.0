@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">नेटवर्क व्यवस्थापक</string>
+    <string name="connected">कनेक्ट केले आहे</string>
+    <string name="notification_channel_description_connected">डिव्हाइस यशस्वीरीत्या कॅप्टिव्ह पोर्टल नेटवर्कमध्ये ऑथेंटिकेट केल्यावर दाखवल्या जाणाऱ्या सूचना</string>
+    <string name="notification_channel_description_network_venue_info">नेटवर्कचे स्थळासंबंधित माहितीचे पेज असल्याचे दाखवण्याकरिता सूचना दाखवल्या जातात</string>
+    <string name="notification_channel_name_connected">कॅप्टिव्ह पोर्टल ऑथेंटिकेशन</string>
+    <string name="notification_channel_name_network_venue_info">नेटवर्कच्या स्थळासंबंधित माहिती</string>
+    <string name="tap_for_info">कनेक्ट केले / वेबसाइट पाहण्यासाठी टॅप करा</string>
+</resources>

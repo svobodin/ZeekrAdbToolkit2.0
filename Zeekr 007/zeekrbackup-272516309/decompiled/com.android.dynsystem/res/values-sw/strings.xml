@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">Tafadhali weka nenosiri lako na uende kwenye Dynamic System Updates</string>
+    <string name="notification_action_cancel">Ghairi</string>
+    <string name="notification_action_discard">Ondoa</string>
+    <string name="notification_action_reboot_to_dynsystem">Zima kisha uwashe</string>
+    <string name="notification_action_reboot_to_origin">Zima kisha uwashe</string>
+    <string name="notification_dynsystem_in_use">Inatumia Dynamic System kwa sasa. Zima kisha uwashe ili utumie toleo halisi la Android.</string>
+    <string name="notification_image_validation_failed">Imeshindwa kuthibitisha nakala. Ghairi usakinishaji.</string>
+    <string name="notification_install_completed">Dynamic system iko tayari. Ili uanze kuitumia, zima kisha uwashe kifaa chako.</string>
+    <string name="notification_install_failed">Imeshindwa kusakinisha</string>
+    <string name="notification_install_inprogress">Inasakinisha</string>
+    <string name="toast_dynsystem_discarded">Umeondoa Dynamic System</string>
+    <string name="toast_failed_to_disable_dynsystem">Imeshindwa kuzima Dynamic System</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Imeshindwa kuzima na kuwasha au kupakia Dynamic System</string>
+</resources>

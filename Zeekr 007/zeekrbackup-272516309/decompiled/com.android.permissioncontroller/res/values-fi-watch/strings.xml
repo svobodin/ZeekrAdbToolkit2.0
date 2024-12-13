@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_summary_enforced_by_policy">Ei muutettavissa</string>
+    <string name="grant_dialog_button_deny_dont_ask_again">Hylkää, äläkä kysy uudelleen</string>
+    <string name="preference_show_system_apps">Näytä järjestelmäsovellukset</string>
+    <string name="generic_cancel">Peru</string>
+    <string name="generic_yes">Kyllä</string>
+</resources>

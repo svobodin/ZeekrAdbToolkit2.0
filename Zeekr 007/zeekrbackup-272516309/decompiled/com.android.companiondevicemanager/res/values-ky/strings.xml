@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Companion Device Manager</string>
+    <string name="chooser_title">%1$s &lt;strong>%2$s&lt;/strong> тарабынан башкарылсын</string>
+    <string name="confirmation_title">&lt;strong>%1$s&lt;/strong> колдонмосуна &lt;strong>%2$s&lt;/strong> түзмөгүңүздү башкарууга уруксат бериңиз</string>
+    <string name="consent_no">Уруксат берилбесин</string>
+    <string name="consent_yes">Уруксат берүү</string>
+    <string name="profile_name_generic">түзмөк</string>
+    <string name="profile_name_watch">саат</string>
+    <string name="profile_summary">Бул колдонмо %1$s профилиңизди башкаруу үчүн керек. %2$s</string>
+</resources>

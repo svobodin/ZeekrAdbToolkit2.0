@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">Басты күчөтүү</string>
+    <string name="ci_extreme">FX күчөткүч</string>
+    <string name="classical">Классикалык</string>
+    <string name="dance">Бий</string>
+    <string name="eq_dialog_title">Эквалайзер</string>
+    <string name="flat">Интонациясыз</string>
+    <string name="folk">Элдик</string>
+    <string name="headset_plug">Бул эффекттерди угуу үчүн гарнитураны туташтырыңыз.</string>
+    <string name="heavy_metal">Оор металл</string>
+    <string name="hip_hop">Хип-хоп</string>
+    <string name="jazz">Джаз</string>
+    <string name="no_effects">Эффекттер жеткиликсиз.</string>
+    <string name="normal">Орточо</string>
+    <string name="picker_title">Музыкалык эффекттерди башкаруу панели</string>
+    <string name="pop">Поп</string>
+    <string name="rock">Рок</string>
+    <string name="setup">Жөндөө</string>
+    <string name="user">Колдонуучу</string>
+    <string name="virtualizer_strength">Көлөмдүү үн</string>
+</resources>

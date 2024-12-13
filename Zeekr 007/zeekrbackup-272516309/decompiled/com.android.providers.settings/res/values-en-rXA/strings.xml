@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">[Šéţţîñĝš Šţöŕåĝé one two three]</string>
+    <string name="config_def_dialer_app">[çöḿ.éçåŕх.ɓţþĥöñé one two three]</string>
+    <string name="config_def_input_method">[çöḿ.šöĝöû.îñþûţḿéţĥöð.îöţ/çöḿ.šöĝöû.îöţ.ŠöĝöûÎñþûţḾéţĥöðŠéŕVîçé one two three four five six seven]</string>
+    <string name="def_backup_agent_timeout_parameters">[]</string>
+    <string name="def_backup_local_transport_parameters">[]</string>
+    <string name="def_backup_manager_constants">[]</string>
+    <string name="def_device_name">[»%1$s« »%2$s« one]</string>
+    <string name="def_device_name_simple">[»%1$s«]</string>
+    <string name="def_nfc_payment_component">[]</string>
+    <string name="wifi_softap_config_change">[Ĥöţšþöţ šéţţîñĝš ĥåVé çĥåñĝéð one two three four]</string>
+    <string name="wifi_softap_config_change_summary">[Ţåþ ţö šéé ðéţåîļš one two three]</string>
+</resources>

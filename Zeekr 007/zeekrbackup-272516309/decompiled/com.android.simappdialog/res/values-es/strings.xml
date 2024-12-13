@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cuadro de diálogo de la aplicación de SIM</string>
+    <string name="install_carrier_app_defer_action">Ahora no</string>
+    <string name="install_carrier_app_description">Para que tu nueva SIM funcione correctamente, tienes que instalar la aplicación %1$s</string>
+    <string name="install_carrier_app_description_default">Para que tu nueva SIM funcione correctamente, tienes que instalar la aplicación del operador</string>
+    <string name="install_carrier_app_download_action">Descargar aplicación</string>
+    <string name="install_carrier_app_title">Activar servicio móvil</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">Atrás</string>
+    <string name="suw_more_button_label">Más</string>
+    <string name="suw_next_button_label">Siguiente</string>
+</resources>

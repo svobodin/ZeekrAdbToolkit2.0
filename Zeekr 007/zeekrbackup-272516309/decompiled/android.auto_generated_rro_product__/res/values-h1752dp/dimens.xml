@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="car_keyline_1">48.0dip</dimen>
+    <dimen name="car_keyline_2">108.0dip</dimen>
+    <dimen name="car_keyline_3">152.0dip</dimen>
+    <dimen name="car_keyline_4">182.0dip</dimen>
+    <dimen name="car_app_bar_height">112.0dip</dimen>
+    <dimen name="car_single_line_list_item_height">128.0dip</dimen>
+    <dimen name="car_action1_size">26.0sp</dimen>
+    <dimen name="car_body1_size">32.0sp</dimen>
+    <dimen name="car_body2_size">26.0sp</dimen>
+    <dimen name="car_card_action_bar_height">76.0dip</dimen>
+    <dimen name="car_card_header_height">76.0dip</dimen>
+    <dimen name="car_icon_size">44.0dip</dimen>
+    <dimen name="car_title2_size">32.0sp</dimen>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Жүктеп алу менеджері</string>
+    <string name="button_cancel_download">Бас тарту</string>
+    <string name="button_queue_for_wifi">Кезек</string>
+    <string name="button_start_now">Қазір бастау</string>
+    <string name="download_error">Сәтсіз</string>
+    <string name="download_no_application_title">Файлды аша алмады</string>
+    <string name="download_queued">Кезекте</string>
+    <string name="download_remaining">%s қалды</string>
+    <string name="download_running">Жүктелуде</string>
+    <string name="download_running_percent">Орындалуда, %s</string>
+    <string name="download_unknown_title">&lt;Атаусыз></string>
+    <string name="notification_download_complete">Жүктеу аяқталды.</string>
+    <string name="notification_download_failed">Жүктеу орындалмады.</string>
+    <string name="notification_need_wifi_for_size">Жүктеу өлшемі Wi-Fi байланысын қажет етеді.</string>
+    <string name="notification_paused_in_background">Артқы шепте тоқтатылған.</string>
+    <string name="permdesc_accessAllDownloads">Қолданбаға жүйедегі кез келген қолданба бастаған жүктеулерді көру және өзгерту мүмкіндігін береді.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Қолданбаға файлдарды жүктеу кэшіне жүктеу мүмкіндігін береді, ол жүктеу менеджеріне көбірек орын қажет болғанда автоматты түрде жойылмайды.</string>
+    <string name="permdesc_downloadCompletedIntent">Қолданбаға аяқталған жүктеулер туралы хабар жіберу мүмкіндігін береді. Залалды қолданбалар бұны файл жүктейтін басқа қолданбаларды шатастыру үшін қолдану мүмкін.</string>
+    <string name="permdesc_downloadManager">Қолданбаға жүктеу менеджеріне кіріп, оны файлдарды жүктеу үшін қолдану мүмкіндігін береді. Залалды қолданбалар бұны жүктеулерге кедергі жасау үшін және жеке ақпаратқа кіру үшін қолдануы мүмкін.</string>
+    <string name="permdesc_downloadManagerAdvanced">Қолданбаға жүктеу менеджерінің қосымша функцияларына кіру мүмкіндігін береді. Залалды қолданбалар бұны жүктеулерге кедергі жасау үшін және жеке ақпаратқа кіру үшін қолдануы мүмкін.</string>
+    <string name="permdesc_downloadWithoutNotification">Қолданбаға файлдарды пайдаланушыға ешқандай хабарларды көрсетпей, жүктеу менеджері арқылы жүктеу мүмкіндігін береді</string>
+    <string name="permlab_accessAllDownloads">Жүйе жүктеулерінің барлығына кіру мүмкіндігі</string>
+    <string name="permlab_downloadCacheNonPurgeable">Жүктеу кэшінде орын сақтау</string>
+    <string name="permlab_downloadCompletedIntent">Жүктеу хабарларын жіберу.</string>
+    <string name="permlab_downloadManager">Жүктеу менеджеріне кіру.</string>
+    <string name="permlab_downloadManagerAdvanced">Жүктеу менеджерінің қосымша функциялары.</string>
+    <string name="permlab_downloadWithoutNotification">файлдарды ескертусіз жүктеу</string>
+    <string name="root_downloads">Жүктеп алынған</string>
+    <string name="storage_description">Жүктеп алынғандар</string>
+    <string name="wifi_recommended_body">"%1$s  қазір жүктей бастау батарея ұзақтығын азайтуы және/немесе ұялы дерек байланысын тым көп қолдануға соқтыруы мүмкін, нәтижесінде дерекқор жоспарыңызға қарай ұялы операторыңыз қосымша төлем талап ету мүмкін.
+Келесі жолы Wi-Fi желісіне қосылғанда осы жүктеуді бастау үшін  
+ Түртіңіз %2$s."</string>
+    <string name="wifi_recommended_title">Кейінірек жүктеу үшін кезекке қойылсын ба?</string>
+    <string name="wifi_required_body">"%1$s  өлшемді жүктеуді аяқтау үшін сізге Wi-Fi қажет. Келесі жолы Wi-Fi желісіне қосылғанда осы жүктеуді бастау үшін 
+
+Түртіңіз %2$s ."</string>
+    <string name="wifi_required_title">Амалдық желі үшін жүктеу тым үлкен</string>
+</resources>

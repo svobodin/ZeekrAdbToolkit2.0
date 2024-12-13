@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crop_wallpaper">Nqampuna isithombe sangemuva</string>
+    <string name="wallpaper_instructions">Setha isithombe sangemuva</string>
+    <string name="wallpaper_load_fail">Ayikwazanga ukulayisha isithombe njengesithombe sangemuva</string>
+</resources>

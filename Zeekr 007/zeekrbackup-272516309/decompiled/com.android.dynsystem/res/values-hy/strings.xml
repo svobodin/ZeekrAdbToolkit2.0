@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">Մուտքագրեք ձեր գաղտնաբառը և անցեք համակարգի դինամիկ թարմացումների էջ</string>
+    <string name="notification_action_cancel">Չեղարկել</string>
+    <string name="notification_action_discard">Հրաժարվել</string>
+    <string name="notification_action_reboot_to_dynsystem">վերականգնել</string>
+    <string name="notification_action_reboot_to_origin">Վերագործարկել</string>
+    <string name="notification_dynsystem_in_use">Աշխատեցվում է դինամիկ համակարգը։ Վերագործարկեք՝ Android-ի նախկին տարբերակին անցնելու համար։</string>
+    <string name="notification_image_validation_failed">Չհաջողվեց հաստատել սկավառակի պատկերը։ Չեղարկեք տեղադրումը։</string>
+    <string name="notification_install_completed">Դինամիկ համակարգը պատրաստ է։ Այն օգտագործելու համար վերագործարկեք ձեր սարքը։</string>
+    <string name="notification_install_failed">Չհաջողվեց տեղադրել</string>
+    <string name="notification_install_inprogress">Տեղադրում</string>
+    <string name="toast_dynsystem_discarded">Դինամիկ համակարգի գործարկումը չեղարկվեց</string>
+    <string name="toast_failed_to_disable_dynsystem">Չհաջողվեց անջատել դինամիկ համակարգը</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Չհաջողվեց վերագործարկել կամ բեռնել դինամիկ համակարգը</string>
+</resources>

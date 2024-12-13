@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">ٹیدرنگ آف کریں</string>
+    <string name="no_upstream_notification_message">آلات منسلک نہیں ہو سکتے</string>
+    <string name="no_upstream_notification_title">ٹیدرنگ میں انٹرنیٹ نہیں ہے</string>
+    <string name="upstream_roaming_notification_message">رومنگ کے دوران اضافی چارجز لاگو ہو سکتے ہیں</string>
+    <string name="upstream_roaming_notification_title">ہاٹ اسپاٹ یا ٹیدرنگ آن ہے</string>
+</resources>

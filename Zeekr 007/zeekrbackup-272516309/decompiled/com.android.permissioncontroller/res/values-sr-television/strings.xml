@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="current_permission_template">%1$s/%2$s</string>
+    <string name="additional_permissions_decor_title">Додатне дозволе</string>
+    <string name="app_permissions_decor_title">Дозволе за апликације</string>
+    <string name="grant_dialog_button_deny_dont_ask_again">Одбиј и не питај поново</string>
+    <string name="grant_dialog_how_to_change">Ово можете да промените касније у Подешавањима > Апликације</string>
+    <string name="manage_permissions_decor_title">Дозволе за апликације</string>
+    <string name="permission_apps_decor_title">Дозволе за апликацију %1$s</string>
+    <string name="preference_show_system_apps">Прикажи системске апликације</string>
+    <string name="system_apps_decor_title">Дозволе за апликацију %1$s</string>
+</resources>

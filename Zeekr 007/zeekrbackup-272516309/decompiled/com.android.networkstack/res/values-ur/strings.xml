@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">نیٹ ورک مینیجر</string>
+    <string name="connected">منسلک ہے</string>
+    <string name="notification_channel_description_connected">جب آلہ کامیابی کے ساتھ ایک کیپٹو پورٹل نیٹ ورک پر تصدیق کرتا ہے تو اطلاعات کو دکھایا جاتا ہے</string>
+    <string name="notification_channel_description_network_venue_info">نیٹ ورک میں مقام سے متعلق معلومات کا صفحہ موجود ہے کی نشاندہی کے لیے اطلاعات کو دکھایا جاتا ہے</string>
+    <string name="notification_channel_name_connected">کیپٹو پورٹل کی تصدیق</string>
+    <string name="notification_channel_name_network_venue_info">نیٹ ورک کے مقام کی معلومات</string>
+    <string name="tap_for_info">منسلک ہے / ویب سائٹ ملاحظہ کرنے کیلئے تھپتھپائیں</string>
+</resources>

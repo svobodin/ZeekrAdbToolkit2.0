@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="scenario_engine_card_txt">#99b4b9be</color>
+    <color name="scenario_engine_menu_press">#cc3a404a</color>
+    <color name="scenario_engine_menu_unpress">#663a404a</color>
+</resources>

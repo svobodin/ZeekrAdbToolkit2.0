@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">براہ کرم اپنا پاس ورڈ درج کریں اور ڈائنیمک سسٹم اپ ڈیٹس پر جائیں</string>
+    <string name="notification_action_cancel">منسوخ کریں</string>
+    <string name="notification_action_discard">مسترد کریں</string>
+    <string name="notification_action_reboot_to_dynsystem">ری سٹارٹ کریں</string>
+    <string name="notification_action_reboot_to_origin">ری سٹارٹ کریں</string>
+    <string name="notification_dynsystem_in_use">‏فی الحال ہم ایک ڈائنیمک سسٹم چلا رہے ہیں۔ Android کا اصل ورژن استعمال کرنے کے لیے ری سٹارٹ کریں۔</string>
+    <string name="notification_image_validation_failed">ڈسک امیج کی توثیق ناکام ہو گئی۔ انسٹالیشن منسوخ کریں۔</string>
+    <string name="notification_install_completed">ڈائنیمک سسٹم تیار ہے۔ اس کا استعمال شروع کرنے کے لیے، اپنا آلہ ری سٹارٹ کریں۔</string>
+    <string name="notification_install_failed">انسٹال ناکام ہو گیا</string>
+    <string name="notification_install_inprogress">انسٹال جاری ہے</string>
+    <string name="toast_dynsystem_discarded">مسترد کردہ ڈائنیمک سسٹم</string>
+    <string name="toast_failed_to_disable_dynsystem">ڈائنیمک سسٹم کو غیر فعال کرنے میں ناکام</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">ڈائنیمک سسٹم کو ری سٹارٹ یا لوڈ نہیں کر سکتے</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Тармакка кирүү</string>
+    <string name="action_bar_title">%1$s аккаунтка кириңиз</string>
+    <string name="action_do_not_use_network">Бул тармак колдонулбасын</string>
+    <string name="action_use_network">Бул тармак кандай болсо, ошондой колдонулсун</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">Файлдардын жүктөлүп алынуусун көрсөткөн билдирмелер</string>
+    <string name="channel_description_downloads">Аягына чыккан же жокко чыгарылган жүктөп алууларды көрсөткөн билдирмелер</string>
+    <string name="channel_name_download_progress">Жүктөп алуунун аткарылышы</string>
+    <string name="channel_name_downloads">Жүктөлүп алынгандар</string>
+    <string name="custom_scheme_example">Мисалы, аккаунтка кирүү баракчасы аныктыгын текшерүү үчүн белгилүү бир колдонмону талап кылышы мүмкүн</string>
+    <string name="custom_scheme_warning">Кошулууга аракет кылып жаткан тармагыңыз башка колдонмону ачууну өтүнүүдө</string>
+    <string name="download_completed">Жүктөп алуу аяктады</string>
+    <string name="downloading_paramfile">%1$s жүктөлүп алынууда</string>
+    <string name="error_continue_via_browser">Баары бир серепчи аркылуу улантуу</string>
+    <string name="error_downloading_paramfile">%1$s жүктөлүп алынган жок</string>
+    <string name="no_bypass_error_vpnwarning">"Мындан тышкары, бул катаны айланып өтүү мүмкүн эмес, анткени, түзмөк учурда VPN'ди колдонууда."</string>
+    <string name="ok">ЖАРАЙТ</string>
+    <string name="page_info">Барак жөнүндө маалымат</string>
+    <string name="page_info_address">Дарек:</string>
+    <string name="ssl_error_date_invalid">Бул тастыктаманын күнү жараксыз.</string>
+    <string name="ssl_error_example">Мисалы, аккаунтка кирүү баракчасы көрсөтүлгөн уюмга таандык эмес болушу мүмкүн.</string>
+    <string name="ssl_error_expired">Бул тастыктаманын мөөнөтү өтүп кеткен.</string>
+    <string name="ssl_error_invalid">Бул тастыктама жараксыз.</string>
+    <string name="ssl_error_mismatch">Сайттын аталышы тастыктаманын аталышына дал келбейт.</string>
+    <string name="ssl_error_not_yet_valid">Бул тастыктама азырынча жараксыз.</string>
+    <string name="ssl_error_unknown">Тастыктамага байланыштуу белгисиз ката.</string>
+    <string name="ssl_error_untrusted">Бул тастыктама ишеничтүү мекеме аркылуу берилген эмес.</string>
+    <string name="ssl_error_view_certificate">Тастыктаманы көрүү</string>
+    <string name="ssl_error_warning">Кошулайын деген тармагыңызда коопсуздук көйгөйлөрү бар.</string>
+    <string name="ssl_security_warning_title">Коопсуздук эскертүүсү</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

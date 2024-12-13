@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">Tắt điểm phát sóng</string>
+    <string name="no_upstream_notification_message">Các thiết bị không thể kết nối Internet</string>
+    <string name="no_upstream_notification_title">Điểm phát sóng không có kết nối Internet</string>
+    <string name="upstream_roaming_notification_message">Bạn có thể mất thêm phí dữ liệu khi chuyển vùng</string>
+    <string name="upstream_roaming_notification_title">Điểm phát sóng đang bật</string>
+    <string name="upstream_roaming_notification_continue_button">Tiếp tục</string>
+</resources>

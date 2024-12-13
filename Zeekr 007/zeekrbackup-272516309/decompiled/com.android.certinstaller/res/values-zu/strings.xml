@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_missing_private_key">Ukhiye oyimfihlo uyadingeka ukuze kufakwe isitifiketi</string>
+    <string name="action_missing_user_cert">Isitifiketi siyadingeka ukuze kufakwe isitifiketi esiyimfihlo</string>
+    <string name="app_name">Isifaki Sesitifiketi</string>
+    <string name="ca_cert_is_added">Isitifiketi se-CA sifakiwe</string>
+    <string name="ca_certificate">Isitifiketi se-CA</string>
+    <string name="cert_missing_error">Ayikwazanga ukufaka ngoba ifayela lesitifiketi alikwazanga ukutholwa.</string>
+    <string name="cert_not_saved">Isitifiketi asifakiwe</string>
+    <string name="cert_read_error">Ayikwazanga ukufaka ngoba ifayela lesitifiketi alikwazanga ukufundwa.</string>
+    <string name="cert_temp_error">Ukuhluleka kwesikhashana. Sicela uzame futhi ngemuva kwesikhathi.</string>
+    <string name="cert_too_large_error">Ayikwazanga ukufaka ngoba usayizi wesitifiketi mkhulu kakhulu.</string>
+    <string name="certificate">Isitifiketi</string>
+    <string name="certificate_capabilities_warning">Qaphela: Umkhiphi walesi sitifiketi angahlola yonke ithrafikhi eya nesuka kudivayisi.</string>
+    <string name="certificate_name">Igama lesitifiketi</string>
+    <string name="credential_info">Iphakheji liqukethe:</string>
+    <string name="credential_password">Faka iphasiwedi ukukhipha amasitifiketi.</string>
+    <string name="credential_usage_label">Ukusetshenziswa kokuqinisekisa:</string>
+    <string name="done_label">KUQEDIWE</string>
+    <string name="extracting_pkcs12">Iyakhipha...</string>
+    <string name="install_done">%1$s ukuqinisekisa kungeziwe kumanethiwekhi alondoloziwe we-Wi-Fi.</string>
+    <string name="install_done_title">Ukuqinisekisa kufakiwe</string>
+    <string name="invalid_cert">Isitifiketi ailungile.</string>
+    <string name="invalid_certificate_close_button">Vala</string>
+    <string name="invalid_certificate_message">Leli fayela alikwazi ukusetshenziswa njenge-%1$s</string>
+    <string name="invalid_certificate_title">Awukwazi ukusebenzisa leli fayela</string>
+    <string name="n_cacrts">izitifiketi ze-%d C|A</string>
+    <string name="name_char_error">Thayipha igama eliqukethe izinhlamvu nezinombolo kuphela.</string>
+    <string name="name_credential_dialog_title">Qamba lesi sitifiketi</string>
+    <string name="name_empty_error">Thayipha igama.</string>
+    <string name="no_cert_to_saved">Asikho isitifiketi sokufakwa</string>
+    <string name="one_cacrt">isitifiketi esisodwa se-CA</string>
+    <string name="one_usercrt">isitifiketi esisodwa somsebenzisi</string>
+    <string name="one_userkey">ukhiye oyedwa womsebenzisi</string>
+    <string name="only_primary_user_allowed">Umnikazi kuphela wale divayisi ongafaka izitifiketi.</string>
+    <string name="p12_description">Isitifiketi sikukhiye wokugcina we-PKCS12.</string>
+    <string name="password_empty_error">Thayipha iphasiwedi.</string>
+    <string name="password_error">Thayipha iphasiwedi elungile.</string>
+    <string name="pick_file_title">Khetha isitifiketi</string>
+    <string name="pkcs12_file_password_dialog_title">Khipha kwi %s</string>
+    <string name="pkcs12_password_dialog_title">Susa izitifiketi</string>
+    <string name="redirect_ca_certificate_close_button">Vala</string>
+    <string name="redirect_ca_certificate_title">Faka izitifiketi ze-CA Kumasethingi</string>
+    <string name="redirect_ca_certificate_with_app_info_message">Lesi sitifiketi esivela ku-%1$s kufanele sifakwe kokuthi Amasethingi. Faka kuphela izitifiketi ze-CA kusukela kuzinhlangano ozithembayo.</string>
+    <string name="select_certificate_usage_title">Khetha uhlobo lwesitifiketi</string>
+    <string name="unable_to_save_cert">Ayikwazanga ukugcina isitifiketi. Isilondolozi samaphepha achaza ngomuntu asinikiwe amandla noma ukuqaliswa kahle.</string>
+    <string name="user_cert_is_added">Isitifiketi somsebenzisi sifakiwe</string>
+    <string name="user_certificate">I-VPN nesitifiketi somsebenzisi sohlelo lokusebenza</string>
+    <string name="userkey_type">I-Algorithm:</string>
+    <string name="wifi_cancel_label">Khansela</string>
+    <string name="wifi_cert_is_added">Isitifiketi se-Wi-Fi sifakiwe</string>
+    <string name="wifi_certificate">Isitifiketi se-Wi-Fi</string>
+    <string name="wifi_config_text">"Igama: %1$s
+FQDN: %2$s
+Ama-Consortium azulayo: %3$s
+Isimiso sokuqinisekisa: %4$s
+Indlela ye-Auth: EAP-%5$s
+"</string>
+    <string name="wifi_detail_label">Imininingwane</string>
+    <string name="wifi_detail_title">Imininingwane ye-%s</string>
+    <string name="wifi_dismiss_label">Cashisa</string>
+    <string name="wifi_install_label">Faka</string>
+    <string name="wifi_installer_detail">Faka ukuqinisekisa kwe-Wi-Fi ukuze uxhume kumanethiwekhi atholakalayo nge-%1$s.</string>
+    <string name="wifi_installer_download_error">Ifayela elilandiwe linezinkinga futhi alikwazi ukufakwa. Qinisekisa ukuthi ulande ifayela kusuka kumthombo olungile.</string>
+    <string name="wifi_installer_fail">Ayikwazi ukufaka ukuqinisekisa kwe-Wi-Fi. Zama ukulanda ifayela futhi.</string>
+    <string name="wifi_installer_fail_no_wifi">Vula i-Wi-Fi uphinde uzame futhi.</string>
+    <string name="wifi_installer_fail_no_wifi_title">Ukufaka kukhanseliwe</string>
+    <string name="wifi_installer_fail_title">Ayikwazi ukufaka</string>
+    <string name="wifi_installing_label">Iyafaka</string>
+    <string name="wifi_no_config">Lutho</string>
+    <string name="wifi_sim_config_text">"I-SIM: %s
+"</string>
+    <string name="wifi_title">Iphrofayela ye-Wi-Fi</string>
+    <string name="wifi_tls_config_text">"Isitifiketi seklayenti:
+%1$s
+Ukhiye: %2$s
+"</string>
+    <string name="wifi_trust_config_text">"Isitifiketi sokuthemba:
+%s
+"</string>
+    <string name="wifi_ttls_config_text">"Igama lomsebenzisi: %s
+"</string>
+</resources>

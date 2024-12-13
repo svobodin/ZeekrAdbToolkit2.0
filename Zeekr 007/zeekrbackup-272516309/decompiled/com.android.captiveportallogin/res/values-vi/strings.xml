@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Đăng nhập vào mạng</string>
+    <string name="action_bar_title">Đăng nhập vào %1$s</string>
+    <string name="action_do_not_use_network">Không sử dụng mạng này</string>
+    <string name="action_use_network">Sử dụng mạng này</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="channel_description_download_progress">Thông báo cho biết tiến trình tải tệp xuống</string>
+    <string name="channel_description_downloads">Thông báo cho biết quá trình tải tệp xuống đã hoàn tất hoặc bị hủy</string>
+    <string name="channel_name_download_progress">Tiến trình tải xuống</string>
+    <string name="channel_name_downloads">Tệp đã tải xuống</string>
+    <string name="custom_scheme_example">Ví dụ: trang đăng nhập có thể yêu cầu mở một ứng dụng cụ thể để xác thực</string>
+    <string name="custom_scheme_warning">Mạng bạn muốn tham gia đang yêu cầu mở một ứng dụng khác.</string>
+    <string name="download_completed">Đã hoàn tất tải xuống</string>
+    <string name="downloading_paramfile">Đang tải %1$s xuống</string>
+    <string name="error_continue_via_browser">Vẫn tiếp tục qua trình duyệt</string>
+    <string name="error_downloading_paramfile">Không thể tải %1$s xuống</string>
+    <string name="no_bypass_error_vpnwarning">Ngoài ra, bạn không thể bỏ qua lỗi này do thiết bị hiện đang chạy một mạng riêng ảo (VPN).</string>
+    <string name="ok">OK</string>
+    <string name="page_info">Thông tin trang</string>
+    <string name="page_info_address">Địa chỉ:</string>
+    <string name="ssl_error_date_invalid">Chứng chỉ này có ngày không hợp lệ.</string>
+    <string name="ssl_error_example">Ví dụ, trang đăng nhập có thể không thuộc về tổ chức được hiển thị.</string>
+    <string name="ssl_error_expired">Chứng chỉ này đã hết hạn.</string>
+    <string name="ssl_error_invalid">Chứng chỉ này không hợp lệ.</string>
+    <string name="ssl_error_mismatch">Tên của trang web không khớp với tên trên chứng chỉ.</string>
+    <string name="ssl_error_not_yet_valid">Chứng chỉ này chưa hợp lệ.</string>
+    <string name="ssl_error_unknown">Lỗi chứng chỉ không xác định.</string>
+    <string name="ssl_error_untrusted">Chứng chỉ này không xuất phát từ tổ chức phát hành đáng tin cậy.</string>
+    <string name="ssl_error_view_certificate">Xem chứng chỉ</string>
+    <string name="ssl_error_warning">Mạng mà bạn đang cố gắng tham gia có vấn đề về bảo mật.</string>
+    <string name="ssl_security_warning_title">Cảnh báo bảo mật</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="generic_cancel">Cancelar</string>
+    <string name="generic_yes">Sim</string>
+    <string name="current_permission_template">%1$s/%2$s</string>
+    <string name="grant_dialog_button_deny_dont_ask_again">Recusar e não perguntar nov.</string>
+    <string name="preference_show_system_apps">Mostrar aplicações do sistema</string>
+    <string name="permission_summary_enforced_by_policy">Não pode ser alterado</string>
+</resources>

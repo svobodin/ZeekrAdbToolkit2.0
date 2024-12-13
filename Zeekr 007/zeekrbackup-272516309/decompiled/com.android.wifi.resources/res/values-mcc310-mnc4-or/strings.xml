@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s : ଆପଣ Verizon କଭରେଜ୍ କ୍ଷେତ୍ର ବାହାରେ Verizon Wi-Fi Access ସହ ସଂଯୋଗ କରିପାରିବେ ନାହିଁ।</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s : ଆପଣ Verizon Wi-Fi Accessର ସଦସ୍ୟତା ନେଇ ନାହାଁନ୍ତି। ଦୟାକରି 800-922-0204ରେ ଆମକୁ କଲ୍ କରନ୍ତୁ।</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s : ଆପଣଙ୍କ Verizon Wi-Fi Access ଆକାଉଣ୍ଟରେ ଏକ ସମସ୍ୟା ହୋଇଛି। ଦୟାକରି 800-922-0204ରେ ଆମକୁ କଲ୍ କରନ୍ତୁ।</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s : ଆପଣ ପୂର୍ବରୁ Verizon Wi-Fi Access ସହ ସଂଯୋଗ କରିସାରିଛନ୍ତି।</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s : ଆପଣଙ୍କୁ Verizon Wi-Fi Access ସହ ସଂଯୋଗ କରିବାରେ ସମସ୍ୟା ହେଉଛି। ଦୟାକରି 800-922-0204ରେ ଆମକୁ କଲ୍ କରନ୍ତୁ।</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s : ଆପଣଙ୍କ Verizon Wi-Fi Access ଆକାଉଣ୍ଟରେ ଏକ ସମସ୍ୟା ହୋଇଛି। ଦୟାକରି 800-922-0204ରେ ଆମକୁ କଲ୍ କରନ୍ତୁ।</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s : Verizon Wi-Fi Access ଆପଣଙ୍କ ଲୋକେସନରେ ଉପଲବ୍ଧ ନାହିଁ। ପରେ ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ କିମ୍ବା ଏକ ଭିନ୍ନ ଲୋକେସନରୁ ଚେଷ୍ଟା କରନ୍ତୁ।</string>
+</resources>

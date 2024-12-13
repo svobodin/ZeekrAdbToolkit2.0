@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_upstream_notification_disable_button">"Desactiva el punt d'accés Wi‑Fi"</string>
+    <string name="no_upstream_notification_message">Els dispositius no es poden connectar a Internet</string>
+    <string name="no_upstream_notification_title">"El punt d'accés Wi‑Fi no té accés a Internet"</string>
+    <string name="upstream_roaming_notification_message">"És possible que s'apliquin costos addicionals en itinerància"</string>
+    <string name="upstream_roaming_notification_title">"El punt d'accés Wi‑Fi està activat"</string>
+    <string name="upstream_roaming_notification_continue_button">Continua</string>
+</resources>

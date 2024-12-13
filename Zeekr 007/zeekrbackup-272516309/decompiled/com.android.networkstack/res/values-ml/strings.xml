@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">നെറ്റ്‌വർക്ക് മാനേജർ</string>
+    <string name="connected">കണക്റ്റ് ചെയ്തു</string>
+    <string name="notification_channel_description_connected">ക്യാപ്റ്റീവ് പോർട്ടൽ നെറ്റ്‌വർക്കിൽ ഉപകരണം പരിശോധിച്ചുറപ്പിച്ചാൽ അറിയിപ്പുകൾ കാണിക്കും</string>
+    <string name="notification_channel_description_network_venue_info">നെറ്റ്‌വർക്കിന് സ്ഥല വിവരങ്ങൾക്കുള്ള പേജ് ഉണ്ടെന്ന് സൂചിപ്പിക്കാൻ അറിയിപ്പുകൾ കാണിക്കും</string>
+    <string name="notification_channel_name_connected">ക്യാപ്റ്റീവ് പോർട്ടൽ പരിശോധിക്കൽ</string>
+    <string name="notification_channel_name_network_venue_info">നെറ്റ്‌വർക്കിലെ സ്ഥല വിവരങ്ങൾ</string>
+    <string name="tap_for_info">കണക്‌റ്റ് ചെയ്‌തു / വെബ്‌സെെറ്റ് കാണാൻ ടാപ്പ് ചെയ്യൂ</string>
+</resources>

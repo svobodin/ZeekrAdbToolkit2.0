@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sim App Dialog</string>
+    <string name="install_carrier_app_defer_action">ଏବେ ନୁହେଁ</string>
+    <string name="install_carrier_app_description">ଆପଣଙ୍କ ନୂଆ SIM କାର୍ଡ ଠିକ୍ ଭାବେ କାମ କରିବା ପାଇଁ, ଆପଣଙ୍କୁ %1$s ଆପ୍ ଇନଷ୍ଟଲ୍ କରିବାକୁ ହେବ</string>
+    <string name="install_carrier_app_description_default">ଆପଣଙ୍କ ନୂଆ SIM କାର୍ଡ ଠିକ୍ ଭାବେ କାମ କରିବା ପାଇଁ, ଆପଣଙ୍କୁ ମୋବାଇଲ୍ କମ୍ପାନୀ ଆପ୍ ଇନଷ୍ଟଲ୍ କରିବାକୁ ହେବ</string>
+    <string name="install_carrier_app_download_action">ଆପ୍ ଡାଉନଲୋଡ୍ କରନ୍ତୁ</string>
+    <string name="install_carrier_app_title">ମୋବାଇଲ୍ ସେବା ସକ୍ରିୟ କରନ୍ତୁ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suw_back_button_label">ପଛକୁ ଫେରନ୍ତୁ</string>
+    <string name="suw_more_button_label">ଅଧିକ</string>
+    <string name="suw_next_button_label">ପରବର୍ତ୍ତୀ</string>
+</resources>

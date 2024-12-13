@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_program_type_a2_ef1e4s">
+        <item>全身舒展</item>
+        <item>深层释压</item>
+        <item>肩颈舒缓</item>
+        <item>背部推拿</item>
+        <item>脊椎释压</item>
+        <item>腰部推拿</item>
+        <item>腰臀舒缓</item>
+        <item>臀腿推拿</item>
+    </string-array>
+    <string-array name="list_program_type_cs1e_cx1e_cm2e">
+        <item>海浪</item>
+        <item>放松</item>
+        <item>清新</item>
+        <item>激情</item>
+        <item>舒展</item>
+        <item>背部</item>
+        <item>腰部</item>
+        <item>单点</item>
+    </string-array>
+    <string-array name="tab_hud">
+        <item>高度</item>
+        <item>亮度</item>
+        <item>角度</item>
+    </string-array>
+    <string-array name="tab_mirror">
+        <item>左后视镜</item>
+        <item>右后视镜</item>
+    </string-array>
+</resources>

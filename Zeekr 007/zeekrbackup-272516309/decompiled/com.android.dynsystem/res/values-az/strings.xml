@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">Parolunuzu daxil edin və Dinamik Sistem Güncəlləməsinə keçin</string>
+    <string name="notification_action_cancel">Ləğv edin</string>
+    <string name="notification_action_discard">İmtina edin</string>
+    <string name="notification_action_reboot_to_dynsystem">Yenidən başladın</string>
+    <string name="notification_action_reboot_to_origin">Yenidən başladın</string>
+    <string name="notification_dynsystem_in_use">Hazırda dinamik sistem icra olunur. Orijinal Android versiyasından istifadə etmək üçün yenidən başladın.</string>
+    <string name="notification_image_validation_failed">Görüntü doğrulanması alınmadı. Quraşdırmanı dayandırın.</string>
+    <string name="notification_install_completed">Dinamik sistem hazırdır. İstifadəyə başlamaq üçün cihazınızı yenidən başladın.</string>
+    <string name="notification_install_failed">Quraşdırılmadı</string>
+    <string name="notification_install_inprogress">Quraşdırılır</string>
+    <string name="toast_dynsystem_discarded">Dinamik sistemdən imtina edildi</string>
+    <string name="toast_failed_to_disable_dynsystem">Dinamik sistemi deaktiv etmək alınmadı</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Dinamik sistemi yenidən başlatmaq və ya yükləmək mümkün deyil</string>
+</resources>

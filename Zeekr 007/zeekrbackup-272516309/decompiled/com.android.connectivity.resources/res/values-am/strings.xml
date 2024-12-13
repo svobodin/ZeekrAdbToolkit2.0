@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">የስርዓት ግንኙነት መርጃዎች</string>
+    <string name="mobile_no_internet">የተንቀሳቃሽ ስልክ አውታረ መረብ የበይነመረብ መዳረሻ የለውም</string>
+    <string name="network_available_sign_in">ወደ አውታረ መረብ በመለያ ይግቡ</string>
+    <string name="network_partial_connectivity">%1$s የተገደበ ግንኙነት አለው</string>
+    <string name="network_partial_connectivity_detailed">ለማንኛውም ለማገናኘት መታ ያድርጉ</string>
+    <string name="network_switch_metered">ወደ %1$s ተቀይሯል</string>
+    <string name="network_switch_metered_detail">%2$s ምንም ዓይነት የበይነመረብ ግንኙነት በማይኖረው ጊዜ መሣሪያዎች %1$sን ይጠቀማሉ። ክፍያዎች ተፈጻሚ ሊሆኑ ይችላሉ።</string>
+    <string name="network_switch_metered_toast">ከ%1$s ወደ %2$s ተቀይሯል</string>
+    <string name="network_switch_type_name_unknown">አንድ ያልታወቀ አውታረ መረብ ዓይነት</string>
+    <string name="other_networks_no_internet">አውታረ መረብ የበይነመረብ መዳረሻ የለውም</string>
+    <string name="private_dns_broken_detailed">የግል ዲኤንኤስ አገልጋይ ሊደረስበት አይችልም</string>
+    <string name="wifi_available_sign_in">ወደ Wi-Fi አውታረ መረብ በመለያ ግባ</string>
+    <string name="wifi_no_internet">%1$s ምንም የበይነ መረብ መዳረሻ የለም</string>
+    <string name="wifi_no_internet_detailed">ለአማራጮች መታ ያድርጉ</string>
+</resources>

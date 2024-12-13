@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">Resursi za povezivanje sa sistemom</string>
+    <string name="mobile_no_internet">Mobilna mreža nema pristup internetu</string>
+    <string name="network_available_sign_in">Prijavite se na mrežu</string>
+    <string name="network_partial_connectivity">%1$s ima ograničenu vezu</string>
+    <string name="network_partial_connectivity_detailed">Dodirnite da biste se ipak povezali</string>
+    <string name="network_switch_metered">Prešli ste na tip mreže %1$s</string>
+    <string name="network_switch_metered_detail">Uređaj koristi tip mreže %1$s kada tip mreže %2$s nema pristup internetu. Možda će se naplaćivati troškovi.</string>
+    <string name="network_switch_metered_toast">Prešli ste sa tipa mreže %1$s na tip mreže %2$s</string>
+    <string name="network_switch_type_name_unknown">nepoznat tip mreže</string>
+    <string name="other_networks_no_internet">Mreža nema pristup internetu</string>
+    <string name="private_dns_broken_detailed">Pristup privatnom DNS serveru nije uspeo</string>
+    <string name="wifi_available_sign_in">Prijavljivanje na WiFi mrežu</string>
+    <string name="wifi_no_internet">%1$s nema pristup internetu</string>
+    <string name="wifi_no_internet_detailed">Dodirnite za opcije</string>
+</resources>

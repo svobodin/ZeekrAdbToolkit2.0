@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_description">Sisestage oma parool ja minge edasi rakendusse Dünaamiline süsteemivärskendus</string>
+    <string name="notification_action_cancel">Tühista</string>
+    <string name="notification_action_discard">Loobu</string>
+    <string name="notification_action_reboot_to_dynsystem">Taaskäivita</string>
+    <string name="notification_action_reboot_to_origin">Taaskäivita</string>
+    <string name="notification_dynsystem_in_use">Praegu kasutatakse dünaamilist süsteemi. Algse Androidi versiooni kasutamiseks taaskäivitage.</string>
+    <string name="notification_image_validation_failed">Kujutise kinnitamine ebaõnnestus. Katkestage installimine.</string>
+    <string name="notification_install_completed">Dünaamiline süsteem on valmis. Selle kasutamise alustamiseks taaskäivitage seade.</string>
+    <string name="notification_install_failed">Installimine ebaõnnestus</string>
+    <string name="notification_install_inprogress">Installimine on pooleli</string>
+    <string name="toast_dynsystem_discarded">Dünaamilisest süsteemist loobuti</string>
+    <string name="toast_failed_to_disable_dynsystem">Dünaamilise süsteemi keelamine ebaõnnestus</string>
+    <string name="toast_failed_to_reboot_to_dynsystem">Dünaamilist süsteemi ei saa taaskäivitada ega laadida</string>
+</resources>

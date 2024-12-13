@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">Viri povezljivosti sistema</string>
+    <string name="mobile_no_internet">Mobilno omrežje nima dostopa do interneta</string>
+    <string name="network_available_sign_in">Prijava v omrežje</string>
+    <string name="network_partial_connectivity">Povezljivost omrežja %1$s je omejena</string>
+    <string name="network_partial_connectivity_detailed">Dotaknite se, da kljub temu vzpostavite povezavo</string>
+    <string name="network_switch_metered">Preklopljeno na omrežje vrste %1$s</string>
+    <string name="network_switch_metered_detail">Naprava uporabi omrežje vrste %1$s, ko omrežje vrste %2$s nima dostopa do interneta. Prenos podatkov se lahko zaračuna.</string>
+    <string name="network_switch_metered_toast">Preklopljeno z omrežja vrste %1$s na omrežje vrste %2$s</string>
+    <string name="network_switch_type_name_unknown">neznana vrsta omrežja</string>
+    <string name="other_networks_no_internet">Omrežje nima dostopa do interneta</string>
+    <string name="private_dns_broken_detailed">Do zasebnega strežnika DNS ni mogoče dostopati</string>
+    <string name="wifi_available_sign_in">Prijavite se v omrežje Wi-Fi</string>
+    <string name="wifi_no_internet">Omrežje %1$s nima dostopa do interneta</string>
+    <string name="wifi_no_internet_detailed">Dotaknite se za možnosti</string>
+</resources>

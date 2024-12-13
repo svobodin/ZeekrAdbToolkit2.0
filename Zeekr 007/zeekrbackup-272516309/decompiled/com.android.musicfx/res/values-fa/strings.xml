@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="bass_boost_strength">تقویت صدای بم</string>
+    <string name="ci_extreme">تقویت‌کننده FX</string>
+    <string name="classical">قدیمی</string>
+    <string name="dance">رقص</string>
+    <string name="eq_dialog_title">میزان‌گر</string>
+    <string name="flat">یک‌نواخت</string>
+    <string name="folk">محلی</string>
+    <string name="headset_plug">برای این جلوه‌ها هدفون را وصل کنید.</string>
+    <string name="heavy_metal">هوی متال</string>
+    <string name="hip_hop">هیپ هاپ</string>
+    <string name="jazz">جاز</string>
+    <string name="no_effects">جلوه‌ها دردسترس نیستند.</string>
+    <string name="normal">عادی</string>
+    <string name="picker_title">مرکز کنترل جلوه‌های موسیقی</string>
+    <string name="pop">پاپ</string>
+    <string name="rock">راک</string>
+    <string name="setup">راه‌اندازی</string>
+    <string name="user">کاربر</string>
+    <string name="virtualizer_strength">صدای فراگیر</string>
+</resources>

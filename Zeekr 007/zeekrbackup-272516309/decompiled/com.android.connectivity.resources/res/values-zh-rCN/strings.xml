@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">系统网络连接资源</string>
+    <string name="mobile_no_internet">此移动网络无法访问互联网</string>
+    <string name="network_available_sign_in">登录到网络</string>
+    <string name="network_partial_connectivity">%1$s 的连接受限</string>
+    <string name="network_partial_connectivity_detailed">点按即可继续连接</string>
+    <string name="network_switch_metered">已切换至%1$s</string>
+    <string name="network_switch_metered_detail">设备会在%2$s无法访问互联网时使用%1$s（可能需要支付相应的费用）。</string>
+    <string name="network_switch_metered_toast">已从%1$s切换至%2$s</string>
+    <string name="network_switch_type_name_unknown">未知网络类型</string>
+    <string name="other_networks_no_internet">此网络无法访问互联网</string>
+    <string name="private_dns_broken_detailed">无法访问私人 DNS 服务器</string>
+    <string name="wifi_available_sign_in">登录到WLAN网络</string>
+    <string name="wifi_no_internet">%1$s 无法访问互联网</string>
+    <string name="wifi_no_internet_detailed">点按即可查看相关选项</string>
+</resources>

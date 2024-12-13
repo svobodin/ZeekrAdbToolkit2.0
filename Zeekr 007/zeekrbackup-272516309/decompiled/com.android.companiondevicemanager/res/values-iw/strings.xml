@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ניהול מכשיר מותאם</string>
+    <string name="chooser_title">‏בחירת %1$s לניהול באמצעות &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">‏אישור לאפליקציה &lt;strong>%1$s&lt;/strong> לנהל את &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_no">אין אישור</string>
+    <string name="consent_yes">יש אישור</string>
+    <string name="profile_name_generic">מכשיר</string>
+    <string name="profile_name_watch">שעון</string>
+    <string name="profile_summary">האפליקציה הזו נחוצה כדי לנהל את ה%1$s. %2$s</string>
+</resources>
