@@ -13,6 +13,10 @@ for apk_file in *.apk; do
         # Удаляем всё, кроме папки res
         decompiled_folder="$OUTPUT_FOLDER/$(basename "$apk_file" .apk)"
         find "$decompiled_folder" -mindepth 1 -maxdepth 1 ! -name 'res' -exec rm -rf {} +
+
+        # Удаляем всё внутри папки res, кроме папок, содержащих название value
+        res_folder="$decompiled_folder/res"
+        find "$res_folder" -mindepth 1 -maxdepth 1 ! -name '*value*' -exec rm -rf {} +
     fi
 done
 
